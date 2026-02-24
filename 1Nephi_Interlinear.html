@@ -204,6 +204,13 @@ body {
   margin-top: 1px;
   opacity: 0.85;
 }
+.arr {
+  color: #555;
+  font-size: 1.3em;
+  font-style: normal;
+  font-weight: bold;
+  vertical-align: middle;
+}
 
 .word-unit.sof .hw::after {
   content: ' ׃';
@@ -268,6 +275,7 @@ body {
 
 /* Hide glosses mode */
 body.hide-gloss .gl { display: none; }
+body.hide-gloss .arr { display: none; }
 body.hide-gloss .word-unit { padding-bottom: 3px; }
 
 /* English-only mode */
@@ -15057,20 +15065,27 @@ const ch22Verses = [
 // RENDERER
 // ============================================================
 
-function makeWordUnit(h, e, isSof) {
+function makeWordUnit(h, e, isSof, isLastWord) {
   if (h === '\u05C3') return '';
   const div = document.createElement('div');
   div.className = 'word-unit' + (isSof ? ' sof' : '');
-  div.innerHTML = `<span class="hw">${h}</span><span class="gl">${e}</span>`;
+  const arr = isLastWord ? '\u00ab' : '\u2039';
+  div.innerHTML = `<span class="hw">${h}</span><span class="gl"><span class="arr">${arr}</span> ${e}</span>`;
   return div;
 }
 
 function renderWords(words, container) {
+  // Filter out sof markers to find actual last word
+  const realWords = words.filter(([h]) => h !== '\u05C3');
+  const lastRealIdx = realWords.length - 1;
+  let realCount = 0;
   words.forEach(([h, e], i) => {
     if (h === '\u05C3') return;
     const isSof = (i + 1 < words.length && words[i+1][0] === '\u05C3');
-    const el = makeWordUnit(h, e, isSof);
+    const isLastWord = (realCount === lastRealIdx);
+    const el = makeWordUnit(h, e, isSof, isLastWord);
     if (el) container.appendChild(el);
+    realCount++;
   });
 }
 
