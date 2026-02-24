@@ -94,6 +94,40 @@ body {
   letter-spacing: 0.06em;
 }
 
+.title-interlinear {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  direction: rtl;
+  gap: 6px 16px;
+  padding: 20px 0 10px;
+  border-bottom: 2px solid var(--rule);
+  margin-bottom: 18px;
+  margin-top: 28px;
+}
+.title-interlinear .tw {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.title-interlinear .tw .th {
+  font-family: 'David Libre', serif;
+  font-size: 1.9em;
+  font-weight: 700;
+  color: #111;
+  direction: rtl;
+}
+.title-interlinear .tw .tg {
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.8em;
+  font-style: italic;
+  color: var(--gloss);
+  direction: ltr;
+  opacity: 0.85;
+  margin-top: 2px;
+}
+
 /* Nav links */
 .chapter-nav {
   display: flex;
@@ -553,31 +587,58 @@ body.english-only .word-unit { padding: 2px 1px 4px; }
 
       <div style="direction:rtl">
 
-        <div class="chapter-heading"><h2>מבוא המתרגם</h2></div>
+        <div class="title-interlinear">
+          <div class="tw"><span class="th">מבוא</span><span class="tg">Introduction-of</span></div>
+          <div class="tw"><span class="th">המתרגם</span><span class="tg">the-Translator</span></div>
+        </div>
         <div id="front-intro-verses"></div>
 
-        <div class="chapter-heading" style="margin-top:28px"><h2>ספר מורמון</h2></div>
+        <div class="title-interlinear">
+          <div class="tw"><span class="th">ספר</span><span class="tg">Book-of</span></div>
+          <div class="tw"><span class="th">מורמון</span><span class="tg">Mormon</span></div>
+        </div>
         <div id="front-title-verses"></div>
 
-        <div class="chapter-heading" style="margin-top:28px"><h2>מבוא</h2></div>
+        <div class="title-interlinear">
+          <div class="tw"><span class="th">מבוא</span><span class="tg">Introduction</span></div>
+        </div>
         <div id="front-introduction-verses"></div>
 
-        <div class="chapter-heading" style="margin-top:28px"><h2>עדות שלשת העדים</h2></div>
+        <div class="title-interlinear">
+          <div class="tw"><span class="th">עדות</span><span class="tg">Testimony-of</span></div>
+          <div class="tw"><span class="th">שלשת</span><span class="tg">Three-of</span></div>
+          <div class="tw"><span class="th">העדים</span><span class="tg">the-Witnesses</span></div>
+        </div>
         <div id="front-three-wit-verses"></div>
         <p style="font-size:1em;line-height:2;color:#444;text-align:center;margin-top:16px;font-family:'David Libre','SBL Hebrew','Noto Serif Hebrew',serif">
 אוֹלִיבֶר קַאוּדֶרִי<br>דָּוִד וִיטְמֶר<br>מַרְטִין הַרִיס
         </p>
 
-        <div class="chapter-heading" style="margin-top:28px"><h2>עדות שמונה עדים</h2></div>
+        <div class="title-interlinear">
+          <div class="tw"><span class="th">עדות</span><span class="tg">Testimony-of</span></div>
+          <div class="tw"><span class="th">שמונה</span><span class="tg">Eight</span></div>
+          <div class="tw"><span class="th">עדים</span><span class="tg">Witnesses</span></div>
+        </div>
         <div id="front-eight-wit-verses"></div>
         <p style="font-size:1em;line-height:2;color:#444;text-align:center;margin-top:16px;font-family:'David Libre','SBL Hebrew','Noto Serif Hebrew',serif">
 כְּרִיסְטְיָן וִיטְמֶר<br>יַעֲקֹב וִיטְמֶר<br>פֶּטְרוּס וִיטְמֶר הַצָּעִיר<br>יוֹחָנָן וִיטְמֶר<br>חִירָם פֵּיג׳<br>יוֹסֵף סְמִית הַזָּקֵן<br>חִירָם סְמִית<br>שְׁמוּאֵל ה׳ סְמִית
         </p>
 
-        <div class="chapter-heading" style="margin-top:28px"><h2>עדות הנביא יוסף סמית</h2></div>
+        <div class="title-interlinear">
+          <div class="tw"><span class="th">עדות</span><span class="tg">Testimony-of</span></div>
+          <div class="tw"><span class="th">הנביא</span><span class="tg">the-Prophet</span></div>
+          <div class="tw"><span class="th">יוסף</span><span class="tg">Joseph</span></div>
+          <div class="tw"><span class="th">סמית</span><span class="tg">Smith</span></div>
+        </div>
         <div id="front-jst-verses"></div>
 
-        <div class="chapter-heading" style="margin-top:28px"><h2>ביאור קצר על־ספר מורמון</h2></div>
+        <div class="title-interlinear">
+          <div class="tw"><span class="th">ביאור</span><span class="tg">Explanation</span></div>
+          <div class="tw"><span class="th">קצר</span><span class="tg">Brief</span></div>
+          <div class="tw"><span class="th">על</span><span class="tg">concerning</span></div>
+          <div class="tw"><span class="th">ספר</span><span class="tg">the-Book-of</span></div>
+          <div class="tw"><span class="th">מורמון</span><span class="tg">Mormon</span></div>
+        </div>
         <div id="front-brief-verses"></div>
 
       </div>
