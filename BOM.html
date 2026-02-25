@@ -36,7 +36,7 @@ body {
 .page {
   max-width: 100%;
   margin: 0 auto;
-  padding: 40px 50px 80px;
+  padding: 40px 50px 100px;
   background: #faf8f2;
   min-height: 100vh;
   box-shadow: none;
@@ -558,6 +558,79 @@ body.english-only .word-unit { padding: 2px 1px 4px; }
   border-top: 2px solid var(--rule);
   margin-top: 40px;
   padding-top: 8px;
+}
+
+
+/* FLOATING BOTTOM BAR */
+.bottom-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 52px;
+  background: var(--header-bg);
+  border-top: 1px solid rgba(212,175,55,0.15);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  z-index: 1000;
+}
+
+.bb-nav {
+  background: none;
+  border: 1px solid rgba(212,175,55,0.25);
+  color: var(--accent);
+  padding: 6px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: 'David Libre', serif;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  white-space: nowrap;
+  max-width: 40%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bb-nav:hover {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+}
+
+.bb-nav:disabled {
+  opacity: 0.25;
+  cursor: default;
+}
+
+.bb-nav:disabled:hover {
+  background: none;
+  color: var(--accent);
+  border-color: rgba(212,175,55,0.25);
+}
+
+.bb-center {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.btn-icon {
+  background: none;
+  border: 1px solid rgba(212,175,55,0.25);
+  color: var(--accent);
+  padding: 4px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+
+.btn-icon:hover {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
 }
 </style>
 </head>
@@ -8718,6 +8791,8 @@ function toggleBook(bookId) {
 }
 
 function navTo(id) {
+    currentNavId = id;
+
   const isFront = id.startsWith('front-');
   const isIntro = id === 'intro';
   const is2N = id.startsWith('2n-');
@@ -8824,6 +8899,7 @@ function navTo(id) {
   } else {
     window.scrollTo({top: 0, behavior: 'instant'});
   }
+    updateBottomBar();
 }
 
 // ============================================================
@@ -40586,7 +40662,127 @@ const fn_ch1Verses = [
 ];
 renderVerseSet(fn_ch1Verses, '4n-ch1-verses');
 
+
+// ============================================================
+// BOTTOM BAR NAVIGATION
+// ============================================================
+
+var NAV_ORDER = [
+  "intro",
+  "front-translator","front-titlepage","front-introduction","front-three","front-eight","front-js","front-brief",
+  "ch1","ch2","ch3","ch4","ch5","ch6","ch7","ch8","ch9","ch10","ch11","ch12","ch13","ch14","ch15","ch16","ch17","ch18","ch19","ch20","ch21","ch22",
+  "2n-ch1","2n-ch2","2n-ch3","2n-ch4","2n-ch5","2n-ch6","2n-ch7","2n-ch8","2n-ch9","2n-ch10","2n-ch11","2n-ch12","2n-ch13","2n-ch14","2n-ch15","2n-ch16","2n-ch17","2n-ch18","2n-ch19","2n-ch20","2n-ch21","2n-ch22","2n-ch23","2n-ch24","2n-ch25","2n-ch26","2n-ch27","2n-ch28","2n-ch29","2n-ch30","2n-ch31","2n-ch32","2n-ch33",
+  "jc-ch1","jc-ch2","jc-ch3","jc-ch4","jc-ch5","jc-ch6","jc-ch7",
+  "en-ch1","jr-ch1","om-ch1","wm-ch1",
+  "mo-ch1","mo-ch2","mo-ch3","mo-ch4","mo-ch5","mo-ch6","mo-ch7","mo-ch8","mo-ch9","mo-ch10","mo-ch11","mo-ch12","mo-ch13","mo-ch14","mo-ch15","mo-ch16","mo-ch17","mo-ch18","mo-ch19","mo-ch20","mo-ch21","mo-ch22","mo-ch23","mo-ch24","mo-ch25","mo-ch26","mo-ch27","mo-ch28","mo-ch29",
+  "al-ch1","al-ch2","al-ch3","al-ch4","al-ch5","al-ch6","al-ch7","al-ch8","al-ch9","al-ch10","al-ch11","al-ch12","al-ch13","al-ch14","al-ch15","al-ch16","al-ch17","al-ch18","al-ch19","al-ch20","al-ch21","al-ch22","al-ch23","al-ch24","al-ch25","al-ch26","al-ch27","al-ch28","al-ch29","al-ch30","al-ch31","al-ch32","al-ch33","al-ch34","al-ch35","al-ch36","al-ch37","al-ch38","al-ch39","al-ch40","al-ch41","al-ch42","al-ch43","al-ch44","al-ch45","al-ch46","al-ch47","al-ch48","al-ch49","al-ch50","al-ch51","al-ch52","al-ch53","al-ch54","al-ch55","al-ch56","al-ch57","al-ch58","al-ch59","al-ch60","al-ch61","al-ch62","al-ch63",
+  "he-ch1","he-ch2","he-ch3","he-ch4","he-ch5","he-ch6","he-ch7","he-ch8","he-ch9","he-ch10","he-ch11","he-ch12","he-ch13","he-ch14","he-ch15","he-ch16",
+  "3n-ch1","3n-ch2","3n-ch3","3n-ch4","3n-ch5","3n-ch6","3n-ch7","3n-ch8","3n-ch9","3n-ch10","3n-ch11","3n-ch12","3n-ch13","3n-ch14","3n-ch15","3n-ch16","3n-ch17","3n-ch18","3n-ch19","3n-ch20","3n-ch21","3n-ch22","3n-ch23","3n-ch24","3n-ch25","3n-ch26","3n-ch27","3n-ch28","3n-ch29","3n-ch30",
+  "4n-ch1",
+  "mm-ch1","mm-ch2","mm-ch3","mm-ch4","mm-ch5","mm-ch6","mm-ch7","mm-ch8","mm-ch9",
+  "et-ch1","et-ch2","et-ch3","et-ch4","et-ch5","et-ch6","et-ch7","et-ch8","et-ch9","et-ch10","et-ch11","et-ch12","et-ch13","et-ch14","et-ch15",
+  "mr-ch1","mr-ch2","mr-ch3","mr-ch4","mr-ch5","mr-ch6","mr-ch7","mr-ch8","mr-ch9","mr-ch10"
+];
+
+var currentNavId = "intro";
+
+function navLabel(id) {
+  var frontLabels = {
+    "intro": "מבוא אנגלי",
+    "front-translator": "מבוא המתרגם",
+    "front-titlepage": "ספר מורמון",
+    "front-introduction": "מבוא",
+    "front-three": "שלשת עדים",
+    "front-eight": "שמונה עדים",
+    "front-js": "עדות יוסף",
+    "front-brief": "ביאור קצר"
+  };
+  if (frontLabels[id]) return frontLabels[id];
+
+  var bookNames = {
+    "": "נפי א׳",
+    "2n-": "נפי ב׳",
+    "jc-": "יעקב",
+    "en-": "אנוש",
+    "jr-": "ירום",
+    "om-": "עמני",
+    "wm-": "דברי מורמון",
+    "mo-": "מושיה",
+    "al-": "אלמא",
+    "he-": "הילמן",
+    "3n-": "נפי ג׳",
+    "4n-": "נפי ד׳",
+    "mm-": "מורמון",
+    "et-": "עמר",
+    "mr-": "מורוני"
+  };
+
+  var m = id.match(/^([a-z0-9]*-?)ch(\d+)$/);
+  if (m) {
+    var prefix = m[1];
+    var chNum = m[2];
+    var bk = bookNames[prefix] || prefix;
+    return bk + " פרק " + chNum;
+  }
+  return id;
+}
+
+function updateBottomBar() {
+  var prev = document.getElementById("bbPrev");
+  var next = document.getElementById("bbNext");
+  if (!prev || !next) return;
+
+  var idx = NAV_ORDER.indexOf(currentNavId);
+  if (idx === -1) idx = 0;
+
+  if (idx > 0) {
+    prev.disabled = false;
+    prev.innerHTML = "\u2192 " + navLabel(NAV_ORDER[idx - 1]);
+    prev.onclick = function() { navTo(NAV_ORDER[idx - 1]); };
+  } else {
+    prev.disabled = true;
+    prev.innerHTML = "\u2192";
+    prev.onclick = null;
+  }
+
+  if (idx < NAV_ORDER.length - 1) {
+    next.disabled = false;
+    next.innerHTML = navLabel(NAV_ORDER[idx + 1]) + " \u2190";
+    next.onclick = function() { navTo(NAV_ORDER[idx + 1]); };
+  } else {
+    next.disabled = true;
+    next.innerHTML = "\u2190";
+    next.onclick = null;
+  }
+}
+
+document.getElementById("bbFontUp").onclick = function() {
+  var slider = document.getElementById("sizeSlider");
+  var val = Math.min(150, parseInt(slider.value) + 10);
+  slider.value = val;
+  setSize(val);
+};
+document.getElementById("bbFontDown").onclick = function() {
+  var slider = document.getElementById("sizeSlider");
+  var val = Math.max(70, parseInt(slider.value) - 10);
+  slider.value = val;
+  setSize(val);
+};
+
+updateBottomBar();
+
 </script>
+
+
+<!-- Bottom Navigation Bar -->
+<div class="bottom-bar">
+  <button class="bb-nav" id="bbPrev">&#8594;</button>
+  <div class="bb-center">
+    <button class="btn-icon" id="bbFontDown">א-</button>
+    <button class="btn-icon" id="bbFontUp">א+</button>
+  </div>
+  <button class="bb-nav" id="bbNext">&#8592;</button>
+</div>
 
 </body>
 </html>
