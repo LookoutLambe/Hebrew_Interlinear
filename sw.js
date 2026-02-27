@@ -1,4 +1,4 @@
-var CACHE_NAME = 'hebrew-bom-v1';
+var CACHE_NAME = 'hebrew-bom-v2';
 
 // Use relative paths resolved from service worker scope
 var BASE = self.registration.scope;
