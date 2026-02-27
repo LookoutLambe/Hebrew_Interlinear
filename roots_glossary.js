@@ -13,7 +13,12 @@ window._rootGlossaryData = {
   },
   "דבר": {
     "meaning": "to speak; word, matter, thing",
-    "category": "Speech"
+    "category": "Speech",
+    "biblicalRefs": [
+      {"ref": "Isa 55:11", "note": "My word (\u05d3\u05b0\u05d1\u05b8\u05e8\u05b4\u05d9) shall not return to me empty"},
+      {"ref": "Ps 33:6", "note": "By the word (\u05d3\u05b0\u05d1\u05b7\u05e8) of the LORD the heavens were made"},
+      {"ref": "Deut 8:3", "note": "Man lives by every word (\u05de\u05d5\u05b9\u05e6\u05b8\u05d0) from the mouth of the LORD"}
+    ]
   },
   "את": {
     "meaning": "direct object marker; with",
@@ -160,8 +165,15 @@ window._rootGlossaryData = {
     "category": "Person"
   },
   "אמן": {
-    "meaning": "to believe, trust; faith, amen",
-    "category": "Theology"
+    "meaning": "to believe, trust; faith, faithfulness, amen",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Gen 15:6", "note": "Abram believed (\u05d4\u05b6\u05d0\u05b1\u05de\u05b4\u05df) in the LORD"},
+      {"ref": "Ex 14:31", "note": "They believed (\u05d5\u05b7\u05d9\u05b7\u05bc\u05d0\u05b2\u05de\u05b4\u05d9\u05e0\u05d5\u05bc) in the LORD and in Moses his servant"},
+      {"ref": "Isa 7:9", "note": "If you do not stand firm in faith, you will not stand at all"},
+      {"ref": "Hab 2:4", "note": "The righteous shall live by his faith (\u05d0\u05b1\u05de\u05d5\u05bc\u05e0\u05b8\u05d4)"},
+      {"ref": "Deut 7:9", "note": "The faithful (\u05d4\u05b7\u05e0\u05b6\u05bc\u05d0\u05b1\u05de\u05b8\u05df) God who keeps covenant"}
+    ]
   },
   "נתן": {
     "meaning": "to give, set, appoint",
@@ -220,8 +232,15 @@ window._rootGlossaryData = {
     "category": "Quality"
   },
   "שוב": {
-    "meaning": "to return, repent, turn back",
-    "category": "Theology"
+    "meaning": "to return, repent, turn back; repentance",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Isa 55:7", "note": "Let the wicked return (\u05d9\u05b8\u05e9\u05c1\u05b9\u05d1) to the LORD"},
+      {"ref": "Jer 3:12", "note": "Return (\u05e9\u05c1\u05d5\u05bc\u05d1\u05b8\u05d4) faithless Israel"},
+      {"ref": "Mal 3:7", "note": "Return (\u05e9\u05c1\u05d5\u05bc\u05d1\u05d5\u05bc) to me and I will return to you"},
+      {"ref": "Hos 14:2", "note": "Return (\u05e9\u05c1\u05d5\u05bc\u05d1\u05b8\u05d4) O Israel to the LORD your God"},
+      {"ref": "Joel 2:12-13", "note": "Return (\u05e9\u05c1\u05d5\u05bc\u05d1\u05d5\u05bc) to me with all your heart"}
+    ]
   },
   "וא": {
     "meaning": "that",
@@ -244,8 +263,15 @@ window._rootGlossaryData = {
     "category": "Particle"
   },
   "קדש": {
-    "meaning": "holy, sacred; to sanctify",
-    "category": "Theology"
+    "meaning": "holy, sacred; to sanctify, set apart",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Ex 3:5", "note": "The ground on which you stand is holy (\u05e7\u05b9\u05d3\u05b6\u05e9\u05c1)"},
+      {"ref": "Lev 11:44", "note": "Be holy (\u05e7\u05b0\u05d3\u05b9\u05e9\u05c1\u05b4\u05d9\u05dd) for I am holy (\u05e7\u05b8\u05d3\u05d5\u05b9\u05e9\u05c1)"},
+      {"ref": "Isa 6:3", "note": "Holy, holy, holy (\u05e7\u05b8\u05d3\u05d5\u05b9\u05e9\u05c1) is the LORD of hosts"},
+      {"ref": "Ex 19:6", "note": "A kingdom of priests and a holy (\u05e7\u05b8\u05d3\u05d5\u05b9\u05e9\u05c1) nation"},
+      {"ref": "Lev 19:2", "note": "You shall be holy (\u05e7\u05b0\u05d3\u05b9\u05e9\u05c1\u05b4\u05d9\u05dd) for I the LORD your God am holy"}
+    ]
   },
   "לב": {
     "meaning": "heart, mind, inner self",
@@ -268,8 +294,15 @@ window._rootGlossaryData = {
     "category": "Motion"
   },
   "צדק": {
-    "meaning": "righteous, just; righteousness",
-    "category": "Theology"
+    "meaning": "righteous, just; righteousness, justice",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Gen 15:6", "note": "He believed the LORD and He reckoned it as righteousness (\u05e6\u05b0\u05d3\u05b8\u05e7\u05b8\u05d4)"},
+      {"ref": "Isa 32:17", "note": "The work of righteousness (\u05e6\u05b0\u05d3\u05b8\u05e7\u05b8\u05d4) shall be peace"},
+      {"ref": "Ps 85:11-12", "note": "Righteousness (\u05e6\u05b6\u05d3\u05b6\u05e7) and peace have kissed"},
+      {"ref": "Amos 5:24", "note": "Let justice roll down and righteousness (\u05e6\u05b0\u05d3\u05b8\u05e7\u05b8\u05d4) like a stream"},
+      {"ref": "Ps 11:7", "note": "The LORD is righteous (\u05e6\u05b7\u05d3\u05b4\u05bc\u05d9\u05e7), he loves righteousness"}
+    ]
   },
   "רב": {
     "meaning": "much, many, great",
@@ -325,7 +358,13 @@ window._rootGlossaryData = {
   },
   "שפט": {
     "meaning": "to judge; judgment, justice",
-    "category": "Society"
+    "category": "Society",
+    "biblicalRefs": [
+      {"ref": "Gen 18:25", "note": "Shall not the Judge (\u05d4\u05b2\u05e9\u05c1\u05b9\u05e4\u05b5\u05d8) of all the earth do justice?"},
+      {"ref": "Ps 96:13", "note": "He will judge (\u05d9\u05b4\u05e9\u05c1\u05b0\u05e4\u05b9\u05bc\u05d8) the world in righteousness"},
+      {"ref": "Isa 2:4", "note": "He shall judge (\u05d5\u05b0\u05e9\u05c1\u05b8\u05e4\u05b7\u05d8) between the nations"},
+      {"ref": "Mic 6:8", "note": "To do justice (\u05de\u05b4\u05e9\u05c1\u05b0\u05e4\u05b8\u05bc\u05d8) and love mercy"}
+    ]
   },
   "אף": {
     "meaning": "anger, nose; also, even",
@@ -392,8 +431,15 @@ window._rootGlossaryData = {
     "category": "Life"
   },
   "מלך": {
-    "meaning": "king, to reign, kingdom",
-    "category": "Society"
+    "meaning": "king, to reign; kingdom, kingship",
+    "category": "Society",
+    "biblicalRefs": [
+      {"ref": "Ps 93:1", "note": "The LORD reigns (\u05de\u05b8\u05dc\u05b8\u05da\u05b0)"},
+      {"ref": "Isa 33:22", "note": "The LORD is our King (\u05de\u05b7\u05dc\u05b0\u05db\u05b5\u05bc\u05e0\u05d5\u05bc)"},
+      {"ref": "1 Sam 8:7", "note": "They have rejected me from being King over them"},
+      {"ref": "Ps 47:8", "note": "God is King (\u05de\u05b6\u05dc\u05b6\u05da\u05b0) of all the earth"},
+      {"ref": "Dan 7:14", "note": "His kingdom (\u05de\u05b7\u05dc\u05b0\u05db\u05d5\u05bc\u05ea\u05b5\u05d4\u05bc) shall not be destroyed"}
+    ]
   },
   "נו": {
     "meaning": "unto us",
@@ -477,7 +523,15 @@ window._rootGlossaryData = {
   },
   "חסד": {
     "meaning": "lovingkindness, mercy, covenant faithfulness",
-    "category": "Theology"
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Ex 34:6-7", "note": "Abounding in lovingkindness (\u05d7\u05b6\u05e1\u05b6\u05d3) and truth"},
+      {"ref": "Ps 136:1", "note": "His lovingkindness (\u05d7\u05b6\u05e1\u05b6\u05d3) endures forever"},
+      {"ref": "Mic 6:8", "note": "Love kindness (\u05d7\u05b6\u05e1\u05b6\u05d3)"},
+      {"ref": "Isa 54:10", "note": "My lovingkindness (\u05d7\u05b7\u05e1\u05b0\u05d3\u05b4\u05bc\u05d9) shall not depart from you"},
+      {"ref": "Ps 103:4", "note": "Who crowns you with lovingkindness (\u05d7\u05b6\u05e1\u05b6\u05d3) and compassion"},
+      {"ref": "Jer 31:3", "note": "With everlasting lovingkindness (\u05d7\u05b6\u05e1\u05b6\u05d3) I have drawn you"}
+    ]
   },
   "תורה": {
     "meaning": "law, instruction, teaching",
@@ -568,8 +622,13 @@ window._rootGlossaryData = {
     "category": "Person"
   },
   "צוה": {
-    "meaning": "commanded",
-    "category": "Speech"
+    "meaning": "to command; commandment, precept",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Deut 6:1", "note": "The commandments (\u05d4\u05b7\u05de\u05b4\u05bc\u05e6\u05b0\u05d5\u05b8\u05d4) the LORD your God commanded"},
+      {"ref": "Ps 119:96", "note": "Your commandment (\u05de\u05b4\u05e6\u05b0\u05d5\u05b8\u05ea\u05b0\u05da\u05b8) is exceedingly broad"},
+      {"ref": "Ex 20:1-17", "note": "The Ten Commandments"}
+    ]
   },
   "מר": {
     "meaning": "keep",
@@ -764,8 +823,16 @@ window._rootGlossaryData = {
     "category": "Speech"
   },
   "ישע": {
-    "meaning": "to save, deliver; salvation",
-    "category": "Theology"
+    "meaning": "to save, deliver; salvation, Jesus",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Isa 12:2", "note": "God is my salvation (\u05d9\u05b0\u05e9\u05c1\u05d5\u05bc\u05e2\u05b8\u05d4)"},
+      {"ref": "Ex 14:13", "note": "Stand still and see the salvation (\u05d9\u05b0\u05e9\u05c1\u05d5\u05bc\u05e2\u05b7\u05ea) of the LORD"},
+      {"ref": "Isa 45:17", "note": "Israel shall be saved (\u05e0\u05d5\u05b9\u05e9\u05b7\u05c1\u05e2) by the LORD with an everlasting salvation"},
+      {"ref": "Ps 3:9", "note": "Salvation (\u05d4\u05b7\u05d9\u05b0\u05e9\u05c1\u05d5\u05bc\u05e2\u05b8\u05d4) belongs to the LORD"},
+      {"ref": "Hab 3:18", "note": "I will rejoice in the God of my salvation (\u05d9\u05b4\u05e9\u05c1\u05b0\u05e2\u05b4\u05d9)"},
+      {"ref": "Isa 49:6", "note": "I will make you a light to the nations, that my salvation (\u05d9\u05b0\u05e9\u05c1\u05d5\u05bc\u05e2\u05b8\u05ea\u05b4\u05d9) may reach to the end of the earth"}
+    ]
   },
   "דברתי": {
     "meaning": "I have spoken",
@@ -776,8 +843,14 @@ window._rootGlossaryData = {
     "category": "Society"
   },
   "חטא": {
-    "meaning": "to sin, miss the mark; sin",
-    "category": "Theology"
+    "meaning": "to sin, miss the mark; sin, sin-offering",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Gen 4:7", "note": "Sin (\u05d7\u05b7\u05d8\u05b8\u05bc\u05d0\u05ea) is crouching at the door"},
+      {"ref": "Ps 51:4", "note": "Wash me from my iniquity and cleanse me from my sin (\u05d7\u05b7\u05d8\u05b8\u05bc\u05d0\u05ea\u05b4\u05d9)"},
+      {"ref": "Isa 1:18", "note": "Though your sins (\u05d7\u05b2\u05d8\u05b8\u05d0\u05b5\u05d9\u05db\u05b6\u05dd) be as scarlet, they shall be white as snow"},
+      {"ref": "Lev 4:3", "note": "The sin-offering (\u05d7\u05b7\u05d8\u05b8\u05bc\u05d0\u05ea) for atonement"}
+    ]
   },
   "חלו": {
     "meaning": "began",
@@ -932,8 +1005,14 @@ window._rootGlossaryData = {
     "category": "Society"
   },
   "נביא": {
-    "meaning": "prophet",
-    "category": "Theology"
+    "meaning": "prophet; to prophesy, prophecy",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Deut 18:15", "note": "The LORD will raise up for you a prophet (\u05e0\u05b8\u05d1\u05b4\u05d9\u05d0) like me"},
+      {"ref": "Deut 18:18", "note": "I will raise up a prophet (\u05e0\u05b8\u05d1\u05b4\u05d9\u05d0) from among their brothers"},
+      {"ref": "Amos 3:7", "note": "He reveals his counsel to his servants the prophets (\u05d4\u05b7\u05e0\u05b0\u05bc\u05d1\u05b4\u05d9\u05d0\u05b4\u05d9\u05dd)"},
+      {"ref": "Num 11:29", "note": "Would that all the LORD's people were prophets (\u05e0\u05b0\u05d1\u05b4\u05d9\u05d0\u05b4\u05d9\u05dd)"}
+    ]
   },
   "יניהם": {
     "meaning": "among them",
@@ -1060,8 +1139,14 @@ window._rootGlossaryData = {
     "category": "Quality"
   },
   "עון": {
-    "meaning": "iniquity, guilt, punishment",
-    "category": "Theology"
+    "meaning": "iniquity, guilt, punishment for sin",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Isa 53:5", "note": "He was crushed for our iniquities (\u05e2\u05b2\u05d5\u05b9\u05e0\u05b9\u05ea\u05b5\u05d9\u05e0\u05d5\u05bc)"},
+      {"ref": "Ps 32:5", "note": "You forgave the iniquity (\u05e2\u05b2\u05d5\u05b9\u05df) of my sin"},
+      {"ref": "Ex 34:7", "note": "Forgiving iniquity (\u05e2\u05b8\u05d5\u05b9\u05df) and transgression and sin"},
+      {"ref": "Num 14:18", "note": "The LORD is slow to anger, forgiving iniquity (\u05e2\u05b8\u05d5\u05b9\u05df)"}
+    ]
   },
   "ראשונה": {
     "meaning": "first",
@@ -1125,7 +1210,15 @@ window._rootGlossaryData = {
   },
   "ברית": {
     "meaning": "covenant, treaty, agreement",
-    "category": "Theology"
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Gen 9:9", "note": "I establish my covenant (\u05d1\u05b0\u05bc\u05e8\u05b4\u05d9\u05ea\u05b4\u05d9) with you"},
+      {"ref": "Gen 15:18", "note": "The LORD made a covenant (\u05d1\u05b0\u05bc\u05e8\u05b4\u05d9\u05ea) with Abram"},
+      {"ref": "Gen 17:7", "note": "An everlasting covenant (\u05d1\u05b0\u05bc\u05e8\u05b4\u05d9\u05ea \u05e2\u05d5\u05b9\u05dc\u05b8\u05dd)"},
+      {"ref": "Ex 19:5", "note": "If you keep my covenant (\u05d1\u05b0\u05bc\u05e8\u05b4\u05d9\u05ea\u05b4\u05d9)"},
+      {"ref": "Jer 31:31", "note": "I will make a new covenant (\u05d1\u05b0\u05bc\u05e8\u05b4\u05d9\u05ea \u05d7\u05b2\u05d3\u05b8\u05e9\u05c1\u05b8\u05d4)"},
+      {"ref": "Deut 7:9", "note": "The faithful God who keeps covenant (\u05d4\u05b7\u05d1\u05b0\u05bc\u05e8\u05b4\u05d9\u05ea) and lovingkindness"}
+    ]
   },
   "על־כן": {
     "meaning": "therefore",
@@ -2836,8 +2929,16 @@ window._rootGlossaryData = {
     "category": "Nature"
   },
   "גאל": {
-    "meaning": "to redeem, deliver",
-    "category": "Theology"
+    "meaning": "to redeem, deliver; kinsman-redeemer",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Isa 44:6", "note": "Thus says the LORD, the King and Redeemer (\u05d2\u05b9\u05bc\u05d0\u05b2\u05dc\u05d5\u05b9) of Israel"},
+      {"ref": "Isa 43:1", "note": "I have redeemed (\u05d2\u05b0\u05d0\u05b7\u05dc\u05b0\u05ea\u05b4\u05bc\u05d9\u05da\u05b8) you, I have called you by name"},
+      {"ref": "Job 19:25", "note": "I know that my Redeemer (\u05d2\u05b9\u05bc\u05d0\u05b2\u05dc\u05b4\u05d9) lives"},
+      {"ref": "Isa 59:20", "note": "A Redeemer (\u05d2\u05d5\u05b9\u05d0\u05b5\u05dc) shall come to Zion"},
+      {"ref": "Ex 6:6", "note": "I will redeem (\u05d2\u05b8\u05bc\u05d0\u05b7\u05dc\u05b0\u05ea\u05b4\u05bc\u05d9) you with an outstretched arm"},
+      {"ref": "Ruth 4:4", "note": "The kinsman-redeemer (\u05d2\u05b9\u05bc\u05d0\u05b5\u05dc) tradition"}
+    ]
   },
   "קראת": {
     "meaning": "meet",
@@ -8948,8 +9049,14 @@ window._rootGlossaryData = {
     "category": "Family"
   },
   "טהר": {
-    "meaning": "purity",
-    "category": "Uncategorized"
+    "meaning": "to be pure, clean; purity, purification",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Ps 51:12", "note": "Create in me a clean (\u05d8\u05b8\u05d4\u05d5\u05b9\u05e8) heart, O God"},
+      {"ref": "Lev 16:30", "note": "You shall be clean (\u05ea\u05b4\u05bc\u05d8\u05b0\u05d4\u05b8\u05e8\u05d5\u05bc) from all your sins"},
+      {"ref": "Ezek 36:25", "note": "I will sprinkle clean water upon you and you shall be clean (\u05d5\u05bc\u05d8\u05b0\u05d4\u05b7\u05e8\u05b0\u05ea\u05b6\u05bc\u05dd)"},
+      {"ref": "Ps 12:7", "note": "The words of the LORD are pure (\u05d8\u05b0\u05d4\u05b9\u05e8\u05d5\u05b9\u05ea)"}
+    ]
   },
   "עשיר": {
     "meaning": "rich",
@@ -12080,8 +12187,15 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "רחם": {
-    "meaning": "he had mercy",
-    "category": "Uncategorized"
+    "meaning": "to have compassion, show mercy; womb, compassion",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Isa 49:15", "note": "Can a mother forget her child? Even these may forget, but I will not forget you"},
+      {"ref": "Ps 103:13", "note": "As a father has compassion (\u05db\u05b0\u05bc\u05e8\u05b7\u05d7\u05b5\u05dd) on his children"},
+      {"ref": "Ex 33:19", "note": "I will show mercy (\u05e8\u05b4\u05d7\u05b7\u05de\u05b0\u05ea\u05b4\u05bc\u05d9) on whom I show mercy"},
+      {"ref": "Isa 54:7-8", "note": "With great compassion (\u05e8\u05b7\u05d7\u05b2\u05de\u05b4\u05d9\u05dd) I will gather you"},
+      {"ref": "Zech 7:9", "note": "Show mercy (\u05e8\u05b7\u05d7\u05b2\u05de\u05b4\u05d9\u05dd) and compassion to one another"}
+    ]
   },
   "פים": {
     "meaning": "sorceries",
@@ -16688,8 +16802,15 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "כפר": {
-    "meaning": "to atone, cover, forgive",
-    "category": "Theology"
+    "meaning": "to atone, cover, forgive; atonement",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Lev 16:30", "note": "On this day atonement (\u05d9\u05b0\u05db\u05b7\u05e4\u05b5\u05bc\u05e8) shall be made for you"},
+      {"ref": "Lev 17:11", "note": "The blood makes atonement (\u05dc\u05b0\u05db\u05b7\u05e4\u05b5\u05bc\u05e8) for the soul"},
+      {"ref": "Isa 6:7", "note": "Your iniquity is removed and your sin is atoned for (\u05db\u05bb\u05e4\u05b8\u05bc\u05e8)"},
+      {"ref": "Ex 30:10", "note": "Once a year he shall make atonement upon it"},
+      {"ref": "Dan 9:24", "note": "To atone for (\u05dc\u05b0\u05db\u05b7\u05e4\u05b5\u05bc\u05e8) iniquity and bring everlasting righteousness"}
+    ]
   },
   "תענינה": {
     "meaning": "prayers of His servants",
@@ -19208,8 +19329,16 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "תמם": {
-    "meaning": "their fullness",
-    "category": "Uncategorized"
+    "meaning": "to be complete, whole, blameless; integrity, perfection",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Gen 6:9", "note": "Noah was blameless (\u05ea\u05b8\u05bc\u05de\u05b4\u05d9\u05dd) in his generation"},
+      {"ref": "Gen 17:1", "note": "Walk before me and be blameless (\u05ea\u05b8\u05bc\u05de\u05b4\u05d9\u05dd)"},
+      {"ref": "Deut 18:13", "note": "Be blameless (\u05ea\u05b8\u05bc\u05de\u05b4\u05d9\u05dd) before the LORD your God"},
+      {"ref": "Ps 19:8", "note": "The law of the LORD is perfect (\u05ea\u05b0\u05bc\u05de\u05b4\u05d9\u05de\u05b8\u05d4)"},
+      {"ref": "Ps 101:2", "note": "I will walk in integrity of heart (\u05d1\u05b0\u05bc\u05ea\u05b9\u05dd \u05dc\u05b0\u05d1\u05b8\u05d1\u05b4\u05d9)"},
+      {"ref": "2 Sam 22:26", "note": "With the blameless you show yourself blameless"}
+    ]
   },
   "דקה": {
     "meaning": "small",
@@ -23008,8 +23137,15 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "שלם": {
-    "meaning": "Shelem",
-    "category": "Uncategorized"
+    "meaning": "to be complete, whole, at peace; peace, wholeness",
+    "category": "Theology",
+    "biblicalRefs": [
+      {"ref": "Isa 9:5", "note": "Prince of Peace (\u05e9\u05b7\u05c2\u05e8 \u05e9\u05b8\u05c1\u05dc\u05d5\u05b9\u05dd)"},
+      {"ref": "1 Kings 8:61", "note": "Let your heart be wholly (\u05e9\u05b8\u05c1\u05dc\u05b5\u05dd) devoted to the LORD"},
+      {"ref": "Ps 29:11", "note": "The LORD blesses his people with peace (\u05e9\u05b8\u05c1\u05dc\u05d5\u05b9\u05dd)"},
+      {"ref": "Ps 37:37", "note": "Mark the blameless, observe the upright — there is a future for the man of peace (\u05e9\u05b8\u05c1\u05dc\u05d5\u05b9\u05dd)"},
+      {"ref": "Num 6:26", "note": "The LORD lift up His face and give you peace (\u05e9\u05b8\u05c1\u05dc\u05d5\u05b9\u05dd)"}
+    ]
   },
   "אברהם׃": {
     "meaning": "Abraham",
