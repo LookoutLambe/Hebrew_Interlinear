@@ -432,7 +432,7 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "ישוע": {
-    "meaning": "Yeshua",
+    "meaning": "Jesus",
     "category": "Uncategorized"
   },
   "שמע": {
@@ -7476,7 +7476,7 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "ישוע׃": {
-    "meaning": "Yeshua",
+    "meaning": "Jesus",
     "category": "Uncategorized"
   },
   "אשתו": {
@@ -9416,7 +9416,7 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "את־ישוע": {
-    "meaning": "[ACC] Yeshua",
+    "meaning": "[ACC] Jesus",
     "category": "Uncategorized"
   },
   "יאר": {
@@ -21180,7 +21180,7 @@ window._rootGlossaryData = {
     "category": "Cognition"
   },
   "על־ישוע": {
-    "meaning": "of Yeshua",
+    "meaning": "of Jesus",
     "category": "Uncategorized"
   },
   "ל־קצוי": {
@@ -26864,7 +26864,7 @@ window._rootGlossaryData = {
     "category": "Nature"
   },
   "אל־ישוע": {
-    "meaning": "Yeshua",
+    "meaning": "Jesus",
     "category": "Uncategorized"
   },
   "יאמר׃": {

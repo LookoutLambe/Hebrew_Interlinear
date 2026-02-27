@@ -1,0 +1,158 @@
+{
+  "חסד": {
+    "meaning": "lovingkindness, mercy, covenant-love, grace",
+    "category": "Theology"
+  },
+  "גאל": {
+    "meaning": "to redeem; redeemer, redemption",
+    "category": "Theology"
+  },
+  "ישע": {
+    "meaning": "to save; salvation, deliverance",
+    "category": "Theology"
+  },
+  "תמם": {
+    "meaning": "perfect, complete, whole, blameless",
+    "category": "Theology"
+  },
+  "שׁלם": {
+    "meaning": "peace, wholeness, completeness, perfection",
+    "category": "Theology"
+  },
+  "קדשׁ": {
+    "meaning": "holy, set apart, sanctified",
+    "category": "Theology"
+  },
+  "ברית": {
+    "meaning": "covenant, pact, agreement",
+    "category": "Theology"
+  },
+  "כפר": {
+    "meaning": "to atone, cover, make atonement",
+    "category": "Theology"
+  },
+  "צדק": {
+    "meaning": "righteous, just; righteousness",
+    "category": "Theology"
+  },
+  "רשׁע": {
+    "meaning": "wicked, evil; wickedness",
+    "category": "Theology"
+  },
+  "חטא": {
+    "meaning": "to sin; sin, transgression",
+    "category": "Theology"
+  },
+  "עון": {
+    "meaning": "iniquity, guilt, punishment",
+    "category": "Theology"
+  },
+  "שׁוב": {
+    "meaning": "to return, turn back; repentance",
+    "category": "Theology"
+  },
+  "אמן": {
+    "meaning": "to believe; faith, faithfulness",
+    "category": "Theology"
+  },
+  "טהר": {
+    "meaning": "clean, pure; to purify",
+    "category": "Theology"
+  },
+  "טמא": {
+    "meaning": "unclean, impure; to defile",
+    "category": "Theology"
+  },
+  "אלהים": {
+    "meaning": "God, gods, divine beings",
+    "category": "Theology"
+  },
+  "יהוה": {
+    "meaning": "the LORD (YHWH)",
+    "category": "Theology"
+  },
+  "אדן": {
+    "meaning": "lord, master, sovereign",
+    "category": "Theology"
+  },
+  "משׁח": {
+    "meaning": "to anoint; anointed one, Messiah",
+    "category": "Theology"
+  },
+  "רוח": {
+    "meaning": "spirit, wind, breath",
+    "category": "Theology"
+  },
+  "נפשׁ": {
+    "meaning": "soul, life, self, being",
+    "category": "Body"
+  },
+  "לב": {
+    "meaning": "heart, mind, inner being",
+    "category": "Body"
+  },
+  "מלך": {
+    "meaning": "king; to reign; kingdom",
+    "category": "Society"
+  },
+  "שׁפט": {
+    "meaning": "to judge; judgment, justice",
+    "category": "Society"
+  },
+  "כהן": {
+    "meaning": "priest; priesthood",
+    "category": "Society"
+  },
+  "נביא": {
+    "meaning": "prophet; to prophesy",
+    "category": "Society"
+  },
+  "צוה": {
+    "meaning": "to command; commandment",
+    "category": "Law"
+  },
+  "לחם": {
+    "meaning": "to fight; war, battle",
+    "category": "Action"
+  },
+  "שׁמר": {
+    "meaning": "to keep, guard, observe",
+    "category": "Action"
+  },
+  "אמר": {
+    "meaning": "to say, speak, declare",
+    "category": "Speech"
+  },
+  "דבר": {
+    "meaning": "to speak; word, matter, thing",
+    "category": "Speech"
+  },
+  "שׁמע": {
+    "meaning": "to hear, listen, obey",
+    "category": "Perception"
+  },
+  "ראה": {
+    "meaning": "to see, behold, perceive",
+    "category": "Perception"
+  },
+  "ידע": {
+    "meaning": "to know; knowledge, understanding",
+    "category": "Cognition"
+  },
+  "ארץ": {
+    "meaning": "land, earth, country",
+    "category": "Nature"
+  },
+  "עם": {
+    "meaning": "people, nation, kinfolk",
+    "category": "Society"
+  },
+  "בן": {
+    "meaning": "son, child, descendant",
+    "category": "Family"
+  },
+  "אב": {
+    "meaning": "father, ancestor, patriarch",
+    "category": "Family"
+  }
+}
