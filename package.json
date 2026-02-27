@@ -3,5 +3,8 @@
     "pdf-lib": "^1.17.1",
     "puppeteer": "^24.37.5",
     "serve": "^14.2.5"
+  },
+  "devDependencies": {
+    "canvas": "^3.2.1"
   }
 }
