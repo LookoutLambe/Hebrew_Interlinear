@@ -1,6 +1,16 @@
-// Fix remaining transliterated glosses in BOM.html
+// Fix remaining transliterated glosses across all data files
 // These are Hebrew words that got transliterated instead of translated
 const fs = require('fs');
+const path = require('path');
+
+const FILES_TO_PROCESS = [
+  'BOM.html',
+  '_chapter_data/al_data.js',
+  '_chapter_data/he_data.js',
+  '_chapter_data/3n_data.js',
+  '_chapter_data/et_data.js',
+];
+
 let bom = fs.readFileSync('BOM.html', 'utf8');
 
 // Strip niqqud for matching
@@ -340,8 +350,28 @@ const fixes = {
   'הַמְּנוּחָה': 'the-rest',
 };
 
-// Also load the existing dictionary for fallback lookups
-const dict = JSON.parse(fs.readFileSync('gloss_dictionary.json', 'utf8'));
+// Load additional glosses from JSON file
+try {
+  const additional = JSON.parse(fs.readFileSync('_build_scripts/additional_glosses.json', 'utf8'));
+  let addCount = 0;
+  for (const [heb, eng] of Object.entries(additional)) {
+    if (!fixes[heb]) {
+      fixes[heb] = eng;
+      addCount++;
+    }
+  }
+  console.log(`Loaded ${addCount} additional glosses from additional_glosses.json`);
+} catch(e) {
+  console.log('No additional_glosses.json found, using built-in fixes only');
+}
+
+// Try to load the existing dictionary for fallback lookups (optional)
+let dict = {};
+try {
+  dict = JSON.parse(fs.readFileSync('gloss_dictionary.json', 'utf8'));
+} catch(e) {
+  console.log('No gloss_dictionary.json found, using built-in fixes only');
+}
 
 // Build stripped-niqqud versions
 const strippedFixes = {};
@@ -424,85 +454,58 @@ function cleanTranslit(gloss) {
     .replace(/[\u0590-\u05FF]/g, '');
 }
 
-// Find and fix bad glosses
-const re = /\["([^"]+)","([^"]*)"\]/g;
-let match;
-const replacements = new Map();
-let fixCount = 0;
-let cleanCount = 0;
+// NEW APPROACH: Check ALL word pairs against our dictionary
+// Fix any word where we have a better gloss, regardless of detection heuristics
+function processFile(content, fileName) {
+  const re = /\["([^"]+)","([^"]*)"\]/g;
+  let m;
+  const replacements = new Map();
+  let fixCount = 0;
 
-while ((match = re.exec(bom)) !== null) {
-  const heb = match[1];
-  const gloss = match[2];
-  if (!gloss || gloss === '' || heb === '׃') continue;
+  while ((m = re.exec(content)) !== null) {
+    const heb = m[1];
+    const gloss = m[2];
+    if (!gloss || gloss === '' || heb === '׃') continue;
 
-  // Check if gloss contains Hebrew chars
-  const hasHebrew = /[\u0590-\u05FF]/.test(gloss);
-
-  // Check if gloss contains transliteration segments
-  const segments = gloss.split('-');
-  let hasTranslit = false;
-  for (const seg of segments) {
-    if (seg.length >= 3 && /^[A-Z][a-z]+$/.test(seg)) {
-      const lower = seg.toLowerCase();
-      const vowels = (lower.match(/[aeiou]/g) || []).length;
-      if (lower.length >= 4 && vowels / lower.length < 0.2) hasTranslit = true;
-      if (/[bcdfghjklmnpqrstvwxyz]{4,}/i.test(lower)) hasTranslit = true;
-      if (/^[bcdfghjklmnpqrstvwxyz]{3}/i.test(lower) && lower.length >= 4) hasTranslit = true;
-    }
-  }
-
-  if (!hasHebrew && !hasTranslit) continue;
-
-  // Try to fix: look up the Hebrew word
-  // For maqaf compounds, split and look up each part
-  const parts = heb.split('\u05BE');
-  if (parts.length >= 2) {
-    const glossParts = [];
-    let allFound = true;
-    for (const part of parts) {
-      const found = lookupWord(part);
-      if (found) {
-        glossParts.push(found);
-      } else {
-        allFound = false;
-        glossParts.push(null);
-      }
-    }
-    if (allFound) {
-      const newGloss = glossParts.join('-');
-      replacements.set(match[0], `["${heb}","${newGloss}"]`);
+    // Try single word lookup first
+    let found = lookupWord(heb);
+    if (found && found !== gloss) {
+      replacements.set(m[0], `["${heb}","${found}"]`);
       fixCount++;
       continue;
     }
-  }
 
-  // Try single word lookup
-  const found = lookupWord(heb);
-  if (found) {
-    replacements.set(match[0], `["${heb}","${found}"]`);
-    fixCount++;
-    continue;
-  }
-
-  // Clean up Hebrew chars in transliterations
-  if (hasHebrew) {
-    const cleaned = cleanTranslit(gloss);
-    if (cleaned !== gloss) {
-      replacements.set(match[0], `["${heb}","${cleaned}"]`);
-      cleanCount++;
+    // For maqaf compounds, split and look up each part
+    const parts = heb.split('\u05BE');
+    if (parts.length >= 2) {
+      const glossParts = [];
+      let allFound = true;
+      for (const part of parts) {
+        const f = lookupWord(part);
+        if (f) glossParts.push(f);
+        else { allFound = false; break; }
+      }
+      if (allFound) {
+        const newGloss = glossParts.join('-');
+        if (newGloss !== gloss) {
+          replacements.set(m[0], `["${heb}","${newGloss}"]`);
+          fixCount++;
+        }
+      }
     }
   }
+
+  // Apply replacements
+  for (const [original, replacement] of replacements) {
+    content = content.split(original).join(replacement);
+  }
+
+  console.log(`${fileName}: fixed ${fixCount} glosses (${replacements.size} unique replacements)`);
+  return content;
 }
 
-console.log(`Found ${fixCount} fixable glosses`);
-console.log(`Found ${cleanCount} glosses to clean (Hebrew char removal)`);
-console.log(`Total replacements: ${replacements.size}`);
-
-// Apply replacements
-for (const [original, replacement] of replacements) {
-  bom = bom.split(original).join(replacement);
-}
+// Process BOM.html
+bom = processFile(bom, 'BOM.html');
 
 // Also fix YHWH → the-Lord (should already be done but just in case)
 const yhwhCount = (bom.match(/"YHWH"/g) || []).length;
@@ -511,3 +514,13 @@ console.log(`Replaced ${yhwhCount} remaining YHWH occurrences`);
 
 fs.writeFileSync('BOM.html', bom, 'utf8');
 console.log('Done! BOM.html updated.');
+
+// Now process external data files
+for (const f of FILES_TO_PROCESS) {
+  if (f === 'BOM.html') continue;
+  if (!fs.existsSync(f)) { console.log(`Skipping ${f} (not found)`); continue; }
+  let content = fs.readFileSync(f, 'utf8');
+  content = processFile(content, path.basename(f));
+  fs.writeFileSync(f, content, 'utf8');
+}
+console.log('\nAll files processed!');

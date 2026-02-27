@@ -1,176 +1,175 @@
-// Scan BOM.html for genuinely bad glosses:
-// 1. Glosses containing Hebrew characters (broken encoding)
-// 2. Transliterations that are not real English words or known proper names
 const fs = require('fs');
-const bom = fs.readFileSync('BOM.html', 'utf8');
+const path = require('path');
 
-// Known valid proper names and English words that look like transliterations
-const validWords = new Set([
-  // Proper names from Book of Mormon
-  'Nephi','Moroni','Mormon','Mosiah','Alma','Helaman','Ether','Lehi','Jacob',
-  'Enos','Jarom','Omni','Ammon','Aaron','Coriantumr','Limhi','Zeniff','Noah',
-  'Abinadi','Gideon','Amulek','Zeezrom','Korihor','Pahoran','Teancum',
-  'Lachoneus','Giddianhi','Gidgiddoni','Kishkumen','Gadianton','Amalickiah',
-  'Lamoni','Abish','Jared','Nimrod','Omer','Heth','Shule','Riplakish',
-  'Morianton','Lib','Shiz','Gilgal','Bountiful','Zarahemla','Melek',
-  'Ammonihah','Jershon','Manti','Mulek','Cumorah','Desolation','Abundance',
-  'Jerusalem','Eden','Sidon','Israel','Ishmael','Laman','Lemuel','Sam',
-  'Sariah','Zoram','Hagoth','Shiblon','Corianton','Timothy','Jonas',
-  'Mathoni','Mathonihah','Kumen','Kumenonhi','Jeremiah','Shemnon',
-  'Zedekiah','Isaiah','Christ','Jesus','Mary','Joseph','Moses','Adam',
-  'Eve','Abel','Cain','Enoch','David','Solomon','Elijah','Malachi',
-  'Samuel','Abigail','Sarah','Abraham','Seth','Zion','Egypt','Babylon',
-  'Lehonti','Nephihah','Moronihah','Amulon','Antiionah','Zerah',
-  'Shared','Shez','Com','Gid','Anti','Rameumptom','Liahona','Irreantum',
-  'Deseret','Shelem','Ablom','Akish','Comnor','Corihor','Esrom','Amnor',
-  'Antipus','Chemish','Abinadom','Amaron','Amaleki','Aminadab',
-  'Aminadi','Amnigaddah','Amlici','Amlicites','Amnor','Amnihu',
-  'Antionah','Antionum','Antipas','Antiparah','Antum','Archeantus',
-  'Bethabara','Boaz','Cezoram','Cohor','Coriantor','Coriantumr',
-  'Cumeni','Cumenihah','Emron','Ether','Ethem','Ezias','Gad',
-  'Gazelam','Gibeah','Giddonah','Gidgiddonah','Gimgimno','Gilead',
-  'Gilgah','Hagoth','Hearthom','Hem','Hermounts','Heshlon',
-  'Himni','Horeb','Isabel','Jacobugath','Jacom','Jeneum','Josh',
-  'Judea','Kim','Kimnor','Kish','Kishkumen','Laban','Lamanite',
-  'Lamah','Lamoni','Lehonti','Luram','Madmenah','Mahah',
-  'Middoni','Midian','Minon','Moab','Mocum','Moriantum','Moron',
-  'Muloki','Nahom','Neas','Nehor','Nephi','Neum','Ogath','Onidah',
-  'Onihah','Orihah','Paanchi','Pachus','Pacumeni','Pagag',
-  'Rameumptom','Ramath','Riplah','Riplakish','Ripliancum',
-  'Seantum','Sebus','Shelem','Shem','Shemlon','Sherem',
-  'Sherrizah','Shiblom','Shiblon','Shilom','Shim','Shimnilom',
-  'Shiz','Shurr','Sidom','Sidon','Teomner','Tubaloth',
-  'Zerahemnah','Zemnarihah','Zeezrom','Zenephi','Zenock','Zenos',
-  'Zeram','Zoramite','Zoramites',
-  // Valid English glosses that might look like transliterations
-  'ACC','YHWH','GOD','LORD',
-  'He','Him','His','She','Her','Thee','Thou','Thy',
-  'Spirit','Ghost','Sheol','Smith','Almighty',
-  'Shilom','Shared','Shez','Com','Gid',
-  // Short valid words
-  'Son','God','King','Lord','Man','One','Two',
+const files = [
+  {name: 'al_data.js', path: path.join(__dirname, '..', '_chapter_data', 'al_data.js')},
+  {name: 'he_data.js', path: path.join(__dirname, '..', '_chapter_data', 'he_data.js')},
+  {name: '3n_data.js', path: path.join(__dirname, '..', '_chapter_data', '3n_data.js')},
+  {name: 'et_data.js', path: path.join(__dirname, '..', '_chapter_data', 'et_data.js')}
+];
+
+// Known proper names in BOM that look like transliterations but are valid
+const knownNames = new Set([
+  'Nephi','Lehi','Alma','Mosiah','Moroni','Mormon','Ammon','Helaman',
+  'Zarahemla','Gideon','Nehor','Manti','Amlicite','Amlicites','Limhi',
+  'Sidon','Lamanites','Nephites','Coriantum','Coriantor','Ether','Jared',
+  'Benjamin','Aaron','Laban','Moron','Ethem','Ahah','Seth','Shiblon',
+  'Com','Kim','Kib','Orihah','Shule','Omer','Emer','Levi','Corom',
+  'Kish','Lib','Hearthom','Amnigaddah','Riplakish','Shiz','Heth',
+  'Morianton','Nimrod','Deseret','Cezoram','Mulek','Gid','Gadianton',
+  'Aminadab','Amulek','Zeezrom','Ammonihah','Samuel','Lachoneus',
+  'Zoramites','Bountiful','Jerusalem','Israel','Moses','Yeshua',
+  'Messiah','God','Zion','ACC','LORD','YHWH','Cumorah','Desolation',
+  'Hagoth','Teancum','Kishkumen','Pahoran','Pacumeni','Helaman',
+  'Shiblon','Corianton','Antionah','Giddonah','Zerahemnah',
+  'Lehonti','Amalickiah','Antipas','Moriantum','Morianton',
+  'Nephihah','Pachus','Jacobugath','Gilgal','Onihah','Mocum',
+  'Gimgimno','Gadiomnah','Jacob','Laman','Lemuel','Sam',
+  'Ishmael','Zoram','Joseph','Zeniff','Noah','Abinadi',
+  'Gidianhi','Zemnarihah','Lachoneus','Timothy','Jonas',
+  'Mathoni','Mathonihah','Kumen','Kumenonhi','Jeremiah',
+  'Shemnon','Zedekiah','Isaiah','Christ','Jesus',
+  'Abrahamic','Jacobite','Josephite','Zoramite','Ishmaelite',
+  'Lamanite','Nephite','Mulekite','Anti','Omner','Himni',
+  'Ammonite','Ammonites','Lehite','Lehites','Gadiantonite',
+  'Antionum','Onidah','Melek','Amnihu','Mniho','Middoni',
+  'Lamoni','Abish','Rameumptom',
+  'Hermounts','Minon','Antipus','Judea','Angola','David',
+  'Solomon','Sarah','Eve','Adam','Abel','Cain','Enoch',
+  'Melchizedek','Salem','Abraham','Isaac','Zenephi',
+  'Antipara','Cumeni','Zerahemnah','Amalekite','Amalekites',
+  'Shiblom','Shared','Gilead','Akish','Ripliancum',
+  'Ogath','Ramah','Shurr','Corihor',
+  'Neum','Zenos','Zenock','Ezias',
+  'Liahona','Irreantum','Nahom','Shazer',
+  'Seantum','Seezoram','Tubaloth','Coriantumr',
+  'Ablom','Agosh','Shelem','Aha','Pacumeni',
+  'Moronihah','Comnor','Shim','Sherrizah',
+  'Gaddianton','Kishkumen','Gadianton',
+  'Giddianhi','Zemnarihah'
 ]);
 
-const re = /\["([^"]+)","([^"]*)"\]/g;
-let m;
-const badGlosses = {};
-let total = 0;
+const legitimateEnglish = new Set([
+  'Bountiful','Redeemer','Father','Son','Holy','Spirit','King','Lord',
+  'Eternal','Ancient','Almighty','Creator','Heaven','Earth','Temple',
+  'Gentile','Gentiles','Prophet','Prophets','Sabbath','Passover',
+  'Egyptian','Hebrew','Chaldean','Greek','Roman',
+  'Yod','Aleph','Beth','Gimel','Daleth','Tav',
+  'Adversary','Alpha','Omega'
+]);
 
-while ((m = re.exec(bom)) !== null) {
-  const heb = m[1];
-  const gloss = m[2];
-  if (!gloss || gloss === '' || heb === '׃') continue;
-  total++;
+function isLikelyTransliteration(gloss) {
+  if (!gloss || gloss === '') return false;
+  if (gloss.includes('-') || gloss.includes(' ')) return false;
+  if (knownNames.has(gloss)) return false;
+  if (legitimateEnglish.has(gloss)) return false;
+  if (!/^[A-Za-z]+$/.test(gloss)) return false;
+  if (!/^[A-Z]/.test(gloss)) return false;
 
-  let isBad = false;
-  let reason = '';
+  const lower = gloss.toLowerCase();
 
-  // 1. Contains Hebrew characters — definitely broken
-  if (/[\u0590-\u05FF]/.test(gloss)) {
-    isBad = true;
-    reason = 'hebrew-in-gloss';
+  // 3+ consonants in a row (after removing common English clusters)
+  if (/[bcdfghjklmnpqrstvwxyz]{3,}/i.test(lower)) {
+    const cleaned = lower.replace(/(str|ght|nch|tch|sch|chr|shr|thr|spl|spr|scr|nds|nts|sts|rth|lth|nth|ngth|ngs|ckn)/g, '');
+    if (/[bcdfghjklmnpqrstvwxyz]{3,}/i.test(cleaned)) return true;
   }
 
-  // 2. Check for transliteration patterns (not real English)
-  if (!isBad) {
-    // Extract individual parts from hyphenated glosses
-    const parts = gloss.split('-');
-    for (const part of parts) {
-      if (!part || part.length < 2) continue;
-      // Skip known prefixes/words
-      if (['and','the','in','to','from','upon','with','for','of','or','not','that',
-           'which','who','all','this','ACC','unto','lest','do','if','also','what',
-           'until','above','like','as','shall','be','let','by','son','sons',
-           'hand','every','over','without','being','about','how','you','we',
-           'they','he','she','it','my','your','his','her','our','their',
-           'us','them','me','him','I','a','an','no','was','were','is',
-           'has','had','have','did','does','may','can','will','would',
-           'should','must','might','O','yea','nay','lo','now','again',
-           'against','among','before','after','between','behind','within',
-           'around','through','across','beyond','under','beneath','near',
-           'each','man','men','own','way','day','days','year','years',
-           'much','many','more','most','great','good','evil','old','new',
-           'first','last','other','same','another','one','two','three',
-           'four','five','six','seven','eight','nine','ten','twenty',
-           'thirty','forty','fifty','sixty','seventy','eighty','ninety',
-           'hundred','thousand','people','land','city','king','lord',
-           'god','word','words','house','name','son','daughter','father',
-           'mother','brother','sister','wife','children','seed',
-           'earth','heaven','heavens','water','waters','sea','fire',
-           'blood','flesh','bone','heart','soul','spirit','body',
-           'sword','war','battle','army','armies','camp','prison',
-           'church','priest','judge','prophet','servant','enemy',
-           'voice','law','commandment','commandments','covenant',
-           'judgment','mercy','righteousness','iniquity','sin','death',
-           'life','power','strength','faith','prayer','repentance',
-           'baptism','resurrection','salvation','redemption',
-           'wilderness','mountain','valley','plain','river','gate',
-           'tower','wall','temple','throne','wilderness',
-           'north','south','east','west','up','down',
-           'face','feet','foot','head','eye','eyes','mouth','ear',
-           'arm','arms','neck','back','side','right','left',
-           'saying','said','came','went','went','go','come','give',
-           'take','make','do','see','hear','know','speak','tell',
-           'call','send','bring','put','set','turn','fall','rise',
-           'stand','sit','walk','run','fight','kill','slay','die',
-           'live','eat','drink','sleep','work','build','destroy',
-           'burn','cut','break','open','close','begin','end',
-           'love','hate','fear','desire','rejoice','mourn','weep',
-           'cry','pray','praise','bless','curse','swear','remember',
-           'forget','teach','learn','write','read','judge','rule',
-           'reign','serve','worship','offer','sacrifice',
-           'abomination','abominations','affliction','anger','appointed',
-           'arise','art','awake','behalf','behold','cast','cause',
-           'ceased','chapter','chose','compassion','continually',
-           'consecrated','darkness','depart','desire','dwelling',
-           'exceedingly','fierce','fullness','hither','holy','inheritance',
-           'liberty','midst','mock','nigh','obtain','onward','pass',
-           'possess','prosper','reign','remnant','rest','return',
-           'scattered','sealed','sought','suffer','taught','thereof',
-           'thus','transgression','treasure','tribes','tumult',
-           'utterly','wicked','wickedness','wrath','wrought',
-           'according','appearance','because','chosen','coming',
-           'deliverance','destruction','favor','forever','gathered',
-           'gladness','harden','inhabitants','liken','manner',
-           'memorial','ministry','number','offering','overthrow',
-           'possession','prepared','promise','provision','record',
-           'remnant','repent','restore','scattered','service',
-           'slain','stiff','surely','testimony','welfare','worthy',
-           'ACC','YHWH','relinquished','march','appointed',
-           'standing','division','astonished','matchless','change',
-          ].includes(part.toLowerCase())) continue;
+  // Very short, no vowels
+  if (lower.length <= 5 && !/[aeiou]/.test(lower)) return true;
 
-      // Check if it's a known proper name
-      if (validWords.has(part)) continue;
+  // Ends with unusual consonant pair for English
+  if (/[bcdfghjklmnpqrstvwxyz]{2}$/.test(lower) && lower.length > 4) {
+    const ending = lower.slice(-2);
+    const commonEndings = new Set([
+      'ng','nd','nt','st','ck','sh','th','ch','ly','ty','ry','ny','dy',
+      'fy','gy','hy','ky','my','py','sy','wy','zy','lt','ft','pt','ct',
+      'll','ss','ff','rn','wn','gn','mn','ld','rd','lf','rf','nk','sk',
+      'lk','rk','rm','lm','mp','sp','lp','rp','rb','lb','rg','lg','dg',
+      'ps','ts','ns','ms','ls','rs','ws','ks','bs','ds','gs','xt','wl',
+      'wn','rl','rn','rt','rk','rp','rb','rd','rf','rg','rs','rz','lf',
+      'lk','lp','lt','lm','ln','ls','lz','lf','ng','nk','nt','nd','ns',
+      'nz','nc','nl','nx'
+    ]);
+    if (!commonEndings.has(ending)) return true;
+  }
 
-      // Check if it looks like a transliteration (consonant-heavy, no English pattern)
+  return false;
+}
+
+function findTransliterationsInHyphenated(gloss) {
+  if (!gloss || gloss === '') return false;
+  const parts = gloss.split('-');
+  for (const part of parts) {
+    if (part.length < 3) continue;
+    if (knownNames.has(part)) continue;
+    if (legitimateEnglish.has(part)) continue;
+    if (/^[A-Z][a-zA-Z]*$/.test(part)) {
       const lower = part.toLowerCase();
-      // Real English words have vowels; transliterations often don't
-      const vowelRatio = (lower.match(/[aeiou]/g) || []).length / lower.length;
-      const hasConsonantCluster = /[bcdfghjklmnpqrstvwxyz]{4,}/.test(lower);
-
-      if ((vowelRatio < 0.15 && lower.length > 3) || hasConsonantCluster) {
-        isBad = true;
-        reason = 'transliteration: ' + part;
-        break;
+      if (/[bcdfghjklmnpqrstvwxyz]{3,}/i.test(lower)) {
+        const cleaned = lower.replace(/(str|ght|nch|tch|sch|chr|shr|thr|spl|spr|scr|nds|nts|sts|rth|lth|nth|ngth|ngs|ckn)/g, '');
+        if (/[bcdfghjklmnpqrstvwxyz]{3,}/i.test(cleaned)) return true;
       }
     }
   }
-
-  if (isBad) {
-    const key = heb + '||' + gloss;
-    if (!badGlosses[key]) badGlosses[key] = { hebrew: heb, gloss, reason, count: 0 };
-    badGlosses[key].count++;
-  }
+  return false;
 }
 
-const sorted = Object.values(badGlosses).sort((a, b) => b.count - a.count);
-const totalBad = sorted.reduce((s, e) => s + e.count, 0);
+for (const file of files) {
+  const content = fs.readFileSync(file.path, 'utf8');
+  const regex = /\["([^"]*)","([^"]*)"\]/g;
+  let match;
+  const translit = [];
+  const hebrewInGloss = [];
+  const questionMarks = [];
+  let total = 0;
 
-console.log('Total glosses scanned:', total);
-console.log('Bad glosses found:', sorted.length, 'unique,', totalBad, 'total occurrences');
-console.log('\n--- Bad glosses (by frequency) ---');
-sorted.forEach(s => console.log(`  "${s.gloss}" ← ${s.hebrew} x${s.count} [${s.reason}]`));
+  while ((match = regex.exec(content)) !== null) {
+    const hebrew = match[1];
+    const gloss = match[2];
+    total++;
 
-fs.writeFileSync('bad_glosses.json', JSON.stringify(sorted, null, 2));
-console.log('\nSaved bad_glosses.json');
+    if (gloss.includes('???')) {
+      const before = content.substring(0, match.index);
+      const lineNum = before.split('\n').length;
+      questionMarks.push({hebrew, gloss, line: lineNum});
+    }
+
+    if (/[\u0590-\u05FF]/.test(gloss)) {
+      const before = content.substring(0, match.index);
+      const lineNum = before.split('\n').length;
+      hebrewInGloss.push({hebrew, gloss, line: lineNum});
+    }
+
+    if (isLikelyTransliteration(gloss) || findTransliterationsInHyphenated(gloss)) {
+      const before = content.substring(0, match.index);
+      const lineNum = before.split('\n').length;
+      translit.push({hebrew, gloss, line: lineNum});
+    }
+  }
+
+  console.log('========================================');
+  console.log('FILE: ' + file.name);
+  console.log('Total word pairs: ' + total);
+  console.log('');
+  console.log('  [1] ??? placeholders: ' + questionMarks.length);
+  if (questionMarks.length > 0) {
+    questionMarks.forEach(t => {
+      console.log('      Line ' + t.line + ': [' + t.hebrew + ' => ' + t.gloss + ']');
+    });
+  }
+  console.log('');
+  console.log('  [2] Hebrew in gloss: ' + hebrewInGloss.length);
+  if (hebrewInGloss.length > 0) {
+    hebrewInGloss.forEach(h => {
+      console.log('      Line ' + h.line + ': [' + h.hebrew + ' => ' + h.gloss + ']');
+    });
+  }
+  console.log('');
+  console.log('  [3] Transliteration suspects: ' + translit.length);
+  if (translit.length > 0) {
+    translit.forEach(t => {
+      console.log('      Line ' + t.line + ': [' + t.hebrew + ' => ' + t.gloss + ']');
+    });
+  }
+  console.log('');
+}

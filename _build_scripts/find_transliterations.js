@@ -1,140 +1,240 @@
-// Precise transliteration finder v3
-// Only flags glosses that are CLEARLY phonetic Hebrew, not English
+// Comprehensive transliteration finder for al_data.js - DEFINITIVE FINAL VERSION
+//
+// Strategy: Multi-rule approach
+// R1-R5: High-precision phonotactic rules (from earlier iterations)
+// R6: Single-word gloss with non-English phonology (triple consonants, bad starts/ends)
+// R7: Capitalized word NOT in comprehensive word list AND low vowel ratio + short
+//
+// The word list is built from: all words appearing 3+ times in glosses (=definitely English/names)
+// PLUS a manual list of rare but valid English words that appear in BOM glosses.
+
 const fs = require('fs');
-const path = require('path');
-const BASE = path.resolve(__dirname, '..');
-const html = fs.readFileSync(path.join(BASE, 'BOM.html'), 'utf8');
+const content = fs.readFileSync(__dirname + '/../_chapter_data/al_data.js', 'utf8');
+const lines = content.split('\n');
 
-// ALL known English words that could appear as single-word glosses
-const english = new Set(`
-a an the and or but if of to in on at by for from with as that this not no so yet
-he she it they we you I me him her us them my his its our your their who whom which
-is are was were be am have has had do does did will would shall should can could may
-ACC Behold Indeed Creator Reeds Sinai He She They We You It
-Selah Amen Hosanna Hallelujah Fire Water Earth Land City
-`.trim().split(/\s+/).map(w => w));
+// ===================== BUILD KNOWN WORD SET FROM FREQUENCY =====================
+// Step 1: Count all word segments
+const wordCounts = new Map();
+const pairRe = /\["([^"]+)","([^"]*)"\]/g;
+let pm;
+while ((pm = pairRe.exec(content)) !== null) {
+  const gloss = pm[2];
+  if (!gloss) continue;
+  const clean = gloss.replace(/^\[ACC\]-?/, '').replace(/^\[ACC\] /, '');
+  const parts = clean.split('-');
+  for (const part of parts) {
+    let p = part.replace(/[!?.:;,)]+$/, '').replace(/\([^)]*\)/g, '').replace(/'/g, '');
+    if (p.length >= 2 && /^[A-Za-z]/.test(p)) {
+      wordCounts.set(p, (wordCounts.get(p) || 0) + 1);
+    }
+  }
+}
 
-// BOM proper nouns
-const names = new Set(fs.readFileSync(path.join(BASE, 'BOM.html'), 'utf8')
-  .match(/["']([A-Z][a-z]+(?:iah|ites?|ite|um|on|im|ah|am|hi|ni|el|om|er|ur|oz|th|sh|ph|lk|nk|ad|em|an|ai|ki|bi|gi|di|li|mi|ri|si|ti)?)["']/g)
-  ?.map(m => m.replace(/['"]/g, '')) || []);
+// Step 2: Words appearing 3+ times are known-good (English or proper names)
+const knownWords = new Set();
+for (const [word, count] of wordCounts) {
+  if (count >= 3) knownWords.add(word);
+}
 
-// Add explicit proper nouns
-`Nephi Lehi Laman Lemuel Sam Sariah Ishmael Zoram Jacob Joseph Enos Jarom Omni
-Mosiah Benjamin Zeniff Noah Abinadi Alma Amulek Zeezrom Ammon Aaron Omner Himni
-Limhi Gideon Helaman Shiblon Corianton Moroni Mormon Ether Moronihah Zarahemla
-Bountiful Desolation Jerusalem Melek Ammonihah Gid Mulek Jershon Manti Sidon
-Teancum Pahoran Lachoneus Giddianhi Gidgiddoni Zemnarihah Kishkumen Gadianton
-Cezoram Timothy Jonas Aminadab Coriantumr Shiz Lib Omer Jared Orihah Kib Shule
-Cohor Nimrah Akish Ethem Moron Coriantor Pagag Morianton Kim Levi Riplakish
-Hearthom Com Heth Shez Amnigaddah Coriantum Gilgal Shared Gilead Shiblom Seth Ahah
-Amulon Lamoni Abish Amalickiah Ammoron Tubaloth Hagoth Samuel Lehonti Nephihah
-Zerah Shilom Antipus Aminadi Amlici Cumeni Hermounts Isabel Kish Laban Ogath Onidah
-Paanchi Pachus Pacumeni Riplah Ripliancum Seantum Sebus Shem Shemlon Sherem Shim
-Sidom Zenephi Zenock Zenos Neas Judea Heshlon Boaz Nimrod Esrom Amnor Liahona
-Deseret Shelem Ablom Comnor Corihor Korihor Antionah Cumorah Ramah Christ Jesus God
-Lord Messiah Adam Eve Moses Abraham Israel David Solomon Elijah Mary Sarah Zion Egypt
-Babylon Isaiah Jeremiah Zedekiah Malachi Emer Corom Rabbanah Yeshua Amaron Chemish
-Abinadom Amaleki Middoni Neum Irreantum Muloki Mocum Nahom Bethabara Josh Minon Hem
-Gad Emron Antum Ramath Teomner Luram Amnihu Sherrizah Shimnilom Shurr Gimgimno
-Jacobugath Heshlon Moriantum Mathoni Mathonihah Kumen Kumenonhi Ammaron`.trim().split(/\s+/)
-  .forEach(n => names.add(n));
+// Step 3: Add manual list of rare but VALID English words that appear in BOM glosses
+// These are words that occur only 1-2 times but are definitely English, not transliterations
+const rareButValid = [
+  // Religious/BOM terms
+  'God','Lord','Holy','Spirit','Lamb','Begotten','Only','Most','High','Mighty',
+  'Adversary','Christians','Reeds','Messiah','Christ','Jesus','Counselor',
+  'Mary','Himself','Herself','Thee','Maher',
+  // All proper names (comprehensive)
+  'Nephi','Mosiah','Alma','Gideon','Nehor','Manti','Zarahemla','Sidon',
+  'Hermounts','Ammon','Jershon','Coriantumr','Egypt','Aaron','Limhi','Minon',
+  'Zeram','Amnor','Limher','Noah','Amulon','Abinadi','Moroni','Mulek',
+  'Helaman','Shiblon','Corianton','Zeezrom','Antionah','Melchizedek','Salem',
+  'Abraham','Isaac','Jacob','Israel','Ammonihah','Amulek','Zoram','Zoramites',
+  'Lamoni','Lehonti','Middoni','Ishmael','Ishmaelites','Gid','Teancum',
+  'Pahoran','Laman','Lemuel','Lehi','Zeniff','Abish','Rabbanah','Sebus',
+  'Antipus','Cumeni','Morianton','Zerahemnah','Amalickiah','Nephihah','Melek',
+  'Onidah','Rameumptom','Antionum','Judea','Kishkumen','Gadianton','Mormon',
+  'Ether','Shiz','Moronihah','Korihor','Omner','Himni','Ontion','Senine',
+  'Seon','Shum','Limnah','Ezrom','Neas','Sheum','Antion','Anti','Helam',
+  'Bountiful','Onti','Mniho','Giddonah','Jerusalem','Antiparah','Ammoron',
+  'Cumorah','Riplah','Hagoth','Liahona','Lachoneus','Gidgiddoni','Zemnarihah',
+  'Amlici','Antipas','Gdonh','Amlicite','Almighty','Hosts','Zion','Adam','Eve',
+  'Moses','Amen','Ammonites','Lamanites','Nephites','Amalekites','Amulonites',
+  'Zoramites','Amlicites','Ishmaelites','Ozzrom','Desolation','Egyptians',
+  'Judah','Jordan','Jeremiah','Elijah','Joseph','Zenock','Sheol','Shelem',
+  'Laban','Nephite','Manasseh','Sidom','Seninah','Senomites','Jared',
+  'Coriantor','Shilom','Shemlon','Shimnilom','Sherem','Siron','Zenos',
+  'Pachus','Yeshua','Aminadi','Midian','Isabel','Muloki','Amaleki',
+  'Lamanite','Kidon','Zormi','Snum','Sam','Nahor',
+  // English words that might appear only 1-2 times
+  'YHWH','ACC','LORD','GOD','Thy',
+  'things','flocks','hungry','swords','slings','depths','brings','rights',
+  'thirsty','myself','myself','holy','precious','thirty','ninth','sixth','fifth',
+  'seventh','eighth','tenth','once','twice',
+];
+for (const w of rareButValid) knownWords.add(w);
 
-function isRealTransliteration(gloss) {
-  if (!gloss || gloss.length < 2 || gloss.length > 15) return false;
-  if (gloss.includes('-') || gloss.includes(' ') || gloss.includes('[')) return false;
-  if (gloss === '׃' || gloss === '') return false;
-  // Must be all ASCII letters
-  if (!/^[A-Za-z]+$/.test(gloss)) return false;
-  // Must start uppercase
-  if (gloss[0] !== gloss[0].toUpperCase()) return false;
-  // Skip known names and English
-  if (names.has(gloss) || english.has(gloss)) return false;
-  // Skip common English words (case-insensitive)
-  const lower = gloss.toLowerCase();
-  const commonLower = ['creator','reeds','sinai','fire','water','earth','pillar','mute',
-    'dispersed','trembled','built','declaring','chosen','shook','blazing','surrounded',
-    'priests','precious','judgment','offering','foundation','treasure','wondrous',
-    'mighty','eternal','faithful','terrible','glorious','wicked','righteous','ancient',
-    'heavenly','according','therefore','nevertheless','exceedingly','notwithstanding',
-    'inasmuch','insomuch','whosoever','whatsoever','prison','wilderness','together',
-    'against','another','before','after','between','through','without','within',
-    'toward','because','during','besides','beneath','beyond','above','below',
-    'under','until','about','since','still','often','again','already','always',
-    'never','here','there','also','even','very','truly','surely','indeed',
-    'perhaps','maybe','quickly','slowly','greatly','clearly','plainly',
-    'foreign','number','servant','brother','sister','daughter','father','mother',
-    'captain','warrior','soldier','prophet','king','queen','child','people',
-    'nation','temple','church','altar','throne','mountain','valley','river',
-    'sword','weapon','armor','shield','arrow','covenant','promise','prophecy',
-    'salvation','redemption','repentance','baptism','resurrection','atonement',
-    'transgression','abomination','desolation','destruction','affliction',
-    'tribulation','lamentation','bondage','captivity','inheritance','possession',
-    'commandment','ordinance','testimony','scripture','generation','preparation',
-    'corruption','abomination','whirlwind','earthquake','pestilence','famine',
-    'slaughter','dominion','authority','government','tribunal','persecution'];
-  if (commonLower.includes(lower)) return false;
-  // Check vowel ratio - transliterations from Hebrew tend to be consonant-heavy
-  const vowels = (lower.match(/[aeiou]/g) || []).length;
-  const ratio = vowels / lower.length;
-  // Very consonant-heavy (< 25% vowels for 4+ char words) = very likely transliteration
-  if (gloss.length >= 4 && ratio < 0.25) return true;
-  // Moderate consonant-heavy but also short and not recognizable
-  if (gloss.length >= 3 && ratio < 0.35 && !/^(The|And|But|For|Not|All|One|Two|Now|Yet)/.test(gloss)) return true;
-  // Even with vowels, if it contains unusual patterns for English
-  // Like double consonants that don't occur in English, or Hebrew-typical clusters
-  if (/[^aeiou]{4,}/i.test(gloss)) return true; // 4+ consonants in a row
-  // Check for Hebrew transliteration markers: starts with common Hebrew prefix sounds
-  // O = vav, H = he, I/Y = yod, V = vav, N = nun, L = lamed
-  if (/^[OHIVNL][bcdfghjklmnpqrstvwxyz]/i.test(gloss) && gloss.length <= 10 && ratio < 0.4) return true;
+// ===================== VALID FULL GLOSSES TO SKIP =====================
+const validFullGlosses = new Set([
+  'after-the-order-of','as-the-order-of','their-order',
+  'and-he-ordained','and-they-were-ordained','I-ordain',
+  'from-opposite','in-opposition',
+  'you-shall-oppose','should-be-oppressed','they-oppressed',
+  'and-he-oppression',
+  '[ACC] my-commandments','[ACC]-their-oppressing',
+  'the-Only-Begotten','the-Only-Begotten-of',
+  'in-Lamb-of','the-Lamb','the-Most-High','Most-High',
+  'the-Mighty','son-of-Joseph','and-Joseph','Joseph',
+  'the-Jews','Christians','Reeds',
+  'that-against-Lamb-of(pl)','that-Lamb-of',
+]);
+
+// ===================== PHONOTACTIC RULES =====================
+function phonotacticCheck(word) {
+  const vowels = (word.match(/[aeiouAEIOU]/g) || []).length;
+  const len = word.length;
+  const ratio = vowels / len;
+
+  // R1: Starts with 'Oi' + consonant (Hebrew וי prefix)
+  if (/^Oi[bcdfghjklmnpqrstvwxyz]/i.test(word) && len >= 4) {
+    if (/^oil/i.test(word)) return false;
+    return 'R1';
+  }
+  // R2: V + consonant start (not va/ve/vi/vo/vu)
+  if (/^V[bcdfghjklmnpqrstvwxyz]/i.test(word) && len >= 3) {
+    if (/^v[aeiou]/i.test(word)) return false;
+    return 'R2';
+  }
+  // R3: Zero vowels, 3+ chars
+  if (len >= 3 && vowels === 0) {
+    if (/^(YHWH|ACC|LORD|GOD|Mr|Mrs|Dr|Jr|Sr|St|Mt|Pt|Ft|pl|sg|etc|NB|cf|gym|hymn|lynx|myth|nymph|rhythm|tryst|crypt|glyph|psych|pygmy|synth|gypsy|dry|fly|fry|ply|pry|shy|sky|sly|spy|sty|try|why|thy|wry|cry)$/i.test(word)) return false;
+    return 'R3';
+  }
+  // R4: 'kh' + vowel with low vowel ratio
+  if (/kh[aeiou]/i.test(word) && len >= 5 && ratio < 0.35) {
+    if (/^(khaki|ankh|sheikh|sikh|backhand|blockhead)/i.test(word)) return false;
+    return 'R4';
+  }
+  // R5: O + impossible consonant combos
+  if (len >= 4 && /^O/i.test(word)) {
+    const cc = word.substring(1, 3).toLowerCase();
+    const impossibleStarts = new Set([
+      'bk','bm','bn','bp','bv','dk','dl','dm','dn','dp','dr','ds','dt','dv',
+      'gb','gd','gf','gk','gn','gp','gr','gs','gt','gv','gz',
+      'hb','hd','hf','hg','hj','hk','hl','hm','hn','hp','hr','hs','ht','hv','hw','hz',
+      'kb','kc','kd','kf','kg','kk','kl','km','kn','kp','kr','ks','kt','kv',
+      'lb','lc','ld','lf','lg','lh','lk','lm','ln','lp','lr','ls','lt','lv','lz',
+      'mb','mc','md','mf','mg','mh','mk','ml','mm','mn','mp','mr','ms','mt','mv',
+      'nb','nc','nd','nf','ng','nh','nj','nk','nm','nn','np','nr','ns','nt','nv','nz',
+      'pb','pc','pd','pf','pg','pk','pl','pm','pn','pp','pr','ps','pt','pv',
+      'rb','rc','rd','rf','rg','rk','rl','rm','rn','rp','rr','rs','rt','rv','rz',
+      'sf','sg','sj','sk','sl','sm','sn','sq','sr','ss','sv','sz',
+      'tb','tc','td','tf','tg','tj','tk','tl','tm','tn','tp','tr','ts','tv','tw','tz',
+      'zh','zn','zr','zt','zz',
+    ]);
+    if (impossibleStarts.has(cc)) return 'R5';
+  }
   return false;
 }
 
-// Find all chapters
-const chapterRe = /\/\/ (\w[\w\s–\-]+?) – Chapter (\d+)/g;
-let chapters = [];
-let cm;
-while ((cm = chapterRe.exec(html)) !== null) {
-  chapters.push({ book: cm[1].trim(), chapter: parseInt(cm[2]), pos: cm.index });
+// ===================== NON-ENGLISH PHONOLOGY CHECK =====================
+function hasNonEnglishPhonology(word) {
+  const w = word.toLowerCase();
+
+  // Triple+ consecutive consonants
+  if (/[bcdfghjklmnpqrstvwxyz]{3}/.test(w)) return true;
+
+  // Starts with consonant combo impossible in English
+  if (/^[bcdfghjklmnpqrstvwxyz]{2}/.test(w)) {
+    const cc = w.substring(0, 2);
+    const validStarts = new Set([
+      'bl','br','ch','cl','cr','dr','dw','fl','fr','gh','gl','gn','gr',
+      'kn','ph','pl','pr','ps','qu','sc','sh','sk','sl','sm','sn','sp',
+      'sq','st','sw','th','tr','tw','wh','wr',
+    ]);
+    if (!validStarts.has(cc)) return true;
+  }
+
+  return false;
 }
 
-console.log(`Scanning ${chapters.length} total chapters...\n`);
+// ===================== MAIN SCAN =====================
+const results = [];
+const resultKeys = new Set();
 
-let totalSuspect = 0;
-const results = {};
+function addResult(lineNum, hebrew, gloss, badSeg, rule) {
+  const key = lineNum + ':' + hebrew;
+  if (!resultKeys.has(key)) {
+    resultKeys.add(key);
+    results.push({ lineNum, hebrew, gloss, badSeg, rule });
+  }
+}
 
-for (let i = 0; i < chapters.length; i++) {
-  const ch = chapters[i];
-  const nextPos = (i + 1 < chapters.length) ? chapters[i + 1].pos : html.length;
-  const chunk = html.substring(ch.pos, nextPos);
+for (let i = 0; i < lines.length; i++) {
+  const line = lines[i];
+  const lineNum = i + 1;
+  const pairRegex = /\["([^"]+)","([^"]*)"\]/g;
+  let match;
+  while ((match = pairRegex.exec(line)) !== null) {
+    const hebrew = match[1];
+    const gloss = match[2];
+    if (!gloss || gloss === '' || gloss === '\u05C3') continue;
+    if (validFullGlosses.has(gloss)) continue;
 
-  const wordRe = /\["([^"]+)","([^"]*)"\]/g;
-  const suspects = [];
-  let wm;
-  while ((wm = wordRe.exec(chunk)) !== null) {
-    const hebrew = wm[1];
-    const gloss = wm[2];
-    if (hebrew === '׃' || !gloss) continue;
-    if (isRealTransliteration(gloss)) {
-      suspects.push({ hebrew, gloss });
+    let g = gloss.replace(/^\[ACC\]-?/, '').replace(/^\[ACC\] /, '');
+    const parts = g.split('-');
+    let found = false;
+
+    // PASS 1: Phonotactic rules R1-R5 (high precision)
+    for (const part of parts) {
+      let p = part.replace(/[!?.:;,)]+$/, '').replace(/\([^)]*\)/g, '').replace(/'/g, '');
+      if (p.length < 3) continue;
+      if (knownWords.has(p)) continue;
+
+      const rule = phonotacticCheck(p);
+      if (rule) {
+        addResult(lineNum, hebrew, gloss, p, rule);
+        found = true;
+        break;
+      }
+    }
+    if (found) continue;
+
+    // PASS 2: Check for capitalized words NOT in known word list
+    // that have non-English phonological features
+    for (const part of parts) {
+      let p = part.replace(/[!?.:;,)]+$/, '').replace(/\([^)]*\)/g, '').replace(/'/g, '');
+      if (p.length < 3) continue;
+      if (knownWords.has(p)) continue;
+      if (!/^[A-Z]/.test(p)) continue;
+
+      if (hasNonEnglishPhonology(p)) {
+        addResult(lineNum, hebrew, gloss, p, 'R6');
+        found = true;
+        break;
+      }
+    }
+    if (found) continue;
+
+    // PASS 3: Single-word gloss that is NOT in known words and has non-English phonology
+    if (/^[A-Z][a-zA-Z]*$/.test(g) && g.length >= 3 && !knownWords.has(g)) {
+      if (hasNonEnglishPhonology(g)) {
+        addResult(lineNum, hebrew, gloss, g, 'R7');
+      }
     }
   }
-
-  const key = `${ch.book} ${ch.chapter}`;
-  if (suspects.length > 0) {
-    results[key] = suspects;
-    totalSuspect += suspects.length;
-  }
 }
 
-// Print chapter by chapter
-for (const [key, suspects] of Object.entries(results)) {
-  console.log(`=== ${key} (${suspects.length}) ===`);
-  for (const s of suspects) {
-    console.log(`  ["${s.hebrew}","${s.gloss}"]`);
-  }
-}
+results.sort((a, b) => a.lineNum - b.lineNum);
 
-console.log(`\nTotal transliterations: ${totalSuspect}`);
-console.log(`Chapters with issues: ${Object.keys(results).length} / ${chapters.length}`);
-fs.writeFileSync(path.join(BASE, '_build_scripts', 'transliterations.json'), JSON.stringify(results, null, 2));
+// Output
+console.log('ALL TRANSLITERATION PLACEHOLDERS IN al_data.js');
+console.log('Total: ' + results.length);
+console.log('='.repeat(90));
+let ch = '';
+results.forEach(r => {
+  for (let j = r.lineNum - 2; j >= Math.max(0, r.lineNum - 50); j--) {
+    const m = lines[j].match(/ALMA.*Chapter\s+(\d+)/i) || lines[j].match(/al_ch(\d+)Verses/);
+    if (m) { if (m[1] !== ch) { ch = m[1]; console.log('\n--- ALMA CHAPTER ' + ch + ' ---'); } break; }
+  }
+  console.log('Line ' + String(r.lineNum).padStart(4) + ':  ' + r.hebrew.padEnd(28) + ' => ' + r.gloss);
+});
