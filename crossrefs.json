@@ -42280,6 +42280,16 @@
         "Moses 4:1 (1–4)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "redeemer",
+      "refs": [
+        "Job 19:25",
+        "Isa. 44:6",
+        "Isa. 43:1"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|1|5": [
@@ -42418,6 +42428,16 @@
         "TG Vengeance"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|1|14": [
@@ -42860,6 +42880,15 @@
         "Hel. 5:2"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|2|5": [
@@ -43092,6 +43121,16 @@
         "Alma 3:22"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|3|1": [
@@ -43164,6 +43203,16 @@
         "TG Curse"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|3|7": [
@@ -43212,6 +43261,15 @@
         "Alma 2:11"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|3|12": [
@@ -43467,6 +43525,16 @@
         "TG Elder"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|4|8": [
@@ -43619,6 +43687,16 @@
         "TG Deliver"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|4|15": [
@@ -43839,6 +43917,16 @@
         "Mosiah 23:1 (1–3)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|5": [
@@ -43938,6 +44026,25 @@
         "Mosiah 17:2 (2–4)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|12": [
@@ -44056,6 +44163,16 @@
         "Matt. 25:34 (31–46)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|17": [
@@ -44074,6 +44191,26 @@
         "3 Ne. 14:22 (21–23)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|18": [
@@ -44088,6 +44225,16 @@
         "Alma 11:43"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|19": [
@@ -44098,6 +44245,15 @@
         "1 Jn. 3:2 (1–3)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "clean",
+      "refs": [
+        "Ps. 51:12",
+        "Ezek. 36:25"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|20": [
@@ -44183,6 +44339,15 @@
         "Luke 13:28"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "clean",
+      "refs": [
+        "Ps. 51:12",
+        "Ezek. 36:25"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|25": [
@@ -44232,7 +44397,10 @@
       "text": "blameless",
       "refs": [
         "1 Jn. 3:21 (19–24)",
-        "TG Justification"
+        "TG Justification",
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
       ],
       "category": "cross-ref"
     },
@@ -44319,6 +44487,16 @@
         "Ps. 5:5 (4–6)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|33": [
@@ -44341,6 +44519,26 @@
         "3 Ne. 9:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|34": [
@@ -44393,6 +44591,16 @@
         "D&C 97:7"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|37": [
@@ -44614,6 +44822,16 @@
         "Mosiah 29:42"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|45": [
@@ -44650,6 +44868,16 @@
         "Rev. 19:10"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|49": [
@@ -44698,6 +44926,16 @@
         "Kingdom of God, on Earth"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|51": [
@@ -44716,6 +44954,16 @@
         "TG Heaven"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|52": [
@@ -44737,6 +44985,16 @@
         "3 Ne. 27:11 (11–12)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|53": [
@@ -44827,6 +45085,15 @@
         "Ps. 109:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|5|58": [
@@ -44911,7 +45178,10 @@
       "marker": "a",
       "text": "repented",
       "refs": [
-        "TG Baptism, Qualifications for"
+        "TG Baptism, Qualifications for",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "tg"
     }
@@ -45001,6 +45271,16 @@
         "Rev. 19:10"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|1": [
@@ -45029,6 +45309,16 @@
         "Alma 4:18 (16–18)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|3": [
@@ -45039,6 +45329,16 @@
         "Alma 5:17 (16–17)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|6": [
@@ -45058,6 +45358,24 @@
         "Dan. 6:26"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|7": [
@@ -45087,7 +45405,10 @@
       "text": "Repent",
       "refs": [
         "Matt. 3:2 (2–3)",
-        "Alma 9:25 (25–26)"
+        "Alma 9:25 (25–26)",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "cross-ref"
     },
@@ -45205,6 +45526,15 @@
         "D&C 62:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|13": [
@@ -45241,6 +45571,34 @@
         "TG Purification"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|15": [
@@ -45251,6 +45609,15 @@
         "2 Ne. 4:18"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|16": [
@@ -45348,6 +45715,15 @@
         "Moro. 7:44 (33–48)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|25": [
@@ -45366,6 +45742,15 @@
         "2 Pet. 3:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "clean",
+      "refs": [
+        "Ps. 51:12",
+        "Ezek. 36:25"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|7|27": [
@@ -45395,6 +45780,16 @@
         "TG Church Organization"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|8|3": [
@@ -45541,6 +45936,15 @@
         "Mosiah 27:11 (11–16)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|8|16": [
@@ -45599,6 +46003,16 @@
         "1 Kgs. 17:11 (8–13)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|8|22": [
@@ -45658,6 +46072,16 @@
         "Alma 9:12, 18"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|8|31": [
@@ -45686,6 +46110,16 @@
         "Alma 8:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|2": [
@@ -45755,6 +46189,15 @@
         "TG Birthright"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|9": [
@@ -45793,6 +46236,16 @@
         "Mosiah 16:11"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|12": [
@@ -45832,6 +46285,16 @@
         "Alma 37:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|14": [
@@ -45893,6 +46356,15 @@
         "D&C 5:33"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|17": [
@@ -45913,6 +46385,15 @@
         "D&C 3:8"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|18": [
@@ -45985,6 +46466,16 @@
         "TG Prophets, Mission of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|21": [
@@ -46080,7 +46571,10 @@
       "refs": [
         "Matt. 3:2 (2–3)",
         "Alma 7:9",
-        "Hel. 5:32"
+        "Hel. 5:32",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "cross-ref"
     }
@@ -46126,6 +46620,15 @@
         "Isa. 65:24"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|27": [
@@ -46180,6 +46683,26 @@
         "TG Damnation"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|30": [
@@ -46198,6 +46721,16 @@
         "Alma 12:22"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|9|31": [
@@ -46380,6 +46913,26 @@
         "TG Hospitality"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|10|8": [
@@ -46397,7 +46950,10 @@
       "marker": "a",
       "text": "holy",
       "refs": [
-        "TG Holiness"
+        "TG Holiness",
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
       ],
       "category": "tg"
     }
@@ -46529,6 +47085,15 @@
         "D&C 10:25 (21–27)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|10|18": [
@@ -46570,6 +47135,16 @@
         "13:22"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|10|21": [
@@ -46667,6 +47242,15 @@
         "Moses 6:27"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|10|27": [
@@ -46907,6 +47491,16 @@
         "Test"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|11|24": [
@@ -46950,6 +47544,16 @@
         "Alma 14:5"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|11|36": [
@@ -46960,6 +47564,16 @@
         "Alma 12:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|11|37": [
@@ -47073,6 +47687,15 @@
         "TG Judgment, the Last"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|11|42": [
@@ -47165,6 +47788,16 @@
         "TG Jesus Christ, Judge"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|11|45": [
@@ -47494,6 +48127,16 @@
         "2 Ne. 12:10"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|12|15": [
@@ -47514,6 +48157,36 @@
         "TG Justice"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|12|16": [
@@ -47575,6 +48248,16 @@
         "88:116"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|12|20": [
@@ -47791,9 +48474,21 @@
       "marker": "d",
       "text": "holy",
       "refs": [
-        "Luke 8:15 (14–15)"
+        "Luke 8:15 (14–15)",
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|12|31": [
@@ -47875,6 +48570,16 @@
         "TG Goodness"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|12|33": [
@@ -47893,6 +48598,16 @@
         "Moses 5:8"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|12|34": [
@@ -47920,6 +48635,16 @@
         "TG Rest"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|12|35": [
@@ -48086,6 +48811,25 @@
         "TG Called of God"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "h",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "i",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|4": [
@@ -48174,6 +48918,16 @@
         "Priesthood, Oath and Covenant"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|9": [
@@ -48195,6 +48949,16 @@
         "TG Grace"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|10": [
@@ -48222,6 +48986,16 @@
         "TG Spirituality"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|11": [
@@ -48279,7 +49053,9 @@
         "Rom. 12:9",
         "2 Ne. 4:31",
         "Mosiah 5:2",
-        "Alma 19:33"
+        "Alma 19:33",
+        "Gen. 4:7",
+        "Isa. 1:18"
       ],
       "category": "cross-ref"
     },
@@ -48291,6 +49067,25 @@
         "Alma 37:29"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "clean",
+      "refs": [
+        "Ps. 51:12",
+        "Ezek. 36:25"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "g",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|13": [
@@ -48301,6 +49096,16 @@
         "Luke 3:8"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|14": [
@@ -48362,6 +49167,25 @@
         "TG Priesthood"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|19": [
@@ -48444,6 +49268,16 @@
         "Jacob 7:26"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|24": [
@@ -48547,6 +49381,16 @@
         "Meek"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|29": [
@@ -48603,6 +49447,16 @@
         "TG Death, Spiritual, Second"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|13|31": [
@@ -48727,6 +49581,16 @@
         "Alma 15:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|14|8": [
@@ -48745,6 +49609,15 @@
         "Jer. 36:23 (21–28)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|14|9": [
@@ -49307,6 +50180,16 @@
         "56:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|16|9": [
@@ -49460,6 +50343,15 @@
         "13:6 (6–29)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|16|18": [
@@ -49544,6 +50436,16 @@
         "Alma 15:17"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|17|1": [
@@ -49789,6 +50691,16 @@
         "Matt. 9:37"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|17|14": [
@@ -50121,6 +51033,16 @@
         "John 20:16"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|18|14": [
@@ -50382,6 +51304,16 @@
         "TG Salvation, Plan of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|18|40": [
@@ -50455,7 +51387,9 @@
       "marker": "b",
       "text": "prophet",
       "refs": [
-        "TG Prophets, Mission of"
+        "TG Prophets, Mission of",
+        "Deut. 18:15",
+        "Amos 3:7"
       ],
       "category": "tg"
     },
@@ -50466,6 +51400,16 @@
         "D&C 3:4"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|19|5": [
@@ -50512,6 +51456,16 @@
         "Mosiah 3:19"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|19|9": [
@@ -50540,6 +51494,15 @@
         "Luke 7:9"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|19|13": [
@@ -50567,6 +51530,16 @@
         "1 Ne. 11:18 (13–21)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "redeemer",
+      "refs": [
+        "Job 19:25",
+        "Isa. 44:6",
+        "Isa. 43:1"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|19|14": [
@@ -50785,6 +51758,16 @@
         "Alma 36:24"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|19|31": [
@@ -50847,6 +51830,16 @@
         "TG Baptism, Qualifications for"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|19|36": [
@@ -50981,7 +51974,10 @@
       "marker": "b",
       "text": "repented",
       "refs": [
-        "Alma 22:6"
+        "Alma 22:6",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "cross-ref"
     }
@@ -51196,6 +52192,26 @@
         "Alma 1:4"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|21|8": [
@@ -51503,6 +52519,15 @@
         "TG Believe"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|22|12": [
@@ -51523,6 +52548,15 @@
         "TG Man, Physical Creation of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|22|13": [
@@ -51659,6 +52693,15 @@
         "Ether 12:4"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|22|17": [
@@ -51952,6 +52995,16 @@
         "Alma 26:24"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|23|4": [
@@ -52191,6 +53244,16 @@
         "Mosiah 1:5"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|24|8": [
@@ -52297,6 +53360,16 @@
         "TG Purification"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|24|16": [
@@ -52332,7 +53405,10 @@
       "marker": "b",
       "text": "covenanting",
       "refs": [
-        "TG Covenants"
+        "TG Covenants",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "tg"
     },
@@ -52439,6 +53515,16 @@
         "Rev. 14:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|24|27": [
@@ -52451,6 +53537,15 @@
         "Alma 37:7 (6–7)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|24|28": [
@@ -52539,6 +53634,15 @@
         "2 Pet. 2:20 (20–21)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "g",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|25|1": [
@@ -52708,6 +53812,16 @@
         "26:32"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|25|15": [
@@ -52756,7 +53870,10 @@
       "refs": [
         "Mosiah 3:15",
         "12:31",
-        "13:28 (27–33)"
+        "13:28 (27–33)",
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
       ],
       "category": "cross-ref"
     },
@@ -52917,6 +54034,26 @@
         "TG Thanksgiving"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|9": [
@@ -53026,6 +54163,16 @@
         "Alma 5:26"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|14": [
@@ -53054,6 +54201,16 @@
         "TG Light [noun]"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|16": [
@@ -53085,6 +54242,16 @@
         "D&C 97:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|17": [
@@ -53095,6 +54262,16 @@
         "TG Pollution"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|18": [
@@ -53117,6 +54294,16 @@
         "TG Despair"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|20": [
@@ -53128,6 +54315,16 @@
         "Hel. 3:29"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|21": [
@@ -53201,6 +54398,15 @@
         "D&C 107:19 (18–19)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|23": [
@@ -53251,6 +54457,15 @@
         "Jarom 1:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "iniquities",
+      "refs": [
+        "Isa. 53:5",
+        "Ex. 34:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|27": [
@@ -53323,6 +54538,16 @@
         "D&C 18:15 (15–16)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|31": [
@@ -53399,6 +54624,16 @@
         "TG God, Mercy of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|26|36": [
@@ -53523,6 +54758,16 @@
         "Mosiah 29:32 (32, 38, 40)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|27|12": [
@@ -53694,6 +54939,16 @@
         "Mosiah 27:24 (10–25)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|27|26": [
@@ -53733,6 +54988,16 @@
         "Hel. 15:8 (6–10)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|27|29": [
@@ -53764,6 +55029,16 @@
         "Alma 30:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|28|4": [
@@ -53814,6 +55089,16 @@
         "Alma 27:18 (16–19)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "redeemer",
+      "refs": [
+        "Job 19:25",
+        "Isa. 44:6",
+        "Isa. 43:1"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|28|10": [
@@ -53895,6 +55180,15 @@
         "2 Ne. 9:28"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|28|14": [
@@ -53925,6 +55219,16 @@
         "D&C 29:4"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|29|2": [
@@ -53936,6 +55240,16 @@
         "3 Ne. 21:20"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|29|4": [
@@ -53955,6 +55269,16 @@
         "TG Agency"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|29|5": [
@@ -54032,6 +55356,16 @@
         "Alma 12:9 (9–11)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|29|9": [
@@ -54060,6 +55394,16 @@
         "Mosiah 27:14 (11–31)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|29|11": [
@@ -54097,7 +55441,10 @@
       "marker": "a",
       "text": "holy",
       "refs": [
-        "Alma 5:3"
+        "Alma 5:3",
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
       ],
       "category": "cross-ref"
     },
@@ -54164,6 +55511,16 @@
         "TG Mourning"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|30|3": [
@@ -54268,6 +55625,15 @@
         "TG Adulterer"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|30|11": [
@@ -54339,6 +55705,15 @@
         "Acts 26:24 (24–25)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|30|17": [
@@ -54367,6 +55742,16 @@
         "Morm. 8:31"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "atonement",
+      "refs": [
+        "Lev. 16:30",
+        "Lev. 17:11",
+        "Isa. 6:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|30|19": [
@@ -54514,6 +55899,15 @@
         "Matt. 7:16"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|30|40": [
@@ -54534,6 +55928,15 @@
         "TG Testimony"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|30|42": [
@@ -54565,6 +55968,15 @@
         "1 Sam. 16:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|30|43": [
@@ -54650,6 +56062,16 @@
         "Mosiah 27:16"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|30|49": [
@@ -55033,6 +56455,16 @@
         "Alma 18:4 (4–5)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|31|16": [
@@ -55049,7 +56481,10 @@
       "marker": "b",
       "text": "holy",
       "refs": [
-        "Isa. 65:5 (1–5)"
+        "Isa. 65:5 (1–5)",
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
       ],
       "category": "cross-ref"
     },
@@ -55141,6 +56576,15 @@
         "Moses 7:44 (41–58)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|31|27": [
@@ -55189,6 +56633,15 @@
         "Num. 11:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|31|31": [
@@ -55506,6 +56959,15 @@
         "Steadfastness"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|14": [
@@ -55564,6 +57026,15 @@
         "Ether 12:12 (12, 18)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|19": [
@@ -55606,6 +57077,15 @@
         "TG Transgress"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|21": [
@@ -55633,6 +57113,25 @@
         "Ether 12:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|22": [
@@ -55643,6 +57142,16 @@
         "TG God, Mercy of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|23": [
@@ -55683,6 +57192,15 @@
         "Sincere"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|27": [
@@ -55694,6 +57212,15 @@
         "Teachable"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|28": [
@@ -55748,6 +57275,15 @@
         "Understanding"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "g",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|31": [
@@ -55792,6 +57328,16 @@
         "TG Mind"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|35": [
@@ -55849,6 +57395,15 @@
         "1 Ne. 15:36 (22, 28, 36)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|41": [
@@ -55890,6 +57445,15 @@
         "D&C 52:34 (18, 34)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "clean",
+      "refs": [
+        "Ps. 51:12",
+        "Ezek. 36:25"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|32|43": [
@@ -55991,6 +57555,15 @@
         "TG Worship"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|33|4": [
@@ -56156,6 +57729,15 @@
         "TG Martyrdom"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|33|19": [
@@ -56219,6 +57801,15 @@
         "Laziness"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|33|22": [
@@ -56351,6 +57942,15 @@
         "Alma 33:23"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|34|5": [
@@ -56428,6 +58028,16 @@
         "TG Jesus Christ, Atonement through"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "atonement",
+      "refs": [
+        "Lev. 16:30",
+        "Lev. 17:11",
+        "Isa. 6:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|34|9": [
@@ -56438,7 +58048,10 @@
         "2 Ne. 2:10",
         "9:7 (7–9)",
         "Alma 22:14",
-        "33:22"
+        "33:22",
+        "Lev. 16:30",
+        "Lev. 17:11",
+        "Isa. 6:7"
       ],
       "category": "cross-ref"
     },
@@ -56514,6 +58127,16 @@
         "Mosiah 29:25"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "atonement",
+      "refs": [
+        "Lev. 16:30",
+        "Lev. 17:11",
+        "Isa. 6:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|34|12": [
@@ -56534,6 +58157,16 @@
         "Murder"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "atonement",
+      "refs": [
+        "Lev. 16:30",
+        "Lev. 17:11",
+        "Isa. 6:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|34|13": [
@@ -56621,7 +58254,10 @@
       "marker": "a",
       "text": "salvation",
       "refs": [
-        "TG Salvation"
+        "TG Salvation",
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
       ],
       "category": "tg"
     }
@@ -56667,6 +58303,25 @@
         "TG Redemption"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "g",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|34|17": [
@@ -56686,6 +58341,25 @@
         "Prayer"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|34|18": [
@@ -56696,6 +58370,15 @@
         "Heb. 7:25 (24–25)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|34|19": [
@@ -57450,6 +59133,16 @@
         "Alma 29:11"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|36|3": [
@@ -57530,6 +59223,16 @@
         "TG Worthiness"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|36|6": [
@@ -57541,6 +59244,16 @@
         "28:4 (3–4)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|36|7": [
@@ -57723,6 +59436,16 @@
         "Enos 1:3"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|36|18": [
@@ -57767,6 +59490,16 @@
         "TG Death, Spiritual, First"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|36|19": [
@@ -58140,6 +59873,16 @@
         "D&C 133:58 (58–59)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|8": [
@@ -58195,6 +59938,16 @@
         "TG Gospel"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|10": [
@@ -58213,6 +59966,15 @@
         "TG Stiffnecked"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|12": [
@@ -58306,6 +60068,16 @@
         "1 Ne. 9:5 (3–6)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|16": [
@@ -58499,6 +60271,15 @@
         "TG Hate"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|30": [
@@ -58517,6 +60298,15 @@
         "TG Secret Combinations"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|31": [
@@ -58550,6 +60340,15 @@
         "Alma 43:7"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|33": [
@@ -58586,6 +60385,16 @@
         "TG Temptation"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|34": [
@@ -58709,6 +60518,15 @@
         "1 Ne. 16:28"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|37|41": [
@@ -58995,6 +60813,16 @@
         "36:6 (6–11)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|38|8": [
@@ -59029,6 +60857,35 @@
         "TG Remission of Sins"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "g",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|38|9": [
@@ -59125,6 +60982,15 @@
         "Poor in Spirit"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|38|15": [
@@ -59135,6 +61001,16 @@
         "1 Pet. 5:8"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|39|1": [
@@ -59235,6 +61111,15 @@
         "TG Forgive"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|39|7": [
@@ -59320,6 +61205,25 @@
         "TG Example"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "iniquities",
+      "refs": [
+        "Isa. 53:5",
+        "Ex. 34:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|39|12": [
@@ -59357,6 +61261,16 @@
         "Mosiah 27:35"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|39|14": [
@@ -59381,6 +61295,16 @@
         "TG Jesus Christ, Mission of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|39|16": [
@@ -59391,6 +61315,16 @@
         "TG Family, Children, Responsibilities toward"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|39|18": [
@@ -59616,7 +61550,10 @@
         "2 Kgs. 22:20",
         "Alma 7:27",
         "D&C 45:46",
-        "TG Peace of God"
+        "TG Peace of God",
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
       ],
       "category": "cross-ref"
     }
@@ -59656,6 +61593,15 @@
         "Mosiah 16:2"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|40|14": [
@@ -59729,6 +61675,16 @@
         "TG Jesus Christ, Resurrection"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|40|17": [
@@ -59760,6 +61716,15 @@
         "Mosiah 15:26"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|40|20": [
@@ -59907,6 +61872,15 @@
         "Ps. 75:8"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|41|1": [
@@ -59945,6 +61919,26 @@
         "Alma 40:23"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|41|3": [
@@ -59984,6 +61978,16 @@
         "Hel. 14:31"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|41|4": [
@@ -60138,6 +62142,15 @@
         "Peace of God"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|41|11": [
@@ -60203,6 +62216,26 @@
         "Rev. 22:12 (6–16)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|41|14": [
@@ -60246,6 +62279,35 @@
         "TG Mercy"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "g",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "h",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|41|15": [
@@ -60258,6 +62320,16 @@
         "Alma 42:27 (27–28)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|1": [
@@ -60287,6 +62359,16 @@
         "TG Injustice"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|2": [
@@ -60369,6 +62451,16 @@
         "Moses 3:9"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|6": [
@@ -60547,6 +62639,16 @@
         "2 Ne. 2:13 (13–14)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|14": [
@@ -60568,6 +62670,16 @@
         "25:23"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|15": [
@@ -60614,6 +62726,46 @@
         "TG God, Mercy of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "g",
+      "text": "atonement",
+      "refs": [
+        "Lev. 16:30",
+        "Lev. 17:11",
+        "Isa. 6:7"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "h",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "i",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|16": [
@@ -60679,6 +62831,16 @@
         "TG Conscience"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|19": [
@@ -60709,6 +62871,16 @@
         "Alma 9:16 (15–16)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|22": [
@@ -60724,7 +62896,10 @@
       "marker": "b",
       "text": "repentance",
       "refs": [
-        "TG Repent"
+        "TG Repent",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "tg"
     },
@@ -60736,6 +62911,16 @@
         "D&C 76:48"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|23": [
@@ -60751,7 +62936,10 @@
       "marker": "b",
       "text": "atonement",
       "refs": [
-        "TG Jesus Christ, Atonement through"
+        "TG Jesus Christ, Atonement through",
+        "Lev. 16:30",
+        "Lev. 17:11",
+        "Isa. 6:7"
       ],
       "category": "tg"
     },
@@ -60801,6 +62989,26 @@
         "TG God, Mercy of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|25": [
@@ -60819,6 +63027,16 @@
         "TG Justice"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|26": [
@@ -60884,6 +63102,16 @@
         "Alma 41:4 (2–5)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|29": [
@@ -60921,6 +63149,26 @@
         "TG Humility"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|42|31": [
@@ -60939,6 +63187,16 @@
         "TG Mission of Early Saints"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|43|1": [
@@ -60966,7 +63224,10 @@
       "refs": [
         "Alma 30:20 (20–23, 31)",
         "46:38",
-        "TG Priesthood"
+        "TG Priesthood",
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
       ],
       "category": "cross-ref"
     }
@@ -61350,6 +63611,15 @@
         "Judg. 7:16 (15–25)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|43|31": [
@@ -61652,6 +63922,16 @@
         "TG Liberty"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|44|6": [
@@ -61736,6 +64016,16 @@
         "Hel. 1:33"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|44|19": [
@@ -61746,6 +64036,16 @@
         "Alma 47:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|44|20": [
@@ -61765,6 +64065,26 @@
         "62:16 (16–17)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|44|22": [
@@ -61793,6 +64113,16 @@
         "TG Fast, Fasting"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|45|2": [
@@ -61825,6 +64155,16 @@
         "Obedience"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|45|8": [
@@ -61866,6 +64206,16 @@
         "TG Apostasy of Individuals"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|45|11": [
@@ -61896,6 +64246,15 @@
         "3 Ne. 27:32"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|45|13": [
@@ -61933,6 +64292,15 @@
         "Moro. 1:2 (1–3)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "iniquities",
+      "refs": [
+        "Isa. 53:5",
+        "Ex. 34:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|45|15": [
@@ -61980,7 +64348,9 @@
       "marker": "c",
       "text": "blessing",
       "refs": [
-        "D&C 130:21"
+        "D&C 130:21",
+        "Gen. 4:7",
+        "Isa. 1:18"
       ],
       "category": "cross-ref"
     },
@@ -62038,6 +64408,16 @@
         "TG Translated Beings"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|45|20": [
@@ -62093,6 +64473,16 @@
         "TG Teacher"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|45|23": [
@@ -62255,7 +64645,9 @@
       "text": "wickedness",
       "refs": [
         "2 Kgs. 10:29",
-        "Mosiah 29:17 (17–18)"
+        "Mosiah 29:17 (17–18)",
+        "Ps. 1:6",
+        "Isa. 55:7"
       ],
       "category": "cross-ref"
     }
@@ -62521,7 +64913,10 @@
       "marker": "b",
       "text": "covenant",
       "refs": [
-        "TG Commitment"
+        "TG Commitment",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "tg"
     }
@@ -62684,6 +65079,16 @@
         "49:30"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|46|39": [
@@ -62694,6 +65099,16 @@
         "Moro. 7:41 (3, 41)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|46|40": [
@@ -62765,6 +65180,16 @@
         "TG Provoking"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|47|2": [
@@ -62913,6 +65338,16 @@
         "TG Fraud"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|47|33": [
@@ -63012,6 +65447,15 @@
         "3 Ne. 4:5"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|48|1": [
@@ -63253,6 +65697,15 @@
         "D&C 35:24"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|48|18": [
@@ -63310,6 +65763,16 @@
         "Alma 48:2"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|48|23": [
@@ -63421,6 +65884,16 @@
         "Alma 16:2 (2–3, 9, 11)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|49|4": [
@@ -63631,6 +66104,16 @@
         "46:38"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|50|1": [
@@ -63831,6 +66314,16 @@
         "Alma 51:26"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|50|26": [
@@ -63919,6 +66412,16 @@
         "Alma 51:29"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|50|36": [
@@ -63927,7 +66430,10 @@
       "text": "covenanting",
       "refs": [
         "1 Ne. 4:37",
-        "Alma 44:15"
+        "Alma 44:15",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
     }
@@ -63995,6 +66501,16 @@
         "Hel. 1:5 (3–5, 13)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|50|40": [
@@ -64014,7 +66530,10 @@
       "marker": "a",
       "text": "peace",
       "refs": [
-        "TG Peacemakers"
+        "TG Peacemakers",
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
       ],
       "category": "tg"
     }
@@ -64027,6 +66546,16 @@
         "Alma 1:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|51|4": [
@@ -64135,6 +66664,16 @@
         "Alma 49:27 (26–27)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|51|10": [
@@ -64233,6 +66772,16 @@
         "3 Ne. 8:9"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|51|24": [
@@ -64475,6 +67024,25 @@
         "TG Trustworthiness"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|52|12": [
@@ -64496,6 +67064,16 @@
         "55:23"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|52|20": [
@@ -64588,6 +67166,16 @@
         "63:5"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|53|4": [
@@ -65090,6 +67678,16 @@
         "Alma 44:20 (12–23)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|55|31": [
@@ -65466,6 +68064,16 @@
         "Alma 56:56"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|57|26": [
@@ -65492,6 +68100,16 @@
         "TG Faith"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|57|27": [
@@ -65530,6 +68148,16 @@
         "Alma 12:34"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|58|1": [
@@ -65572,6 +68200,25 @@
         "TG Deliver"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|58|12": [
@@ -65918,6 +68565,16 @@
         "D&C 103:3"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|60|14": [
@@ -65938,6 +68595,15 @@
         "Alma 59:9"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|60|16": [
@@ -66239,6 +68905,16 @@
         "Mosiah 7:21"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|61|9": [
@@ -66290,6 +68966,16 @@
         "Submissiveness"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|61|13": [
@@ -66505,7 +69191,10 @@
       "text": "covenant",
       "refs": [
         "Alma 44:15, 20",
-        "3 Ne. 5:4"
+        "3 Ne. 5:4",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
     }
@@ -66539,6 +69228,16 @@
         "Alma 49:13 (13, 18–24)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|62|22": [
@@ -66676,6 +69375,16 @@
         "Alma 45:21"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|62|45": [
@@ -66707,6 +69416,16 @@
         "Alma 50:20"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|62|49": [
@@ -66795,6 +69514,16 @@
         "Alma 43–63"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|63|4": [
@@ -66846,6 +69575,16 @@
         "Hel. 3:10"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|63|9": [
@@ -66857,6 +69596,16 @@
         "6:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|63|10": [
@@ -66933,6 +69682,16 @@
         "Hel. 4:4"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Alma|63|15": [
@@ -66953,6 +69712,16 @@
         "Alma 1:2 (1–2)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|1|2": [
@@ -67474,6 +70243,15 @@
         "Alma 45:13 (12–14)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|3|20": [
@@ -67484,6 +70262,16 @@
         "Hel. 2:2"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|3|21": [
@@ -67518,6 +70306,16 @@
         "6:18"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|3|24": [
@@ -67547,6 +70345,16 @@
         "Rom. 2:11 (10–11)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|3|29": [
@@ -67691,6 +70499,16 @@
         "TG Treasure"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|3|37": [
@@ -67711,6 +70529,16 @@
         "5:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|4|1": [
@@ -67930,6 +70758,15 @@
         "Alma 1:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|4|23": [
@@ -67997,6 +70834,15 @@
         "D&C 11:19"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|4|26": [
@@ -68180,6 +71026,16 @@
         "TG World"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|5|10": [
@@ -68415,6 +71271,16 @@
         "TG Servant"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|5|30": [
@@ -68434,6 +71300,16 @@
         "D&C 85:6 (6–7)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|5|32": [
@@ -68443,7 +71319,10 @@
       "refs": [
         "Matt. 3:2 (2–3)",
         "Alma 7:9",
-        "9:25 (25–26)"
+        "9:25 (25–26)",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "cross-ref"
     }
@@ -68456,6 +71335,16 @@
         "Rom. 8:26"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|5|36": [
@@ -68549,7 +71438,10 @@
       "refs": [
         "3 Ne. 9:20",
         "19:14 (13–14)",
-        "Ether 12:14"
+        "Ether 12:14",
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
       ],
       "category": "cross-ref"
     },
@@ -68567,7 +71459,10 @@
       "marker": "a",
       "text": "Peace",
       "refs": [
-        "TG Peace of God"
+        "TG Peace of God",
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
       ],
       "category": "tg"
     }
@@ -68618,9 +71513,22 @@
       "marker": "a",
       "text": "righteousness",
       "refs": [
-        "Hel. 13:1"
+        "Hel. 13:1",
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|6|2": [
@@ -68633,6 +71541,15 @@
         "TG Hardheartedness"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|6|3": [
@@ -68692,6 +71609,16 @@
         "Hel. 3:12 (11–12)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|6|8": [
@@ -68787,6 +71714,16 @@
         "6:19"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|6|17": [
@@ -68817,6 +71754,15 @@
         "3:23"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|6|19": [
@@ -68865,6 +71811,16 @@
         "3 Ne. 3:7"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|6|23": [
@@ -68960,6 +71916,16 @@
         "Ether 8:21 (9, 15–25)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|6|29": [
@@ -69011,6 +71977,15 @@
         "Alma 7:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|6|32": [
@@ -69101,6 +72076,16 @@
         "Hel. 6:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|7|3": [
@@ -69111,6 +72096,16 @@
         "TG Prophets, Rejection of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|7|4": [
@@ -69122,6 +72117,15 @@
         "Unrighteous Dominion"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|7|5": [
@@ -69252,6 +72256,16 @@
         "Ezek. 18:23 (23, 32)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|7|18": [
@@ -69398,6 +72412,25 @@
         "Hel. 10:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|7|25": [
@@ -69506,6 +72539,15 @@
         "TG Testimony"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|8|11": [
@@ -69620,6 +72662,15 @@
         "Hel. 15:11"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|8|20": [
@@ -69669,6 +72720,15 @@
         "25:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|8|21": [
@@ -69837,6 +72897,15 @@
         "Dan. 2:9"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|9|3": [
@@ -70292,6 +73361,15 @@
         "Hel. 10:7 (5–11)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|11|19": [
@@ -70327,6 +73405,16 @@
         "Peace"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|11|23": [
@@ -70431,6 +73519,16 @@
         "TG Trust in God"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|12|2": [
@@ -70603,6 +73701,16 @@
         "Jer. 8:7"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|12|7": [
@@ -70848,6 +73956,15 @@
         "15:5"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|13|2": [
@@ -70945,6 +74062,16 @@
         "Hel. 15:17"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|13|7": [
@@ -71092,6 +74219,16 @@
         "Prov. 13:11"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|13|21": [
@@ -71185,7 +74322,9 @@
       "text": "prophet",
       "refs": [
         "2 Chr. 18:7",
-        "Luke 16:31 (19–31)"
+        "Luke 16:31 (19–31)",
+        "Deut. 18:15",
+        "Amos 3:7"
       ],
       "category": "cross-ref"
     },
@@ -71247,7 +74386,9 @@
         "Lam. 2:14",
         "4:13",
         "Micah 2:11",
-        "TG False Prophets"
+        "TG False Prophets",
+        "Deut. 18:15",
+        "Amos 3:7"
       ],
       "category": "cross-ref"
     }
@@ -71304,6 +74445,15 @@
         "Job 24:13 (2–16)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|13|31": [
@@ -71519,6 +74669,16 @@
         "TG Jesus Christ, Creator"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|14|13": [
@@ -71554,7 +74714,10 @@
       "marker": "a",
       "text": "salvation",
       "refs": [
-        "TG Jesus Christ, Savior"
+        "TG Jesus Christ, Savior",
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
       ],
       "category": "tg"
     },
@@ -71631,6 +74794,16 @@
         "TG Death, Spiritual, First"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "redeemer",
+      "refs": [
+        "Job 19:25",
+        "Isa. 44:6",
+        "Isa. 43:1"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|14|17": [
@@ -71659,6 +74832,16 @@
         "TG Death, Spiritual, Second"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|14|20": [
@@ -71776,6 +74959,16 @@
         "3 Ne. 23:11 (7–13)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|14|26": [
@@ -71821,6 +75014,15 @@
         "TG Judgment"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|14|30": [
@@ -71963,6 +75165,16 @@
         "Alma 9:16"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|15|5": [
@@ -71974,6 +75186,16 @@
         "16:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|15|6": [
@@ -71994,6 +75216,15 @@
         "TG Conversion"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|15|8": [
@@ -72063,6 +75294,15 @@
         "7:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|15|12": [
@@ -72101,6 +75341,15 @@
         "Morm. 5:20 (20–21)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Helaman|15|13": [
@@ -72419,6 +75668,16 @@
         "Alma 50:38"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|1|3": [
@@ -72713,6 +75972,16 @@
         "TG Remission of Sins"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|1|24": [
@@ -72765,6 +76034,16 @@
         "3 Ne. 2:11"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|1|29": [
@@ -72873,6 +76152,16 @@
         "3 Ne. 1:3 (2–3)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|2|10": [
@@ -72883,6 +76172,15 @@
         "Alma 34:35"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|2|11": [
@@ -73069,6 +76367,15 @@
         "Hel. 14:30"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|3|12": [
@@ -73088,6 +76395,16 @@
         "TG Strength"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|3|13": [
@@ -73141,6 +76458,15 @@
         "TG Guidance, Divine"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|3|20": [
@@ -73457,6 +76783,16 @@
         "TG Protection, Divine"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|4|31": [
@@ -73504,7 +76840,10 @@
       "text": "covenant",
       "refs": [
         "Alma 44:15",
-        "62:16 (16–17)"
+        "62:16 (16–17)",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
     },
@@ -73624,6 +76963,16 @@
         "Moro. 7:2"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|5|14": [
@@ -73679,6 +77028,16 @@
         "D&C 76:116"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|5|20": [
@@ -73699,6 +77058,25 @@
         "3 Ne. 15:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "clean",
+      "refs": [
+        "Ps. 51:12",
+        "Ezek. 36:25"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|5|21": [
@@ -73727,6 +77105,15 @@
         "Ps. 98:3"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|5|22": [
@@ -73788,7 +77175,10 @@
       "text": "covenanted",
       "refs": [
         "3 Ne. 15:8",
-        "16:5"
+        "16:5",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
     },
@@ -73811,6 +77201,16 @@
         "3 Ne. 20:31 (29–34)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|6|1": [
@@ -73841,6 +77241,16 @@
         "3 Ne. 5:4"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|6|4": [
@@ -73851,6 +77261,16 @@
         "TG Order"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|6|6": [
@@ -74237,6 +77657,16 @@
         "3 Ne. 9:9"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|7|12": [
@@ -74257,6 +77687,16 @@
         "3 Ne. 6:23 (23–25)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|7|15": [
@@ -74268,6 +77708,15 @@
         "11:18"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|7|16": [
@@ -74281,6 +77730,16 @@
         "Moses 8:25"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|7|17": [
@@ -74301,6 +77760,16 @@
         "Alma 4:19"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|7|19": [
@@ -74327,6 +77796,16 @@
         "TG Death, Power over"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|7|20": [
@@ -74355,6 +77834,16 @@
         "TG God, Spirit of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|7|22": [
@@ -74439,6 +77928,26 @@
         "Jacob 4:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "g",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|8|2": [
@@ -74462,6 +77971,15 @@
         "TG Darkness, Physical"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|8|4": [
@@ -74909,6 +78427,16 @@
         "Gen. 4:10"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|9|12": [
@@ -74951,6 +78479,16 @@
         "3 Ne. 18:32"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|9|14": [
@@ -74980,6 +78518,25 @@
         "Alma 19:36"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|9|15": [
@@ -75005,6 +78562,16 @@
         "19:23 (23, 29)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|9|16": [
@@ -75124,6 +78691,16 @@
         "TG Jesus Christ, Atonement through"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|9|22": [
@@ -75131,7 +78708,10 @@
       "marker": "a",
       "text": "repenteth",
       "refs": [
-        "TG Repent"
+        "TG Repent",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "tg"
     },
@@ -75254,7 +78834,10 @@
       "marker": "b",
       "text": "covenant",
       "refs": [
-        "Enos 1:16 (12–18)"
+        "Enos 1:16 (12–18)",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
     }
@@ -75303,6 +78886,16 @@
         "Acts 16:25"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|10|11": [
@@ -75361,6 +78954,25 @@
         "2 Ne. 26:5"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|10|15": [
@@ -75389,6 +79001,15 @@
         "1 Ne. 19:21"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|10|17": [
@@ -75426,6 +79047,16 @@
         "Acts 1:9 (9–11)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|10|19": [
@@ -75632,6 +79263,16 @@
         "3 Ne. 10:19"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|13": [
@@ -75702,6 +79343,16 @@
         "TG Worship"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|18": [
@@ -75810,6 +79461,25 @@
         "3 Ne. 19:11 (10–13)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|25": [
@@ -75832,6 +79502,16 @@
         "TG Godhead"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|26": [
@@ -75865,6 +79545,15 @@
         "D&C 20:28"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|28": [
@@ -75903,6 +79592,15 @@
         "Hel. 4:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|30": [
@@ -75925,6 +79623,15 @@
         "2 Ne. 31:21 (2–21)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|32": [
@@ -75991,6 +79698,15 @@
         "TG Baptism"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|35": [
@@ -76018,6 +79734,15 @@
         "TG Holy Ghost, Baptism of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|36": [
@@ -76097,6 +79822,15 @@
         "D&C 17:8"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|11|40": [
@@ -76160,6 +79894,16 @@
         "TG Called of God"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|12|2": [
@@ -76411,6 +80155,15 @@
         "Salt"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|12|15": [
@@ -76459,6 +80212,15 @@
         "TG Law of Moses"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|12|19": [
@@ -76496,6 +80258,15 @@
         "3 Ne. 15:10"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|12|21": [
@@ -76551,6 +80322,16 @@
         "D&C 46:4"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|12|25": [
@@ -76572,6 +80353,15 @@
         "30:33"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|12|27": [
@@ -76664,6 +80454,15 @@
         "TG Adulterer"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|12|33": [
@@ -76702,6 +80501,15 @@
         "TG Profanity"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|12|37": [
@@ -76890,6 +80698,16 @@
         "Man, Potential to Become like Heavenly Father"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|13|1": [
@@ -76901,6 +80719,24 @@
         "TG Almsgiving"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|13|2": [
@@ -76911,6 +80747,24 @@
         "D&C 121:35 (34–35)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "faith",
+      "refs": [
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|13|5": [
@@ -76929,6 +80783,15 @@
         "TG Hypocrisy"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|13|6": [
@@ -77047,6 +80910,15 @@
         "TG Hypocrisy"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|13|17": [
@@ -77117,6 +80989,16 @@
         "TG Dedication"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|13|24": [
@@ -77175,6 +81057,16 @@
         "Job 27:16 (16–17)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|13|26": [
@@ -77234,6 +81126,25 @@
         "Matt. 7:1 (1–27)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|14|2": [
@@ -77534,6 +81445,16 @@
         "D&C 5:35"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|15|2": [
@@ -77544,6 +81465,16 @@
         "3 Ne. 12:47 (46–47)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|15|3": [
@@ -77598,6 +81529,15 @@
         "23:3 (1–3)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|15|8": [
@@ -77608,7 +81548,10 @@
         "3 Ne. 5:25 (24–26)",
         "16:5",
         "TG Covenants",
-        "Restoration of the Gospel"
+        "Restoration of the Gospel",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
     }
@@ -77680,6 +81623,16 @@
         "Moro. 2:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|15|12": [
@@ -77807,6 +81760,15 @@
         "John 17:6 (6–22)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|15|21": [
@@ -77825,6 +81787,15 @@
         "TG Jesus Christ, Good Shepherd"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|15|22": [
@@ -77896,6 +81867,15 @@
         "TG Israel, Ten Lost Tribes of"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|16|3": [
@@ -78074,6 +82054,25 @@
         "1 Ne. 19:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|16|10": [
@@ -78182,6 +82181,15 @@
         "3 Ne. 15:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|16|17": [
@@ -78192,6 +82200,15 @@
         "3 Ne. 20:11"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|16|18": [
@@ -78213,6 +82230,16 @@
         "TG Watchman"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|17|1": [
@@ -78223,6 +82250,16 @@
         "v. 4"
       ],
       "category": "ie"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|17|2": [
@@ -78308,6 +82345,16 @@
         "TG God, Love of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|17|6": [
@@ -78315,7 +82362,9 @@
       "marker": "a",
       "text": "compassion",
       "refs": [
-        "TG Compassion"
+        "TG Compassion",
+        "Isa. 49:15",
+        "Ps. 103:13"
       ],
       "category": "tg"
     }
@@ -78414,6 +82463,16 @@
         "3 Ne. 19:6 (6, 16–17)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|17|14": [
@@ -78428,6 +82487,16 @@
         "Moses 7:41"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|17|15": [
@@ -78480,6 +82549,16 @@
         "TG Joy"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|17|20": [
@@ -78543,6 +82622,16 @@
         "26:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|3": [
@@ -78639,6 +82728,16 @@
         "TG Commitment"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|11": [
@@ -78706,6 +82805,15 @@
         "D&C 93:49"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|16": [
@@ -78745,6 +82853,15 @@
         "D&C 10:22 (22–27)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|20": [
@@ -78842,6 +82959,16 @@
         "3 Ne. 13:25"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|27": [
@@ -78860,6 +82987,15 @@
         "3 Ne. 16:3"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|28": [
@@ -78918,6 +83054,16 @@
         "3 Ne. 18:23"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|31": [
@@ -78938,6 +83084,16 @@
         "3 Ne. 15:24"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|32": [
@@ -78959,6 +83115,16 @@
         "D&C 112:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|33": [
@@ -79013,6 +83179,16 @@
         "19:4 (4–12)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|18|37": [
@@ -79108,6 +83284,16 @@
         "26:17"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|19|5": [
@@ -79198,6 +83384,16 @@
         "3 Ne. 17:15"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|19|20": [
@@ -79265,6 +83461,16 @@
         "D&C 46:30"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|19|25": [
@@ -79299,6 +83505,16 @@
         "TG Transfiguration"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|19|28": [
@@ -79333,6 +83549,16 @@
         "Matt. 17:2"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|19|32": [
@@ -79405,6 +83631,25 @@
         "Unbelief"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|20|1": [
@@ -79504,9 +83749,21 @@
       "text": "covenant",
       "refs": [
         "Gen. 17:11 (9–12)",
-        "3 Ne. 15:7"
+        "3 Ne. 15:7",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|20|13": [
@@ -79650,6 +83907,16 @@
         "Micah 4:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|20|20": [
@@ -79731,7 +83998,9 @@
         "Deut. 18:15 (15–19)",
         "Acts 3:22 (22–23)",
         "1 Ne. 22:20 (20–21)",
-        "D&C 133:63"
+        "D&C 133:63",
+        "Deut. 18:15",
+        "Amos 3:7"
       ],
       "category": "cross-ref"
     }
@@ -79746,6 +84015,15 @@
         "Jacob 7:11"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|20|25": [
@@ -79761,7 +84039,10 @@
       "marker": "b",
       "text": "covenant",
       "refs": [
-        "TG Abrahamic Covenant"
+        "TG Abrahamic Covenant",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "tg"
     },
@@ -79793,6 +84074,16 @@
         "Alma 19:33"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|20|27": [
@@ -79893,6 +84184,16 @@
         "21:26 (26–29)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|20|32": [
@@ -79937,6 +84238,16 @@
         "Isa. 54:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "redeemer",
+      "refs": [
+        "Job 19:25",
+        "Isa. 44:6",
+        "Isa. 43:1"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|20|36": [
@@ -79971,6 +84282,26 @@
         "1 Ne. 13:37"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|20|41": [
@@ -80049,6 +84380,25 @@
         "Ether 13:5 (5, 11)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|21|1": [
@@ -80067,6 +84417,15 @@
         "TG Last Days"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|21|2": [
@@ -80080,6 +84439,15 @@
         "JS—H 1:34"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|21|3": [
@@ -80099,6 +84467,15 @@
         "Morm. 5:15 (10–21)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|21|4": [
@@ -80119,7 +84496,10 @@
         "Ps. 89:35",
         "3 Ne. 16:11 (8–12)",
         "Morm. 5:20",
-        "TG Abrahamic Covenant"
+        "TG Abrahamic Covenant",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
     }
@@ -80262,6 +84642,25 @@
         "133:63"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|21|12": [
@@ -80386,6 +84785,16 @@
         "Jer. 44:8 (6–8)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|21|21": [
@@ -80525,6 +84934,15 @@
         "TG Israel, Ten Lost Tribes of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|21|27": [
@@ -80750,6 +85168,16 @@
         "D&C 35:25"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|22|11": [
@@ -80873,6 +85301,16 @@
         "Luke 24:27 (25–27)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|23|7": [
@@ -80918,6 +85356,25 @@
         "TG Resurrection"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|23|11": [
@@ -80936,6 +85393,26 @@
         "Matt. 27:52 (52–53)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|23|13": [
@@ -80946,6 +85423,16 @@
         "TG Record Keeping"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|23|14": [
@@ -80965,6 +85452,16 @@
         "Teaching"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|24|1": [
@@ -81001,6 +85498,16 @@
         "TG Jesus Christ, Messenger of the Covenant"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|24|2": [
@@ -81139,6 +85646,16 @@
         "Moro. 9:22"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|24|8": [
@@ -81280,6 +85797,25 @@
         "TG Discernment, Spiritual"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|25|1": [
@@ -81317,6 +85853,15 @@
         "TG Pride"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|25|2": [
@@ -81356,6 +85901,15 @@
         "3 Ne. 21:12"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|25|4": [
@@ -81394,6 +85948,15 @@
         "TG Day of the Lord"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|25|6": [
@@ -81523,6 +86086,16 @@
         "TG Man, Antemortal Existence of"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|26|6": [
@@ -81536,6 +86109,16 @@
         "Ether 15:33"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|26|7": [
@@ -81566,6 +86149,16 @@
         "3 Ne. 21:5 (5–6)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|26|9": [
@@ -81752,6 +86345,16 @@
         "4 Ne. 1:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|26|18": [
@@ -81788,6 +86391,16 @@
         "TG Consecration"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|26|21": [
@@ -81800,6 +86413,16 @@
         "TG Church"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|27|1": [
@@ -81832,6 +86455,16 @@
         "TG Fast, Fasting"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|27|2": [
@@ -81843,6 +86476,16 @@
         "TG Jesus Christ, Appearances, Postmortal"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|27|3": [
@@ -81916,6 +86559,15 @@
         "TG Hell"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|27|12": [
@@ -82051,6 +86703,16 @@
         "TG God, Justice of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|27|19": [
@@ -82091,7 +86753,10 @@
       "text": "Repent",
       "refs": [
         "Ether 4:18",
-        "Moro. 7:34"
+        "Moro. 7:34",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "cross-ref"
     },
@@ -82139,6 +86804,15 @@
         "TG Jesus Christ, Exemplar"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|27|23": [
@@ -82227,6 +86901,24 @@
         "3 Ne. 12:48"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "faith",
+      "refs": [
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|27|28": [
@@ -82238,6 +86930,15 @@
         "20:17"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|27|29": [
@@ -82339,6 +87040,16 @@
         "D&C 22:4 (1–4)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|28|1": [
@@ -82350,6 +87061,16 @@
         "D&C 7:1 (1–8)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|28|3": [
@@ -82514,6 +87235,16 @@
         "Morm. 1:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|28|13": [
@@ -82680,6 +87411,16 @@
         "TG Angels"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|28|31": [
@@ -82739,6 +87480,16 @@
         "TG Prophets, Rejection of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|28|35": [
@@ -82819,7 +87570,10 @@
       "marker": "c",
       "text": "holy",
       "refs": [
-        "TG Holiness"
+        "TG Holiness",
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
       ],
       "category": "tg"
     }
@@ -82839,7 +87593,10 @@
       "text": "covenant",
       "refs": [
         "Ezek. 20:37",
-        "Morm. 5:14 (14, 20)"
+        "Morm. 5:14 (14, 20)",
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
       ],
       "category": "cross-ref"
     },
@@ -82861,6 +87618,15 @@
         "Luke 12:45"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|29|4": [
@@ -82879,6 +87645,16 @@
         "TG Justice"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|29|5": [
@@ -82956,6 +87732,25 @@
         "TG Sons of Perdition"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|29|8": [
@@ -82993,6 +87788,16 @@
         "3 Ne. 5:13 (12–13)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "3 Nephi|30|2": [
@@ -83008,7 +87813,10 @@
       "marker": "b",
       "text": "repent",
       "refs": [
-        "TG Repent"
+        "TG Repent",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "tg"
     },
@@ -87231,6 +92039,16 @@
         "TG Communication"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|1|35": [
@@ -87243,6 +92061,15 @@
         "Moses 6:6 (5–6)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|1|36": [
@@ -87282,6 +92109,15 @@
         "Ether 3:3"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|1|41": [
@@ -87605,6 +92441,15 @@
         "Morm. 1:17"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "iniquities",
+      "refs": [
+        "Isa. 53:5",
+        "Ex. 34:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|2|12": [
@@ -87624,6 +92469,16 @@
         "Isa. 60:12"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|2|13": [
@@ -87709,6 +92564,16 @@
         "Ether 9:20"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|2|16": [
@@ -87821,6 +92686,16 @@
         "Rev. 21:21"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|3|2": [
@@ -87855,6 +92730,16 @@
         "Mosiah 3:19"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "e",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|3|3": [
@@ -88094,6 +92979,16 @@
         "TG Sons and Daughters of God"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "f",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|3|15": [
@@ -88181,6 +93076,26 @@
         "3 Ne. 11:8 (8–16)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|3|19": [
@@ -88215,6 +93130,25 @@
         "TG Doubt"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "e",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|3|20": [
@@ -88419,6 +93353,15 @@
         "TG Scriptures, Preservation of"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|4|4": [
@@ -88509,6 +93452,25 @@
         "Mosiah 3:8"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "g",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|4|8": [
@@ -88540,6 +93502,16 @@
         "3 Ne. 26:10 (9–10)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|4|9": [
@@ -88572,6 +93544,15 @@
         "3 Ne. 27:25 (23–27)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|4|11": [
@@ -88654,6 +93635,15 @@
         "Alma 38:9"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|4|13": [
@@ -88693,6 +93683,15 @@
         "Moro. 2:2"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|4|16": [
@@ -88722,7 +93721,10 @@
       "text": "repent",
       "refs": [
         "3 Ne. 27:20",
-        "Moro. 7:34"
+        "Moro. 7:34",
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
       ],
       "category": "cross-ref"
     },
@@ -88742,6 +93744,15 @@
         "TG Holy Ghost, Gifts of"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|4|19": [
@@ -88774,6 +93785,15 @@
         "Ether 3:14"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|5|1": [
@@ -88858,6 +93878,16 @@
         "Moro. 10:30 (30–32)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|6|1": [
@@ -89183,6 +94213,16 @@
         "1 Ne. 16:18"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|7|16": [
@@ -89211,7 +94251,9 @@
       "text": "prophets",
       "refs": [
         "Ether 9:28",
-        "11:1 (1, 12, 20)"
+        "11:1 (1, 12, 20)",
+        "Deut. 18:15",
+        "Amos 3:7"
       ],
       "category": "cross-ref"
     },
@@ -89255,6 +94297,16 @@
         "Ether 6:12 (1–12)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|8|2": [
@@ -89386,6 +94438,16 @@
         "TG Secret Combinations"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|8|20": [
@@ -89458,6 +94520,16 @@
         "Luke 13:3 (1–5)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|8|24": [
@@ -89468,6 +94540,16 @@
         "D&C 42:64"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|8|25": [
@@ -89714,6 +94796,16 @@
         "3 Ne. 25:2"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|9|23": [
@@ -89734,6 +94826,15 @@
         "Ether 10:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|9|28": [
@@ -89745,6 +94846,25 @@
         "11:1 (1, 12, 20)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|9|29": [
@@ -89755,6 +94875,15 @@
         "Jer. 38:6 (4–13)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|9|30": [
@@ -89861,6 +94990,16 @@
         "Ether 6:12 (1–12)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|10|3": [
@@ -89871,6 +95010,16 @@
         "Mosiah 10:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|10|5": [
@@ -89950,6 +95099,16 @@
         "1 Ne. 17:35 (34–35)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|10|14": [
@@ -90143,7 +95302,9 @@
       "text": "prophets",
       "refs": [
         "Ether 7:23",
-        "9:28"
+        "9:28",
+        "Deut. 18:15",
+        "Amos 3:7"
       ],
       "category": "cross-ref"
     }
@@ -90197,6 +95358,15 @@
         "TG Mercy"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|11|9": [
@@ -90218,6 +95388,15 @@
         "Ether 12:3"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|11|13": [
@@ -90255,6 +95434,16 @@
         "TG Secret Combinations"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|11|18": [
@@ -90275,6 +95464,25 @@
         "TG Judgment"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|11|21": [
@@ -90312,6 +95520,16 @@
         "TG Secret Combinations"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|11|23": [
@@ -90467,6 +95685,15 @@
         "3 Ne. 12:16"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "h",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|5": [
@@ -90479,6 +95706,15 @@
         "Hel. 16:20"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|6": [
@@ -90524,6 +95760,15 @@
         "TG Test"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|7": [
@@ -90585,6 +95830,15 @@
         "Morm. 9:20"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|13": [
@@ -90684,6 +95938,15 @@
         "TG Veil"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|20": [
@@ -90723,6 +95986,16 @@
         "Enos 1:13"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|23": [
@@ -90826,6 +96099,16 @@
         "Offense"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|27": [
@@ -90877,6 +96160,16 @@
         "1 Ne. 14:1"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "f",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|28": [
@@ -90895,6 +96188,15 @@
         "TG God, the Standard of Righteousness"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "c",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|29": [
@@ -90918,6 +96220,15 @@
         "TG God, Power of"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|31": [
@@ -90979,6 +96290,16 @@
         "TG Love"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|35": [
@@ -91005,6 +96326,16 @@
         "TG Talents"
       ],
       "category": "tg"
+    },
+    {
+      "marker": "d",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|36": [
@@ -91040,6 +96371,25 @@
         "Ether 12:25 (25–27)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|12|38": [
@@ -91111,6 +96461,26 @@
         "3 Ne. 11:32 (32, 36)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|13|2": [
@@ -91195,7 +96565,10 @@
       "refs": [
         "Joel 2:18",
         "Rev. 21:10 (10–27)",
-        "3 Ne. 20:46 (29–36, 46)"
+        "3 Ne. 20:46 (29–36, 46)",
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
       ],
       "category": "cross-ref"
     }
@@ -91249,6 +96622,15 @@
         "2 Ne. 3:5 (5–24)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "c",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|13|8": [
@@ -91275,6 +96657,16 @@
         "Moro. 10:31"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|13|9": [
@@ -91329,6 +96721,16 @@
         "Isa. 27:6"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "d",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|13|12": [
@@ -91376,6 +96778,16 @@
         "Morm. 6:19 (16–22)"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|13|18": [
@@ -91434,6 +96846,16 @@
         "Prov. 29:10"
       ],
       "category": "cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ],
   "Ether|13|25": [
@@ -94712,6 +100134,1389 @@
         "TG Jesus Christ, Judge"
       ],
       "category": "tg"
+    }
+  ],
+  "Ether|1|37": [
+    {
+      "marker": "a",
+      "text": "compassion",
+      "refs": [
+        "Isa. 49:15",
+        "Ps. 103:13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Ether|7|1": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Ether|7|11": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Ether|9|15": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Ether|9|21": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Ether|11|10": [
+    {
+      "marker": "a",
+      "text": "iniquities",
+      "refs": [
+        "Isa. 53:5",
+        "Ex. 34:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Ether|14|18": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|1|33": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|2|31": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|3|24": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|5|35": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|5|48": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|7|22": [
+    {
+      "marker": "a",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|8|2": [
+    {
+      "marker": "a",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|8|18": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|13|17": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "iniquities",
+      "refs": [
+        "Isa. 53:5",
+        "Ex. 34:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|14|15": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|15|7": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|15|9": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|15|19": [
+    {
+      "marker": "a",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|16|1": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|16|12": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|17|39": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|20|15": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|23|7": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|26|28": [
+    {
+      "marker": "a",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|27|30": [
+    {
+      "marker": "a",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|30|5": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|30|9": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|30|14": [
+    {
+      "marker": "a",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|30|37": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|30|39": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|30|48": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|30|55": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|30|58": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|31|18": [
+    {
+      "marker": "a",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|32|26": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|41|6": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|42|20": [
+    {
+      "marker": "a",
+      "text": "sin",
+      "refs": [
+        "Gen. 4:7",
+        "Isa. 1:18"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|43|42": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|44|18": [
+    {
+      "marker": "a",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|44|24": [
+    {
+      "marker": "a",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|45|4": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|45|5": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|46|37": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|47|11": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|47|12": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|47|23": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|50|22": [
+    {
+      "marker": "a",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|50|24": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|51|35": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|52|17": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|53|15": [
+    {
+      "marker": "a",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|53|18": [
+    {
+      "marker": "a",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|57|35": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|58|24": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|60|11": [
+    {
+      "marker": "a",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|60|34": [
+    {
+      "marker": "a",
+      "text": "covenant",
+      "refs": [
+        "Gen. 17:7",
+        "Jer. 31:31",
+        "Deut. 7:9"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|61|17": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|62|42": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|62|46": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Alma|63|2": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|3|27": [
+    {
+      "marker": "a",
+      "text": "holy",
+      "refs": [
+        "Lev. 11:44",
+        "Isa. 6:3",
+        "Ex. 19:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|3|32": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|6|7": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|6|14": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|6|37": [
+    {
+      "marker": "a",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|6|38": [
+    {
+      "marker": "a",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|6|41": [
+    {
+      "marker": "a",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|8|10": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|9|27": [
+    {
+      "marker": "a",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|11|10": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|11|11": [
+    {
+      "marker": "a",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|14|9": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|14|19": [
+    {
+      "marker": "a",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "Helaman|16|10": [
+    {
+      "marker": "a",
+      "text": "blameless",
+      "refs": [
+        "Gen. 17:1",
+        "Deut. 18:13",
+        "Ps. 19:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|3|5": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|4|29": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|4|33": [
+    {
+      "marker": "a",
+      "text": "lovingkindness",
+      "refs": [
+        "Ex. 34:6–7",
+        "Ps. 136:1",
+        "Mic. 6:8"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|5|6": [
+    {
+      "marker": "a",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|6|9": [
+    {
+      "marker": "a",
+      "text": "peace",
+      "refs": [
+        "Isa. 9:5",
+        "1 Kgs. 8:61",
+        "Num. 6:26"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|7|7": [
+    {
+      "marker": "a",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|7|10": [
+    {
+      "marker": "a",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|11|10": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|12|14": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|13|3": [
+    {
+      "marker": "a",
+      "text": "righteousness",
+      "refs": [
+        "Gen. 15:6",
+        "Amos 5:24",
+        "Isa. 32:17"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|13|30": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|15|20": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|16|19": [
+    {
+      "marker": "a",
+      "text": "redeemer",
+      "refs": [
+        "Job 19:25",
+        "Isa. 44:6",
+        "Isa. 43:1"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|17|12": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|17|19": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|18|17": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|19|1": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    },
+    {
+      "marker": "b",
+      "text": "repent",
+      "refs": [
+        "Isa. 55:7",
+        "Mal. 3:7",
+        "Joel 2:12–13"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|19|3": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|19|7": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|19|8": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|19|15": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|19|26": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|19|36": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|20|9": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|20|10": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|20|39": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|23|6": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|23|10": [
+    {
+      "marker": "a",
+      "text": "prophet",
+      "refs": [
+        "Deut. 18:15",
+        "Amos 3:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|24|15": [
+    {
+      "marker": "a",
+      "text": "wicked",
+      "refs": [
+        "Ps. 1:6",
+        "Isa. 55:7"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|26|1": [
+    {
+      "marker": "a",
+      "text": "salvation",
+      "refs": [
+        "Isa. 12:2",
+        "Ex. 14:13",
+        "Isa. 49:6"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|27|4": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
+    }
+  ],
+  "3 Nephi|27|9": [
+    {
+      "marker": "a",
+      "text": "believed",
+      "refs": [
+        "Gen. 15:6",
+        "Hab. 2:4"
+      ],
+      "category": "hebrew-cross-ref"
     }
   ]
 }
