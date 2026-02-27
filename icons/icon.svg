@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#1e2233"/>
+  <text x="256" y="230" text-anchor="middle" font-family="serif" font-size="160" fill="#c8a84e" direction="rtl">ספר</text>
+  <text x="256" y="370" text-anchor="middle" font-family="serif" font-size="100" fill="#c8a84e" direction="rtl">מורמון</text>
+</svg>
