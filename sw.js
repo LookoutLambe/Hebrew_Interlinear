@@ -1,12 +1,16 @@
 var CACHE_NAME = 'hebrew-bom-v1';
-var PRECACHE_URLS = [
-  '/BOM.html',
-  '/official_verses.js',
-  '/crossrefs.js',
-  '/roots_glossary.js',
-  '/scripture_verses.js',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png'
+
+// Use relative paths resolved from service worker scope
+var BASE = self.registration.scope;
+
+var PRECACHE_FILES = [
+  'BOM.html',
+  'official_verses.js',
+  'crossrefs.js',
+  'roots_glossary.js',
+  'scripture_verses.js',
+  'icons/icon-192.png',
+  'icons/icon-512.png'
 ];
 
 // Install: precache core assets
@@ -14,7 +18,8 @@ self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       console.log('[SW] Precaching core assets');
-      return cache.addAll(PRECACHE_URLS);
+      var urls = PRECACHE_FILES.map(function(f) { return new URL(f, BASE).href; });
+      return cache.addAll(urls);
     }).then(function() {
       return self.skipWaiting();
     })
@@ -47,7 +52,7 @@ self.addEventListener('fetch', function(event) {
   if (event.request.method !== 'GET') return;
 
   // Network-first for HTML (so updates propagate quickly)
-  if (url.pathname.endsWith('.html') || url.pathname === '/') {
+  if (url.pathname.endsWith('.html') || url.pathname.endsWith('/')) {
     event.respondWith(
       fetch(event.request).then(function(response) {
         var clone = response.clone();
@@ -62,7 +67,7 @@ self.addEventListener('fetch', function(event) {
     return;
   }
 
-  // Cache-first for JS data files and icons
+  // Cache-first for JS data files, JSON, and images
   if (url.pathname.endsWith('.js') || url.pathname.endsWith('.json') || url.pathname.endsWith('.png')) {
     event.respondWith(
       caches.match(event.request).then(function(cached) {
