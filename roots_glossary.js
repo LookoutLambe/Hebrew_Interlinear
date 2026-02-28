@@ -522,7 +522,7 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "חסד": {
-    "meaning": "lovingkindness, mercy, covenant faithfulness",
+    "meaning": "kindness, loving-kindness, steadfast love, mercy, loyalty, faithfulness, grace, compassion",
     "category": "Theology",
     "biblicalRefs": [
       {"ref": "Ex 34:6-7", "note": "Abounding in lovingkindness (\u05d7\u05b6\u05e1\u05b6\u05d3) and truth"},
@@ -17137,8 +17137,8 @@ window._rootGlossaryData = {
     "category": "Uncategorized"
   },
   "חסד׃": {
-    "meaning": "mercy",
-    "category": "Uncategorized"
+    "meaning": "kindness, loving-kindness, steadfast love, mercy, loyalty",
+    "category": "Theology"
   },
   "על־זרע": {
     "meaning": "upon seed of",
