@@ -1,0 +1,4509 @@
+chapter_var|verse_num|hebrew_word|transliteration_gloss
+---
+ch10Verses|ט|עֲבָרָה|Abarah
+ch16Verses|יג|שָׁזֵר|Shazer
+ch16Verses|יד|שָׁזֵר|Shazer
+n2_ch26Verses|לג|יְהוּדִי|Jew
+n2_ch33Verses|ח|יְהוּדִי|Jew
+n2_ch33Verses|י|הַיְּהוּדִי|Jew
+jc_ch1Verses|יג|יַעֲקֹבִים|Jacobites
+jc_ch1Verses|יג|יוֹסֵפִים|Josephites
+jc_ch1Verses|יג|לְמוּאֵלִים|Lemuelites
+mo_ch3Verses|ח|מִרְיָם|Mary
+mo_ch12Verses|לג|סִינַי|Sinai
+mo_ch13Verses|ה|סִינַי|Sinai
+et_ch1Verses|יא|וְשֵׁת|Osht
+et_ch1Verses|יד|וְכוֹרִיַנְטוּם|Okorintom
+et_ch1Verses|טו|וְעַמְנִיגַדָּה|Omnigdh
+et_ch1Verses|יז|וְהֶאַרְתוֹם|Ohrtom
+et_ch1Verses|יט|וְקִישׁ|Okish
+et_ch1Verses|כ|וְכּוֹרוֹם|Okorom
+et_ch1Verses|כא|וְלֵוִי|Oloi
+et_ch1Verses|כב|וְקִים|Okim
+et_ch1Verses|כג|וּמוֹרִיַנְטוֹן|Omorinton
+et_ch1Verses|כח|וְכּוֹרִיַנְטוּם|Okorintom
+et_ch1Verses|לב|וְקִיב|Okib
+et_ch1Verses|לב|בֶן־אוֹרִיהָה|Vnorihh
+et_ch1Verses|לב|בֶן־יָרֶד׃|Vnird
+et_ch1Verses|לג|יְפִיצֵם|Ipitsm
+et_ch1Verses|לד|יִבְלֹל|Ibll
+et_ch1Verses|לד|נָבִין|Nbin
+et_ch1Verses|לה|בָלַל|Vll
+et_ch1Verses|לו|יִבְלֹל|Ibll
+et_ch1Verses|לח|יוֹבִילֵנוּ|Iobilno
+et_ch1Verses|מג|וַאֲקִים|Okim
+et_ch2Verses|ב|דְּגֵי|Dgi
+et_ch2Verses|ג|דְּבוֹרַת|Dbort
+et_ch2Verses|ג|דְבוֹרִים|Dborim
+et_ch2Verses|ה|יִסָּעוּ׃|Iso
+et_ch2Verses|ו|בָהֶן|Vhn
+et_ch2Verses|ו|מוּדְרָכִים|Modrkim
+et_ch2Verses|י|הַיּוֹרֵשׁ|Hiorsh
+et_ch2Verses|יג|מוֹרִיאַנְקוּמֶר|Morinkomr
+et_ch2Verses|טז|וּבְנֵה|Obnh
+et_ch2Verses|טז|וְקַלּוֹת|Oklot
+et_ch2Verses|יז|יַחְזִיקוּ|Ichziko
+et_ch2Verses|יז|וְדָפְנֵיהֶן|Odpnihn
+et_ch2Verses|יז|וְקְצוֹתֵיהֶן|Oktsotihn
+et_ch2Verses|יח|צִוִּיתָנִי|Tsoitni
+et_ch2Verses|יח|הוֹרֵיתָנִי׃|Horitni
+et_ch2Verses|יט|נִגְוַע|Ngo
+et_ch2Verses|יט|בְּתוֹכָן|Btokn
+et_ch2Verses|יט|נִגְוָע׃|Ngo
+et_ch2Verses|כ|חֹר|Chr
+et_ch2Verses|כ|תִגְוְעוּ|Tgoo
+et_ch2Verses|כב|צִוִּיתָנִי|Tsoitni
+et_ch2Verses|כב|הֲכִינוֹתִי|Hkinoti
+et_ch2Verses|כב|נַעֲבֹר|Nvr
+et_ch2Verses|כד|גַלֵּי|Gli
+et_ch2Verses|כד|וְהַמַּבּוּלִים|Ohmbolim
+et_ch2Verses|כה|מֵכִין|Mkin
+et_ch2Verses|כה|אֲכִין|Khin
+et_ch2Verses|כה|וְהַמַּבּוּלִים|Ohmbolim
+et_ch2Verses|כה|אָכִין|Khin
+et_ch3Verses|א|וַיָּתַךְ|Oitk
+et_ch3Verses|א|וּבָרוֹת|Obrot
+et_ch3Verses|ג|הִכִּיתָנוּ|Hkitno
+et_ch3Verses|ג|הַסּוֹעֵר|Hsor
+et_ch3Verses|ד|וַהֲכִינֵם|Ohkinm
+et_ch3Verses|ד|יָאִירוּ|Iiro
+et_ch3Verses|ד|וְיָאִירוּ|Oiiro
+et_ch3Verses|ד|הֲכִינוֹנוּ|Hkinono
+et_ch3Verses|ו|וַיּוּסַר|Oiosr
+et_ch3Verses|ו|נִבְעַת׃|Nvt
+et_ch3Verses|ט|יָכֹלְתָּ|Iklt
+et_ch3Verses|יד|הוּכַנְתִּי|Hoknti
+et_ch3Verses|יז|וְכַדְּמוּת|Okdmot
+et_ch3Verses|יט|נִמְנַע|Nmn
+et_ch3Verses|כ|נִמְנַע|Nmn
+et_ch3Verses|כא|תַרְאֵם|Trm
+et_ch3Verses|כד|אֶגְרֹם|Grm
+et_ch3Verses|כד|יַגְדִּילוּ|Igdilo
+et_ch3Verses|כה|מָנַע|Mn
+et_ch4Verses|ח|וְהַמִּתְוַכֵּחַ|Ohmtokch
+et_ch4Verses|ח|יָאָר|Ir
+et_ch4Verses|ח|יָאָר|Ir
+et_ch4Verses|ט|וְיִסָּגְרוּ|Oisgro
+et_ch4Verses|טו|הַגּוֹרֵם|Hgorm
+et_ch5Verses|ב|יֻתַּן|Itn
+et_ch5Verses|ב|יַעַזְרוּ|Izro
+et_ch5Verses|ו|תִּרְאוּנִי|Troni
+et_ch6Verses|ב|הַמּוּכָנִים|Hmoknim
+et_ch6Verses|ב|הֵאִירוּ|Hiro
+et_ch6Verses|ג|לְהָאִיר|Lhir
+et_ch6Verses|ד|וַיִּפְקִידוּ|Oipkido
+et_ch6Verses|ה|הֵנִיף|Hnif
+et_ch6Verses|ה|סְעָרָה|Srh
+et_ch6Verses|ה|וַיִּטָּרְפוּ|Oitrpo
+et_ch6Verses|ו|גַלֵּי|Gli
+et_ch6Verses|ט|וַיְזַמְּרוּ|Oizmro
+et_ch6Verses|ט|זִמֵּר|Zmr
+et_ch6Verses|ט|וַיְהַלֵּל|Oihll
+et_ch6Verses|י|תַנִּין|Tnin
+et_ch6Verses|יא|וַיִּנָּהֲגוּ|Oinhgo
+et_ch6Verses|יד|יָקוֹם|Ikom
+et_ch6Verses|יד|וּמָהָה|Omhh
+et_ch6Verses|יד|וְאוֹרִיהָה׃|Oorihh
+et_ch6Verses|כג|יוֹבִיל|Iobil
+et_ch6Verses|כה|פָּגָג|Fgg
+et_ch6Verses|כה|יִכְפֵּהוּ|Ikpho
+et_ch6Verses|כה|כָּפוֹת|Kpot
+et_ch6Verses|כז|אוֹרִיהָה|Orihah
+et_ch6Verses|ל|אוֹרִיהָה|Orihah
+et_ch7Verses|א|אוֹרִיהָה|Orihah
+et_ch7Verses|ג|אֶת־קִיב|Tkiv
+et_ch7Verses|ד|וַיַּט|Oit
+et_ch7Verses|ט|וַיָּתַךְ|Oitk
+et_ch7Verses|ט|וַיְשִׁיבֶהָ|Oishibh
+et_ch7Verses|יד|לְכוֹרִיהוֹר|Lkorihor
+et_ch7Verses|טו|וַיַּט|Oit
+et_ch7Verses|יז|וַיּוֹלִיכֵהוּ|Oiolikho
+et_ch7Verses|יז|לְמוֹרוֹן׃|Lmoron
+et_ch7Verses|יח|וַיּוֹצִיאוּ|Oiotsio
+et_ch7Verses|יח|וַיּוֹשִׁיבֻהוּ|Oioshibho
+et_ch7Verses|כ|כּוֹהוֹר|Kohor
+et_ch7Verses|כא|כּוֹהוֹר|Kohor
+et_ch7Verses|כב|וְלְכוֹהוֹר|Olkohor
+et_ch7Verses|כב|בֵן|Bn
+et_ch7Verses|כב|כּוֹהוֹר|Kohor
+et_ch7Verses|כב|וַיַּרְעֵף|Oirf
+et_ch8Verses|ג|וַיּוֹלֵךְ|Oiolk
+et_ch8Verses|ג|וַיַּעֲבִידֵהוּ|Oividho
+et_ch8Verses|ד|וְכוֹרִיאַנְטוּמְר׃|Okhorintomr
+et_ch8Verses|ו|וְיַעֲזֹב|Oizv
+et_ch8Verses|ט|וּבַת|Obt
+et_ch8Verses|י|וְאֶרְקֹד|Orkd
+et_ch8Verses|יא|תְּנָה|Tnh
+et_ch8Verses|יד|יֻכְרַת|Ikrt
+et_ch8Verses|טו|וַיַּשְׁבִּיעֵם|Oishvim
+et_ch8Verses|טו|מִקַּיִן|Mkin
+et_ch8Verses|יז|וּבַת|Obt
+et_ch8Verses|יז|הָעַתִּיקִים|Htikim
+et_ch8Verses|יז|וַיַּטֵּם|Oitm
+et_ch8Verses|כד|תָקִיצוּ|Tkitso
+et_ch8Verses|כה|וְהַמְּדִינוֹת|Ohmdinot
+et_ch8Verses|כה|וּמֵבִיאָה|Omvih
+et_ch8Verses|כה|וְסָקְלוּם|Osklom
+et_ch8Verses|כו|וְיִוָּשֵׁעוּ׃|Oiosho
+et_ch9Verses|ג|גִבְעַת|Gvt
+et_ch9Verses|ג|וַיֶּט|Oit
+et_ch9Verses|ה|וַיַּשִּׂיגוּ|Oishigo
+et_ch9Verses|ז|לְקַנֵּא|Lkn
+et_ch9Verses|ז|וַיַּאַסְרֵהוּ|Oisrho
+et_ch9Verses|ז|וַיַּאֲכִילֵהוּ|Oikhilho
+et_ch9Verses|י|וַיִּקְנוּ|Oikno
+et_ch9Verses|יב|וְהַנָּסִים|Ohnsim
+et_ch9Verses|יח|וּפָרוֹת|Oprot
+et_ch9Verses|יח|וַחֲזִירִים|Ochzirim
+et_ch9Verses|יח|הוֹעִילוּ|Hoilo
+et_ch9Verses|יט|וַחֲמוֹרִים|Ochmorim
+et_ch9Verses|יט|פִּילִים|Pilim
+et_ch9Verses|יט|וְקוּרֵלוֹמִים|Okorlomim
+et_ch9Verses|יט|וְקוּמוֹמִים|Okomomim
+et_ch9Verses|יט|הוֹעִילוּ|Hoilo
+et_ch9Verses|יט|הַפִּילִים|Hpilim
+et_ch9Verses|יט|וְהַקּוּרֵלוֹמִים|Ohkorlomim
+et_ch9Verses|יט|וְהַקּוּמוֹמִים׃|Ohkomomim
+et_ch9Verses|כב|וַיִּתְפָּאֵר|Oitfr
+et_ch9Verses|כג|כּוֹרִיַנְטוּם|Coriantum
+et_ch9Verses|כד|כּוֹרִיַנְטוּם|Coriantum
+et_ch9Verses|כד|צְעִירָה|Tsirh
+et_ch9Verses|כד|הֱיוֹתוֹ|Hioto
+et_ch9Verses|כט|לְבוֹרוֹת|Lborot
+et_ch9Verses|כט|חֵת׃|Cht
+et_ch9Verses|לא|אַרְסִיִּים|Rsiim
+et_ch9Verses|לא|וַיָּמִיתוּ|Oimito
+et_ch9Verses|לד|יִגְוָעוּ|Igoo
+et_ch9Verses|לה|דַיָּם|Dim
+et_ch9Verses|לה|וַיּוֹרֵד|Oiord
+et_ch10Verses|ג|שׁוֹדֵד|Shodd
+et_ch10Verses|ד|בָנָה|Vnh
+et_ch10Verses|ה|וּבַמִּסִּים|Obmsim
+et_ch10Verses|ו|מִסִּים|Msim
+et_ch10Verses|ו|וַיַּעֲבִידֵם|Oividm
+et_ch10Verses|ז|הַיָּפָה|Hiph
+et_ch10Verses|י|הֲקִימוֹ|Hkimo
+et_ch10Verses|יא|זְנוּתָיו|Znotio
+et_ch10Verses|יב|וּבְגִדּוּל|Obgdol
+et_ch10Verses|יג|אֶת־קִים|Tkim
+et_ch10Verses|יד|אֶת־לֵוִי|Tloi
+et_ch10Verses|טו|לֵוִי|Loi
+et_ch10Verses|יז|כּוֹרוֹם|Korom
+et_ch10Verses|יז|רְאוֹתוֹ|Roto
+et_ch10Verses|יט|צַיָּד|Tsid
+et_ch10Verses|כא|יָצוּדוּ|Itsodo
+et_ch10Verses|כב|וַיִּקְנוּ|Oikno
+et_ch10Verses|כב|וַיִּמְכְּרוּ|Oimkro
+et_ch10Verses|כג|עֲרֵמוֹת|Rmot
+et_ch10Verses|כד|בֶגֶד|Vgd
+et_ch10Verses|כה|לָדוּשׁ׃|Ldosh
+et_ch10Verses|לא|כּוֹרִיַנְטוּם|Coriantum
+et_ch10Verses|לב|נָטַל|Ntl
+et_ch10Verses|לב|עַמְגִיד|Mgid
+et_ch10Verses|לג|הַיְשָׁנוֹת|Hishnot
+et_ch10Verses|לג|וַיַּשְׁבִּיעוּ|Oishvio
+et_ch10Verses|לד|גָבַר|Gvr
+et_ch11Verses|א|וְיַעַזְבוּ|Oizvo
+et_ch11Verses|ז|רְעָבוֹן|Rvon
+et_ch11Verses|ז|וּמַגֵּפוֹת|Omgpot
+et_ch11Verses|ט|שֵׁת|Sht
+et_ch11Verses|יא|בְּיָמָיו׃|Bimio
+et_ch11Verses|טו|מְרִידָה|Mridh
+et_ch11Verses|טו|וַיַּפֵּל|Oipl
+et_ch11Verses|כב|סוֹדָם|Sodm
+et_ch12Verses|א|כּוֹרִיַנְטוּמְר|Korintomr
+et_ch12Verses|א|וְכוֹרִיַנְטוּמְר|Okorintomr
+et_ch12Verses|ב|כּוֹרִיַנְטוּמְר|Korintomr
+et_ch12Verses|ד|וּמוּצָקִים|Omotskim
+et_ch12Verses|ד|לְפָאֵר|Lfr
+et_ch12Verses|ו|נִרְאִים|Nrim
+et_ch12Verses|ו|נִסְיוֹן|Nsion
+et_ch12Verses|ח|וּפֵאֵר|Ofr
+et_ch12Verses|יג|וַאֲמוּלֶק|Omolk
+et_ch12Verses|כא|רְאוֹת|Rot
+et_ch12Verses|כג|יִלְעֲגוּ|Ilgo
+et_ch12Verses|כד|יָדֵינוּ|Idino
+et_ch12Verses|כד|כְּמוֹךָ|Kmok
+et_ch12Verses|כד|יִגְבְּרוּ|Igbro
+et_ch12Verses|כה|עַזִּים|Zim
+et_ch12Verses|כו|יִלְעָגוּ|Ilgo
+et_ch12Verses|כו|יִתְאַבָּלוּ|Itvlo
+et_ch12Verses|ל|צֶרִין|Zerin
+et_ch12Verses|ל|זוּז|Zoz
+et_ch12Verses|ל|וַיָּזוּז|Oizoz
+et_ch12Verses|ל|זָז|Zz
+et_ch12Verses|לב|הֲכִינוֹתָ|Hkinot
+et_ch12Verses|לב|הֲכִינוֹתָ׃|Hkinot
+et_ch12Verses|לג|אָהַבְתָּ|Hvt
+et_ch12Verses|לד|הֲכִינוֹתָ|Hkinot
+et_ch12Verses|לז|יִטָּהֲרוּ|Ithro
+et_ch12Verses|לז|הֲכִינוֹתִי|Hkinoti
+et_ch12Verses|מא|הַמְּעִידָה|Hmidh
+et_ch13Verses|ה|וִירוּשָׁלַיִם|Oiroshlim
+et_ch13Verses|ח|כִּירוּשָׁלַיִם|Kiroshlim
+et_ch13Verses|ח|יִבָּלְלוּ|Ibllo
+et_ch13Verses|ט|הַיְשָׁנִים|Hishnim
+et_ch13Verses|ט|הַיְשָׁנִים|Hishnim
+et_ch13Verses|י|הַיֹּשְׁבִים|Hishbim
+et_ch13Verses|טז|כּוֹרִיַנְטוּמְר|Korintomr
+et_ch13Verses|יז|כוֹהוֹר|Kohor
+et_ch13Verses|יח|אַגֻדּוֹת|Gdot
+et_ch13Verses|יח|יִלְכְּדוּ|Ilkdo
+et_ch13Verses|כא|יִחְיֶה|Ichih
+et_ch13Verses|כא|וְיִקְבְּרוּ|Oikbro
+et_ch13Verses|כב|בֵיתוֹ|Bito
+et_ch13Verses|כג|הֱבִיאוֹ|Hvio
+et_ch13Verses|כח|חֶשְׁלוֹן׃|Heshlon
+et_ch13Verses|כט|וַיַּדִּיחֵהוּ|Oidichho
+et_ch13Verses|ל|כּוֹרִיַנְטוּמְר|Korintomr
+et_ch13Verses|ל|וַיְמִיתֵהוּ׃|Oimitho
+et_ch13Verses|לא|בִּירֵכוֹ|Birko
+et_ch14Verses|א|עֲבוֹדָתוֹ|Vodto
+et_ch14Verses|ב|יַשְׁאִיל|Ishil
+et_ch14Verses|ב|בִּימִינוֹ|Bimino
+et_ch14Verses|ג|עָכִישׁ׃|Khish
+et_ch14Verses|ד|עָכִישׁ|Khish
+et_ch14Verses|ה|צָר|Tsr
+et_ch14Verses|ח|גִּלְעָד|Gld
+et_ch14Verses|ח|אֲגֻדּוֹת|Gdot
+et_ch14Verses|י|בְּקוֹמָתוֹ|Bkomto
+et_ch14Verses|יא|בְּלִיב׃|Blib
+et_ch14Verses|יד|עָכִישׁ׃|Khish
+et_ch14Verses|טו|אָגוֹשׁ|Gosh
+et_ch14Verses|טו|בְּנוּסוֹ|Bnoso
+et_ch14Verses|טז|אָגוֹשׁ|Gosh
+et_ch14Verses|יז|וַיַּהֲפֹךְ|Oihpk
+et_ch14Verses|יח|מְטַאטֵא|Mtt
+et_ch14Verses|כא|אָרַךְ|Rkh
+et_ch14Verses|כא|בְּגוּפוֹת|Bgopot
+et_ch14Verses|כב|מְהִירָה|Mhirh
+et_ch14Verses|כב|נוֹתַר|Notr
+et_ch14Verses|כב|לְתוֹלְעֵי|Ltoli
+et_ch14Verses|כג|וַיִּבָּהֲלוּ|Oibhlo
+et_ch14Verses|כג|הָרֵיחַ׃|Hrich
+et_ch14Verses|כד|מִכּוֹרִיַנְטוּמְר|Mkorintomr
+et_ch14Verses|כח|שׁוּר|Shor
+et_ch14Verses|כח|וְעֵמֶק|Omk
+et_ch14Verses|כח|שׁוּר|Shor
+et_ch14Verses|כח|כָּמְנוֹר|Comnor
+et_ch14Verses|כח|כָּמְנוֹר|Comnor
+et_ch14Verses|כט|וַיִּנָּגְפוּ|Oingpo
+et_ch14Verses|כט|וַיִּנָּגְפוּ|Oingpo
+et_ch14Verses|ל|וַיִּתְעַלֵּף|Oitlf
+et_ch14Verses|לא|רְדֹף|Rdf
+et_ch14Verses|ב|מִילְיוֹן|Milion
+et_ch14Verses|ב|מִילְיוֹן|Milion
+et_ch14Verses|ג|וַתְּמָאֵן|Otmn
+et_ch14Verses|ו|וַיִּתְעָרוּ|Oitro
+et_ch14Verses|ח|רִיפְלִיאַנְקוּם|Riflinkom
+et_ch14Verses|ט|וַיִּתְעַלֵּף|Oitlf
+et_ch14Verses|י|אוֹגַת׃|Ogt
+et_ch14Verses|טו|וְכוֹבָעִים|Okhovim
+et_ch14Verses|טו|וּלְבוּשִׁים|Olboshim
+et_ch14Verses|טז|וַיִּיעָפוּ|Oiifo
+et_ch14Verses|טז|לְיַלֵל|Lill
+et_ch14Verses|טז|יְלָלוֹתֵיהֶם|Illotihm
+et_ch14Verses|טז|וְקִינוֹתֵיהֶם|Okinotihm
+et_ch14Verses|טז|בָּקְעוּ|Vko
+et_ch14Verses|יז|בָּקְעוּ|Vko
+et_ch14Verses|יז|וִילָלוֹתֵיהֶם|Oillotihm
+et_ch14Verses|יז|וְקִינוֹתֵיהֶם|Okinotihm
+et_ch14Verses|יח|וְיָחוּס|Oichos
+et_ch14Verses|כא|הַלָּיְלָה׃|Hlilh
+et_ch14Verses|כד|יָשְׁנוּ|Ishno
+et_ch14Verses|כה|נוֹתְרוּ|Notro
+et_ch14Verses|כו|וַיִּישְׁנוּ|Oiishno
+et_ch14Verses|כו|וַיִּתְכּוֹנְנוּ|Oitkonno
+et_ch14Verses|כו|וְגִבּוֹרֵי|Ogbori
+et_ch14Verses|כז|וַיִּתְעַלְּפוּ|Oitlfo
+et_ch14Verses|ל|וַיָּנַח|Oinch
+et_ch14Verses|לא|הַכּוֹתוֹ|Hkoto
+et_ch14Verses|לא|וַיִּתְרוֹמֵם|Oitromm
+et_ch14Verses|לד|אִוָּשַׁע|Osh
+mr_ch8Verses|כב|תוֹרָה|Torah/law
+mr_ch8Verses|כב|תוֹרָה|Torah/law
+mr_ch9Verses|יא|הוֹי|O!/alas!
+mr_ch9Verses|יג|הוֹי|O!/alas!
+mr_ch9Verses|טז|זֶנֶפִי|Zenephi
+mr_ch9Verses|יח|הוֹי|O!/alas!
+al_ch2Verses|י|יַכְנִיעֵם|Ikhnim
+al_ch2Verses|יא|וַיֻּבְדְּלוּ|Oibdlo
+al_ch2Verses|יב|וַיִּתְכּוֹנְנוּ|Oitkonno
+al_ch2Verses|יב|וּבְקַלָּעוֹת|Ovklot
+al_ch2Verses|יג|וַיְמֻנּוּ|Oimno
+al_ch2Verses|יד|זִיֵּן|Zin
+al_ch2Verses|טו|אַמְנִיהוּ|Mniho
+al_ch2Verses|כ|וּבָעֵמֶק|Ovmk
+al_ch2Verses|כ|נָטוּ|Nto
+al_ch2Verses|כ|לַלָּיְלָה׃|Llilh
+al_ch2Verses|כא|וּמְזִמּוֹתָם|Omzmotm
+al_ch2Verses|כב|זֶרַם|Zrm
+al_ch2Verses|כב|וְאַמְנוֹר|Omnor
+al_ch2Verses|כב|וּמַנְטִי|Omnti
+al_ch2Verses|כד|מִינוֹן|Minon
+al_ch2Verses|כה|וְהִנָּם|Ohnm
+al_ch2Verses|ל|חוּסָה|Chosh
+al_ch2Verses|ל|וְהַחֲיֵה|Ohchih
+al_ch2Verses|ל|בְּיָדֶיךָ|Bidik
+al_ch2Verses|לג|וַיַּבְרִיחֵם׃|Oibrichm
+al_ch2Verses|לד|וּבָעַמְלִיסִים|Ovmlisim
+al_ch2Verses|לה|יִסָּפְרוּ׃|Ispro
+al_ch2Verses|לז|וַיִּנָּגְרוּ|Oingro
+al_ch2Verses|לז|הַגִּיעָם|Hgim
+al_ch3Verses|ד|וַיִּבָּדְלוּ|Oibdlo
+al_ch3Verses|ד|אֲדֻמִּים|Dmim
+al_ch3Verses|ה|וְקַלְּעוֹתֵיהֶם|Oklotihm
+al_ch3Verses|ו|וּקְדוֹשִׁים׃|Okdoshim
+al_ch3Verses|ח|יִבָּדֵל|Ibdl
+al_ch3Verses|ח|יִתְעָרְבוּ|Itrvo
+al_ch3Verses|ח|בְּתוֹרוֹת|Btorot
+al_ch3Verses|ט|עֵרַב|Rv
+al_ch3Verses|יד|נִקְיַם|Nkim
+al_ch3Verses|טו|יְקֻלְּלוּ|Ikllo
+al_ch3Verses|יז|הַסָּר|Hsr
+al_ch3Verses|יח|מְקִימִים|Mkimim
+al_ch3Verses|כד|מֵאוֹיְבֵיהֶם׃|Moivihm
+al_ch3Verses|כו|גְּמוּלָם|Gmolm
+al_ch4Verses|ג|נֵעוֹרוּ|Noro
+al_ch4Verses|ו|וּמִשְׁיָם|Omshim
+al_ch4Verses|ו|וּבוּצָם|Obotsm
+al_ch4Verses|ח|לָבוּז|Lboz
+al_ch4Verses|ט|קְנָאוֹת|Knot
+al_ch4Verses|ט|וּמַצּוֹת|Omtsot
+al_ch4Verses|ט|וְגַאֲוָה|Ogoh
+al_ch4Verses|יב|פְּלָיָה|Plih
+al_ch4Verses|יג|לְקִינוֹת|Lkinot
+al_ch4Verses|יג|וְתוֹמְכִים|Otomkim
+al_ch4Verses|יג|וּמַאֲכִילִים|Omkhilim
+al_ch4Verses|יג|וְסֹבְלִים|Osblim
+al_ch4Verses|יד|וּגְאֻלָּתוֹ|Oglto
+al_ch4Verses|טו|עֲנָוֵי|Noi
+al_ch4Verses|טז|וּלְהַעֲמִידָם|Olhmidm
+al_ch4Verses|יז|נֶפִיה|Npih
+al_ch4Verses|יז|וַיִּמָּנֶה|Oimnh
+al_ch4Verses|יט|וּלְהַפִּיל|Olhpil
+al_ch4Verses|יט|טְהוֹרָה׃|Thorh
+al_ch4Verses|כ|וְהַנְּבוּאָה׃|Ohnvoh
+al_ch5Verses|ה|וַנּוּבָא|Onov
+al_ch5Verses|ה|וּפֹה|Oph
+al_ch5Verses|ז|וַיְקִיצֵם|Oikitsm
+al_ch5Verses|ז|וַיִּקְצוּ|Oiktso
+al_ch5Verses|ז|הוּאֲרוּ|Horo
+al_ch5Verses|ט|וְשׁוֹאֵל|Oshol
+al_ch5Verses|ט|וְכַבְלֵי|Okbli
+al_ch5Verses|ט|וַיָּשִׁירוּ|Oishiro
+al_ch5Verses|יב|תְמוּרָה|Tmorh
+al_ch5Verses|יג|וַתֵּעָשׂ|Otsh
+al_ch5Verses|יח|מְרִיתֶם|Mritm
+al_ch5Verses|יט|וְיָדַיִם|Oidim
+al_ch5Verses|כא|יְטֹהֲרוּ|Ithro
+al_ch5Verses|כד|זַכִּים|Zkim
+al_ch5Verses|כה|לְכוֹזֵב|Lkozb
+al_ch5Verses|כה|כוֹזֵב|Kozb
+al_ch5Verses|כו|תְּמוּרַת|Tmort
+al_ch5Verses|כז|תְּמִימִים|Tmimim
+al_ch5Verses|כז|הָיִיתֶם|Hiitm
+al_ch5Verses|כט|הֲיֵשׁ|Hish
+al_ch5Verses|ל|הֲיֵשׁ|Hish
+al_ch5Verses|לג|פְּרוּשׂוֹת|Proshot
+al_ch5Verses|לו|לְיַלֵל|Lill
+al_ch5Verses|לט|מֵאֵי|Mi
+al_ch5Verses|לט|כּוֹזֵב|Kozb
+al_ch5Verses|מג|תִתְעוּ|Tto
+al_ch5Verses|מח|הַיָּחִיד|Hichid
+al_ch5Verses|מט|הַבֵּינַיִם|Hbinim
+al_ch5Verses|נ|יָאִיר|Iir
+al_ch5Verses|נא|קוֹרֵאת|Kort
+al_ch5Verses|נב|מוּנָח|Monch
+al_ch5Verses|נז|יִמָּחוּ|Imcho
+al_ch5Verses|נז|יִמָּנוּ|Imno
+al_ch5Verses|נז|יִקּוּם|Ikom
+al_ch5Verses|נז|יִתְעָרְבוּ|Itrvo
+al_ch5Verses|נח|יִקּוּם׃|Ikom
+al_ch5Verses|נט|וְיִטְרְפוּ|Oitrpo
+al_ch5Verses|נט|יַשְׁמִידֵהוּ׃|Ishmidho
+al_ch5Verses|ס|יְבִיאֲכֶם|Ivikhm
+al_ch5Verses|ס|טוֹרֵף|Torf
+al_ch6Verses|א|וַיִּסְמֹךְ|Oismk
+al_ch6Verses|ג|וַיִּמָּאֲסוּ|Oimso
+al_ch6Verses|ד|לְיַסֵּד|Lisd
+al_ch6Verses|ה|נִמְנָע|Nmn
+al_ch6Verses|ז|הוּכָּה|Hokh
+al_ch7Verses|א|פִי|Pi
+al_ch7Verses|ג|וּבְתַאֲוָה|Ovtoh
+al_ch7Verses|ד|וְהִתְכּוֹנְנוּ|Ohtkonno
+al_ch7Verses|ח|בְתוֹכֵנוּ|Btokno
+al_ch7Verses|יא|יִקּוּם|Ikom
+al_ch7Verses|יא|וְחָלְיָם׃|Ochlim
+al_ch7Verses|יב|הַכּוֹבְלִים|Hkoblim
+al_ch7Verses|יב|מֵעָיו|Mio
+al_ch7Verses|יב|לָעְזֹר|Lzr
+al_ch7Verses|יג|יוֹדַעַת|Iodt
+al_ch7Verses|יד|תִוָּלְדוּ|Toldo
+al_ch7Verses|יד|הַנּוֹשֵׂא|Hnosh
+al_ch7Verses|טו|וְהָסִירוּ|Ohsiro
+al_ch7Verses|טו|הַכּוֹבֵל|Hkobl
+al_ch7Verses|טז|וְשׁוֹמֵר|Oshomr
+al_ch7Verses|יח|תַּאֲוָה|Toh
+al_ch7Verses|יח|תַאֲווֹתַי׃|Tooti
+al_ch7Verses|יט|מְיַשְּׁרִים|Mishrim
+al_ch7Verses|כ|מִיָּמִין|Mimin
+al_ch7Verses|כג|וּכְנוּעִים|Okhnoim
+al_ch7Verses|כג|וּרְכִים|Orkim
+al_ch7Verses|כג|נוֹחִים|Nochim
+al_ch7Verses|כג|מְתוּנִים|Mtonim
+al_ch7Verses|כג|שׁוֹקְדִים|Shokdim
+al_ch7Verses|כג|מוֹדִים|Modim
+al_ch7Verses|כו|הַמְּעִידָה|Hmidh
+al_ch7Verses|כו|תָגִיל|Tgil
+al_ch7Verses|כז|יָנוּחַ|Inoch
+al_ch7Verses|כז|וְשָׂדוֹתֵיכֶם|Oshdotikm
+al_ch8Verses|א|יִכָּתֵבוּ|Iktbo
+al_ch8Verses|א|וַיְיַסֵּד|Oiisd
+al_ch8Verses|א|לָנוּחַ|Lnoch
+al_ch8Verses|יב|אֵינְךָ|Inkh
+al_ch8Verses|יג|וַיִּמְאֲנוּ|Oimno
+al_ch8Verses|יג|וַיָּרְקוּ|Oirko
+al_ch8Verses|יד|וְעָקַת|Okt
+al_ch8Verses|טו|שָׂא|Sh
+al_ch8Verses|יז|חוֹקְרִים|Chokrim
+al_ch8Verses|כ|נֶפִיִּי|Npii
+al_ch8Verses|כ|וּלְבֵיתִי׃|Olbiti
+al_ch8Verses|כד|גַּבִּי|Gvi
+al_ch8Verses|כח|הוֹסִיפוּ|Hosipo
+al_ch8Verses|כח|בַּעֲוֺנֹתֵיהֶם׃|Vontihm
+al_ch9Verses|ז|וָאַעֲמֹד|Omd
+al_ch9Verses|ח|וְהַנַּעֲוֶה|Ohnoh
+al_ch9Verses|יא|וְאֶרֶךְ|Orkh
+al_ch9Verses|יא|הוּבְלָנוּ|Hoblno
+al_ch9Verses|יב|אֵינָהּ|Inh
+al_ch9Verses|יז|וּבְעֵת|Ovt
+al_ch9Verses|יח|יַאֲרִיכוּ|Irikho
+al_ch9Verses|יח|גְמוּרָה|Gmorh
+al_ch9Verses|יט|בַעֲוֺנֹתֵיכֶם|Vontikhm
+al_ch9Verses|כב|וְהוּצְּאוּ|Ohotso
+al_ch9Verses|כב|אַחַר|Chr
+al_ch9Verses|כו|זַעֲקַת|Zkt
+al_ch9Verses|כט|הַזּוֹעֵק|Hzok
+al_ch9Verses|ל|אָבוּד|Vod
+al_ch9Verses|ל|וְנוֹפֵל|Onopl
+al_ch9Verses|לב|אָבוּד|Vod
+al_ch9Verses|לב|וְנוֹפֵל|Onopl
+al_ch9Verses|לב|יַשְׁלִיכֻנִי|Ishlikni
+al_ch10Verses|ב|עֲמִינָדִי|Mindi
+al_ch10Verses|ב|עֲמִינָדִי|Mindi
+al_ch10Verses|ג|וַעֲמִינָדִי|Omindi
+al_ch10Verses|ה|מִסּוֹדוֹתָיו|Msodotio
+al_ch10Verses|ו|הוֹסַפְתִּי|Hospti
+al_ch10Verses|ז|צָם|Tsm
+al_ch10Verses|ז|וְתַכְנִיסֵהוּ|Otknisho
+al_ch10Verses|ז|וְתַאֲכִילֵהוּ|Otkhilho
+al_ch10Verses|יא|יַלְדָי|Ildi
+al_ch10Verses|יא|וּקְרוֹבָי|Okrobi
+al_ch10Verses|יב|הוּעֲדוּ|Hodo
+al_ch10Verses|יג|יִמְסְרוּם|Imsrom
+al_ch10Verses|טו|וְעָרְמַת|Ormt
+al_ch10Verses|יז|וַיַּכֵּר|Oikr
+al_ch10Verses|יז|מְיַסְּדִים|Misdim
+al_ch10Verses|יז|יְסוֹדוֹת|Isodot
+al_ch10Verses|יז|וּמוֹקְשִׁים|Omokshim
+al_ch10Verses|כא|בְּיָדָי׃|Bidi
+al_ch10Verses|כב|גְמוּרָה|Gmorh
+al_ch10Verses|כד|הוֹסִיפוּ|Hosipo
+al_ch10Verses|כד|דִינֵנוּ|Dinno
+al_ch10Verses|כה|וַיֶּט|Oit
+al_ch10Verses|כה|לְעַוֵּר|Lor
+al_ch10Verses|כז|דִינְכֶם|Dinkm
+al_ch10Verses|כט|דִינֵנוּ|Dinno
+al_ch10Verses|לב|וַיַּשִּׂיגוּ|Oishigo
+al_ch11Verses|ג|סְנִינֵה|Sninh
+al_ch11Verses|ג|סְנוּם|Snum
+al_ch11Verses|ג|כִּסְנִינֵה|Kisnninah
+al_ch11Verses|ה|סְנִינֵה|Sninh
+al_ch11Verses|ו|סְנוּם|Snum
+al_ch11Verses|ו|אַמְנוֹר|Mnor
+al_ch11Verses|ו|עֶזְרוֹם|Zrom
+al_ch11Verses|ז|סְנוּם|Snum
+al_ch11Verses|ז|כִּסְנִינֵה|Kisnninah
+al_ch11Verses|ט|מִסְּעוֹן׃|Mson
+al_ch11Verses|יא|אַמְנוֹר|Mnor
+al_ch11Verses|יא|סְנוּמִים׃|Snomim
+al_ch11Verses|יב|עֶזְרוֹם|Zrom
+al_ch11Verses|יב|סְנוּמִים׃|Snomim
+al_ch11Verses|טו|מִדַּת|Mdt
+al_ch11Verses|יז|וְלֵאָה|Olh
+al_ch11Verses|יט|וְאַנְטְיוֹן|Ontion
+al_ch11Verses|כ|וַיָּסִיתוּ|Oisito
+al_ch11Verses|כ|יַרְבּוּ|Irbo
+al_ch11Verses|כ|וַיָּסִיתוּ|Oisito
+al_ch11Verses|כד|אָהַבְתָּ|Hvt
+al_ch11Verses|כה|תִּשָּׂא|Tsh
+al_ch11Verses|כה|גְּמוּלְךָ׃|Gmolk
+al_ch11Verses|כח|הֲיֵשׁ|Hish
+al_ch11Verses|לה|שִׂימוּ|Shimo
+al_ch11Verses|לז|תִירְשׁוּ|Tirsho
+al_ch11Verses|לז|תִוָּשְׁעוּ|Tosho
+al_ch11Verses|לט|עוֹלְמֵי|Olmi
+al_ch11Verses|מא|הַתֵּר|Htr
+al_ch11Verses|מב|יַתִּיר|Itir
+al_ch11Verses|מג|וְזִכָּרוֹן|Ozkron
+al_ch11Verses|מד|כֵּס|Ks
+al_ch11Verses|מה|רוּחוֹתֵיהֶם|Rochotihm
+al_ch11Verses|מה|יִפָּרְדוּ|Iprdo
+al_ch11Verses|מה|רוּחָנִי|Rochni
+al_ch11Verses|מו|וַיִּתַּמּוּ|Oitmo
+al_ch12Verses|ד|עֲרוּמָה|Romh
+al_ch12Verses|ד|וּלְרַמּוֹת|Olrmot
+al_ch12Verses|ו|פַח|Fch
+al_ch12Verses|ו|טָמַן|Tmn
+al_ch12Verses|ו|יְבִיאֲכֶם|Ivikhm
+al_ch12Verses|ו|יְסוֹבֵב|Isobb
+al_ch12Verses|ז|וּמְזִמּוֹתָיו|Omzmotio
+al_ch12Verses|יא|מִסּוֹדוֹתָיו|Msodotio
+al_ch12Verses|יא|יִשָּׁבוּ|Ishbo
+al_ch12Verses|יב|כֵּס|Ks
+al_ch12Verses|יד|תְמִימִים|Tmimim
+al_ch12Verses|יד|נָעֵז|Nz
+al_ch12Verses|טו|בְּהוֹדוֹ|Bhodo
+al_ch12Verses|יז|וְגׇפְרִית|Ogprit
+al_ch12Verses|כ|אַנְטְיוֹנָה|Ntionh
+al_ch12Verses|כב|וְנוֹפֵל׃|Onopl
+al_ch12Verses|כד|לַיָּמִים|Limim
+al_ch12Verses|כו|מוּפָרָה|Moprh
+al_ch12Verses|ל|מִיסוֹד|Misod
+al_ch12Verses|ל|וּתְשׁוּבָתָם|Otshobtm
+al_ch12Verses|ל|בַטּוֹב|Btob
+al_ch12Verses|לב|הוֹדִיעוֹ|Hodio
+al_ch12Verses|לב|הָעֶלְיוֹן׃|Hlion
+al_ch12Verses|לו|יַכְעִיסֵהוּ|Ikhisho
+al_ch12Verses|לז|נָבוֹאָה|Nvoh
+al_ch13Verses|א|הֶעֱמִיד|Hmid
+al_ch13Verses|א|לְהוֹרֹת|Lhort
+al_ch13Verses|ג|מֵיסוֹד|Misod
+al_ch13Verses|ג|בַטּוֹב|Btob
+al_ch13Verses|ג|וּבְעֲשׂוֹתָם|Ovshotm
+al_ch13Verses|ה|הַיָּחִיד|Hichid
+al_ch13Verses|ו|לְהוֹרֹת|Lhort
+al_ch13Verses|ח|וְקֵץ׃|Okts
+al_ch13Verses|ט|הַיָּחִיד|Hichid
+al_ch13Verses|י|וּתְשׁוּבָתָם|Otshobtm
+al_ch13Verses|יא|וַיִּלְבְּנוּ|Oilbno
+al_ch13Verses|יב|וּתְמִימִים|Otmimim
+al_ch13Verses|יב|בְתוֹעֵבָה|Vtovh
+al_ch13Verses|כג|נְכוֹחִים|Nkochim
+al_ch13Verses|כג|נָבִין|Nbin
+al_ch13Verses|כה|הַגִּילָה|Hgilh
+al_ch13Verses|כה|בְיָמַי|Bimi
+al_ch13Verses|כה|יְאַחֵר|Ichr
+al_ch13Verses|כו|יִקָּיְמוּ|Ikimo
+al_ch13Verses|כח|תוּבְלוּ|Toblo
+al_ch13Verses|כט|מְיַחֲלִים|Michlim
+al_ch14Verses|ב|דִינָם׃|Dinm
+al_ch14Verses|ה|דִינָם|Dinm
+al_ch14Verses|ז|תְּמִימִים|Tmimim
+al_ch14Verses|ז|וַיָּרְקוּ|Oirko
+al_ch14Verses|ח|וַיְצַוּוּ|Oitsoo
+al_ch14Verses|ט|וַיּוֹלִיכוּם|Oiolikom
+al_ch14Verses|י|וַיִּכָּאֵב|Oikhv
+al_ch14Verses|י|אֶת־יָדֵינוּ|Tidino
+al_ch14Verses|י|וְנוֹשִׁיעֵם|Onoshim
+al_ch14Verses|יא|מַנִּיחַ|Mnich
+al_ch14Verses|יד|גוּפוֹת|Gopot
+al_ch14Verses|יז|עָנוּהוּ|Noho
+al_ch14Verses|יח|וַיִּשְׁאָלוּם|Oishlom
+al_ch14Verses|יח|עָנוּם|Nom
+al_ch14Verses|יט|תַעֲנוּ|Tno
+al_ch14Verses|כא|וְרֹקְקִים|Orkkim
+al_ch14Verses|כב|לָעֲגוּ|Lgo
+al_ch14Verses|כב|וַיִּמְנְעוּ|Oimno
+al_ch14Verses|כב|וַיִּכְלְאוּם|Oikhlom
+al_ch14Verses|כג|דִינָם|Dinm
+al_ch14Verses|כו|וַיְנַתְּקוּ|Ointko
+al_ch14Verses|כז|הִגִּיעוּ|Hgio
+al_ch14Verses|כז|וַיִּבָּקְעוּ|Oivko
+al_ch14Verses|כז|קִירוֹת|Kirot
+al_ch14Verses|כח|מֵאֲסוּרֵיהֶם|Msorihm
+al_ch14Verses|כח|קִירוֹתָיו|Kirotio
+al_ch14Verses|כט|וְקִירוֹתָיו|Okirotio
+al_ch14Verses|כט|תָּנוּס|Tnos
+al_ch14Verses|כט|אֲרָיוֹת|Riot
+al_ch15Verses|ג|בְּסִידוֹם|Bsidom
+al_ch15Verses|ג|הוּמְתוּ|Homto
+al_ch15Verses|ג|בַּעֲוֺנוֹ|Vono
+al_ch15Verses|ג|בּוֹעֵר׃|Vor
+al_ch15Verses|ה|כּוֹאֶבֶת|Khovt
+al_ch15Verses|ה|בַּעֲוֺנוֹתָיו|Vonotio
+al_ch15Verses|ה|יְרַפְּאוּהוּ׃|Irfoho
+al_ch15Verses|י|וּרְפָאֵהוּ|Orfho
+al_ch15Verses|יא|וַיְדַלֵּג|Oidlg
+al_ch15Verses|יד|וַיִּטָּבֵלוּ׃|Oitblo
+al_ch15Verses|טו|וַיְיַחֲסוּ|Oiichso
+al_ch15Verses|טז|וַיִּמָּאֵס|Oims
+al_ch15Verses|יז|בְּסִידוֹם|Bsidom
+al_ch16Verses|ח|וַיָּפֻצוּ|Oiptso
+al_ch16Verses|ח|וַיִּנָּגְרוּ|Oingro
+al_ch16Verses|יא|גוּפוֹתֵיהֶם|Gopotihm
+al_ch16Verses|יא|וַיְכֻסּוּ|Oikso
+al_ch16Verses|יא|דַּק|Dk
+al_ch16Verses|יא|רֵיחָם|Richm
+al_ch16Verses|יא|הוּמְתוּ|Homto
+al_ch16Verses|יא|וְאַדְמוֹתֵיהֶם|Odmotihm
+al_ch16Verses|טו|יִסּוּד|Isod
+al_ch16Verses|יח|וְקִנְאָה|Oknh
+al_ch16Verses|יח|וְגִדּוּפִים|Ogdopim
+al_ch16Verses|יח|וּבִזָּה|Obzh
+al_ch16Verses|יח|וְנִאוּף|Onof
+al_ch16Verses|יט|מוֹדִיעִים|Modiim
+al_ch16Verses|יט|מוֹדִיעִים|Modiim
+al_ch16Verses|כ|וְגִילָה|Ogilh
+al_ch16Verses|כא|שׁוֹפֵךְ|Shopk
+al_ch17Verses|ב|נְבוֹנִים|Nbonim
+al_ch17Verses|ג|וְצוֹם|Otsom
+al_ch17Verses|ז|וַחֲנִיתוֹתֵיהֶם|Ochnitotihm
+al_ch17Verses|ז|וְקַלָּעוֹתֵיהֶם|Oklotihm
+al_ch17Verses|ז|יָכִינוּ|Ikino
+al_ch17Verses|ט|וַיָּצוּמוּ|Oitsomo
+al_ch17Verses|יא|וְהָקִימוּ|Ohkimo
+al_ch17Verses|יא|וּסְבָלִים|Osblim
+al_ch17Verses|יג|וַיִּפָּרְדוּ|Oiprdo
+al_ch17Verses|טז|יְשִׁיבוּם|Ishibom
+al_ch17Verses|יח|וַיִּפָּרֵד|Oiprd
+al_ch17Verses|כג|מוֹתִי׃|Moti
+al_ch17Verses|כו|הֱיוֹתוֹ|Hioto
+al_ch17Verses|כו|נוֹהֲגִים|Nohgim
+al_ch17Verses|כז|וַיָּפִיצוּ|Oipitso
+al_ch17Verses|כז|וַיְפִיצוּם|Oipitsom
+al_ch17Verses|כח|וַיִּלֹּנוּ|Oilno
+al_ch17Verses|כט|אֶקְנֶה|Knh
+al_ch17Verses|כט|אוֹבִילֵם|Ovilm
+al_ch17Verses|לא|וּנְשִׁיבֵם|Onshibm
+al_ch17Verses|לא|יְמִיתֵנוּ׃|Imitno
+al_ch17Verses|לב|וַיַּשִּׂיגוּ|Oishigo
+al_ch17Verses|לג|סֹבּוּ|Svo
+al_ch17Verses|לו|קָלַע|Kl
+al_ch17Verses|לז|מַכּוֹתֵיהֶם|Mkotihm
+al_ch17Verses|לז|וַיַּבְרִיחֵם|Oibrichm
+al_ch17Verses|לח|בַּקֶּלַע|Vkl
+al_ch17Verses|לח|הוּרְמוּ|Hormo
+al_ch17Verses|לט|וַיַּשְׁקוּ|Oishko
+al_ch18Verses|ב|נְבוֹנִים|Nbonim
+al_ch18Verses|ג|וְצוֹם|Otsom
+al_ch18Verses|ז|וַחֲנִיתוֹתֵיהֶם|Ochnitotihm
+al_ch18Verses|ז|וְקַלָּעוֹתֵיהֶם|Oklotihm
+al_ch18Verses|ז|יָכִינוּ|Ikino
+al_ch18Verses|ט|וַיָּצוּמוּ|Oitsomo
+al_ch18Verses|יא|וְהָקִימוּ|Ohkimo
+al_ch18Verses|יא|וּסְבָלִים|Osblim
+al_ch18Verses|יג|וַיִּפָּרְדוּ|Oiprdo
+al_ch18Verses|טז|יְשִׁיבוּם|Ishibom
+al_ch18Verses|יח|וַיִּפָּרֵד|Oiprd
+al_ch18Verses|כג|מוֹתִי׃|Moti
+al_ch18Verses|כו|הֱיוֹתוֹ|Hioto
+al_ch18Verses|כו|נוֹהֲגִים|Nohgim
+al_ch18Verses|כז|וַיָּפִיצוּ|Oipitso
+al_ch18Verses|כז|וַיְפִיצוּם|Oipitsom
+al_ch18Verses|כח|וַיִּלֹּנוּ|Oilno
+al_ch18Verses|כט|אֶקְנֶה|Knh
+al_ch18Verses|כט|אוֹבִילֵם|Ovilm
+al_ch18Verses|לא|וּנְשִׁיבֵם|Onshibm
+al_ch18Verses|לא|יְמִיתֵנוּ׃|Imitno
+al_ch18Verses|לב|וַיַּשִּׂיגוּ|Oishigo
+al_ch18Verses|לג|סֹבּוּ|Svo
+al_ch18Verses|לו|קָלַע|Kl
+al_ch18Verses|לז|מַכּוֹתֵיהֶם|Mkotihm
+al_ch18Verses|לז|וַיַּבְרִיחֵם|Oibrichm
+al_ch18Verses|לח|בַּקֶּלַע|Vkl
+al_ch18Verses|לח|הוּרְמוּ|Hormo
+al_ch18Verses|לט|וַיַּשְׁקוּ|Oishko
+al_ch19Verses|א|אֶת־גּוּפָתוֹ|Tgofto
+al_ch19Verses|א|וּלְשׂוּמָהּ|Olshomh
+al_ch19Verses|ה|הוּשְׂם|Hoshm
+al_ch19Verses|ה|הִבְאִישׁ|Hvish
+al_ch19Verses|ה|הִבְאִישׁ׃|Hvish
+al_ch19Verses|ו|וַיִּמַּח|Oimch
+al_ch19Verses|ו|וַיִּדְלַק|Oidlk
+al_ch19Verses|ז|הַיָּחִיד|Hichid
+al_ch19Verses|ח|יָשֵׁן|Ishn
+al_ch19Verses|ט|מַאֲמִינָה|Mminh
+al_ch19Verses|י|בְּרוּכָה|Brokh
+al_ch19Verses|יא|אִישָׁהּ|Ishh
+al_ch19Verses|יב|וּבְקוּמוֹ|Obkomo
+al_ch19Verses|יב|וּבְרוּכָה|Obrokh
+al_ch19Verses|יד|וּבְהוֹדָיָה|Obhodih
+al_ch19Verses|טז|אָבִישׁ|Vish
+al_ch19Verses|יז|הוֹדִיעָה|Hodih
+al_ch19Verses|יז|בִּרְאוֹתָהּ|Vroth
+al_ch19Verses|יז|בַּיִת|Bit
+al_ch19Verses|יט|וּבֵיתוֹ|Obito
+al_ch19Verses|כ|סֶבוּס׃|Sbos
+al_ch19Verses|כא|וַיָּפִיצוּ|Oipitso
+al_ch19Verses|כב|הוּמַת|Homt
+al_ch19Verses|כב|לְהוֹרִידָהּ|Lhoridh
+al_ch19Verses|כג|יוּמַת|Iomt
+al_ch19Verses|כו|לְעַנּוֹתָם׃|Lnotm
+al_ch19Verses|כז|לְיַסְּרָם|Lisrm
+al_ch19Verses|כז|וְהִצִּילָה|Ohtsilh
+al_ch19Verses|כח|הָאָמָה|Hmh
+al_ch19Verses|כח|דְּמָעוֹת׃|Dmot
+al_ch19Verses|כט|וַתָּקָם|Otkm
+al_ch19Verses|ל|כַּפֶּיהָ|Kpih
+al_ch19Verses|ל|הוּבְנוּ|Hobno
+al_ch19Verses|ל|וּכְכַלּוֹתָהּ|Okkloth
+al_ch19Verses|לה|וַיְהִיוּ|Oihio
+al_ch19Verses|לה|וַיָּקִימוּ|Oikimo
+al_ch20Verses|ב|מוּלוֹקִי|Moloki
+al_ch20Verses|ב|וְעַמָּה|Omh
+al_ch20Verses|ד|אַנְטִיוֹמְנוֹ|Ntiomno
+al_ch20Verses|יג|גָּזַל|Gzl
+al_ch20Verses|יג|יְרַמּוּנוּ|Irmono
+al_ch20Verses|יג|יִגְזְלוּ|Igzlo
+al_ch20Verses|יז|תִוָּשַׁע|Tosh
+al_ch20Verses|כב|וַיָּרֶם|Oirm
+al_ch20Verses|ל|גּוֹרָלָם|Gorlm
+al_ch20Verses|ל|בַּיִת|Bit
+al_ch20Verses|ל|וַיַּחֲזִיקוּם|Oichzikom
+al_ch20Verses|ל|וַיִּגָּאֲלוּ|Oiglo
+al_ch21Verses|א|מוֹלֶדֶת|Moldt
+al_ch21Verses|ב|עֲמוּלוֹן|Molon
+al_ch21Verses|ג|וּבְתוֹעֲבוֹתֵיהֶם׃|Ovtovotihm
+al_ch21Verses|ה|זֶּה|Zh
+al_ch21Verses|ה|הֵעַדְתָּ|Hdt
+al_ch21Verses|ו|כַּוָּנָתֵנוּ|Kontno
+al_ch21Verses|יא|עַנְטִי|Nti
+al_ch21Verses|יא|מוּלוֹקִי|Moloki
+al_ch21Verses|יא|עַמָּה|Mh
+al_ch21Verses|יא|וַיִּתְוַכְּחוּ|Oitokcho
+al_ch21Verses|יג|סְבִיבוֹתֵיהֶם׃|Sbibotihm
+al_ch21Verses|יד|וַיִּגָּאֲלוּ|Oiglo
+al_ch21Verses|יד|וַיַּאֲכִילוּם|Oikhilom
+al_ch21Verses|יד|וַיַּלְבִּישׁוּם׃|Oilbishom
+al_ch21Verses|כג|וַיּוֹכִיחֵם|Oiokichm
+al_ch21Verses|כג|וַיַּקְשִׁיבוּ|Oikshibo
+al_ch23Verses|ב|יַלְקוּם|Ilkom
+al_ch23Verses|ב|יִרְגְּמוּם|Irgmom
+al_ch23Verses|ב|מָבוֹא|Mvo
+al_ch23Verses|ג|יִוָּכְחוּ|Iokcho
+al_ch23Verses|ג|יִוָּכְחוּ|Iokcho
+al_ch23Verses|ג|יִגְנְבוּ|Ignbo
+al_ch23Verses|ג|יִנְאָפוּ|Info
+al_ch23Verses|ד|וַיָּקִימוּ|Oikimo
+al_ch23Verses|ד|וַיַּקְדִּישׁוּ|Oikdisho
+al_ch23Verses|יב|שִׁמְנִילוֹם׃|Shimnilom
+al_ch23Verses|יד|מוֹשְׁבוֹתֵיהֶם|Moshbotihm
+al_ch23Verses|טז|נוֹעַץ|Nots
+al_ch24Verses|א|הֵסִיתוּם|Hsitom
+al_ch24Verses|ו|תִּשָּׂא|Tsh
+al_ch24Verses|ז|וּלְהוֹכִיחֵנוּ|Olhokichno
+al_ch24Verses|ט|עָשִׂינוּ׃|Shino
+al_ch24Verses|יב|וַיִּזְהֲרוּ|Oizhro
+al_ch24Verses|יג|יִכָּתְמוּ|Iktmo
+al_ch24Verses|יד|הַיְּשׁוּעָה|Hishoh
+al_ch24Verses|טו|וַיִּזְהֲרוּ|Oizhro
+al_ch24Verses|טז|יַשְׁמִידוּנוּ|Ishmidono
+al_ch24Verses|טז|וְנִוָּשֵׁעַ׃|Onosh
+al_ch24Verses|יז|וַיִּקְבְּרוּם|Oikbrom
+al_ch24Verses|יח|בַּלּוֹת|Blot
+al_ch24Verses|יט|אֵיתָנִים|Itnim
+al_ch24Verses|כג|יָמִין|Imin
+al_ch24Verses|כג|וַיְהַלְלוּ|Oihllo
+al_ch24Verses|כד|נָמַס|Nms
+al_ch24Verses|כה|נִכָּווּ|Nkoo
+al_ch24Verses|כה|זְרוֹעָם|Zrom
+al_ch24Verses|כח|עֲמָלֵקִים|Amaleki(pl)
+al_ch24Verses|כח|וַעֲמוּלוֹנִים|Omolonim
+al_ch24Verses|ל|הוּאַר|Hor
+al_ch25Verses|ו|בְּתוֹרוֹת|Btorot
+al_ch25Verses|ח|הֲרִיגַת|Hrigt
+al_ch25Verses|יא|כִּוֵּן|Kon
+al_ch25Verses|יב|יִגְרְמוּ|Igrmo
+al_ch25Verses|יב|וּמֻכֶּה|Omkh
+al_ch25Verses|יב|וַיֻּצָּדוּ|Oitsdo
+al_ch25Verses|יד|וַיִּטְמְנוּ|Oitmno
+al_ch25Verses|טו|לְבִיאָתוֹ|Lvito
+al_ch26Verses|א|הֲיָכֹלְנוּ|Hiklno
+al_ch26Verses|ב|גָּמַל|Gml
+al_ch26Verses|ג|אֲפֵלָה|Flh
+al_ch26Verses|ה|מַגָּל|Mgl
+al_ch26Verses|ו|בַסּוּפָה|Bsoph
+al_ch26Verses|ו|בְבוֹא|Vvo
+al_ch26Verses|ו|יִנָּדְפוּ|Indpo
+al_ch26Verses|ו|עַזּוֹת|Zot
+al_ch26Verses|ז|הִנָּם|Hnm
+al_ch26Verses|ז|יְקִימֵם|Ikimm
+al_ch26Verses|ח|נוֹדֶה|Nodh
+al_ch26Verses|ט|זָרִים|Zrim
+al_ch26Verses|י|וַיּוֹכִיחֵנּוּ|Oiokichno
+al_ch26Verses|יג|הִתִּיר|Htir
+al_ch26Verses|יד|וְהִתִּיר|Ohtir
+al_ch26Verses|טו|הֱבִיאָם|Hvim
+al_ch26Verses|יח|בְּאֵיּוּמִים|Viomim
+al_ch26Verses|יט|אֵפוֹא|Fo
+al_ch26Verses|יט|וַיַּדִּינֵנוּ|Oidinno
+al_ch26Verses|יט|לְיֵאוּשׁ|Liosh
+al_ch26Verses|כ|הֶעֱבִירָנוּ|Hvirno
+al_ch26Verses|כב|וּמַפְעִיל|Omfil
+al_ch26Verses|כב|סֹדוֹת|Sdot
+al_ch26Verses|כג|וַיִּלְעֲגוּ|Oilgo
+al_ch26Verses|כד|פּוֹשֵׁעַ|Fosh
+al_ch26Verses|כו|נוֹשִׁיעַ|Noshi
+al_ch26Verses|כח|בַּיִת|Bit
+al_ch26Verses|כט|גִּבְעוֹתֵיהֶם|Gvotihm
+al_ch26Verses|כט|וְלֻעַגְנוּ|Olgno
+al_ch26Verses|כט|וְהֻכֵּינוּ|Ohkino
+al_ch26Verses|כט|בַּעֲבוֹתוֹת|Vvotot
+al_ch26Verses|לא|נַבִּיט|Nbit
+al_ch26Verses|לב|וַיִּטְמְנוּ|Oitmno
+al_ch26Verses|לג|הֲהָיְתָה|Hhith
+al_ch26Verses|לה|הֲאֵין|Hin
+al_ch26Verses|לו|מִיָּגוֹן|Migon
+al_ch26Verses|לז|מוֹנֶה|Monh
+al_ch26Verses|לז|וְהוֹדָיָתִי|Ohoditi
+al_ch27Verses|ד|וַיִּכָּמְרוּ|Oikmro
+al_ch27Verses|ו|יַשְׁמִידוּנוּ|Ishmidono
+al_ch27Verses|ז|רְדוּ|Rdo
+al_ch27Verses|יב|הוֹצֵא|Hots
+al_ch27Verses|טו|פֹה|Ph
+al_ch27Verses|טו|שׁוּבֵנוּ|Shobno
+al_ch27Verses|טו|הֲיִרְצוּ|Hirtso
+al_ch27Verses|כ|וַיּוֹלֵךְ|Oiolk
+al_ch27Verses|כא|אֲדוֹת|Dot
+al_ch27Verses|כג|נָגֵן|Ngn
+al_ch27Verses|כד|מֵהוֹנָם|Mhonm
+al_ch27Verses|כה|נָטוּ|Nto
+al_ch27Verses|כה|וַיּוֹדִיעוּ|Oiodio
+al_ch27Verses|כז|וַיִּמָּנוּ|Oimno
+al_ch27Verses|כז|וּתְמִימִים|Otmimim
+al_ch27Verses|כח|תִקְוָתָם|Tkotm
+al_ch27Verses|כח|בֻּלַּע|Vl
+al_ch28Verses|ה|בּוֹכוֹת|Bokot
+al_ch28Verses|ה|וּבַת|Obt
+al_ch28Verses|ו|צוֹם|Tsom
+al_ch28Verses|יא|וְגוּפוֹת|Ogopot
+al_ch28Verses|יא|וְגוּפוֹת|Ogopot
+al_ch28Verses|יב|וְיַעַלְצוּ|Oiltso
+al_ch28Verses|יב|הוּקְמוּ|Hokmo
+al_ch29Verses|ג|וְחוֹטֵא|Ochot
+al_ch29Verses|ד|תַאֲוָתוֹ|Toto
+al_ch29Verses|ד|יָמוּשׁוּ|Imosho
+al_ch29Verses|ו|אֶתְאַוֶּה|Toh
+al_ch29Verses|ז|אֶתְאַוֶּה|Toh
+al_ch29Verses|ט|יַעֲשֵׂנִי|Ishni
+al_ch29Verses|יז|וִיהַלְלוּהוּ|Oihlloho
+al_ch30Verses|א|וַיִּקְבְּרוּ|Oikbro
+al_ch30Verses|ג|וַיַּחֲרִידוּ|Oichrido
+al_ch30Verses|ג|תְּקֻיַּם׃|Tkim
+al_ch30Verses|י|גָּזַל|Gzl
+al_ch30Verses|י|נָאַף|Nf
+al_ch30Verses|יג|אֱוִילִית|Oilit
+al_ch30Verses|יג|אֱוִילִיים|Oiliim
+al_ch30Verses|טז|מַבִּיטִים|Mbitim
+al_ch30Verses|טז|מוֹלִיכוֹת|Molikot
+al_ch30Verses|יז|כּוֹבֵשׁ|Kobsh
+al_ch30Verses|יח|מַסִּית|Msit
+al_ch30Verses|יח|גּוֹרֵם|Gorm
+al_ch30Verses|יח|מַסִּית|Msit
+al_ch30Verses|יט|פַעַם|Fm
+al_ch30Verses|כ|וַיָּבִיאוּהוּ|Oivioho
+al_ch30Verses|כא|גָרַם|Grm
+al_ch30Verses|כא|וְכָאן|Okhn
+al_ch30Verses|כב|מְעַוֵּת|Mot
+al_ch30Verses|כג|גִּדּוֹנָה|Gdonh
+al_ch30Verses|כג|עַתִּיקִים|Tikim
+al_ch30Verses|כד|הָעַתִּיקוֹת|Htikot
+al_ch30Verses|כה|הוֹרֶה|Horh
+al_ch30Verses|כה|אֵינוֹ|Ino
+al_ch30Verses|כה|הוֹרָיו׃|Horio
+al_ch30Verses|כז|מוֹלִיכִים|Molikim
+al_ch30Verses|כז|תַאֲוֹתֵיכֶם|Totikhm
+al_ch30Verses|כז|בִּיגִיעַ|Vigi
+al_ch30Verses|כח|יַכְעִיסוּ|Ikhiso
+al_ch30Verses|כח|צוֹמְדִים|Tsomdim
+al_ch30Verses|כח|וַחֲלוֹמוֹתֵיהֶם|Ochlomotihm
+al_ch30Verses|כח|וְשִׁגְעוֹנוֹתֵיהֶם|Oshgonotihm
+al_ch30Verses|כח|וּמַרְאוֹתֵיהֶם|Omrotihm
+al_ch30Verses|כח|יַכְעִיסוּ|Ikhiso
+al_ch30Verses|כח|אֱלוֹהַּ|Loh
+al_ch30Verses|כט|וּמְסָרוּהוּ|Omsroho
+al_ch30Verses|לא|וַיִּתְרוֹמֵם|Oitromm
+al_ch30Verses|לא|גַאֲוָה|Goh
+al_ch30Verses|לא|בִּיגִיעַ|Vigi
+al_ch30Verses|לג|הָעֲבוֹדוֹת|Hvodot
+al_ch30Verses|לג|סֶנִין|Snin
+al_ch30Verses|לג|עֲבוֹדָתִי|Vodti
+al_ch30Verses|לג|עֵתֵנוּ׃|Tno
+al_ch30Verses|לה|מַטְעִים|Mtim
+al_ch30Verses|לה|הַגּוֹרֵם|Hgorm
+al_ch30Verses|מד|נְתוּנִים|Ntonim
+al_ch30Verses|מד|וּתְנוּעָתָהּ|Otnoth
+al_ch30Verses|מד|הַכּוֹכָבִים|Hkokbim
+al_ch30Verses|מה|מַסִּיט|Msit
+al_ch30Verses|מז|פִּיךָ|Pik
+al_ch30Verses|מז|תַטְעֶה|Tth
+al_ch30Verses|מח|תַּרְאוּנִי|Troni
+al_ch30Verses|נג|אֱלוֹהַּ|Loh
+al_ch30Verses|נד|תוּסַר|Tosr
+al_ch30Verses|נה|תוּסַר|Tosr
+al_ch30Verses|נה|תַסִּיט|Tsit
+al_ch30Verses|נו|הוּסְרָה|Hosrh
+al_ch30Verses|נו|מִקּוֹרִיהוֹר|Mkorihor
+al_ch30Verses|נו|בַּיִת|Bit
+al_ch30Verses|נז|קָּרָה|Krh
+al_ch30Verses|נח|נוֹכְחוּ|Nokcho
+al_ch30Verses|נח|בַּיִת|Bit
+al_ch30Verses|ס|מְעַוְּתֵי|Moti
+al_ch31Verses|א|לֶאֱלִילִים|Llilim
+al_ch31Verses|א|לִדְאֹב|Ldv
+al_ch31Verses|ו|עָמְנֵר|Mnr
+al_ch31Verses|ו|הִמְנִי|Himni
+al_ch31Verses|ח|פּוֹרְשִׁים|Porshim
+al_ch31Verses|יג|יָכִיל|Ikil
+al_ch31Verses|יד|כַּפָּיו|Kpio
+al_ch31Verses|טז|הוּרְדָה|Hordh
+al_ch31Verses|טז|הוֹדַעְתָּ|Hodt
+al_ch31Verses|יז|סְבִיבוֹתֵינוּ|Sbibotino
+al_ch31Verses|יז|נוֹדֶה|Nodh
+al_ch31Verses|יז|נוֹדֶה|Nodh
+al_ch31Verses|יח|נוֹדֶה|Nodh
+al_ch31Verses|כא|רָמְאוּמְפְּתוֹם|Rmomftom
+al_ch31Verses|כג|הוֹדוֹת|Hodot
+al_ch31Verses|כד|וְעִקֵּשׁ|Oksh
+al_ch31Verses|כה|בְּגַאֲוָתָם׃|Vgotm
+al_ch31Verses|כז|בְּגַאֲוָתָם|Vgotm
+al_ch31Verses|כח|וְקַוְּצוֹתֵיהֶם|Okotsotihm
+al_ch31Verses|כח|יִתְעַדּוּ|Itdo
+al_ch31Verses|כח|נוֹדֶה|Nodh
+al_ch31Verses|כט|הוֹדַעְתָּ|Hodt
+al_ch31Verses|לא|דַּוָּי|Doi
+al_ch31Verses|לב|לַעֲמִיתַי|Lmiti
+al_ch31Verses|לב|וְזֶעְזְרוֹם|Ozzrom
+al_ch31Verses|לו|וַיִּסְמֹךְ|Oismk
+al_ch31Verses|לז|דָאֲגוּ|Dgo
+al_ch32Verses|ד|אוֹנִידָה|Onidh
+al_ch32Verses|ו|וַיִּסֹּב|Oisb
+al_ch32Verses|יח|הֲזֹאת|Hzt
+al_ch32Verses|יט|יַעֲשֶׂנּוּ|Ishno
+al_ch32Verses|כו|אֵינָהּ|Inh
+al_ch32Verses|כז|חוּשֵׁיכֶם|Choshikm
+al_ch32Verses|כז|וְנַסּוּ|Onso
+al_ch32Verses|כח|לְהָאִיר|Lhir
+al_ch32Verses|כח|לֶעֱרַב|Lrv
+al_ch32Verses|ל|וְיַצְמִיחַ|Oitsmich
+al_ch32Verses|ל|תּוֹפֵחַ|Topch
+al_ch32Verses|ל|תּוֹפֵחַ|Topch
+al_ch32Verses|לג|נִסִּיתֶם|Nsitm
+al_ch32Verses|לו|תַּנִּיחוּ|Tnicho
+al_ch32Verses|לח|חֹם|Chm
+al_ch32Verses|לח|וְיִבַשׁ|Oibsh
+al_ch32Verses|לח|וּתְעַקְּרוּהוּ|Otkroho
+al_ch32Verses|מ|בְּקַוּוֹתְכֶם|Bkootkm
+al_ch32Verses|מא|בְּקַוּוֹתְכֶם|Bkootkm
+al_ch32Verses|מג|גְּמוּל|Gmol
+al_ch32Verses|מג|וַחֲרִיצוּתְכֶם|Ochritsotkm
+al_ch33Verses|א|לֶאֱמֹן׃|Lmn
+al_ch33Verses|ב|שׁוֹגִים|Shogim
+al_ch33Verses|ד|וַתַּסֵּב|Otsb
+al_ch33Verses|ו|בֵּיתִי|Biti
+al_ch33Verses|יא|וְתָם|Otm
+al_ch33Verses|יא|הֲסִירוֹתָ|Hsirot
+al_ch33Verses|יג|הֲסִירוֹתָ|Hsirot
+al_ch33Verses|טו|זֶנוֹק|Znok
+al_ch33Verses|יט|הוּרַם|Horm
+al_ch33Verses|יט|יִחְיֶה|Ichih
+al_ch33Verses|יט|וַיִּחְיוּ׃|Oichio
+al_ch33Verses|כ|יֵרָפְאוּ׃|Irfo
+al_ch33Verses|כג|יֵקַלּוּ|Iklo
+al_ch34Verses|ג|וַיַּזְהִירְכֶם|Oizhirkm
+al_ch34Verses|ד|טוּבוֹ׃|Tobo
+al_ch34Verses|ו|הוֹכִיחַ|Hokich
+al_ch34Verses|ז|זֶנוֹק|Znok
+al_ch34Verses|ח|אָעִיד|Id
+al_ch34Verses|יג|יוֹד|Iod
+al_ch34Verses|יג|וְקוֹץ|Okots
+al_ch34Verses|יד|מוֹרָה|Morh
+al_ch34Verses|טו|מֵעַיִם|Mim
+al_ch34Verses|טו|וּמְבִיאִים|Omviim
+al_ch34Verses|טו|לֶאֱמֹן|Lmn
+al_ch34Verses|טז|וּמַקִּיפָם|Omkipm
+al_ch34Verses|טז|לְבַעַל|Lvl
+al_ch34Verses|טז|מוּבֵאת|Movt
+al_ch34Verses|יז|לֶאֱמֹן|Lmn
+al_ch34Verses|יט|וְהַתְמִידוּ|Ohtmido
+al_ch34Verses|כא|וּבָעֶרֶב׃|Ovrv
+al_ch34Verses|כד|תְּבוּאוֹת|Tvoot
+al_ch34Verses|כד|בָהֶן׃|Vhn
+al_ch34Verses|כה|יִרְבּוּ׃|Irbo
+al_ch34Verses|כו|וּבִמְקוֹמוֹת|Obmkomot
+al_ch34Verses|כז|סְבִיבוֹתֵיכֶם׃|Sbibotikm
+al_ch34Verses|כח|וַהֲרֵיתֶם|Ohritm
+al_ch34Verses|כח|הַכּוֹפְרִים|Hkoprim
+al_ch34Verses|כט|הֲרֵיתֶם|Hritm
+al_ch34Verses|לג|נֵיטִיב|Nitib
+al_ch34Verses|לג|עִתֵּנוּ|Tno
+al_ch34Verses|לג|לֵיל|Lil
+al_ch34Verses|לד|גּוּפְכֶם|Gopkm
+al_ch34Verses|לד|גּוּפְכֶם|Gopkm
+al_ch34Verses|לו|יִלְבְּנוּ|Ilbno
+al_ch34Verses|לח|תָרִיבוּ|Tribo
+al_ch34Verses|לח|בְּתוֹדָה|Btodh
+al_ch34Verses|לח|וּבִרְכוֹתָיו|Obrkotio
+al_ch34Verses|לח|יָחֹן|Ichn
+al_ch35Verses|א|וַיִּפָּרְדוּ|Oiprdo
+al_ch35Verses|ג|הִתְיָעֲצוּ|Htitso
+al_ch35Verses|ד|וַיִּוָּעֲצוּ|Oiotso
+al_ch35Verses|ו|הַתּוֹמְכִים|Htomkim
+al_ch35Verses|ט|וַיָּפַח|Oipch
+al_ch35Verses|ט|אִיּוּמִים|Iomim
+al_ch35Verses|ט|וַיַּלְבִּישׁוּם|Oilbishom
+al_ch36Verses|א|הַטֵּה|Hth
+al_ch36Verses|ג|יִסָּמֵךְ|Ismk
+al_ch36Verses|ה|זְכוּתִי׃|Zkoti
+al_ch36Verses|יא|הֻכֵּיתִי|Hkiti
+al_ch36Verses|יב|וַיְעַנּוּנִי|Oinoni
+al_ch36Verses|יג|עֻנֵּיתִי|Niti
+al_ch36Verses|טו|וְאֶנָּדֶה|Ondh
+al_ch36Verses|טו|גוּף|Gof
+al_ch36Verses|טו|אוּבָא|Ov
+al_ch36Verses|יח|מְרוֹרִים|Mrorim
+al_ch36Verses|כא|חַד|Chd
+al_ch36Verses|כא|חַד|Chd
+al_ch36Verses|כג|אֵבָרַי|Vri
+al_ch36Verses|כג|לְאֵיתָנָם|Litnm
+al_ch36Verses|כד|יִוָּלְדוּ|Ioldo
+al_ch36Verses|כו|נוֹלְדוּ|Noldo
+al_ch36Verses|כז|יַצִּילֵנִי׃|Itsilni
+al_ch36Verses|כח|יְקִימֵנִי|Ikimni
+al_ch36Verses|כח|וַיְשַׁקַּע|Oishk
+al_ch37Verses|ג|וְתוֹלְדוֹת|Otoldot
+al_ch37Verses|ו|וּפְשׁוּטִים|Opshotim
+al_ch37Verses|ז|עֲצוֹתָיו|Tsotio
+al_ch37Verses|ז|יָבִישׁ|Ibish
+al_ch37Verses|ט|הַנֶּעֱוִים|Hnoim
+al_ch37Verses|ט|הֱבִיאוּם|Hviom
+al_ch37Verses|יב|יְדוּעָה|Idoh
+al_ch37Verses|יב|יְשָׁרוֹת|Ishrot
+al_ch37Verses|יב|וּמַעְגָּלוֹ|Omglo
+al_ch37Verses|טז|בָּם)|Bm)
+al_ch37Verses|יז|יַבְטִיחַ|Ibtich
+al_ch37Verses|כא|וּגְזֵלוֹתֵיהֶם|Ogzlotihm
+al_ch37Verses|כג|אָכִין|Khin
+al_ch37Verses|כג|תָּאִיר|Tir
+al_ch37Verses|כה|אוֹצִיא|Otsi
+al_ch37Verses|כז|וַעֲרֻבּוֹתֵיהֶם|Orvotihm
+al_ch37Verses|כז|בְּתוֹעֲבוֹת|Vtovot
+al_ch37Verses|כז|אוֹתוֹתֵיהֶם|Ototihm
+al_ch37Verses|כז|וּמוֹפְתֵיהֶם|Omoptihm
+al_ch37Verses|כט|וּרְצִיחוֹתֵיהֶם|Ortsichotihm
+al_ch37Verses|כט|תּוֹדִיעַ|Todi
+al_ch37Verses|כט|לְתַעֵב|Ltv
+al_ch37Verses|כט|וּרְצִיחוֹתֵיהֶם׃|Ortsichotihm
+al_ch37Verses|לג|נִסְיוֹן|Nsion
+al_ch37Verses|לד|יִיעֲפוּ|Iifo
+al_ch37Verses|לו|וּבְכׇל|Obkl
+al_ch37Verses|לו|יְכֻוְּנוּ|Ikono
+al_ch37Verses|לז|הִוָּעֵץ|Hots
+al_ch37Verses|לז|וּבְקוּמְךָ|Obkomk
+al_ch37Verses|לח|כַּדּוּר|Kdor
+al_ch37Verses|לח|לִיאַהוֹנָה|Lihonh
+al_ch37Verses|לח|הֲכִינוֹ׃|Hkino
+al_ch37Verses|מ|הַמּוֹפֵת|Hmopt
+al_ch37Verses|מ|מוֹפְתִים|Moptim
+al_ch37Verses|מג|תָבִין|Tbin
+al_ch37Verses|מד|יוֹרֶה|Iorh
+al_ch37Verses|מה|לְעֵמֶק|Lmk
+al_ch37Verses|מו|נַבִּיט|Nbit
+al_ch37Verses|מז|תַבִּיט|Tbit
+al_ch37Verses|מז|וֶחְיֵה|Ochih
+al_ch37Verses|מז|וֶהְיֵה|Ohih
+al_ch38Verses|א|הַטֵּה|Hth
+al_ch38Verses|ב|יַצִּיבוּתְךָ|Itsibotk
+al_ch38Verses|ב|אֲקַוֶּה|Koh
+al_ch38Verses|ב|תוֹסִיף|Tosif
+al_ch38Verses|ב|בָרוּךְ|Brok
+al_ch38Verses|ד|וַתִּשָּׂא|Otsh
+al_ch38Verses|ה|וְצָרוֹתֶיךָ|Otsrotik
+al_ch38Verses|ו|הַמּוֹדִיעַ|Hmodi
+al_ch38Verses|י|תוֹסִיף|Tosif
+al_ch38Verses|יב|אַמִּיץ|Mits
+al_ch38Verses|יב|תִרְסֹן|Tirson
+al_ch38Verses|יב|תַּאֲווֹתֶיךָ|Tootikh
+al_ch38Verses|יב|תִמְנַע|Tmn
+al_ch38Verses|יג|יִשְׁמְעוּם|Ishmom
+al_ch38Verses|יג|יְהַלְלוּם|Ihllom
+al_ch38Verses|יד|הוֹדֵה|Hodh
+al_ch38Verses|יד|אֵינְךָ|Inkh
+al_ch39Verses|א|יַצִּיבוּת|Itsibot
+al_ch39Verses|ב|תְּלוּנָתִי|Tlonti
+al_ch39Verses|ג|עָזַבְתָּ|Zvt
+al_ch39Verses|ג|אִיזָבֶל׃|Izvl
+al_ch39Verses|ו|יִקַּל|Ikl
+al_ch39Verses|ו|יִקַּל|Ikl
+al_ch39Verses|ט|וְתַעֲזֹב|Otzv
+al_ch39Verses|ט|וּגְדֹר|Ogdr
+al_ch39Verses|יא|רִיק|Rik
+al_ch39Verses|יא|הֵבֵאתָ|Hvt
+al_ch39Verses|יב|יַתְעוּ|Ito
+al_ch39Verses|יב|מֵעֲוֹנוֹתֶיךָ׃|Monotikh
+al_ch39Verses|יג|תַתְעֶה|Tth
+al_ch39Verses|יג|וְהוֹדֵה|Ohodh
+al_ch39Verses|טז|יָכִינוּ|Ikino
+al_ch39Verses|יז|אָנִיחַ|Nich
+al_ch39Verses|יח|תִּוָּדַע|Tod
+al_ch40Verses|א|דּוֹאֵג|Dog
+al_ch40Verses|ד|קָבוּעַ|Kvo
+al_ch40Verses|ו|רֶוַח|Roch
+al_ch40Verses|ז|יִּהְיֶה|Ihih
+al_ch40Verses|ז|מוֹתָם|Motm
+al_ch40Verses|ח|מִמּוֹעֵד|Mmod
+al_ch40Verses|ח|אֵינוֹ|Ino
+al_ch40Verses|ח|מוֹנֶה|Monh
+al_ch40Verses|ט|רֶוַח|Roch
+al_ch40Verses|ט|יִּהְיֶה|Ihih
+al_ch40Verses|י|הַמּוֹעֲדִים|Hmodim
+al_ch40Verses|יב|יְקֻבְּלוּ|Ikblo
+al_ch40Verses|יב|דְּאָגָה|Dgh
+al_ch40Verses|יב|וְיָגוֹן׃|Oigon
+al_ch40Verses|יג|בֵּיתָם|Bitm
+al_ch40Verses|טז|הוֹוִים|Hooim
+al_ch40Verses|יז|וּמְסִירָתָן|Omsirtn
+al_ch40Verses|יז|כַּוָּנָתָהּ׃|Konth
+al_ch40Verses|יח|כַּוָּנָתָהּ|Konth
+al_ch40Verses|יט|וְגוּפוֹתֵיהֶם|Ogopotihm
+al_ch40Verses|כ|אֵינִי|Ini
+al_ch40Verses|כ|וְגוּפוֹתֵיהֶם|Ogopotihm
+al_ch40Verses|כ|וְעׇלוֹתוֹ|Oloto
+al_ch40Verses|כא|רֶוַח|Roch
+al_ch40Verses|כא|קָבַע|Kv
+al_ch40Verses|כג|תּוּשַׁב|Toshb
+al_ch40Verses|כג|אֵבֶר|Vr
+al_ch40Verses|כה|יַזְהִירוּ|Izhiro
+al_ch40Verses|כו|וְיִמָּסְרוּ|Oimsro
+al_ch41Verses|א|עִוְּתוּ|Oto
+al_ch41Verses|א|נִדְאַג|Ndg
+al_ch41Verses|ב|גְּוִיָּתָהּ|Goith
+al_ch41Verses|ב|אֵבֶר|Vr
+al_ch41Verses|ד|תְּכוּנָתוֹ|Tkonto
+al_ch41Verses|ד|יוּקַם|Iokm
+al_ch41Verses|ה|יוּקַם|Iokm
+al_ch41Verses|ה|לַטּוֹב|Ltob
+al_ch41Verses|ה|טוּבוֹ|Tobo
+al_ch41Verses|ה|רָעָתוֹ|Rto
+al_ch41Verses|ו|יִגָּמֶל|Igml
+al_ch41Verses|ז|גְּאוּלֵי|Goli
+al_ch41Verses|ז|מִלֵּיל|Mlil
+al_ch41Verses|ח|נָכוֹנָה|Nkonh
+al_ch41Verses|ח|וְנוֹשָׁע׃|Onosh
+al_ch41Verses|ט|תּוֹסֵף|Tosf
+al_ch41Verses|י|תּוּשַׁב|Toshb
+al_ch41Verses|יא|בַּטֶּבַע|Vtv
+al_ch41Verses|יא|מְרוֹרִים|Mrorim
+al_ch41Verses|יא|וּבְמוֹסְרוֹת|Obmosrot
+al_ch41Verses|יא|טֶבַע|Tv
+al_ch41Verses|יא|טֶבַע|Tv
+al_ch41Verses|יד|וְיִגָּמֶל|Oigml
+al_ch41Verses|טו|וְנוֹשָׁב|Onoshb
+al_ch42Verses|א|יִמָּסֵר|Imsr
+al_ch42Verses|ב|לַהַט|Lht
+al_ch42Verses|ג|וּפֶן|Opn
+al_ch42Verses|ג|וְלַהַט|Olht
+al_ch42Verses|ה|מוּפָרָה׃|Moprh
+al_ch42Verses|ו|אוֹבֵד|Ovd
+al_ch42Verses|ו|נָפוּל׃|Npol
+al_ch42Verses|ח|יִגָּאֵל|Igl
+al_ch42Verses|ט|יִגָּאֲלוּ|Iglo
+al_ch42Verses|י|וְתַאֲוָנִיִּים|Otoniim
+al_ch42Verses|י|וְשֵׁדִיִּים|Oshdiim
+al_ch42Verses|יב|מִרְיוֹ׃|Mrio
+al_ch42Verses|טז|עוֹלָמִית|Olmit
+al_ch42Verses|יט|הֲיִירָא|Hiir
+al_ch42Verses|כא|תְּבִיעָה|Tvih
+al_ch42Verses|כב|יִתְבַּע|Itv
+al_ch42Verses|כב|וִיקַיֵּם|Oikim
+al_ch42Verses|כב|מֵבִיאָה|Mvih
+al_ch42Verses|כג|מוּשָׁבִים|Moshbim
+al_ch42Verses|כד|נוֹשָׁעִים|Noshim
+al_ch42Verses|כו|עֲצוֹתָיו|Tsotio
+al_ch42Verses|כו|וְהָעוֹלָמִיּוֹת|Oholmiot
+al_ch42Verses|כט|יַדְאִיגוּ|Idigo
+al_ch42Verses|כט|יַדְאִיגוּ|Idigo
+al_ch42Verses|ל|וְיוֹרִידְךָ|Oioridk
+al_ch42Verses|לא|וּבְיִשּׁוּב|Obishob
+al_ch42Verses|לא|תְּבִיעָה|Tvih
+al_ch43Verses|א|לָנוּחַ|Lnoch
+al_ch43Verses|ג|הַשֹּׁפְטִים׃ד.|Hshptimd.
+al_ch43Verses|ו|מִנָּה|Mnh
+al_ch43Verses|ו|עֲמָלֵקִים|Amaleki(pl)
+al_ch43Verses|ז|יְבִיאֵם|Ivim
+al_ch43Verses|ח|יַשִּׂיג|Ishig
+al_ch43Verses|ט|כִּרְצוֹנָם׃י.|Krtsonmi.
+al_ch43Verses|יא|יָפֵרוּ|Ipro
+al_ch43Verses|יד|דָּם׃טו.|Dmto.
+al_ch43Verses|טז|מֻנָּה|Mnh
+al_ch43Verses|יז|מֻנָּה|Mnh
+al_ch43Verses|יז|הַנֶּפִיִּים׃יח.|Hnpiimich.
+al_ch43Verses|יט|עָבִים׃|Vim
+al_ch43Verses|כ|וְקַלְּעֵיהֶם|Oklihm
+al_ch43Verses|כד|צוֹעֲדִים|Tsodim
+al_ch43Verses|כד|וַיְמַסְּרוּ|Oimsro
+al_ch43Verses|כו|וּדְרוֹרָם|Odrorm
+al_ch43Verses|כט|כַּוָּנָתָם|Kontm
+al_ch43Verses|ל|וּדְרוֹרָם|Odrorm
+al_ch43Verses|ל|הַלָּמָנִים׃לא.|Hlmniml.
+al_ch43Verses|ל|וַיַּסְתִּירֵם|Oistirm
+al_ch43Verses|לב|בְּגֵיא|Vgi
+al_ch43Verses|לה|נָהוּג|Nhog
+al_ch43Verses|לה|וַיּוֹלֵךְ|Oiolk
+al_ch43Verses|לה|וַיַּקֵּף|Oikf
+al_ch43Verses|לו|וַיִּפְנוּ|Oipno
+al_ch43Verses|לז|עֶרְוַת|Rot
+al_ch43Verses|לז|לְפַעַם|Lfm
+al_ch43Verses|לז|אֵיבְרֵי|Ivri
+al_ch43Verses|לז|וּמָגִנֵּי|Omgni
+al_ch43Verses|לז|זְרוֹעָם|Zrom
+al_ch43Verses|לז|וְכוֹבְעֵיהֶם|Okhovihm
+al_ch43Verses|לז|בַּלָּמָנִים׃לט.|Blmnimlt.
+al_ch43Verses|מ|יַעַבְרוּ׃מא.|Ivrom.
+al_ch43Verses|מ|וּלְהַכּוֹתָם׃|Olhkotm
+al_ch43Verses|מג|וְאֹמֶץ|Omts
+al_ch43Verses|מד|בִידֵיהֶם|Bidihm
+al_ch43Verses|מד|בָקְעוּ|Vko
+al_ch43Verses|מד|וַיִּדְקְרוּ|Oidkro
+al_ch43Verses|מד|הָעַזָּה׃|Hzh
+al_ch43Verses|מה|מְעוֹרָרִים|Morrim
+al_ch43Verses|מז|הָגֵן|Hgn
+al_ch43Verses|מח|וַיְעוֹרֵר|Oiorr
+al_ch43Verses|מח|דְּרוֹרָם|Drorm
+al_ch43Verses|מט|פָּנוּ|Fno
+al_ch43Verses|מט|דְּרוֹרָם|Drorm
+al_ch43Verses|נ|וּבְאוֹתָהּ|Ovoth
+al_ch43Verses|נ|שָׁעָה|Shh
+al_ch43Verses|נ|דְּרוֹרָם|Drorm
+al_ch43Verses|נב|הִקִּיפוּ|Hkipo
+al_ch44Verses|א|וַיִּסּוֹגוּ|Oisogo
+al_ch44Verses|ב|בַּעֲבוּרָהּ|Vvorh
+al_ch44Verses|ב|וְכוֹעֲסִים|Okhosim
+al_ch44Verses|ה|בְּקִיּוּם|Bkiom
+al_ch44Verses|ה|וּבְכׇל|Obkl
+al_ch44Verses|ה|הַיָּקָר|Hikr
+al_ch44Verses|ה|בְּיוֹתֵר׃|Biotr
+al_ch44Verses|ז|מַכּוֹת|Mkot
+al_ch44Verses|ח|וַיִּמְסֹר|Oimsr
+al_ch44Verses|ח|נָפֵר|Nfr
+al_ch44Verses|ח|וְתֵן|Otn
+al_ch44Verses|ט|וּמָגִנֵּיכֶם|Omgnikm
+al_ch44Verses|יב|בַּיָּד|Bid
+al_ch44Verses|יב|וַיַּסַר|Oisr
+al_ch44Verses|יב|וַיִּסּוֹג|Oisog
+al_ch44Verses|יב|חַיָּלָיו׃|Chilio
+al_ch44Verses|יג|וַיּוֹשֵׁט|Oiosht
+al_ch44Verses|יד|וְתֵצְאוּ|Ottso
+al_ch44Verses|טו|וַיַּפִּילוּ|Oipilo
+al_ch44Verses|טז|וַיָּסֶת|Oist
+al_ch44Verses|טז|חַיָּלָיו|Chilio
+al_ch44Verses|יח|הֶעָרֹם|Hrm
+al_ch44Verses|כב|וַיִּקָּבְרוּ|Oikbro
+al_ch44Verses|כד|תָּם|Tm
+al_ch45Verses|א|וַיָּצוּמוּ|Oitsomo
+al_ch45Verses|ח|וְיַצְלִיחֲךָ|Oitslichk
+al_ch45Verses|ט|תוֹדִיעַ|Todi
+al_ch45Verses|יא|וּמַגֵּפוֹת|Omgpot
+al_ch45Verses|יא|רְעָבוֹן|Rvon
+al_ch45Verses|יג|יִמָּנוּ|Imno
+al_ch45Verses|יד|יִמָּנֶה|Imnh
+al_ch45Verses|טז|אֲרוּרָה|Rorh
+al_ch45Verses|טז|יִתַּמּוּ|Itmo
+al_ch45Verses|יח|וּקְבוּרָתוֹ|Okborto
+al_ch45Verses|יט|וּקְבוּרָתוֹ׃|Okborto
+al_ch45Verses|כא|וְהַמְּהוּמוֹת|Ohmhomot
+al_ch45Verses|כא|יֻגַּד|Igd
+al_ch45Verses|כא|תִּקּוּן|Tkon
+al_ch46Verses|ה|וַיְפַתֵּם|Oiptm
+al_ch46Verses|ה|וִיקִימוּהוּ|Oikimoho
+al_ch46Verses|ה|יְשִׂימֵם|Ishimm
+al_ch46Verses|ו|וַיַּתְעֵם|Oitm
+al_ch46Verses|ז|וַיָּסוּרוּ|Oisoro
+al_ch46Verses|ז|וּבְמִרְיָבָה|Obmribh
+al_ch46Verses|י|עֲרוּמוֹת|Romot
+al_ch46Verses|יב|וְדָתֵנוּ|Odtno
+al_ch46Verses|יב|וּדְרוֹרֵנוּ|Odrorno
+al_ch46Verses|יב|הַמּוֹט׃|Hmot
+al_ch46Verses|טז|וּדְרוֹר|Odror
+al_ch46Verses|יט|מֵנִיף|Mnif
+al_ch46Verses|כ|וְדָתָם|Odtm
+al_ch46Verses|כא|יַעַזְבוּ|Izvo
+al_ch46Verses|כב|יַשְׁלִיכֵנוּ|Ishlikno
+al_ch46Verses|כג|נוּמָת׃|Nomt
+al_ch46Verses|כח|מְרִידוֹת|Mridot
+al_ch46Verses|כח|וְהַסָּרִים|Ohsrim
+al_ch46Verses|כח|אַמָלִיקְיָהִים׃|Mlikihim
+al_ch46Verses|כט|יַצְלִיחַ|Itslich
+al_ch46Verses|ל|וִיבִיאֵם|Oivim
+al_ch46Verses|ל|יַשִּׂיג|Ishig
+al_ch46Verses|לב|וַיַּקְדֵּם|Oikdm
+al_ch46Verses|לג|וַיּוּשְׁבוּ|Oioshbo
+al_ch46Verses|לו|נָטַע|Nt
+al_ch46Verses|מ|וַיֵּשׁ|Oish
+al_ch46Verses|מ|בְּעִתִּים|Vtim
+al_ch46Verses|מ|נְתוּנִים|Ntonim
+al_ch47Verses|א|וַיָּסֶת|Oist
+al_ch47Verses|ה|אוֹנִידָה|Onidh
+al_ch47Verses|ה|לְאוֹנִידָה|Lonidh
+al_ch47Verses|ז|אַנְטִיפַּס|Ntifs
+al_ch47Verses|ח|יָשִׂים|Ishim
+al_ch47Verses|ט|אַנְטִיפַּס׃|Ntifs
+al_ch47Verses|י|אַנְטִיפַּס|Ntifs
+al_ch47Verses|יא|הֵעֵז|Hz
+al_ch47Verses|יג|וְיַקִּיף|Oikif
+al_ch47Verses|יג|יִתְּנֵם|Itnm
+al_ch47Verses|יד|וַיַּקֵּף|Oikf
+al_ch47Verses|יד|יָקוּצוּ|Ikotso
+al_ch47Verses|טו|יַנִּיחַ|Inich
+al_ch47Verses|טז|יַשְׁלִים|Ishlim
+al_ch47Verses|יח|רַעַל|Rl
+al_ch47Verses|כג|הוֹשִׁיט|Hoshit
+al_ch47Verses|כה|וַיָּנֻסוּ|Oinso
+al_ch47Verses|כה|וַיָּרִימוּ|Oirimo
+al_ch47Verses|כז|שׁוֹכֵב|Shokb
+al_ch47Verses|כז|יוּמָתוּ׃|Iomto
+al_ch47Verses|כט|רֹדֵף|Rdf
+al_ch47Verses|ל|קָנָה|Knh
+al_ch47Verses|לד|מְעִידָה|Midh
+al_ch47Verses|לה|הָעֲרוּמִים|Hromim
+al_ch47Verses|לו|וְהַסּוֹרְרִים|Ohsorrim
+al_ch47Verses|לו|מוּזָר|Mozr
+al_ch48Verses|ב|וַיָּסֶת|Oist
+al_ch48Verses|ג|וַיַּעֲוֵר|Oior
+al_ch48Verses|ג|וַיַּכְעִיסֵם|Oikhism
+al_ch48Verses|ד|גָּמַר|Gmr
+al_ch48Verses|ח|מָעוֹז|Moz
+al_ch48Verses|יב|בְּהוֹדוֹת|Bhodot
+al_ch48Verses|יב|גָּמַל|Gml
+al_ch48Verses|טו|יַצְלִיחֵם|Itslichm
+al_ch48Verses|טו|יַצְלִיחֵם|Itslichm
+al_ch48Verses|טו|וְיַזְהִירֵם|Oizhirm
+al_ch48Verses|טז|יוֹדִיעֵם|Iodim
+al_ch48Verses|טז|יַצִּילֵם|Itsilm
+al_ch48Verses|טז|וַיִּתְפָּאֵר|Oitfr
+al_ch48Verses|יח|וּכִבְנֵי|Okbni
+al_ch48Verses|יט|מִמּוֹרוֹנִי|Mmoroni
+al_ch48Verses|יט|וַיַּטְבִּילוּ|Oitbilo
+al_ch48Verses|יט|הֶאֱזִינוּ|Hzino
+al_ch48Verses|כב|בָהֶן|Vhn
+al_ch48Verses|כד|וַיָּסוּרוּ|Oisoro
+al_ch48Verses|כה|שׁוֹמְרֵי|Shomri
+al_ch49Verses|ד|סוֹלְלַת|Sollt
+al_ch49Verses|ד|לִירוֹת|Lirot
+al_ch49Verses|ה|תְּמִיהָה|Tmihh
+al_ch49Verses|ו|עוֹרוֹת|Orot
+al_ch49Verses|ו|עָבִים|Vim
+al_ch49Verses|ז|וּבַהֲכִינָם|Obhkinm
+al_ch49Verses|ח|כְּתוֹרוֹת|Ktorot
+al_ch49Verses|ט|תְּמִיהָה|Tmihh
+al_ch49Verses|י|גּוֹרֵם|Gorm
+al_ch49Verses|יג|בָנָה|Vnh
+al_ch49Verses|יג|וַיִּגְּשׁוּ|Oigsho
+al_ch49Verses|טו|וּבִהְיוֹת|Obhiot
+al_ch49Verses|יז|וַיֵּחֲתוּ|Oichto
+al_ch49Verses|יח|גֹּבַהּ|Gvh
+al_ch49Verses|יח|הוּרְמָה|Hormh
+al_ch49Verses|יח|וְעֹמֶק|Omk
+al_ch49Verses|כ|וּבְקַלְּעֵיהֶם|Ovklihm
+al_ch49Verses|כא|אַחַר|Chr
+al_ch49Verses|כב|בְּסוֹלְלוֹת|Bsollot
+al_ch49Verses|כב|מָבוֹא|Mvo
+al_ch49Verses|כב|אֶת־סוֹלְלוֹת|Tsollot
+al_ch49Verses|כב|בְּגוּפוֹת|Bgopot
+al_ch49Verses|כב|וּפְצוּעֵיהֶם׃|Oftsoihm
+al_ch49Verses|כג|תַּקִּיפָה|Tkiph
+al_ch49Verses|כד|וְשִׁרְיוֹנֵיהֶם|Oshrionihm
+al_ch49Verses|כד|וְכוֹבְעֵיהֶם|Okhovihm
+al_ch49Verses|כו|הֵבִיאָם|Hvim
+al_ch49Verses|ל|וּזְהִירוּתָם|Ozhirotm
+al_ch50Verses|א|תִּלֵּי|Tli
+al_ch50Verses|ב|הַסּוֹלְלוֹת|Hsollot
+al_ch50Verses|ב|בְּנוּיִים|Bnoiim
+al_ch50Verses|ג|יְתֵדוֹת|Itdot
+al_ch50Verses|ג|וּגְבֹהִים׃|Ogbhim
+al_ch50Verses|ד|הַיְתֵדוֹת|Hitdot
+al_ch50Verses|ו|מָעוֹז|Moz
+al_ch50Verses|י|יָגֵנּוּ|Igno
+al_ch50Verses|יז|וּבְעִתּוֹת|Ovtot
+al_ch50Verses|כ|וּבָנֶיךָ|Obnik
+al_ch50Verses|כא|וַנִּרְאֶה|Onrh
+al_ch50Verses|כא|מְרִיבוֹתֵיהֶם|Mribotihm
+al_ch50Verses|כא|וּמַצּוֹתֵיהֶם|Omtsotihm
+al_ch50Verses|כא|וּזְנוּתָם|Oznotm
+al_ch50Verses|כה|וּשְׁתֵּיהֶן|Oshtihn
+al_ch50Verses|כו|תָּבְעוּ|Tvo
+al_ch50Verses|כו|וַיַּחְלִיטוּ|Oichlito
+al_ch50Verses|כז|עֶזְרָה|Zrh
+al_ch50Verses|כח|וְיַשְׁמִידֵם׃|Oishmidm
+al_ch50Verses|כט|בְּגוּפֵי|Bgopi
+al_ch50Verses|ל|לְקִינָה|Lkinh
+al_ch50Verses|ל|וַיַּכֶּהָ|Oikh
+al_ch50Verses|לא|כַּוָּנָתָם|Kontm
+al_ch50Verses|לב|בָּעִקָּר|Vkr
+al_ch50Verses|לב|יָשִׂים|Ishim
+al_ch50Verses|לב|יָבִיאוּ|Ivio
+al_ch50Verses|לב|דְּרוֹרָם׃|Drorm
+al_ch50Verses|לה|וּבִהְיוֹת|Obhiot
+al_ch50Verses|לה|וַיַּכֶּה|Oikh
+al_ch50Verses|לט|וַיֻּשַׂם|Oishm
+al_ch51Verses|ו|דָתָם|Dtm
+al_ch51Verses|ח|וְהַתּוֹמְכִים|Ohtomkim
+al_ch51Verses|ח|וַיִּתְמְכוּ|Oitmko
+al_ch51Verses|ט|וַיָּכֵן|Oikn
+al_ch51Verses|יב|מְרִיבוֹתָם|Mribotm
+al_ch51Verses|יז|וּכְבוֹדָם|Okbodm
+al_ch51Verses|יז|וְיִתְמְכוּ|Oitmko
+al_ch51Verses|יח|וַיַּשְׁפִּילוּ|Oishpilo
+al_ch51Verses|יח|וְאַצִילוּתָם|Otsilotm
+al_ch51Verses|יח|וְהֻשְׁווּ|Ohshoo
+al_ch51Verses|יט|אַרְבַּעַת|Rvt
+al_ch51Verses|כ|הַסּוֹרְרִים|Hsorrim
+al_ch51Verses|כד|וְהַנָּסִים|Ohnsim
+al_ch51Verses|כו|אָמְנֵר|Mnr
+al_ch51Verses|כז|וְכֻלָּן|Okln
+al_ch51Verses|כז|לְמָעוֹז|Lmoz
+al_ch51Verses|כח|וְהוֹרְגִים|Ohorgim
+al_ch51Verses|כט|וְהִקְדִּים|Ohkdim
+al_ch51Verses|לא|תִּקְוָתוֹ|Tkoto
+al_ch51Verses|לג|עֲיֵפוּתָם|Ifotm
+al_ch51Verses|לג|וְחֹם|Ochm
+al_ch51Verses|לד|בַּלָּאט|Vlt
+al_ch51Verses|לד|כִּידוֹן|Kidon
+al_ch51Verses|לד|וַיָּמֶת|Oimt
+al_ch51Verses|לה|בַּלָּאט|Vlt
+al_ch51Verses|לה|וַיְעוֹרֵר|Oiorr
+al_ch51Verses|לז|תָּמּוּ|Tmo
+al_ch52Verses|ב|וַיִּבָּהֵלוּ|Oibhlo
+al_ch52Verses|ב|וַיִּסּוֹגוּ|Oisogo
+al_ch52Verses|ו|וּבְהָכִין|Obhkin
+al_ch52Verses|ו|מָעוֹז׃|Moz
+al_ch52Verses|ח|בְיָדוֹ|Bido
+al_ch52Verses|יג|וּלְהַסִּיט|Olhsit
+al_ch52Verses|יג|יָצֵרוּ|Itsro
+al_ch52Verses|יט|נוֹעֲצוּ|Notso
+al_ch52Verses|יט|יַפְתּוּם|Iptom
+al_ch52Verses|יט|וְיִלְכְּדוּ|Oilkdo
+al_ch52Verses|כ|בַּמִּישׁוֹר|Bmishor
+al_ch52Verses|כ|זוֹרָמִי|Zormi
+al_ch52Verses|כ|בַּמִּישׁוֹר׃|Bmishor
+al_ch52Verses|כב|שׁוֹמְרֵי|Shomri
+al_ch52Verses|כג|יוֹצְאִים|Iotsim
+al_ch52Verses|כד|מוֹלִיךְ|Molik
+al_ch52Verses|כד|וְיִירְשׁוּהָ׃|Oiirshoh
+al_ch52Verses|כח|יַדְבִּיקֵם|Idbikm
+al_ch52Verses|לא|וַיֻּקְפוּ|Oikpo
+al_ch52Verses|לב|יַסְגִּירוּ|Isgiro
+al_ch52Verses|לג|זוֹרָמִי|Zormi
+al_ch52Verses|לג|הוֹלִיךְ|Holik
+al_ch52Verses|לד|גָּמַר|Gmr
+al_ch52Verses|לז|וְתַסְגִּירוּם|Otsgirom
+al_ch52Verses|לט|וַיֻּקְחוּ|Oikcho
+al_ch53Verses|א|וַיַּכְרִיחוּם|Oikrichom
+al_ch53Verses|ב|וַיִּתְּנֶהָ|Oitnh
+al_ch53Verses|ד|מַעֲקֶה|Mkh
+al_ch53Verses|ד|מַעֲקֵה|Mkh
+al_ch53Verses|ד|הִקִּיפוּ|Hkipo
+al_ch53Verses|ד|גְּבוֹהָה|Gbohh
+al_ch53Verses|ז|הֶעֱסִיק|Hsik
+al_ch53Verses|יא|אוֹבְדִים|Ovdim
+al_ch53Verses|יב|הוּרְדוּ|Hordo
+al_ch53Verses|יג|וְהַתְּלָאוֹת|Ohtlot
+al_ch53Verses|יג|וַיִּכָּמְרוּ|Oikmro
+al_ch53Verses|טו|עוֹבְרִים|Ovrim
+al_ch53Verses|יז|עֲזֹב|Zv
+al_ch53Verses|יט|לְעֵזֶר|Lzr
+al_ch53Verses|כ|וְגִבּוֹרֵי|Ogbori
+al_ch53Verses|כב|חַיָּלָיו|Chilio
+al_ch54Verses|ה|עָרַךְ|Rkh
+al_ch54Verses|ו|וְתָסִיגוּ|Otsigo
+al_ch54Verses|ז|יָכֹלְתָּ|Iklt
+al_ch54Verses|ז|כָּמוֹךָ|Kmok
+al_ch54Verses|ז|וְתָסִירוּ|Otsiro
+al_ch54Verses|ט|תּוֹרִידוּ|Torido
+al_ch54Verses|יא|וִילָדָיו|Oildio
+al_ch54Verses|יב|וְטַפִּי|Otpi
+al_ch54Verses|יב|וְאֶרְדֹּף|Ordf
+al_ch54Verses|טז|אִיּוּמֵיכֶם׃|Iomikhm
+al_ch54Verses|יח|אֶגְרֹם|Grm
+al_ch54Verses|יח|יַנִּיחַ|Inich
+al_ch54Verses|יט|אִיּוּמִים|Iomim
+al_ch54Verses|יט|מֵאִיּוּמֵיכֶם׃|Miomikhm
+al_ch54Verses|כ|יָדֵנוּ|Idno
+al_ch54Verses|כא|כְּמוֹכֶם׃|Kmokm
+al_ch54Verses|כב|יוֹרִידוּ׃|Iorido
+al_ch54Verses|כג|וַיּוֹצִיאוּהוּ|Oiotsioho
+al_ch55Verses|ב|אָמִיר|Mir
+al_ch55Verses|ה|הוּמַת|Homt
+al_ch55Verses|ח|מִיֵּינָם|Miinm
+al_ch55Verses|ט|מִיֵּינְךָ|Miink
+al_ch55Verses|י|אֶת־יֵינֵנוּ|Tiinno
+al_ch55Verses|י|לְתַאֲוָתָם|Ltotm
+al_ch55Verses|יג|וַיֶּעֱרַב|Oirv
+al_ch55Verses|טז|וּשְׁכוּרִים|Oshkorim
+al_ch55Verses|כא|וּלְהַקִּיף|Olhkif
+al_ch55Verses|כב|יָקִיצוּ|Ikitso
+al_ch55Verses|כב|וּשְׁבוּיֵיהֶם|Oshboiihm
+al_ch55Verses|כג|וַיְּבִיאוּם|Oiviom
+al_ch55Verses|כז|וְהִגֵּנוּ|Ohgno
+al_ch55Verses|כז|וְהַיִּתְרוֹן|Ohitron
+al_ch55Verses|ל|מִיֵּינָם|Miinm
+al_ch55Verses|ל|בְּרַעַל|Vrl
+al_ch55Verses|לא|בְּמוֹקְשֵׁיהֶם|Bmokshihm
+al_ch55Verses|לא|מִיֵּינָם|Miinm
+al_ch55Verses|לב|רַעַל|Rl
+al_ch55Verses|לב|יֵינָם|Iinm
+al_ch55Verses|לב|יָרְעַל|Irl
+al_ch55Verses|לב|נֶפִיִּי|Npii
+al_ch55Verses|לד|אֲסָפוֹת|Sfot
+al_ch56Verses|א|הַהוּא׃ב.|Hhov.
+al_ch56Verses|א|הַיָּקָר|Hikr
+al_ch56Verses|א|הַיָּקָר|Hikr
+al_ch56Verses|ד|הָאֵלֶּה׃ה.|Hlhh.
+al_ch56Verses|ז|עָלֵינוּ׃ח.|Linoch.
+al_ch56Verses|ז|נִשְׁבָּעוּ׃ט.|Nshvot.
+al_ch56Verses|י|בָּנִים)|Bnim)
+al_ch56Verses|יב|זוּלָתָם|Zoltm
+al_ch56Verses|יב|הוּמָתוּ׃|Homto
+al_ch56Verses|יד|כּוּמֵנִי|Komni
+al_ch56Verses|טז|וַיִּרְפּוּ|Oirpo
+al_ch56Verses|טז|גוּפָם|Gopm
+al_ch56Verses|יח|צִוּוּי|Tsooi
+al_ch56Verses|כ|וַנָּכִין|Onkin
+al_ch56Verses|כד|וְיִפֹּלוּ׃|Oiplo
+al_ch56Verses|כט|וְהַכֹּחַ׃ל.|Ohkchl.
+al_ch56Verses|כט|כְּמוֹלִיכִים|Kmolikim
+al_ch56Verses|לא|וַנֵּלֵךְ|Onlk
+al_ch56Verses|לה|הוּגַד|Hogd
+al_ch56Verses|לו|הוֹבַלְנוּ|Hoblno
+al_ch56Verses|לז|רוֹדֵף|Rodf
+al_ch56Verses|לז|יָמִין|Imin
+al_ch56Verses|לז|יְשִׁירוֹת|Ishirot
+al_ch56Verses|לז|יַשִּׂיגֵם|Ishigm
+al_ch56Verses|לז|יֻקָּפוּ|Ikpo
+al_ch56Verses|לח|לַלָּיְלָה׃|Llilh
+al_ch56Verses|לט|רוֹדְפִים|Rodpim
+al_ch56Verses|מ|יָמִין|Imin
+al_ch56Verses|מ|פָנִיתִי|Pniti
+al_ch56Verses|מ|יָמִין|Imin
+al_ch56Verses|מ|יִמָּלְטוּ|Imlto
+al_ch56Verses|מא|וַנִּרְאֶה|Onrh
+al_ch56Verses|מה|הַיָּקָר|Hikr
+al_ch56Verses|מה|אֹמֶץ|Mts
+al_ch56Verses|מו|מְאֹד)|Md)
+al_ch56Verses|מז|אִמּוֹתֵיהֶם|Motihm
+al_ch56Verses|מז|יְסַפְּקוּ|Ispko
+al_ch56Verses|מז|יַצִּילֵם|Itsilm
+al_ch56Verses|מח|וַיִּשְׁנוּ|Oishno
+al_ch56Verses|מח|אִמּוֹתֵיהֶם|Motihm
+al_ch56Verses|מח|אִמּוֹתֵינוּ׃|Motino
+al_ch56Verses|נא|עֲיֵפוּתָם|Ifotm
+al_ch56Verses|נא|נְבוּכִים|Nbokim
+al_ch56Verses|נא|לָסוֹג|Lsog
+al_ch56Verses|נב|רוֹדְפִים|Rodpim
+al_ch56Verses|נב|וַיִּפְנוּ|Oipno
+al_ch56Verses|נז|הָעַמּוֹנִים|Hmonim
+al_ch57Verses|ב|בָטוּחַ|Btoch
+al_ch57Verses|ב|נָמִיר|Nmir
+al_ch57Verses|ג|הֲכִינוֹנוּ|Hkinono
+al_ch57Verses|ו|הָעַמּוֹנִים|Hmonim
+al_ch57Verses|ו|גְּדוּדִי|Gdodi
+al_ch57Verses|ו|אַלְפָּיִם|Lfim
+al_ch57Verses|ז|כּוּמֵנִי׃|Komni
+al_ch57Verses|ח|כּוּמֵנִי|Komni
+al_ch57Verses|ט|יָשַׁנּוּ|Ishno
+al_ch57Verses|ט|וַנַּעֲמִיד|Onmid
+al_ch57Verses|יא|לִיהוּדָה|Lihodh
+al_ch57Verses|יב|כּוּמֵנִי׃|Komni
+al_ch57Verses|טז|וַנַּפְקִידֵם|Onpkidm
+al_ch57Verses|יט|גְּדוּד|Gdod
+al_ch57Verses|יט|אַלְפַּי|Lfi
+al_ch57Verses|יט|וַיָּמִיתוּ|Oimito
+al_ch57Verses|כ|לָסוֹג|Lsog
+al_ch57Verses|כ|אֵיתָנִים|Itnim
+al_ch57Verses|כא|אִמּוֹתֵיהֶם׃|Motihm
+al_ch57Verses|כב|לְהוֹלִיךְ|Lholik
+al_ch57Verses|כג|כּוּמֵנִי|Komni
+al_ch57Verses|כד|נוּס|Nos
+al_ch57Verses|כו|נְיַחֵס|Nichs
+al_ch57Verses|כז|בּוֹטְחִים|Botchim
+al_ch57Verses|כט|וְגִד|Ogd
+al_ch57Verses|לא|כּוּמֵנִי|Komni
+al_ch57Verses|לג|מְרִיָם|Mrim
+al_ch57Verses|לג|צִוִּינוּ|Tsoino
+al_ch57Verses|לד|כּוּמֵנִי|Komni
+al_ch57Verses|לו|גִד|Gd
+al_ch57Verses|לו|וָאֶמָּלֵא|Oml
+al_ch58Verses|ד|לְהוֹדִיעוֹ|Lhodio
+al_ch58Verses|ו|וּמְצוּדוֹתֵיהֶם׃|Omtsodotihm
+al_ch58Verses|ז|גָּוַעְנוּ|Gono
+al_ch58Verses|ט|עֶזְרָה|Zrh
+al_ch58Verses|י|וּבִרְכוּשֵׁנוּ|Obrkoshno
+al_ch58Verses|יא|לִישׁוּעָתוֹ׃|Lishoto
+al_ch58Verses|יב|וּבִרְכוּשֵׁנוּ|Obrkoshno
+al_ch58Verses|יב|וּבְיַלְדֵינוּ|Obildino
+al_ch58Verses|יב|דְּרוֹרֵנוּ׃|Drorno
+al_ch58Verses|יג|וַנַּט|Ont
+al_ch58Verses|יד|סְבִיבוֹתֵינוּ|Sbibotino
+al_ch58Verses|טו|וּלְהָמִיתֵנוּ|Olhmitno
+al_ch58Verses|טז|לְגִד|Lgd
+al_ch58Verses|יז|גִד|Gd
+al_ch58Verses|יז|מִיָּמִין|Mimin
+al_ch58Verses|כ|גִד|Gd
+al_ch58Verses|כ|וַיַּכְרִיתוּ|Oikrito
+al_ch58Verses|כג|גִד|Gd
+al_ch58Verses|כו|יִישְׁנוּ|Iishno
+al_ch58Verses|כז|וַנַּגִּיעַ|Ongi
+al_ch58Verses|כט|הִגִּיעוּ|Hgio
+al_ch58Verses|לא|הִנָּם|Hnm
+al_ch58Verses|לב|וּרְכוּשׁ|Orkosh
+al_ch58Verses|לג|בּוֹטְחִים|Botchim
+al_ch58Verses|לד|נוֹתֶנֶת|Notnt
+al_ch58Verses|לו|פֶּלֶג|Flg
+al_ch58Verses|לז|בּוֹטְחִים|Botchim
+al_ch58Verses|לח|יוֹרְשִׁים|Iorshim
+al_ch58Verses|מ|אֵיתָנִים|Itnim
+al_ch58Verses|מ|וּמַקְפִּידִים|Omkpidim
+al_ch58Verses|מא|הַיָּקָר|Hikr
+al_ch58Verses|מא|וְיָחֹן|Oichn
+al_ch59Verses|ה|מֵכִין|Mkin
+al_ch59Verses|ו|וּמִסְּבִיבוֹתֶיהָ|Omsbibotih
+al_ch59Verses|ח|מוֹרֹנִי׃|Morni
+al_ch59Verses|יג|רְפוֹת|Rpot
+al_ch60Verses|ב|וּלְזַיְּנָם|Olzinm
+al_ch60Verses|ג|וִיגִיעָה|Oigih
+al_ch60Verses|ד|נִלּוֹנּוּ|Nlono
+al_ch60Verses|ד|נִתְאוֹנַנּוּ׃|Ntonno
+al_ch60Verses|ה|וְעֶזְרָה|Ozrh
+al_ch60Verses|ו|הָעֲזִיבָה|Hzivh
+al_ch60Verses|ז|אוֹיְבֵיכֶם|Oivikhm
+al_ch60Verses|ז|מְפִיצִים|Mpitsim
+al_ch60Verses|ז|הוֹרְגִים|Horgim
+al_ch60Verses|י|וְדְרוֹר|Odror
+al_ch60Verses|יא|יַצִּילְכֶם|Itsilkm
+al_ch60Verses|יג|מַנִּיחַ|Mnich
+al_ch60Verses|יד|וַעֲזִיבָתָם|Ozivtm
+al_ch60Verses|טז|רִיבֵנוּ|Ribno
+al_ch60Verses|טז|דְּרוֹרֵנוּ|Drorno
+al_ch60Verses|טז|הֵרִימָם|Hrimm
+al_ch60Verses|טז|מְפִיצִים|Mpitsim
+al_ch60Verses|יז|וְיוֹרְשִׁים|Oiorshim
+al_ch60Verses|יז|וְהוֹרְגִים|Ohorgim
+al_ch60Verses|יז|שׁוֹבִים|Shobim
+al_ch60Verses|יח|בּוֹגְדִים|Bogdim
+al_ch60Verses|יט|וּמוּגָנִים|Omognim
+al_ch60Verses|כג|יְטֹהַר|Ithr
+al_ch60Verses|כג|יְטֹהַר|Ithr
+al_ch60Verses|כה|תַּעֲנוּ|Tno
+al_ch60Verses|כה|וְתֵצְאוּ|Ottso
+al_ch60Verses|כה|אַשְׁאִיר|Shir
+al_ch60Verses|כה|וְאַשְׁאִיר|Oshir
+al_ch60Verses|כז|נִיצוֹץ|Nitsots
+al_ch60Verses|כז|מְרִידוֹת|Mridot
+al_ch60Verses|כט|תִּתְעוֹרְרוּ|Ttorro
+al_ch60Verses|כט|וְתִפֹּל|Otpl
+al_ch60Verses|ל|דְּרוֹרֵנוּ׃|Drorno
+al_ch60Verses|לג|עוֹבְרִים|Ovrim
+al_ch60Verses|לג|רוֹמְסִים|Romsim
+al_ch60Verses|לה|תְקַיְּמוּ|Tkimo
+al_ch60Verses|לו|וְדְרוֹר|Odror
+al_ch61Verses|ד|יִגְרֹם|Igrm
+al_ch61Verses|ד|מָנְעוּ|Mno
+al_ch61Verses|ה|וָאָנוּס|Onos
+al_ch61Verses|ו|נוֹהֲרִים|Nohrim
+al_ch61Verses|ו|וּדְרוֹרָם|Odrorm
+al_ch61Verses|ח|יֻשַׂם|Ishm
+al_ch61Verses|ט|וּדְרוֹר|Odror
+al_ch61Verses|ט|עוֹמֶדֶת|Omdt
+al_ch61Verses|יד|מְרִידוֹת|Mridot
+al_ch61Verses|יח|וְנָשִׂים|Onshim
+al_ch61Verses|כא|יַצִּילֵם|Itsilm
+al_ch62Verses|א|בּוֹגֵד|Bogd
+al_ch62Verses|ד|וַיָּרֶם|Oirm
+al_ch62Verses|ט|הוּמָתוּ׃|Homto
+al_ch62Verses|י|הוּמַת|Homt
+al_ch62Verses|יא|וַיָּמִיתוּ|Oimito
+al_ch62Verses|טז|וַיַּכְרִיתוּ|Oikrito
+al_ch62Verses|יז|הוּמָתוּ׃|Homto
+al_ch62Verses|יט|עָזוּ|Zo
+al_ch62Verses|כא|וְסֻלָּמוֹת|Oslmot
+al_ch62Verses|כג|הוּרְדוּ|Hordo
+al_ch62Verses|כג|וְהִנָּם|Ohnm
+al_ch62Verses|כד|וַיִּבָּהֲלוּ|Oibhlo
+al_ch62Verses|כה|וַיַּקִּיפוּ|Oikipo
+al_ch62Verses|כט|הוּקַל|Hokl
+al_ch62Verses|כט|הוּקַל|Hokl
+al_ch62Verses|ל|הִמְעִיטוּ|Hmito
+al_ch62Verses|לא|וַיִּבָּהֲלוּ|Oibhlo
+al_ch62Verses|לד|וּבַגְּבוּלוֹת|Obgbolot
+al_ch62Verses|לה|לַלָּיְלָה|Llilh
+al_ch62Verses|לה|וַעֲמָלִיקְיָה|Omlikih
+al_ch62Verses|לו|וַיּוֹרֵד|Oiord
+al_ch62Verses|לו|וַיַּטֵּל|Oitl
+al_ch62Verses|מא|מֵאֲרִיכוּת|Mrikhot
+al_ch62Verses|מא|אֲרִיכוּת|Rikhot
+al_ch62Verses|מג|יְבַלֶּה|Iblh
+al_ch62Verses|מד|תִּקּוּן|Tkon
+al_ch62Verses|מז|תִקּוּנִים|Tkonim
+al_ch62Verses|מז|וְשׁוֹפְטֵיהֶם|Oshoptihm
+al_ch62Verses|מט|רָמוּ|Rmo
+al_ch63Verses|ה|הָגוֹת|Hgot
+al_ch63Verses|ה|וַיּוֹרִידָהּ|Oioridh
+al_ch63Verses|ו|וַיַּפְלִיגוּ|Oipligo
+al_ch63Verses|ו|וִילָדִים|Oildim
+al_ch63Verses|ו|וַיִּפְנוּ|Oipno
+al_ch63Verses|יד|וַיְעוֹרְרוּם|Oiorrom
+al_ch63Verses|טו|וַיֻּשְׁבוּ|Oishbo
+al_ch63Verses|יז|תָּם|Tm
+he_ch5Verses|ד|הַנּוֹתָרִים׃|Hnotrim
+he_ch5Verses|י|עַמּוֹנִיהָה|Monihh
+he_ch5Verses|יא|תְּנָאֵי|Tni
+he_ch6Verses|א|הַיַּצִּיבָה׃|Hitsibh
+he_ch6Verses|ד|וַיַּזְהִירוּם|Oizhirom
+he_ch6Verses|ה|לְעֹמֶק|Lmk
+he_ch6Verses|ח|וּלְהַרְוִיחַ|Olhroich
+he_ch6Verses|יא|וְעָפְרוֹת|Ofrot
+he_ch6Verses|יא|אֻמָּנִים|Mnim
+he_ch6Verses|יא|עָפְרוֹת|Frot
+he_ch6Verses|יא|וַיְזַקְּקוּם|Oizkkom
+he_ch6Verses|יב|מְרִיאִים|Mriim
+he_ch6Verses|יג|וְטָווּ|Otoo
+he_ch6Verses|יג|בַד|Bd
+he_ch6Verses|יג|וּבַד|Obd
+he_ch6Verses|יז|הוּסְתוּ|Hosto
+he_ch6Verses|יז|סוֹדִיּוֹת|Sodiot
+he_ch6Verses|יז|יַרְוִיחוּ׃|Iroicho
+he_ch6Verses|יח|וְהַבּוֹזְזִים|Ohbozzim
+he_ch6Verses|כא|וְשׁוֹדֵיהֶם|Oshodihm
+he_ch6Verses|כא|וּגְנֵבוֹתֵיהֶם׃|Ognbotihm
+he_ch6Verses|כב|אוֹתוֹתֵיהֶם|Ototihm
+he_ch6Verses|כב|סוֹדִיִּים|Sodiim
+he_ch6Verses|כב|סוֹדִיִּים|Sodiim
+he_ch6Verses|כג|וְלִזְנוֹת|Olznot
+he_ch6Verses|כו|הַיֵּשׁ|Hish
+he_ch6Verses|כו|פִּתָּה|Fth
+he_ch6Verses|כז|הַיֵּשׁ|Hish
+he_ch6Verses|כז|זָמַם|Zmm
+he_ch6Verses|כז|וַיָּזֹם|Oizm
+he_ch6Verses|כח|הַיֵּשׁ|Hish
+he_ch6Verses|כח|גָּבוֹהַּ|Gboh
+he_ch6Verses|כח|הַיֵּשׁ|Hish
+he_ch6Verses|כח|הוֹלִיךְ|Holik
+he_ch6Verses|כח|הֵפִיץ|Hpits
+he_ch6Verses|כח|וּלְגֵיהִנֹּם|Olgihnm
+he_ch6Verses|כט|הַיֵּשׁ|Hish
+he_ch6Verses|כט|הוֹצִיאָהּ|Hotsih
+he_ch6Verses|ל|וּמַעֲבִיר|Omvir
+he_ch6Verses|לא|תָּפַס|Tfs
+he_ch6Verses|לא|וַיִּרְמְסוּ|Oirmso
+he_ch6Verses|לא|וַיִּפְנוּ|Oipno
+he_ch6Verses|לג|וּלְקִינַת|Olkint
+he_ch6Verses|לד|וּבְתוֹעֵבוֹת|Ovtovot
+he_ch6Verses|לו|קַלּוּתָם|Klotm
+he_ch6Verses|לח|וְתָמְכוּ|Otmko
+he_ch6Verses|לח|וַיַּתְעוּ|Oito
+he_ch6Verses|לח|וְלִטֹּל|Oltl
+he_ch6Verses|לט|וַיַּפְנוּ|Oipno
+he_ch7Verses|ב|וַיִּתְנַבֵּא|Oitnv
+he_ch7Verses|ג|מוֹלַדְתּוֹ׃|Moldto
+he_ch7Verses|ד|יָשְׁרוּ|Ishro
+he_ch7Verses|ה|מַנִּיחִים|Mnichim
+he_ch7Verses|ז|הַמּוּעָדָה|Hmodh
+he_ch7Verses|י|הַגָּן|Hgn
+he_ch7Verses|יא|שׁוֹפֵךְ|Shopk
+he_ch7Verses|טו|וְקִינָתִי|Okinti
+he_ch7Verses|טו|אֲחִיזָה|Chizh
+he_ch7Verses|יח|הָרוֹעֶה|Hroh
+he_ch7Verses|כא|עֲבוּרָם|Vorm
+he_ch7Verses|כא|וְתַעֲנוּ|Otno
+he_ch7Verses|כב|אוֹיְבֵיכֶם׃|Oivikhm
+he_ch8Verses|ג|תּוֹרָתָם|Tortm
+he_ch8Verses|ה|תַנִּיחוּ|Tnicho
+he_ch8Verses|י|הַנּוֹתָרִים׃|Hnotrim
+he_ch8Verses|יא|וַיִּסָּגְרוּ|Oisgro
+he_ch8Verses|יא|וַיְבַלְּעוּם׃|Oivlom
+he_ch8Verses|יב|תָּרִיבוּ|Tribo
+he_ch8Verses|יד|יוּרַם|Iorm
+he_ch8Verses|טז|מִיָּמָיו|Mimio
+he_ch8Verses|יז|וַיָּגֶל׃|Oigl
+he_ch8Verses|כ|זֵנוֹק|Znok
+he_ch8Verses|כ|עֵזִיאָס|Zis
+he_ch8Verses|כב|וְצָפוּ|Otspo
+he_ch8Verses|כה|וּמְרִיתֶם|Omritm
+he_ch8Verses|כה|צוֹבְרִים|Tsobrim
+he_ch8Verses|כו|וּזְנוּתְכֶם|Oznotkm
+he_ch8Verses|כז|שׁוֹכֵב|Shokb
+he_ch9Verses|ה|רָעָדוּ|Rdo
+he_ch9Verses|ו|וַיָּרִימוּ|Oirimo
+he_ch9Verses|ו|זַעֲקַת|Zkt
+he_ch9Verses|טז|יַטֵּנוּ|Itno
+he_ch9Verses|יז|נוֹכִיחַ|Nokich
+he_ch9Verses|יז|וְיוֹדִיעַ|Oiodi
+he_ch9Verses|יח|הוֹכִיחוּ|Hokicho
+he_ch9Verses|יח|וַיָּרִיבוּ|Oiribo
+he_ch9Verses|יח|הֱבִישׁוּם׃|Hbishom
+he_ch9Verses|יט|יַכְשִׁילוּהוּ|Ikshiloho
+he_ch9Verses|כ|וְהוֹדֶה|Ohodh
+he_ch9Verses|כ|וְתוֹדֶה|Otodh
+he_ch9Verses|כא|עַרְלֵי|Rli
+he_ch9Verses|כב|לְיַלֵל|Lill
+he_ch9Verses|כג|אֶת־סֵיזוֹרָם|Tsizorm
+he_ch9Verses|כד|כּוֹעֲסִים|Khosim
+he_ch9Verses|כו|סֵאַנְטוּם|Seantum
+he_ch9Verses|כו|סֵיזוֹרָם|Sizorm
+he_ch9Verses|כז|אֶת־סֵיזוֹרָם|Tsizorm
+he_ch9Verses|ל|יַצְהִיר|Itshir
+he_ch9Verses|לב|דַם|Dm
+he_ch9Verses|לג|יִרְעַד|Ird
+he_ch9Verses|לג|וְיֶחֱוַר|Oichor
+he_ch9Verses|לד|וְהַחִוָּרוֹן|Ohchoron
+he_ch9Verses|לז|הוֹדָה׃|Hodh
+he_ch9Verses|לט|הוּמְרוּ|Homro
+he_ch9Verses|מא|לִידִיעָתֵנוּ|Liditno
+he_ch10Verses|ב|וַיִּתְבּוֹנֵן|Oitbonn
+he_ch10Verses|ו|וְתַכֶּה|Otkh
+he_ch10Verses|ז|תַּתִּיר|Ttir
+he_ch10Verses|ט|וֶהְיֵה|Ohih
+he_ch10Verses|ט|לְמִישׁוֹר|Lmishor
+he_ch10Verses|יג|הַמּוֹפֵת|Hmopt
+he_ch11Verses|ו|וַתִּיבַשׁ|Otibsh
+he_ch11Verses|ו|וַתֻּכַּה|Otkh
+he_ch11Verses|ח|וְיָסֵר|Oisr
+he_ch11Verses|ט|וַיִּתְעַנּוּ|Oitno
+he_ch11Verses|י|וַיְבַעֲרוּ|Oivro
+he_ch11Verses|י|וַיַּטְמִינוּ|Oitmino
+he_ch11Verses|יג|וְהוֹרֵד|Ohord
+he_ch11Verses|יז|וַיּוֹרֶד|Oiord
+he_ch11Verses|יח|וַיְפָאֲרוּ|Oifro
+he_ch11Verses|כ|וְלִפְרוֹץ|Olprots
+he_ch11Verses|כ|מִיָּם|Mim
+he_ch11Verses|כד|וַיּוּסְתוּ|Oiosto
+he_ch11Verses|כד|הַסּוֹרְרִים|Hsorrim
+he_ch11Verses|כד|וַיָּחֵלוּ|Oichlo
+he_ch11Verses|כה|וַיָּבֹזּוּ|Oibzo
+he_ch11Verses|כה|יָסוֹגוּ|Isogo
+he_ch11Verses|כה|בַּסּוֹרְרִים|Bsorrim
+he_ch11Verses|לב|וַיַּפִּילוּ|Oipilo
+he_ch11Verses|לד|עוֹרְרָה|Orrh
+he_ch11Verses|לו|הֵיטִיבוּ|Hitibo
+he_ch12Verses|א|וְיַצְלִיחַ|Oitslich
+he_ch12Verses|ב|יַצְלִיחַ|Itslich
+he_ch12Verses|ב|וְיַצִּילֵם|Oitsilm
+he_ch12Verses|ב|יַכְרִיזוּ|Ikrizo
+he_ch12Verses|ג|יְיַסֵּר|Iisr
+he_ch12Verses|ג|יִזְכְּרוּהוּ׃|Izkroho
+he_ch12Verses|ד|בְלִיַּעַל|Vlil
+he_ch12Verses|ה|וּלְהַאֲזִין|Olhzin
+he_ch12Verses|ו|לְמוֹרֶה׃|Lmorh
+he_ch12Verses|ח|יִתְנוֹעֵעַ|Itno
+he_ch12Verses|ט|וְהֶהָרִים׃|Ohhrim
+he_ch12Verses|י|לְמִישׁוֹר|Lmishor
+he_ch12Verses|יא|תִּרְעַד|Trd
+he_ch12Verses|יב|יִתְרוֹפְפוּ|Itroppo
+he_ch12Verses|יב|הַמּוֹסָדוֹת|Hmosdot
+he_ch12Verses|יג|זוּזִי|Zozi
+he_ch12Verses|יג|וְנָזוֹזָה׃|Onzozh
+he_ch12Verses|יד|שׁוּבִי|Shobi
+he_ch12Verses|טו|עוֹמֶדֶת|Omdt
+he_ch12Verses|טו|הַנָּעָה|Hnh
+he_ch12Verses|יח|הַטּוֹמֵן|Htomn
+he_ch12Verses|יט|יַשִּׂיגֶנּוּ|Ishigno
+he_ch12Verses|כ|בַּעֲוֺנוֹתֶיךָ|Vonotikh
+he_ch12Verses|כא|בַּעֲוֺנוֹתֶיךָ|Vonotikh
+he_ch12Verses|כו|עֹשֵׂי|Shi
+he_ch12Verses|כו|דִּרְאוֹן|Dron
+he_ch13Verses|ד|וַיִּתְנַבֵּא|Oitnv
+he_ch13Verses|ה|יָשִׂים|Ishim
+he_ch13Verses|ו|עֹמֶדֶת|Mdt
+he_ch13Verses|י|מֵאוֹיְבֵיכֶם|Moivikhm
+he_ch13Verses|יא|וְהַפֹּנִים|Ohpnim
+he_ch13Verses|יב|נוֹשָׁעָה|Noshh
+he_ch13Verses|יג|לוּלֵי|Loli
+he_ch13Verses|יג|מוֹרִיד|Morid
+he_ch13Verses|יט|יִטְמְנוּ|Itmno
+he_ch13Verses|יט|יִטְמֹן|Itmn
+he_ch13Verses|יט|טוֹמֵן|Tomn
+he_ch13Verses|יט|יִטְמֹן|Itmn
+he_ch13Verses|יט|פּוֹדֶה|Podh
+he_ch13Verses|כ|יִטְמְנוּ|Itmno
+he_ch13Verses|כ|וְיִטְמְנוּ|Oitmno
+he_ch13Verses|כ|בְּנוּסָם|Bnosm
+he_ch13Verses|כ|יִטְמְנוּם|Itmnom
+he_ch13Verses|כה|הוֹרְגִים|Horgim
+he_ch13Verses|כה|רוֹגְמִים|Rogmim
+he_ch13Verses|כו|וְחוֹטֵא|Ochot
+he_ch13Verses|כח|וְתַלְבִּישׁוּהוּ|Otlbishoho
+he_ch13Verses|כח|פְּגָם׃|Fgm
+he_ch13Verses|כט|לְהוֹבִילְכֶם|Lhobilkm
+he_ch13Verses|ל|אֵרַר|Rr
+he_ch13Verses|לא|יְאָרֵר|Irr
+he_ch13Verses|לב|נָכוֹנָה|Nkonh
+he_ch13Verses|לד|פֹה|Ph
+he_ch13Verses|לח|נָכוֹנָה|Nkonh
+he_ch13Verses|לט|וְתִוָּשֵׁעוּ׃|Otosho
+he_ch14Verses|ב|וְאַחֲרֵיהֶן|Ochrihn
+he_ch14Verses|ג|כְּיוֹם׃|Kiom
+he_ch14Verses|ד|הִוָּלְדוֹ׃|Holdo
+he_ch14Verses|ה|כּוֹכָב|Kokb
+he_ch14Verses|ח|יִחְיֶה|Ichih
+he_ch14Verses|ט|וּפַנּוּ|Opno
+he_ch14Verses|יא|בַּעֲוֺנֹתֵיכֶם|Vontikhm
+he_ch14Verses|יב|יוֹצֵר|Iotsr
+he_ch14Verses|יג|וּבָזֶהיְ|Obzhi
+he_ch14Verses|יז|תִּגְאַל|Tgl
+he_ch14Verses|יז|וּתְשִׁיבֵם|Otshibm
+he_ch14Verses|יט|וְתוּרְדוּ|Otordo
+he_ch14Verses|כ|וְתִמְנַע|Otmn
+he_ch14Verses|כ|הַיָּרֵחַ|Hirch
+he_ch14Verses|כ|וְהַכּוֹכָבִים|Ohkokbim
+he_ch14Verses|כא|יְצֵאת|Itst
+he_ch14Verses|כא|וְתִרְעַד|Otrd
+he_ch14Verses|כא|וְהַצּוּרִים|Ohtsorim
+he_ch14Verses|כא|גּוּשׁ|Gosh
+he_ch14Verses|כא|יִבָּקֵעוּ׃|Ivko
+he_ch14Verses|כב|וּבְקִיעִים|Ovkiim
+he_ch14Verses|כג|סְעָרוֹת|Srot
+he_ch14Verses|כג|בְּקָעוֹת|Vkot
+he_ch14Verses|כד|וּמְסִלּוֹת|Omslot
+he_ch14Verses|כה|וְקִבְרוֹת|Okbrot
+he_ch14Verses|כט|יֶאְשְׁמוּ|Ishmo
+he_ch14Verses|כט|יָבִיאוּ|Ivio
+he_ch14Verses|לא|וְתוּשְׁבוּ|Otoshbo
+he_ch15Verses|א|יֵעָזְבוּ|Izvo
+he_ch15Verses|ב|לְקוֹנֵן|Lkonn
+he_ch15Verses|ב|הֵינִיקָן|Hinikn
+he_ch15Verses|ג|יִסְּרָם|Isrm
+he_ch15Verses|ג|יִסְּרָם|Isrm
+he_ch15Verses|ד|שָׂנֵא|Shn
+he_ch15Verses|ד|הֶאֱרִיךְ|Hrikh
+he_ch15Verses|ו|נוֹסָפִים|Nospim
+he_ch15Verses|ז|וְהַמּוּבָלִים|Ohmoblim
+he_ch15Verses|ז|וְהַשִּׁיבָה|Ohshibh
+he_ch15Verses|ז|מְבִיאוֹת|Mviot
+he_ch15Verses|ז|תְּמוּרַת|Tmort
+he_ch15Verses|ח|אֵיתָנִים|Itnim
+he_ch15Verses|י|אֹמֶץ|Mts
+he_ch15Verses|יב|וְיֵצוֹדוּ|Oitsodo
+he_ch15Verses|יב|וְיֻפְצוּ|Oiptso
+he_ch15Verses|יג|וְרוֹעָם|Orom
+he_ch15Verses|יז|וְכַחַי|Okchi
+he_ch16Verses|ב|וַיִּרְגְּמוּ|Oirgmo
+he_ch16Verses|ב|יָרוּ|Iro
+he_ch16Verses|ה|הוּגְּדוּ|Hogdo
+he_ch16Verses|ה|וּמִתְוַדִּים|Omtodim
+he_ch16Verses|ו|וְלֵכוּ|Olko
+he_ch16Verses|י|וְהַמִּעוּט|Ohmot
+he_ch16Verses|טו|בֵּיוֹתֵר|Biotr
+he_ch16Verses|כ|בְתוֹכֵנוּ|Btokno
+he_ch16Verses|כ|נֵדָע|Nd
+he_ch16Verses|כא|יַחֲזִיקֵנוּ|Ichzikno
+he_ch16Verses|כא|יַחֲזִיקוּנוּ|Ichzikono
+he_ch16Verses|כב|וַיִּטָּרְפוּ|Oitrpo
+he_ch16Verses|כב|הֵסִיתָם|Hsitm
+he_ch16Verses|כב|מַפִּיץ|Mpits
+he_ch16Verses|כה|וַיִּתַּם|Oitm
+tn_ch1Verses|ב|בֶן|Bn
+tn_ch1Verses|ב|בְּכוֹרוֹ|Bkoro
+tn_ch1Verses|ז|יִתְקַיְּמוּ|Itkimo
+tn_ch1Verses|ט|וַיִּקְבְּעוּ|Oikvo
+tn_ch1Verses|ט|הַכּוֹפְרִים|Hkoprim
+tn_ch1Verses|י|בֶן|Bn
+tn_ch1Verses|יג|שָׂא|Sh
+tn_ch1Verses|יד|הוֹדַעְתִּי|Hodti
+tn_ch1Verses|יד|בַּעֲבוּרִי|Vvori
+tn_ch1Verses|טו|וַיִּתְקַיְּמוּ|Oitkimo
+tn_ch1Verses|טו|הַלָּיְלָה׃|Hlilh
+tn_ch1Verses|טז|הוּפְרָה|Hoprh
+tn_ch1Verses|יז|בֶן|Bn
+tn_ch1Verses|כא|כּוֹכָב|Kokb
+tn_ch1Verses|כב|וּבַמּוֹפְתִים|Obmoptim
+tn_ch1Verses|כה|הוֹדַע|Hod
+tn_ch1Verses|כה|יוֹד|Iod
+tn_ch1Verses|כה|קוֹץ|Kots
+tn_ch1Verses|כח|מִסּוֹרְרֵי|Msorri
+tn_ch1Verses|כט|וַיֻּתְעוּ|Oito
+tn_ch2Verses|א|וּפָחוֹת|Opchot
+tn_ch2Verses|א|וְלַעֲוֵר|Olor
+tn_ch2Verses|ב|בּוֹדִים|Bodim
+tn_ch2Verses|ב|וַיַּתְעֵם|Oitm
+tn_ch2Verses|ג|וּבְתוֹעֵבוֹת|Ovtovot
+tn_ch2Verses|ג|מַתְעֶה|Mth
+tn_ch2Verses|ג|וּמַבִיא|Omvi
+tn_ch2Verses|יא|וַיַּחֲרִיבוּ|Oichribo
+tn_ch2Verses|יא|וַיָּפִיצוּ|Oipitso
+tn_ch2Verses|יב|וּזְכֻיּוֹת|Ozkiot
+tn_ch2Verses|יב|וּדְרוֹרָם|Odrorm
+tn_ch2Verses|יד|וַיִּמָּנוּ|Oimno
+tn_ch2Verses|טו|וַתּוּסַר|Otosr
+tn_ch2Verses|טז|וַיִּמָּנוּ|Oimno
+tn_ch2Verses|יח|וּפִלּוּגֵיהֶם|Oplogihm
+tn_ch3Verses|ב|וּדְרוֹרְכֶם|Odrorkm
+tn_ch3Verses|ב|תּוּמְכוּ|Tomko
+tn_ch3Verses|ג|וְרֵקִים|Orkim
+tn_ch3Verses|ג|רְדוּ|Rdo
+tn_ch3Verses|ד|הָעוֹלָמִית|Holmit
+tn_ch3Verses|ד|יִפְקְדוּ|Ipkdo
+tn_ch3Verses|ד|גָּמוּר׃|Gmor
+tn_ch3Verses|ו|יִפְקְדוּ|Ipkdo
+tn_ch3Verses|ז|וְהִתְוַדְּעוּ|Ohtodo
+tn_ch3Verses|ח|יָחוּסוּ|Ichoso
+tn_ch3Verses|ט|וּמַעֲשֶׂיהָ|Omshih
+tn_ch3Verses|י|וְכוֹתֵב|Okotb
+tn_ch3Verses|י|יָשִׁיבוּ|Ishibo
+tn_ch3Verses|י|עַוְלָתָם|Oltm
+tn_ch3Verses|יא|וַיִּשְׁתּוֹמֵם|Oishtomm
+tn_ch3Verses|יא|עַזּוּת|Zot
+tn_ch3Verses|יא|בְּאַיְּמוֹ|Vimo
+tn_ch3Verses|יא|וּנְקֹמוֹ|Onkmo
+tn_ch3Verses|יא|עֻוְּתוּ|Oto
+tn_ch3Verses|יב|תְּבִיעוֹת|Tviot
+tn_ch3Verses|יב|וְאִיּוּמֵי|Oiomi
+tn_ch3Verses|יב|שׁוֹדֵד|Shodd
+tn_ch3Verses|יד|וָלָיְלָה׃|Olilh
+tn_ch3Verses|טו|מִידֵי|Midi
+tn_ch3Verses|טז|וּנְבוּאוֹתָיו|Onvootio
+tn_ch3Verses|יז|וַיְמַנֶּה|Oimnh
+tn_ch3Verses|כא|יִתְּנֵנוּ|Itnno
+tn_ch3Verses|כא|וְנֶאֱסֹף|Onsf
+tn_ch3Verses|כא|נוֹחִיל|Nochil
+tn_ch3Verses|כא|יִתְּנֵם|Itnm
+tn_ch3Verses|כב|סוּסֵיהֶם|Sosihm
+tn_ch3Verses|כה|וּבְגוּף|Obgof
+tn_ch3Verses|כה|יַצִּילֵם|Itsilm
+tn_ch3Verses|כו|הוֹרָאָתוֹ׃|Horto
+tn_ch4Verses|ד|גְלוּיָה|Gloih
+tn_ch4Verses|ד|וּבִהְיוֹת|Obhiot
+tn_ch4Verses|ד|קִוּוּ|Koo
+tn_ch4Verses|ו|עָרְבוּ|Rvo
+tn_ch4Verses|ז|קְרוּחִים|Krochim
+tn_ch4Verses|ז|טְבוּלִים|Tbolim
+tn_ch4Verses|ח|יָחוּס|Ichos
+tn_ch4Verses|ח|וְיַצִּילֵם|Oitsilm
+tn_ch4Verses|י|תִקְוָתָם|Tkotm
+tn_ch4Verses|יב|וּשְׁבוּעוֹתָיו|Oshvootio
+tn_ch4Verses|יד|וְגִדְיָנְהִי|Ogdinhi
+tn_ch4Verses|יד|בְּנוּסוֹ|Bnoso
+tn_ch4Verses|יד|יָגֵעַ|Ig
+tn_ch4Verses|יד|וַיּוּמָת|Oiomt
+tn_ch4Verses|טז|יַכְרִיתוּ|Ikrito
+tn_ch4Verses|טז|וְיָצוּרוּ|Oitsoro
+tn_ch4Verses|טז|יִכְרְתוּ|Ikrto
+tn_ch4Verses|כ|וַיִּמְעַט|Oimt
+tn_ch4Verses|כא|וַיַּכְרִיתוּם|Oikritom
+tn_ch4Verses|כב|וָיוֹם׃|Oiom
+tn_ch4Verses|כד|וַיַּצֵּב|Oitsb
+tn_ch4Verses|כז|הוּמְתוּ׃|Homto
+tn_ch4Verses|כח|וּמְנַהִיגָם|Omnhigm
+tn_ch4Verses|כח|וַיִּתְלֻהוּ|Oitlho
+tn_ch4Verses|כח|תְּלָאוּהוּ|Tloho
+tn_ch4Verses|כח|וַיַּפִּילוּ|Oipilo
+tn_ch4Verses|כט|יַפִּילוּ|Ipilo
+tn_ch4Verses|כט|הוּפַל|Hopl
+tn_ch4Verses|לג|דְּמָעוֹת|Dmot
+tn_ch5Verses|ג|וָלָיְלָה׃|Olilh
+tn_ch5Verses|ד|הוּמְתוּ|Homto
+tn_ch5Verses|ה|הוֹסִיפוּ|Hosipo
+tn_ch5Verses|ה|מְפִיחִים|Mpichim
+tn_ch5Verses|ח|יָכִיל|Ikil
+tn_ch5Verses|ח|אֲפִילוּ|Filo
+tn_ch5Verses|כ|וּמוֹשִׁיעִי|Omoshii
+tn_ch5Verses|כד|וְכַחַי|Okchi
+tn_ch5Verses|כה|בְּמוֹעֲדוֹ|Vmodo
+tn_ch6Verses|א|וּבְקָרוֹ|Obkro
+tn_ch6Verses|ד|וַיְכוֹנְנוּ|Oikonno
+tn_ch6Verses|ח|וַיִּסָּלְלוּ|Oisllo
+tn_ch6Verses|יא|סוֹחֲרִים|Sochrim
+tn_ch6Verses|יא|עוֹרְכֵי|Orkhi
+tn_ch6Verses|יא|וּפְקִידִים|Opkidim
+tn_ch6Verses|יב|בּוֹעֲרִים|Vorim
+tn_ch6Verses|יד|וְאֵיתָנִים|Oitnim
+tn_ch6Verses|יד|מָטִים|Mtim
+tn_ch6Verses|טז|הִטָּה|Hth
+tn_ch6Verses|כ|וּשְׁלוּחִים|Oshlochim
+tn_ch6Verses|כ|וְיִסּוּרָיו׃|Oisorio
+tn_ch6Verses|כא|וְעוֹרְכֵי|Oorkhi
+tn_ch6Verses|כב|עוֹרֵךְ|Orkh
+tn_ch6Verses|כב|לְמִיתָה|Lmith
+tn_ch6Verses|כב|דִּינָם|Dinm
+tn_ch6Verses|כג|וְהוּמְתוּ|Ohomto
+tn_ch6Verses|כג|יְדִיעַת|Idit
+tn_ch6Verses|כג|מוֹתָם|Motm
+tn_ch6Verses|כג|מוֹתָם׃|Motm
+tn_ch6Verses|כד|יוּמַת|Iomt
+tn_ch6Verses|כה|תְּלוּנָה|Tlonh
+tn_ch6Verses|כה|לְמִיתָה|Lmith
+tn_ch6Verses|כז|וְלַשּׁוֹפְטִים|Olshoptim
+tn_ch6Verses|ל|כְפוּפָה|Kpoph
+tn_ch7Verses|ב|וַיִּפָּרְדוּ|Oiprdo
+tn_ch7Verses|ב|וּקְרוֹבָיו|Okrobio
+tn_ch7Verses|ג|וַיְמַנֶּה|Oimnh
+tn_ch7Verses|ה|עֲדַיִן|Din
+tn_ch7Verses|ו|וְסִדְרֵי|Osdri
+tn_ch7Verses|ו|וּקְרוֹבֵי|Okrobi
+tn_ch7Verses|ח|הַטִּיט׃|Htit
+tn_ch7Verses|יא|אוֹיְבִים|Oivim
+tn_ch7Verses|יב|פּוֹרְשִׁים|Porshim
+tn_ch7Verses|יג|מְהִירָה|Mhirh
+tn_ch7Verses|יד|קְרוֹבָיו|Krobio
+tn_ch7Verses|יד|וּמַנְהִיגֵיהֶם|Omnhigihm
+tn_ch7Verses|יד|וַיִּרְגְּמוּ|Oirgmo
+tn_ch7Verses|טו|רְאִיָּה|Rih
+tn_ch7Verses|טו|רְאִיָּה|Rih
+tn_ch7Verses|יט|טְמֵאוֹת|Tmot
+tn_ch7Verses|כ|נוֹסָפוֹת|Nospot
+tn_ch7Verses|כב|וְנִרְפְּאוּ|Onrfo
+tn_ch7Verses|כב|הוֹכִיחוּ|Hokicho
+tn_ch7Verses|כב|וְנִרְפָּאוּ|Onrfo
+tn_ch7Verses|כג|וַיַּטֵּף|Oitf
+tn_ch7Verses|כה|מִידֵי|Midi
+tn_ch8Verses|א|מֵעֲוֺנוֹ׃|Mono
+tn_ch8Verses|ב|טָעָה|Th
+tn_ch8Verses|ה|וַתָּקָם|Otkm
+tn_ch8Verses|ה|סְעָרָה|Srh
+tn_ch8Verses|ו|הִרְעִיד|Hrid
+tn_ch8Verses|ח|וַתֵּצֶא|Otts
+tn_ch8Verses|י|מוֹרוֹנִיהָה|Moronihh
+tn_ch8Verses|יב|וְהַסְּעָרוֹת|Ohsrot
+tn_ch8Verses|יג|הַיְשָׁרוֹת|Hishrot
+tn_ch8Verses|יד|וְנוֹדָעוֹת|Onodot
+tn_ch8Verses|יד|בִּנְיָנֵיהֶן|Bninihn
+tn_ch8Verses|יד|הוּמְתוּ|Homto
+tn_ch8Verses|טו|הוּמְתוּ׃|Homto
+tn_ch8Verses|יח|וּבִבְקִיעִים|Ovvkiim
+tn_ch8Verses|יט|וְהַסּוּפָה|Ohsoph
+tn_ch8Verses|כא|נֵרוֹת|Nrot
+tn_ch8Verses|כא|לַפִּידִים|Lpidim
+tn_ch8Verses|כא|וְהַיְּבֵשִׁים|Ohibshim
+tn_ch8Verses|כב|יָרֵחַ|Irch
+tn_ch8Verses|כב|כוֹכָבִים|Kokbim
+tn_ch8Verses|כג|וִילָלָה|Oillh
+tn_ch8Verses|כג|וּבְכִי|Obki
+tn_ch8Verses|כד|וּבְמָקוֹם|Obmkom
+tn_ch8Verses|כה|וּבְמָקוֹם|Obmkom
+tn_ch8Verses|כה|וּמְקוֹנְנִים|Omkonnim
+tn_ch8Verses|כה|אִמּוֹתֵינוּ|Motino
+tn_ch8Verses|כה|וּבְנוֹתֵינוּ|Obnotino
+tn_ch8Verses|כה|מוֹרוֹנִיהָה|Moronihh
+tn_ch8Verses|כה|יִלְלַת|Illt
+tn_ch9Verses|ב|הֲרוּגֵי|Hrogi
+tn_ch9Verses|ב|וּבְנוֹתַי|Obnoti
+tn_ch9Verses|ד|הוֹרַדְתִּי|Hordti
+tn_ch9Verses|ה|מוֹרוֹנִיהָה|Moronihh
+tn_ch9Verses|ה|כִּסִּיתִי|Ksiti
+tn_ch9Verses|ו|הוֹרַדְתִּי|Hordti
+tn_ch9Verses|ז|אוֹנִיהָה|Onihh
+tn_ch9Verses|ז|מוֹקוּם|Mokom
+tn_ch9Verses|ז|וְהֶעֱלֵיתִי|Ohliti
+tn_ch9Verses|ח|גַּדְיַנְדִי|Gdindi
+tn_ch9Verses|ח|גַּדְיוֹמְנָה|Gdiomnh
+tn_ch9Verses|ח|הוֹרַדְתִּי|Hordti
+tn_ch9Verses|ח|וַעֲמָקִים|Omkim
+tn_ch9Verses|ט|יַעֲקוֹבוּגָת|Ikovogt
+tn_ch9Verses|י|יוֹשׁ|Iosh
+tn_ch9Verses|י|גָּד|Gd
+tn_ch9Verses|י|קִישְׁקוּמֵן|Kishkomn
+tn_ch9Verses|יג|אֶרְפָּא|Rf
+tn_ch9Verses|יח|הָאָלֶף|Hlf
+tn_ch9Verses|יח|וְהַתָּיו|Ohtio
+tn_ch9Verses|כ|וְתַקְרִיבוּ|Otkribo
+tn_ch9Verses|כ|אַטְבִּיל|Tvil
+tn_ch9Verses|כב|וְהִוָּשְׁעוּ׃|Ohosho
+tn_ch10Verses|ב|תְּמִיהַת|Tmiht
+tn_ch10Verses|ב|וּמִלְּיַלֵל|Omlill
+tn_ch10Verses|ז|מוֹשְׁבוֹתֵיכֶם|Moshbotikm
+tn_ch10Verses|ח|וּלְיַלֵל|Olill
+tn_ch10Verses|ט|מִרְעוֹד|Mrod
+tn_ch10Verses|ט|וְהַצּוּרִים|Ohtsorim
+tn_ch10Verses|ט|הַסּוֹעֲרִים|Hsorim
+tn_ch10Verses|ט|עָבָרוּ׃|Vro
+tn_ch10Verses|י|וְהַבְּכִי|Ohbki
+tn_ch10Verses|י|וִילְלַת|Oillt
+tn_ch10Verses|י|וְקִינָתָם|Okintm
+tn_ch10Verses|י|וְתוֹדָה|Otodh
+tn_ch10Verses|יג|בַאֵד|Vd
+tn_ch10Verses|יד|וְיַבֵּט|Oibt
+tn_ch10Verses|יד|וּבִסְעָרוֹת|Ovsrot
+tn_ch10Verses|יד|וּבְסוּפוֹת|Obsopot
+tn_ch10Verses|טז|זֵנוֹק|Znok
+tn_ch10Verses|יח|וּבְרָכוֹת|Obrkot
+tn_ch11Verses|ג|וַיָּסֵבּוּ|Oisbo
+tn_ch11Verses|ג|דַּק|Dk
+tn_ch11Verses|ג|בָּקַע|Vk
+tn_ch11Verses|ג|רָעָד|Rd
+tn_ch11Verses|ג|וַיַּבְעֵר|Oivr
+tn_ch11Verses|ה|וַיַּבִּיטוּ|Oibito
+tn_ch11Verses|ז|יְדִידִי|Ididi
+tn_ch11Verses|ח|עָרְבוּ|Rvo
+tn_ch11Verses|יא|וְשָׁתִיתִי|Oshtiti
+tn_ch11Verses|יא|וּפֵאַרְתִּי|Ofrti
+tn_ch11Verses|טו|וַיָּמֻשּׁוּ|Oimsho
+tn_ch11Verses|טו|וַיִּגְּשׁוּ|Oigsho
+tn_ch11Verses|טו|וַיָּמֻשּׁוּ|Oimsho
+tn_ch11Verses|טו|בִידֵיהֶם|Bidihm
+tn_ch11Verses|טז|פֶּה|Ph
+tn_ch11Verses|כח|תוֹרָתִי|Torti
+tn_ch11Verses|לד|יִדּוֹן׃|Idon
+tn_ch11Verses|לט|בּוֹנֶה|Bonh
+tn_ch11Verses|לט|יִגְבְּרוּ|Igbro
+tn_ch11Verses|מ|וּמְקַיֵּם|Omkim
+tn_ch11Verses|מ|לְתוֹרָתִי|Ltorti
+tn_ch11Verses|מ|בּוֹנֶה|Bonh
+tn_ch11Verses|מ|פְּתוּחִים|Ptochim
+tn_ch12Verses|יב|וְגִילוּ|Ogilo
+tn_ch12Verses|יג|יָפוּג|Ipog
+tn_ch12Verses|טו|הֲיַדְלִיקוּ|Hidliko
+tn_ch12Verses|טו|נֵר|Nr
+tn_ch12Verses|טו|וְיָאִיר|Oiir
+tn_ch12Verses|טז|יָאֵר|Ir
+tn_ch12Verses|טז|וִיכַבְּדוּ|Oikbdo
+tn_ch12Verses|יח|יוֹד|Iod
+tn_ch12Verses|יח|קוֹץ|Kots
+tn_ch12Verses|כ|וְהִוָּשְׁעוּ|Ohosho
+tn_ch12Verses|כב|רֵקָא|Rk
+tn_ch12Verses|כב|נָבָל|Nvl
+tn_ch12Verses|כב|גֵּיהִנֹּם׃|Gehenna
+tn_ch12Verses|כו|סֶנִין|Snin
+tn_ch12Verses|כח|נָאַף|Nf
+tn_ch12Verses|כט|תֵּת|Tt
+tn_ch12Verses|לא|כְּרִיתֻת׃|Kritt
+tn_ch12Verses|לב|זְנוּת|Znot
+tn_ch12Verses|לב|נֹאֶפֶת|Nft
+tn_ch12Verses|לב|נֹאֵף׃|Nf
+tn_ch12Verses|לג|וְהָקֵם|Ohkm
+tn_ch12Verses|לז|הַיֹּתֵר|Hitr
+tn_ch12Verses|לט|הַיְמָנִית|Himnit
+tn_ch12Verses|מא|מִיל|Mil
+tn_ch12Verses|מב|לִלְווֹת|Lloot
+tn_ch12Verses|מג|וְאָהַבְתָּ|Ohvt
+tn_ch12Verses|מד|הֵיטִיבוּ|Hitibo
+tn_ch12Verses|מח|תְמִימִים|Tmimim
+tn_ch13Verses|א|יִרְאוּכֶם|Irokhm
+tn_ch13Verses|ב|וּבַשְּׁוָקִים|Obshokim
+tn_ch13Verses|ב|יְכַבְּדוּם|Ikbdom
+tn_ch13Verses|ג|יְמִינֶךָ׃|Imink
+tn_ch13Verses|ו|וּסְגֹר|Osgr
+tn_ch13Verses|טז|זֹעֲפֵי|Zfi
+tn_ch13Verses|יז|סוּךְ|Sok
+tn_ch13Verses|יח|צָם|Tsm
+tn_ch13Verses|יט|וְרָקָב|Orkb
+tn_ch13Verses|יט|וְיִגְנֹבוּ׃|Oignbo
+tn_ch13Verses|כ|רָקָב|Rkv
+tn_ch13Verses|כב|נֵר|Nr
+tn_ch13Verses|כב|תְמִימָה|Tmimh
+tn_ch13Verses|כד|אֲדֹנִים|Dnim
+tn_ch13Verses|כה|וַיַּבֵּט|Oibt
+tn_ch13Verses|כז|אַמָּה|Mh
+tn_ch13Verses|כח|יִטְווּ׃|Itoo
+tn_ch13Verses|ל|יַלְבִּישׁ|Ilbish
+tn_ch13Verses|לג|יִוָּסְפוּ|Iospo
+tn_ch13Verses|לד|יִדְאַג|Idg
+tn_ch13Verses|לד|רָעָתוֹ׃|Rto
+tn_ch14Verses|א|וַיִּפֶן|Oipn
+tn_ch14Verses|ב|יִמַּד|Imd
+tn_ch14Verses|ג|בְּעֵינְךָ|Vinkh
+tn_ch14Verses|ג|תַבִין׃|Tbin
+tn_ch14Verses|ד|וְאָסִירָה|Osirh
+tn_ch14Verses|ד|מֵעֵינֶךָ|Minkh
+tn_ch14Verses|ד|הַקּוֹרָה|Hkorh
+tn_ch14Verses|ד|בְּעֵינֶךָ׃|Vinkh
+tn_ch14Verses|ה|מֵעֵינֶךָ|Minkh
+tn_ch14Verses|ו|פְּנִינֵיכֶם|Pninikm
+tn_ch14Verses|ו|וְטָרְפוּ|Otrpo
+tn_ch14Verses|ח|וְלַדּוֹפֵק|Oldopk
+tn_ch14Verses|י|דָּג|Dg
+tn_ch14Verses|טו|זְאֵבִים|Zvim
+tn_ch14Verses|טז|תַּכִּירוּם|Tkirom
+tn_ch14Verses|טז|תְּאֵנִים׃|Tnim
+tn_ch14Verses|כ|תַּכִּירוּם׃|Tkirom
+tn_ch14Verses|כג|אוֹדִיעַ|Odi
+tn_ch14Verses|כג|הָאָוֶן׃|Hon
+tn_ch14Verses|כה|וַיֵּרֵד|Oird
+tn_ch14Verses|כה|יֻסַּד׃|Isd
+tn_ch14Verses|כו|יְדֻמֶּה|Idmh
+tn_ch14Verses|כז|וַיֵּרֵד|Oird
+tn_ch15Verses|ב|וַיִּתְפַּלְּאוּ|Oitflo
+tn_ch15Verses|ט|וִחְיִיתֶם|Ochiitm
+tn_ch15Verses|כ|וּבַעֲוֹנָם|Ovonm
+tn_ch16Verses|ד|בַּעֲבוֹדָתִי|Vvodti
+tn_ch16Verses|ח|וַיְפִיצוּ|Oipitso
+tn_ch16Verses|ח|וַיִּרְמְסוּם|Oirmsom
+tn_ch16Verses|ט|וּלְעַנּוֹתָם|Olnotm
+tn_ch16Verses|י|בְּתוֹרָתִי|Btorti
+tn_ch16Verses|י|וְיָרוּם|Oirom
+tn_ch16Verses|י|בְּגַאֲוָתָם|Vgotm
+tn_ch16Verses|י|אָסִיר|Sir
+tn_ch16Verses|יג|יִמָּנוּ|Imno
+tn_ch16Verses|טו|טַעְמוֹ|Tmo
+tn_ch17Verses|א|עִתִּי׃|Ti
+tn_ch17Verses|ג|וְהָגוּ|Ohgo
+tn_ch17Verses|ה|וַיַּבִּיטוּ|Oibito
+tn_ch17Verses|ו|מֵעַי|Mi
+tn_ch17Verses|ז|הֲיֵשׁ|Hish
+tn_ch17Verses|ז|הֲבִיאוּם|Hviom
+tn_ch17Verses|ז|הֲיֵשׁ|Hish
+tn_ch17Verses|ז|נָכִים|Nkim
+tn_ch17Verses|ז|יְבֵשִׁים|Ibshim
+tn_ch17Verses|ז|הֲבִיאוּם|Hviom
+tn_ch17Verses|ז|וְאֶרְפָּאֵם|Orfm
+tn_ch17Verses|ז|מֵעַי|Mi
+tn_ch17Verses|ח|דַּיָּהּ|Dih
+tn_ch17Verses|ט|וְעִוְרֵיהֶם|Oorihm
+tn_ch17Verses|ט|וְאִלְּמֵיהֶם|Olmihm
+tn_ch17Verses|ט|וַיְרַפֵּא|Oirf
+tn_ch17Verses|יב|וַיַּנִּיחוּם|Oinichom
+tn_ch17Verses|יב|בַּתָּוֶךְ|Btok
+tn_ch17Verses|יב|וַיִּפָּנוּ|Oipno
+tn_ch17Verses|יג|בַּתָּוֶךְ|Btok
+tn_ch17Verses|יד|וַיֵּאָנַח|Oinch
+tn_ch17Verses|כא|וַיֵּבְךְּ|Oibk
+tn_ch17Verses|כב|וַיֵּבְךְּ|Oibk
+tn_ch17Verses|כד|כְּתוֹךְ|Ktok
+tn_ch17Verses|כד|וַיַּקִּיפוּ|Oikipo
+tn_ch17Verses|כד|וַיֻּקְפוּ|Oikpo
+tn_ch18Verses|א|וָיָיִן׃|Oiin
+tn_ch18Verses|ג|וּבַיַּיִן|Obiin
+tn_ch18Verses|ג|וַיִּפְרֹס|Oiprs
+tn_ch18Verses|ז|זוֹכְרִים|Zokrim
+tn_ch18Verses|ח|מִיֵּין|Miin
+tn_ch18Verses|י|מְעִידָה|Midh
+tn_ch18Verses|יא|זוֹכְרִים|Zokrim
+tn_ch18Verses|יב|בְנוּיִים|Bnoiim
+tn_ch18Verses|יג|פְּתוּחִים|Ptochim
+tn_ch18Verses|טו|וְיוֹלִיכְכֶם|Oiolikkm
+tn_ch18Verses|יז|וַיִּפֶן|Oipn
+tn_ch18Verses|כד|יָאִיר|Iir
+tn_ch18Verses|כד|תָּרִימוּ|Trimo
+tn_ch18Verses|כט|וְדָמִי|Odmi
+tn_ch18Verses|כט|וּמִדָּמִי|Omdmi
+tn_ch18Verses|ל|וּמִדָּמִי׃|Omdmi
+tn_ch18Verses|לא|יִמָּנֶה|Imnh
+tn_ch18Verses|לא|וּמְנוּיִים|Omnoiim
+tn_ch18Verses|לב|מוֹעֲדֵיכֶם|Modikhm
+tn_ch18Verses|לב|וְאֶרְפָּאֵם|Orfm
+tn_ch18Verses|לג|יְדִינֶנּוּ|Idinno
+tn_ch18Verses|לד|הָרִיבוֹת|Hribot
+tn_ch18Verses|לד|רִיבוֹת|Ribot
+tn_ch18Verses|לח|וַיְכַס|Oiks
+tn_ch19Verses|ד|טִימוֹתִי|Timoti
+tn_ch19Verses|ד|מַתּוֹנִי|Mtoni
+tn_ch19Verses|ד|וּמַתּוֹנִיהָה|Omtonihh
+tn_ch19Verses|ד|וְקוּמֵן|Okomn
+tn_ch19Verses|ד|וְקוּמֵנוֹנְהִי|Okomnonhi
+tn_ch19Verses|ד|וְיִרְמְיָה|Oirmih
+tn_ch19Verses|ד|וִישַׁעְיָה|Oishih
+tn_ch19Verses|ה|גְּדוּדִים׃|Gdodim
+tn_ch19Verses|טו|בַּתָּוֶךְ|Btok
+tn_ch19Verses|כו|הוֹסִיפוּ|Hosipo
+tn_ch19Verses|כז|וַיִּפֶן|Oipn
+tn_ch19Verses|כח|יִטָּהֲרוּ|Ithro
+tn_ch19Verses|כט|יִטָּהֲרוּ|Ithro
+tn_ch19Verses|ל|כְּיֵשׁוּעַ׃|Khisho
+tn_ch19Verses|לג|וַיָּבִינוּ|Oibino
+tn_ch20Verses|ח|וְהַשּׁוֹתֶה|Ohshoth
+tn_ch20Verses|ח|שׁוֹתֶה|Shoth
+tn_ch20Verses|יג|וּמִדָּרוֹם|Omdrom
+tn_ch20Verses|יג|גְּאָלָם׃|Glm
+tn_ch20Verses|טז|יַעַר|Ir
+tn_ch20Verses|טז|וְכִכְפִיר|Okkpir
+tn_ch20Verses|טז|וְטָרַף|Otrf
+tn_ch20Verses|יז|תָּרוּם|Trom
+tn_ch20Verses|יח|עֳמָרָיו|Mrio
+tn_ch20Verses|יט|וּפַרְסוֹתֶיךָ|Oprsotik
+tn_ch20Verses|יט|וַהֲדִקּוֹתָ|Ohdkot
+tn_ch20Verses|כב|וְכֹחוֹת|Okchot
+tn_ch20Verses|כט|בְּמוֹעֲדִי|Vmodi
+tn_ch20Verses|כט|הַמּוּעָדָה|Hmodh
+tn_ch20Verses|לב|צוֹפֵיהֶם|Tsopihm
+tn_ch20Verses|מא|מִתּוֹכָהּ|Mtokh
+tn_ch20Verses|מב|וּבִמְנוּסָה|Obmnosh
+tn_ch20Verses|מג|יָרוּם|Irom
+tn_ch20Verses|מד|וְתֹאֲרוֹ|Otro
+tn_ch20Verses|מה|יַזֶּה|Izh
+tn_ch21Verses|ד|וְיוּקְמוּ|Oiokmo
+tn_ch21Verses|ה|בְּמַעַל|Vml
+tn_ch21Verses|ו|יִמָּנוּ|Imno
+tn_ch21Verses|י|יַזִּיקוּ|Iziko
+tn_ch21Verses|יב|יַעַר|Ir
+tn_ch21Verses|יב|וְטָרַף|Otrf
+tn_ch21Verses|יג|תָּרֹם|Trm
+tn_ch21Verses|יד|סוּסֶיךָ|Sosik
+tn_ch21Verses|טז|מִיָּדֶךָ|Midk
+tn_ch21Verses|טז|וּמְעוֹנְנִים|Omonnim
+tn_ch21Verses|יז|פְסִילֶיךָ|Psilik
+tn_ch21Verses|יז|יָדֶיךָ׃|Idik
+tn_ch21Verses|יח|אֲשֵׁירֶיךָ|Shirikh
+tn_ch21Verses|יט|וְהַקִּנְאוֹת|Ohknot
+tn_ch21Verses|כ|יְדִידִי|Ididi
+tn_ch21Verses|כא|כָמוֹהָ׃|Kmoh
+tn_ch21Verses|כג|וְעָזְרוּ|Ozro
+tn_ch21Verses|כד|יַעַזְרוּ|Izro
+tn_ch21Verses|כו|הָאֲבוּדִים|Hvodim
+tn_ch22Verses|א|רָנִּי|Rni
+tn_ch22Verses|א|עֲקָרָה|Krh
+tn_ch22Verses|ב|וִירִיעוֹת|Oiriot
+tn_ch22Verses|ב|יַטּוּ|Ito
+tn_ch22Verses|ב|מֵיתָרַיִךְ|Mitrik
+tn_ch22Verses|ב|וִיתֵדֹתַיִךְ|Oitdtik
+tn_ch22Verses|ג|וּשְׂמֹאול|Oshmol
+tn_ch22Verses|ג|יוֹשִׁיבוּ׃|Ioshibo
+tn_ch22Verses|ד|עֲלוּמַיִךְ|Lomikh
+tn_ch22Verses|ד|נְעוּרַיִךְ|Norikh
+tn_ch22Verses|ה|עֹשַׂיִךְ|Shikh
+tn_ch22Verses|ו|וַעֲצוּבַת|Otsovt
+tn_ch22Verses|ו|נְעוּרִים|Norim
+tn_ch22Verses|ו|תִמָּאֵס|Tms
+tn_ch22Verses|ח|רֶגַע|Rg
+tn_ch22Verses|י|יָמוּשׁוּ|Imosho
+tn_ch22Verses|י|תְּמוּטֶינָה|Tmotinh
+tn_ch22Verses|י|תָמוּט|Tmot
+tn_ch22Verses|יא|סֹעֲרָה|Srh
+tn_ch22Verses|יא|אַרְבִּיץ|Rvits
+tn_ch22Verses|יא|בַּפּוּךְ|Bpok
+tn_ch22Verses|יא|וִיסַדְתִּיךְ|Oisdtik
+tn_ch22Verses|יב|וּשְׁעָרַיִךְ|Oshrikh
+tn_ch22Verses|יג|לִמּוּדֵי|Lmodi
+tn_ch22Verses|יד|תִּכּוֹנְנִי|Tkonni
+tn_ch22Verses|יד|תִירָאִי|Tiri
+tn_ch22Verses|יד|אֵלָיִךְ׃|Likh
+tn_ch22Verses|טז|וּמוֹצִיא|Omotsi
+tn_ch22Verses|יז|יוּצַר|Iotsr
+tn_ch23Verses|ח|וַיַּנִּיחֵם|Oinichm
+tn_ch23Verses|ט|יְפָאֵר|Ifr
+tn_ch23Verses|יא|וְנִרְאוּ|Onro
+tn_ch24Verses|ב|וּכְבֹרִית|Okbrit
+tn_ch24Verses|ד|תֶּעֱרַב|Trv
+tn_ch24Verses|ד|וִירוּשָׁלַיִם|Oiroshlim
+tn_ch24Verses|ד|כִּבִימֵי|Kbimi
+tn_ch24Verses|ה|הָעוֹשְׁקִים|Hoshkim
+tn_ch24Verses|ה|וְהַמַּטִּים|Ohmtim
+tn_ch24Verses|ה|יְרֵאוּנִי|Ironi
+tn_ch24Verses|ז|וְאָשׁוּבָה|Oshovh
+tn_ch24Verses|ח|הֲיִגְזֹל|Higzl
+tn_ch24Verses|ח|וּבַתְּרוּמוֹת׃|Obtromot
+tn_ch24Verses|י|הָבִיאוּ|Hvio
+tn_ch24Verses|יא|וְגָעַרְתִּי|Ogrti
+tn_ch24Verses|טו|עֹשֵׂי|Shi
+tn_ch25Verses|א|יִבְעַר|Ivr
+tn_ch25Verses|א|יַעֲזֹב|Izv
+tn_ch25Verses|ג|וְעַסּוֹתֶם|Osotm
+tn_ch25Verses|ג|אֵפֶר|Fr
+tn_ch25Verses|ג|כַּפּוֹת|Kpot
+tn_ch25Verses|ה|וְהַנּוֹרָא׃|Ohnor
+tn_ch25Verses|ו|וְהֵשִׁיב|Ohshib
+tn_ch26Verses|א|וַיְבָאֵרָם|Oivrm
+tn_ch26Verses|א|וּקְטַנִּים׃|Oktnim
+tn_ch26Verses|ג|הַיְסוֹדוֹת|Hisodot
+tn_ch26Verses|ג|תִּגֹּל|Tgl
+tn_ch26Verses|ג|יַעַבֹּרוּ׃|Ivro
+tn_ch26Verses|י|יִמָּנְעוּ|Imno
+tn_ch26Verses|יב|וּפוֹנֶה|Oponh
+tn_ch26Verses|יד|וַיַּתֵּר|Oitr
+tn_ch26Verses|יד|וַיַּתֵּר|Oitr
+tn_ch26Verses|טו|רַפְּאוֹ|Rfo
+tn_ch26Verses|טו|עִוְרֵיהֶם|Orihm
+tn_ch26Verses|טו|רְפוּאוֹת|Rfoot
+tn_ch26Verses|טו|וַיְקִים|Oikim
+tn_ch26Verses|טז|עוֹלָלִים|Ollim
+tn_ch26Verses|טז|וַיַּבִּיעוּ|Oivio
+tn_ch26Verses|טז|וְנֶאֶסְרוּ|Onsro
+tn_ch26Verses|טז|הִבִּיעוּ|Hvio
+tn_ch26Verses|יח|מֻתָּר|Mtr
+tn_ch27Verses|א|וַיַּטְבִּילוּ|Oitbilo
+tn_ch27Verses|א|וּבְצוֹם׃|Obtsom
+tn_ch27Verses|ד|יִתְלוֹנְנוּ|Itlonno
+tn_ch27Verses|יט|וּתְשׁוּבַת|Otshobt
+tn_ch27Verses|יט|וְנֶאֱמָנוּתָם|Onmnotm
+tn_ch27Verses|כז|אֵיזֶה|Izh
+tn_ch27Verses|כט|וְלַדּוֹפֵק|Oldopk
+tn_ch27Verses|לב|יִמְכְּרוּנִי|Imkroni
+tn_ch27Verses|לב|וְגַנָּבִים|Ognbim
+tn_ch27Verses|לב|חוֹתְרִים|Chotrim
+tn_ch27Verses|לב|וְגוֹנְבִים|Ogonbim
+tn_ch28Verses|ב|חֲיוֹתֵנוּ|Chiotno
+tn_ch28Verses|ג|הֱיוֹתְכֶם|Hiotkm
+tn_ch28Verses|ג|תָּבוֹאוּ|Tvoo
+tn_ch28Verses|ד|וַיִּפֶן|Oipn
+tn_ch28Verses|ו|יְדִידִי|Ididi
+tn_ch28Verses|ו|בַּעֲבוֹדָתִי|Vvodti
+tn_ch28Verses|יא|בַּעֲבוּרִי׃|Vvori
+tn_ch28Verses|יח|וַיַּטְבִּילוּם|Oitbilom
+tn_ch28Verses|כ|בּוֹרוֹת|Borot
+tn_ch28Verses|כא|נִזּוֹקוּ׃|Nzoko
+tn_ch28Verses|כב|וּפַעֲמַיִם|Ofmim
+tn_ch28Verses|כב|לִמְעוֹנַת|Lmont
+tn_ch28Verses|כב|נִזּוֹקוּ׃|Nzoko
+tn_ch28Verses|כט|וְיָבִיאוּ|Oivio
+tn_ch28Verses|כט|הַמּוֹכִיחַ|Hmokich
+tn_ch28Verses|לד|יַקְשִׁיב|Ikshib
+tn_ch28Verses|לה|נוֹלְדוּ|Noldo
+tn_ch28Verses|לה|נֶעֱלָב|Nlv
+tn_ch28Verses|לז|בְּגוּפָם|Bgopm
+tn_ch28Verses|לח|בְּגוּפָם|Bgopm
+tn_ch28Verses|לט|שָׁוָה|Shoh
+tn_ch28Verses|לט|וְכֹחוֹת|Okchot
+tn_ch29Verses|ג|רֵיקִים|Rikim
+tn_ch29Verses|ד|יוֹצְאִים|Iotsim
+tn_ch29Verses|ד|לָבוּז|Lboz
+tn_ch29Verses|ד|בִּימִינוֹ|Bimino
+tn_ch29Verses|ה|הַבָּז|Hvz
+tn_ch29Verses|ח|וְלָבוּז|Olboz
+tn_ch29Verses|ח|וְלִלְעֹג|Ollg
+tn_ch29Verses|ט|יְמִין|Imin
+tn_ch30Verses|ב|וּתְשׁוּבוּ|Otshobo
+tn_ch30Verses|ב|וּמִרְמוֹתֵיכֶם|Omrmotikm
+tn_ch30Verses|ב|וּמִזְּנוּתֵיכֶם|Omznotikm
+tn_ch30Verses|ב|אֱלִילֵיכֶם|Lilikhm
+tn_ch30Verses|ב|וְקִנְאוֹתֵיכֶם|Oknotikhm
+tn_ch30Verses|ב|וּמְרִיבוֹתֵיכֶם|Omribotikm
+mm_ch2Verses|טז|יָשׁוֹן|Jashon
+mm_ch2Verses|יז|יָשׁוֹן|Jashon
+mm_ch3Verses|כ|אָדָם|Adam/man
+mm_ch5Verses|כב|הוֹי|O!/alas!
+mm_ch6Verses|יז|הוֹי|O!/alas!
+mm_ch6Verses|יז|הוֹי|O!/alas!
+mm_ch6Verses|יט|הוֹי|O!/alas!
+mm_ch8Verses|יז|גֵּיהִנֹּם|Gehenna
+mm_ch8Verses|לג|הוֹי|O!/alas!
+mm_ch8Verses|לח|הוֹי|O!/alas!
+mm_ch9Verses|ו|הוֹי|O!/alas!
+mm_ch9Verses|יב|אָדָם|Adam/man
+mm_ch9Verses|טו|הוֹי|O!/alas!
+mm_ch9Verses|כז|הוֹי|O!/alas!
+fn_ch1Verses|לו|יַעֲקֹבִים|Jacobites
+fn_ch1Verses|לז|וְיַעֲקֹבִים|Jacobites
+---
+Total: 2572
+Unique glosses: 1931
+
+  "O!/alas!" (12x) -- Hebrew: הוֹי
+  "Hish" (10x) -- Hebrew: הֲיֵשׁ, הַיֵּשׁ
+  "Homto" (9x) -- Hebrew: הוּמְתוּ, הוּמָתוּ׃, הוּמְתוּ׃
+  "Komni" (7x) -- Hebrew: כּוּמֵנִי, כּוּמֵנִי׃
+  "Oimno" (6x) -- Hebrew: וַיְמֻנּוּ, וַיִּמְאֲנוּ, וַיִּמְנְעוּ, וַיִּמָּנוּ
+  "Oipno" (6x) -- Hebrew: וַיִּפְנוּ, וַיַּפְנוּ, וַיִּפָּנוּ
+  "Ir" (5x) -- Hebrew: יָאָר, יָאֵר, יַעַר
+  "Imno" (5x) -- Hebrew: יִמָּנוּ, יִמָּנְעוּ
+  "Oipitso" (5x) -- Hebrew: וַיָּפִיצוּ, וַיְפִיצוּ
+  "Bit" (5x) -- Hebrew: בַּיִת
+  "Imin" (5x) -- Hebrew: יָמִין, יְמִין
+  "Nodh" (5x) -- Hebrew: נוֹדֶה
+  "Hikr" (5x) -- Hebrew: הַיָּקָר
+  "Gd" (5x) -- Hebrew: גִד, גָּד
+  "Ikom" (4x) -- Hebrew: יָקוֹם, יִקּוּם, יִקּוּם׃
+  "Oit" (4x) -- Hebrew: וַיַּט, וַיֶּט
+  "Kohor" (4x) -- Hebrew: כּוֹהוֹר, כוֹהוֹר
+  "Bn" (4x) -- Hebrew: בֵן, בֶן
+  "Oitm" (4x) -- Hebrew: וַיַּטֵּם, וַיַּתְעֵם, וַיִּתַּם
+  "Oishigo" (4x) -- Hebrew: וַיַּשִּׂיגוּ
+  "Korintomr" (4x) -- Hebrew: כּוֹרִיַנְטוּמְר
+  "Ithro" (4x) -- Hebrew: יִטָּהֲרוּ, יְטֹהֲרוּ
+  "Oibhlo" (4x) -- Hebrew: וַיִּבָּהֲלוּ, וַיִּבָּהֵלוּ
+  "Tmimim" (4x) -- Hebrew: תְּמִימִים, תְמִימִים
+  "Hichid" (4x) -- Hebrew: הַיָּחִיד
+  "Hosipo" (4x) -- Hebrew: הוֹסִיפוּ
+  "Zrom" (4x) -- Hebrew: עֶזְרוֹם, זְרוֹעָם
+  "Dinm" (4x) -- Hebrew: דִינָם׃, דִינָם, דִּינָם
+  "Tno" (4x) -- Hebrew: תַעֲנוּ, עֵתֵנוּ׃, עִתֵּנוּ, תַּעֲנוּ
+  "Oiprdo" (4x) -- Hebrew: וַיִּפָּרְדוּ
+  "Itnim" (4x) -- Hebrew: אֵיתָנִים
+  "Znok" (4x) -- Hebrew: זֶנוֹק, זֵנוֹק
+  "Odrorm" (4x) -- Hebrew: וּדְרוֹרָם
+  "Drorm" (4x) -- Hebrew: דְּרוֹרָם, דְּרוֹרָם׃
+  "Odror" (4x) -- Hebrew: וּדְרוֹר, וְדְרוֹר
+  "Itsilm" (4x) -- Hebrew: יַצִּילֵם
+  "Oipn" (4x) -- Hebrew: וַיִּפֶן
+  "Jew" (3x) -- Hebrew: יְהוּדִי, הַיְּהוּדִי
+  "Jacobites" (3x) -- Hebrew: יַעֲקֹבִים, וְיַעֲקֹבִים
+  "Vhn" (3x) -- Hebrew: בָהֶן, בָהֶן׃
+  "Chr" (3x) -- Hebrew: חֹר, אַחַר
+  "Mkin" (3x) -- Hebrew: מֵכִין, מִקַּיִן
+  "Khin" (3x) -- Hebrew: אֲכִין, אָכִין
+  "Nmn" (3x) -- Hebrew: נִמְנַע, נִמְנָע
+  "Grm" (3x) -- Hebrew: אֶגְרֹם, גָרַם
+  "Srh" (3x) -- Hebrew: סְעָרָה, סֹעֲרָה
+  "Oitrpo" (3x) -- Hebrew: וַיִּטָּרְפוּ, וְיִטְרְפוּ
+  "Orihah" (3x) -- Hebrew: אוֹרִיהָה
+  "Oiolk" (3x) -- Hebrew: וַיּוֹלֵךְ
+  "Obt" (3x) -- Hebrew: וּבַת
+  "Coriantum" (3x) -- Hebrew: כּוֹרִיַנְטוּם
+  "Hioto" (3x) -- Hebrew: הֱיוֹתוֹ
+  "Oimito" (3x) -- Hebrew: וַיָּמִיתוּ
+  "Oiord" (3x) -- Hebrew: וַיּוֹרֵד, וַיּוֹרֶד
+  "Hkinot" (3x) -- Hebrew: הֲכִינוֹתָ, הֲכִינוֹתָ׃
+  "Hvt" (3x) -- Hebrew: אָהַבְתָּ, הֵבֵאתָ
+  "Ichih" (3x) -- Hebrew: יִחְיֶה
+  "Oikbro" (3x) -- Hebrew: וְיִקְבְּרוּ, וַיִּקְבְּרוּ, וַיִּקָּבְרוּ
+  "Hvio" (3x) -- Hebrew: הֱבִיאוֹ, הָבִיאוּ, הִבִּיעוּ
+  "Khish" (3x) -- Hebrew: עָכִישׁ׃, עָכִישׁ
+  "Gosh" (3x) -- Hebrew: אָגוֹשׁ, גּוּשׁ
+  "Lill" (3x) -- Hebrew: לְיַלֵל
+  "Vko" (3x) -- Hebrew: בָּקְעוּ, בָקְעוּ
+  "Ishno" (3x) -- Hebrew: יָשְׁנוּ, יַעֲשֶׂנּוּ, יָשַׁנּוּ
+  "Llilh" (3x) -- Hebrew: לַלָּיְלָה׃, לַלָּיְלָה
+  "Oibrichm" (3x) -- Hebrew: וַיַּבְרִיחֵם׃, וַיַּבְרִיחֵם
+  "Oklotihm" (3x) -- Hebrew: וְקַלְּעוֹתֵיהֶם, וְקַלָּעוֹתֵיהֶם
+  "Osblim" (3x) -- Hebrew: וְסֹבְלִים, וּסְבָלִים
+  "Oimnh" (3x) -- Hebrew: וַיִּמָּנֶה, וַיְמַנֶּה
+  "Mi" (3x) -- Hebrew: מֵאֵי, מֵעַי
+  "Toh" (3x) -- Hebrew: תַּאֲוָה, אֶתְאַוֶּה
+  "Onopl" (3x) -- Hebrew: וְנוֹפֵל, וְנוֹפֵל׃
+  "Snum" (3x) -- Hebrew: סְנוּם
+  "Ikino" (3x) -- Hebrew: יָכִינוּ
+  "Oitsomo" (3x) -- Hebrew: וַיָּצוּמוּ
+  "Moti" (3x) -- Hebrew: מוֹתִי׃, מְעַוְּתֵי
+  "Knh" (3x) -- Hebrew: אֶקְנֶה, קָנָה
+  "Homt" (3x) -- Hebrew: הוּמַת
+  "Oitmno" (3x) -- Hebrew: וַיִּטְמְנוּ, וְיִטְמְנוּ
+  "Rdo" (3x) -- Hebrew: רְדוּ, רָעָדוּ
+  "Ph" (3x) -- Hebrew: פֹה, פֶּה
+  "Nf" (3x) -- Hebrew: נָאַף, נֹאֵף׃
+  "Msit" (3x) -- Hebrew: מַסִּית, מַסִּיט
+  "Vgotm" (3x) -- Hebrew: בְּגַאֲוָתָם׃, בְּגַאֲוָתָם
+  "Lmn" (3x) -- Hebrew: לֶאֱמֹן׃, לֶאֱמֹן
+  "Iod" (3x) -- Hebrew: יוֹד
+  "Hth" (3x) -- Hebrew: הַטֵּה, הִטָּה
+  "Hviom" (3x) -- Hebrew: הֱבִיאוּם, הֲבִיאוּם
+  "Roch" (3x) -- Hebrew: רֶוַח
+  "Motm" (3x) -- Hebrew: מוֹתָם, מוֹתָם׃
+  "Nkonh" (3x) -- Hebrew: נָכוֹנָה
+  "Mnh" (3x) -- Hebrew: מִנָּה, מֻנָּה
+  "Chilio" (3x) -- Hebrew: חַיָּלָיו׃, חַיָּלָיו
+  "Oipilo" (3x) -- Hebrew: וַיַּפִּילוּ
+  "Oist" (3x) -- Hebrew: וַיָּסֶת
+  "Mridot" (3x) -- Hebrew: מְרִידוֹת
+  "Ntifs" (3x) -- Hebrew: אַנְטִיפַּס, אַנְטִיפַּס׃
+  "Ishim" (3x) -- Hebrew: יָשִׂים
+  "Moz" (3x) -- Hebrew: מָעוֹז, מָעוֹז׃
+  "Obhiot" (3x) -- Hebrew: וּבִהְיוֹת
+  "Miinm" (3x) -- Hebrew: מִיֵּינָם
+  "Motihm" (3x) -- Hebrew: אִמּוֹתֵיהֶם, אִמּוֹתֵיהֶם׃
+  "Botchim" (3x) -- Hebrew: בּוֹטְחִים
+  "Drorno" (3x) -- Hebrew: דְּרוֹרֵנוּ׃, דְּרוֹרֵנוּ
+  "Moronihh" (3x) -- Hebrew: מוֹרוֹנִיהָה
+  "Hordti" (3x) -- Hebrew: הוֹרַדְתִּי
+  "Ididi" (3x) -- Hebrew: יְדִידִי
+  "Btok" (3x) -- Hebrew: בַּתָּוֶךְ
+  "Shazer" (2x) -- Hebrew: שָׁזֵר
+  "Sinai" (2x) -- Hebrew: סִינַי
+  "Okorintom" (2x) -- Hebrew: וְכוֹרִיַנְטוּם, וְכּוֹרִיַנְטוּם
+  "Okim" (2x) -- Hebrew: וְקִים, וַאֲקִים
+  "Ibll" (2x) -- Hebrew: יִבְלֹל
+  "Nbin" (2x) -- Hebrew: נָבִין
+  "Tsoitni" (2x) -- Hebrew: צִוִּיתָנִי
+  "Ngo" (2x) -- Hebrew: נִגְוַע, נִגְוָע׃
+  "Hkinoti" (2x) -- Hebrew: הֲכִינוֹתִי
+  "Gli" (2x) -- Hebrew: גַלֵּי
+  "Ohmbolim" (2x) -- Hebrew: וְהַמַּבּוּלִים
+  "Oitk" (2x) -- Hebrew: וַיָּתַךְ
+  "Hkinono" (2x) -- Hebrew: הֲכִינוֹנוּ
+  "Iklt" (2x) -- Hebrew: יָכֹלְתָּ
+  "Trm" (2x) -- Hebrew: תַרְאֵם, תָּרֹם
+  "Oisgro" (2x) -- Hebrew: וְיִסָּגְרוּ, וַיִּסָּגְרוּ
+  "Hgorm" (2x) -- Hebrew: הַגּוֹרֵם
+  "Izro" (2x) -- Hebrew: יַעַזְרוּ
+  "Troni" (2x) -- Hebrew: תִּרְאוּנִי, תַּרְאוּנִי
+  "Lhir" (2x) -- Hebrew: לְהָאִיר
+  "Kpot" (2x) -- Hebrew: כָּפוֹת, כַּפּוֹת
+  "Oirf" (2x) -- Hebrew: וַיַּרְעֵף, וַיְרַפֵּא
+  "Oikno" (2x) -- Hebrew: וַיִּקְנוּ
+  "Ohnsim" (2x) -- Hebrew: וְהַנָּסִים
+  "Hoilo" (2x) -- Hebrew: הוֹעִילוּ
+  "Oitfr" (2x) -- Hebrew: וַיִּתְפָּאֵר
+  "Shodd" (2x) -- Hebrew: שׁוֹדֵד
+  "Vnh" (2x) -- Hebrew: בָנָה
+  "Tkim" (2x) -- Hebrew: אֶת־קִים, תְּקֻיַּם׃
+  "Rvon" (2x) -- Hebrew: רְעָבוֹן
+  "Omgpot" (2x) -- Hebrew: וּמַגֵּפוֹת
+  "Nsion" (2x) -- Hebrew: נִסְיוֹן
+  "Rot" (2x) -- Hebrew: רְאוֹת, עֶרְוַת
+  "Ilgo" (2x) -- Hebrew: יִלְעֲגוּ, יִלְעָגוּ
+  "Kmok" (2x) -- Hebrew: כְּמוֹךָ, כָּמוֹךָ
+  "Igbro" (2x) -- Hebrew: יִגְבְּרוּ
+  "Hmidh" (2x) -- Hebrew: הַמְּעִידָה
+  "Oiroshlim" (2x) -- Hebrew: וִירוּשָׁלַיִם
+  "Hishnim" (2x) -- Hebrew: הַיְשָׁנִים
+  "Gdot" (2x) -- Hebrew: אַגֻדּוֹת, אֲגֻדּוֹת
+  "Bimino" (2x) -- Hebrew: בִּימִינוֹ
+  "Bnoso" (2x) -- Hebrew: בְּנוּסוֹ
+  "Rkh" (2x) -- Hebrew: אָרַךְ, עָרַךְ
+  "Bgopot" (2x) -- Hebrew: בְּגוּפוֹת
+  "Mhirh" (2x) -- Hebrew: מְהִירָה
+  "Shor" (2x) -- Hebrew: שׁוּר
+  "Omk" (2x) -- Hebrew: וְעֵמֶק, וְעֹמֶק
+  "Comnor" (2x) -- Hebrew: כָּמְנוֹר
+  "Oingpo" (2x) -- Hebrew: וַיִּנָּגְפוּ
+  "Oitlf" (2x) -- Hebrew: וַיִּתְעַלֵּף
+  "Rdf" (2x) -- Hebrew: רְדֹף, רֹדֵף
+  "Milion" (2x) -- Hebrew: מִילְיוֹן
+  "Otmn" (2x) -- Hebrew: וַתְּמָאֵן, וְתִמְנַע
+  "Okinotihm" (2x) -- Hebrew: וְקִינוֹתֵיהֶם
+  "Hlilh" (2x) -- Hebrew: הַלָּיְלָה׃
+  "Oitkonno" (2x) -- Hebrew: וַיִּתְכּוֹנְנוּ
+  "Ogbori" (2x) -- Hebrew: וְגִבּוֹרֵי
+  "Oinch" (2x) -- Hebrew: וַיָּנַח, וַיֵּאָנַח
+  "Oitromm" (2x) -- Hebrew: וַיִּתְרוֹמֵם
+  "Torah/law" (2x) -- Hebrew: תוֹרָה
+  "Oibdlo" (2x) -- Hebrew: וַיֻּבְדְּלוּ, וַיִּבָּדְלוּ
+  "Nto" (2x) -- Hebrew: נָטוּ
+  "Ohnm" (2x) -- Hebrew: וְהִנָּם
+  "Oingro" (2x) -- Hebrew: וַיִּנָּגְרוּ
+  "Itrvo" (2x) -- Hebrew: יִתְעָרְבוּ
+  "Btorot" (2x) -- Hebrew: בְּתוֹרוֹת
+  "Nkim" (2x) -- Hebrew: נִקְיַם, נָכִים
+  "Lboz" (2x) -- Hebrew: לָבוּז
+  "Otsh" (2x) -- Hebrew: וַתֵּעָשׂ, וַתִּשָּׂא
+  "Kozb" (2x) -- Hebrew: כוֹזֵב, כּוֹזֵב
+  "Tmort" (2x) -- Hebrew: תְּמוּרַת
+  "Iir" (2x) -- Hebrew: יָאִיר
+  "Ivikhm" (2x) -- Hebrew: יְבִיאֲכֶם
+  "Oismk" (2x) -- Hebrew: וַיִּסְמֹךְ
+  "Btokno" (2x) -- Hebrew: בְתוֹכֵנוּ
+  "Lzr" (2x) -- Hebrew: לָעְזֹר, לְעֵזֶר
+  "Mimin" (2x) -- Hebrew: מִיָּמִין
+  "Orkim" (2x) -- Hebrew: וּרְכִים, וְרֵקִים
+  "Lnoch" (2x) -- Hebrew: לָנוּחַ
+  "Inkh" (2x) -- Hebrew: אֵינְךָ
+  "Oirko" (2x) -- Hebrew: וַיָּרְקוּ
+  "Sh" (2x) -- Hebrew: שָׂא
+  "Npii" (2x) -- Hebrew: נֶפִיִּי
+  "Orkh" (2x) -- Hebrew: וְאֶרֶךְ, עוֹרֵךְ
+  "Hoblno" (2x) -- Hebrew: הוּבְלָנוּ, הוֹבַלְנוּ
+  "Inh" (2x) -- Hebrew: אֵינָהּ
+  "Gmorh" (2x) -- Hebrew: גְמוּרָה
+  "Vontikhm" (2x) -- Hebrew: בַעֲוֺנֹתֵיכֶם, בַּעֲוֺנֹתֵיכֶם
+  "Zkt" (2x) -- Hebrew: זַעֲקַת
+  "Vod" (2x) -- Hebrew: אָבוּד
+  "Mindi" (2x) -- Hebrew: עֲמִינָדִי
+  "Msodotio" (2x) -- Hebrew: מִסּוֹדוֹתָיו
+  "Tsm" (2x) -- Hebrew: צָם
+  "Okrobi" (2x) -- Hebrew: וּקְרוֹבָי, וּקְרוֹבֵי
+  "Dinno" (2x) -- Hebrew: דִינֵנוּ
+  "Sninh" (2x) -- Hebrew: סְנִינֵה
+  "Kisnninah" (2x) -- Hebrew: כִּסְנִינֵה
+  "Mnor" (2x) -- Hebrew: אַמְנוֹר
+  "Snomim" (2x) -- Hebrew: סְנוּמִים׃
+  "Mdt" (2x) -- Hebrew: מִדַּת, עֹמֶדֶת
+  "Oisito" (2x) -- Hebrew: וַיָּסִיתוּ
+  "Irbo" (2x) -- Hebrew: יַרְבּוּ, יִרְבּוּ׃
+  "Tsh" (2x) -- Hebrew: תִּשָּׂא
+  "Ks" (2x) -- Hebrew: כֵּס
+  "Tmn" (2x) -- Hebrew: טָמַן, תִמְנַע
+  "Moprh" (2x) -- Hebrew: מוּפָרָה, מוּפָרָה׃
+  "Misod" (2x) -- Hebrew: מִיסוֹד, מֵיסוֹד
+  "Otshobtm" (2x) -- Hebrew: וּתְשׁוּבָתָם
+  "Btob" (2x) -- Hebrew: בַטּוֹב
+  "Lhort" (2x) -- Hebrew: לְהוֹרֹת
+  "Otmimim" (2x) -- Hebrew: וּתְמִימִים
+  "Mnich" (2x) -- Hebrew: מַנִּיחַ
+  "Hgio" (2x) -- Hebrew: הִגִּיעוּ
+  "Bsidom" (2x) -- Hebrew: בְּסִידוֹם
+  "Oiptso" (2x) -- Hebrew: וַיָּפֻצוּ, וְיֻפְצוּ
+  "Dk" (2x) -- Hebrew: דַּק
+  "Modiim" (2x) -- Hebrew: מוֹדִיעִים
+  "Shopk" (2x) -- Hebrew: שׁוֹפֵךְ
+  "Nbonim" (2x) -- Hebrew: נְבוֹנִים
+  "Otsom" (2x) -- Hebrew: וְצוֹם
+  "Ochnitotihm" (2x) -- Hebrew: וַחֲנִיתוֹתֵיהֶם
+  "Ohkimo" (2x) -- Hebrew: וְהָקִימוּ
+  "Ishibom" (2x) -- Hebrew: יְשִׁיבוּם
+  "Oiprd" (2x) -- Hebrew: וַיִּפָּרֵד
+  "Nohgim" (2x) -- Hebrew: נוֹהֲגִים
+  "Oipitsom" (2x) -- Hebrew: וַיְפִיצוּם
+  "Oilno" (2x) -- Hebrew: וַיִּלֹּנוּ
+  "Ovilm" (2x) -- Hebrew: אוֹבִילֵם
+  "Onshibm" (2x) -- Hebrew: וּנְשִׁיבֵם
+  "Imitno" (2x) -- Hebrew: יְמִיתֵנוּ׃
+  "Svo" (2x) -- Hebrew: סֹבּוּ
+  "Kl" (2x) -- Hebrew: קָלַע
+  "Mkotihm" (2x) -- Hebrew: מַכּוֹתֵיהֶם
+  "Vkl" (2x) -- Hebrew: בַּקֶּלַע
+  "Hormo" (2x) -- Hebrew: הוּרְמוּ
+  "Oishko" (2x) -- Hebrew: וַיַּשְׁקוּ
+  "Hvish" (2x) -- Hebrew: הִבְאִישׁ, הִבְאִישׁ׃
+  "Iomt" (2x) -- Hebrew: יוּמַת
+  "Dmot" (2x) -- Hebrew: דְּמָעוֹת׃, דְּמָעוֹת
+  "Otkm" (2x) -- Hebrew: וַתָּקָם
+  "Oikimo" (2x) -- Hebrew: וַיָּקִימוּ
+  "Moloki" (2x) -- Hebrew: מוּלוֹקִי
+  "Gzl" (2x) -- Hebrew: גָּזַל
+  "Oirm" (2x) -- Hebrew: וַיָּרֶם
+  "Oiglo" (2x) -- Hebrew: וַיִּגָּאֲלוּ
+  "Mh" (2x) -- Hebrew: עַמָּה, אַמָּה
+  "Oilbishom" (2x) -- Hebrew: וַיַּלְבִּישׁוּם׃, וַיַּלְבִּישׁוּם
+  "Mvo" (2x) -- Hebrew: מָבוֹא
+  "Iokcho" (2x) -- Hebrew: יִוָּכְחוּ
+  "Oizhro" (2x) -- Hebrew: וַיִּזְהֲרוּ
+  "Ishmidono" (2x) -- Hebrew: יַשְׁמִידוּנוּ
+  "Onosh" (2x) -- Hebrew: וְנִוָּשֵׁעַ׃, וְנוֹשָׁע׃
+  "Amaleki(pl)" (2x) -- Hebrew: עֲמָלֵקִים
+  "Gml" (2x) -- Hebrew: גָּמַל
+  "Zot" (2x) -- Hebrew: עַזּוֹת, עַזּוּת
+  "Hnm" (2x) -- Hebrew: הִנָּם
+  "Hvim" (2x) -- Hebrew: הֱבִיאָם, הֵבִיאָם
+  "Nbit" (2x) -- Hebrew: נַבִּיט
+  "Monh" (2x) -- Hebrew: מוֹנֶה
+  "Oikmro" (2x) -- Hebrew: וַיִּכָּמְרוּ
+  "Hots" (2x) -- Hebrew: הוֹצֵא, הִוָּעֵץ
+  "Tkotm" (2x) -- Hebrew: תִקְוָתָם
+  "Ogopot" (2x) -- Hebrew: וְגוּפוֹת
+  "Ochot" (2x) -- Hebrew: וְחוֹטֵא
+  "Imosho" (2x) -- Hebrew: יָמוּשׁוּ
+  "Gorm" (2x) -- Hebrew: גּוֹרֵם
+  "Ino" (2x) -- Hebrew: אֵינוֹ
+  "Vigi" (2x) -- Hebrew: בִּיגִיעַ
+  "Ikhiso" (2x) -- Hebrew: יַכְעִיסוּ
+  "Loh" (2x) -- Hebrew: אֱלוֹהַּ
+  "Snin" (2x) -- Hebrew: סֶנִין
+  "Mtim" (2x) -- Hebrew: מַטְעִים, מָטִים
+  "Ntonim" (2x) -- Hebrew: נְתוּנִים
+  "Tth" (2x) -- Hebrew: תַטְעֶה, תַתְעֶה
+  "Tosr" (2x) -- Hebrew: תוּסַר
+  "Krh" (2x) -- Hebrew: קָּרָה, עֲקָרָה
+  "Mnr" (2x) -- Hebrew: עָמְנֵר, אָמְנֵר
+  "Porshim" (2x) -- Hebrew: פּוֹרְשִׁים
+  "Ikil" (2x) -- Hebrew: יָכִיל
+  "Hodt" (2x) -- Hebrew: הוֹדַעְתָּ
+  "Sbibotino" (2x) -- Hebrew: סְבִיבוֹתֵינוּ
+  "Onidh" (2x) -- Hebrew: אוֹנִידָה
+  "Topch" (2x) -- Hebrew: תּוֹפֵחַ
+  "Tnicho" (2x) -- Hebrew: תַּנִּיחוּ, תַנִּיחוּ
+  "Bkootkm" (2x) -- Hebrew: בְּקַוּוֹתְכֶם
+  "Hsirot" (2x) -- Hebrew: הֲסִירוֹתָ
+  "Tobo" (2x) -- Hebrew: טוּבוֹ׃, טוּבוֹ
+  "Mim" (2x) -- Hebrew: מֵעַיִם, מִיָּם
+  "Hkoprim" (2x) -- Hebrew: הַכּוֹפְרִים
+  "Gopkm" (2x) -- Hebrew: גּוּפְכֶם
+  "Tribo" (2x) -- Hebrew: תָרִיבוּ, תָּרִיבוּ
+  "Iomim" (2x) -- Hebrew: אִיּוּמִים
+  "Mrorim" (2x) -- Hebrew: מְרוֹרִים
+  "Chd" (2x) -- Hebrew: חַד
+  "Noldo" (2x) -- Hebrew: נוֹלְדוּ
+  "Tsotio" (2x) -- Hebrew: עֲצוֹתָיו
+  "Ototihm" (2x) -- Hebrew: אוֹתוֹתֵיהֶם
+  "Ortsichotihm" (2x) -- Hebrew: וּרְצִיחוֹתֵיהֶם, וּרְצִיחוֹתֵיהֶם׃
+  "Todi" (2x) -- Hebrew: תּוֹדִיעַ, תוֹדִיעַ
+  "Obkl" (2x) -- Hebrew: וּבְכׇל
+  "Hmopt" (2x) -- Hebrew: הַמּוֹפֵת
+  "Tbin" (2x) -- Hebrew: תָבִין, תַבִין׃
+  "Lmk" (2x) -- Hebrew: לְעֵמֶק, לְעֹמֶק
+  "Ohih" (2x) -- Hebrew: וֶהְיֵה
+  "Tosif" (2x) -- Hebrew: תוֹסִיף
+  "Hodh" (2x) -- Hebrew: הוֹדֵה, הוֹדָה׃
+  "Ikl" (2x) -- Hebrew: יִקַּל
+  "Ito" (2x) -- Hebrew: יַתְעוּ, יַטּוּ
+  "Ohodh" (2x) -- Hebrew: וְהוֹדֵה, וְהוֹדֶה
+  "Ihih" (2x) -- Hebrew: יִּהְיֶה
+  "Konth" (2x) -- Hebrew: כַּוָּנָתָהּ׃, כַּוָּנָתָהּ
+  "Ogopotihm" (2x) -- Hebrew: וְגוּפוֹתֵיהֶם
+  "Toshb" (2x) -- Hebrew: תּוּשַׁב
+  "Vr" (2x) -- Hebrew: אֵבֶר
+  "Oimsro" (2x) -- Hebrew: וְיִמָּסְרוּ, וַיְמַסְּרוּ
+  "Oto" (2x) -- Hebrew: עִוְּתוּ, עֻוְּתוּ
+  "Iokm" (2x) -- Hebrew: יוּקַם
+  "Rto" (2x) -- Hebrew: רָעָתוֹ, רָעָתוֹ׃
+  "Tv" (2x) -- Hebrew: טֶבַע
+  "Mrio" (2x) -- Hebrew: מִרְיוֹ׃, עֳמָרָיו
+  "Tvih" (2x) -- Hebrew: תְּבִיעָה
+  "Oikim" (2x) -- Hebrew: וִיקַיֵּם, וַיְקִים
+  "Idigo" (2x) -- Hebrew: יַדְאִיגוּ
+  "Ishig" (2x) -- Hebrew: יַשִּׂיג
+  "Vim" (2x) -- Hebrew: עָבִים׃, עָבִים
+  "Kontm" (2x) -- Hebrew: כַּוָּנָתָם
+  "Oikf" (2x) -- Hebrew: וַיַּקֵּף
+  "Okhovihm" (2x) -- Hebrew: וְכוֹבְעֵיהֶם
+  "Bidihm" (2x) -- Hebrew: בִידֵיהֶם
+  "Hgn" (2x) -- Hebrew: הָגֵן, הַגָּן
+  "Oiorr" (2x) -- Hebrew: וַיְעוֹרֵר
+  "Hkipo" (2x) -- Hebrew: הִקִּיפוּ
+  "Oisogo" (2x) -- Hebrew: וַיִּסּוֹגוּ
+  "Biotr" (2x) -- Hebrew: בְּיוֹתֵר׃, בֵּיוֹתֵר
+  "Oisr" (2x) -- Hebrew: וַיַּסַר, וְיָסֵר
+  "Ottso" (2x) -- Hebrew: וְתֵצְאוּ
+  "Tm" (2x) -- Hebrew: תָּם
+  "Imnh" (2x) -- Hebrew: יִמָּנֶה
+  "Okborto" (2x) -- Hebrew: וּקְבוּרָתוֹ, וּקְבוּרָתוֹ׃
+  "Tkon" (2x) -- Hebrew: תִּקּוּן
+  "Oisoro" (2x) -- Hebrew: וַיָּסוּרוּ
+  "Izvo" (2x) -- Hebrew: יַעַזְבוּ, יֵעָזְבוּ
+  "Itslich" (2x) -- Hebrew: יַצְלִיחַ
+  "Oivim" (2x) -- Hebrew: וִיבִיאֵם, אוֹיְבִים
+  "Itnm" (2x) -- Hebrew: יִתְּנֵם
+  "Inich" (2x) -- Hebrew: יַנִּיחַ
+  "Rl" (2x) -- Hebrew: רַעַל
+  "Oirimo" (2x) -- Hebrew: וַיָּרִימוּ
+  "Shokb" (2x) -- Hebrew: שׁוֹכֵב
+  "Midh" (2x) -- Hebrew: מְעִידָה
+  "Gmr" (2x) -- Hebrew: גָּמַר
+  "Itslichm" (2x) -- Hebrew: יַצְלִיחֵם
+  "Oitbilo" (2x) -- Hebrew: וַיַּטְבִּילוּ
+  "Shomri" (2x) -- Hebrew: שׁוֹמְרֵי
+  "Tmihh" (2x) -- Hebrew: תְּמִיהָה
+  "Oigsho" (2x) -- Hebrew: וַיִּגְּשׁוּ
+  "Bnoiim" (2x) -- Hebrew: בְּנוּיִים, בְנוּיִים
+  "Onrh" (2x) -- Hebrew: וַנִּרְאֶה
+  "Zrh" (2x) -- Hebrew: עֶזְרָה
+  "Oikh" (2x) -- Hebrew: וַיַּכֶּהָ, וַיַּכֶּה
+  "Ivio" (2x) -- Hebrew: יָבִיאוּ
+  "Oitmko" (2x) -- Hebrew: וַיִּתְמְכוּ, וְיִתְמְכוּ
+  "Hsorrim" (2x) -- Hebrew: הַסּוֹרְרִים
+  "Ohorgim" (2x) -- Hebrew: וְהוֹרְגִים
+  "Ifotm" (2x) -- Hebrew: עֲיֵפוּתָם
+  "Vlt" (2x) -- Hebrew: בַּלָּאט
+  "Oimt" (2x) -- Hebrew: וַיָּמֶת, וַיִּמְעַט
+  "Tmo" (2x) -- Hebrew: תָּמּוּ, טַעְמוֹ
+  "Bmishor" (2x) -- Hebrew: בַּמִּישׁוֹר, בַּמִּישׁוֹר׃
+  "Zormi" (2x) -- Hebrew: זוֹרָמִי
+  "Iotsim" (2x) -- Hebrew: יוֹצְאִים
+  "Oikpo" (2x) -- Hebrew: וַיֻּקְפוּ
+  "Holik" (2x) -- Hebrew: הוֹלִיךְ
+  "Mkh" (2x) -- Hebrew: מַעֲקֶה, מַעֲקֵה
+  "Hordo" (2x) -- Hebrew: הוּרְדוּ
+  "Ovrim" (2x) -- Hebrew: עוֹבְרִים
+  "Rodpim" (2x) -- Hebrew: רוֹדְפִים
+  "Mts" (2x) -- Hebrew: אֹמֶץ
+  "Motino" (2x) -- Hebrew: אִמּוֹתֵינוּ׃, אִמּוֹתֵינוּ
+  "Lsog" (2x) -- Hebrew: לָסוֹג
+  "Hmonim" (2x) -- Hebrew: הָעַמּוֹנִים
+  "Obrkoshno" (2x) -- Hebrew: וּבִרְכוּשֵׁנוּ
+  "Oikrito" (2x) -- Hebrew: וַיַּכְרִיתוּ
+  "Oivikhm" (2x) -- Hebrew: אוֹיְבֵיכֶם, אוֹיְבֵיכֶם׃
+  "Mpitsim" (2x) -- Hebrew: מְפִיצִים
+  "Horgim" (2x) -- Hebrew: הוֹרְגִים
+  "Ithr" (2x) -- Hebrew: יְטֹהַר
+  "Omdt" (2x) -- Hebrew: עוֹמֶדֶת
+  "Oikipo" (2x) -- Hebrew: וַיַּקִּיפוּ
+  "Hokl" (2x) -- Hebrew: הוּקַל
+  "Hnotrim" (2x) -- Hebrew: הַנּוֹתָרִים׃
+  "Sodiim" (2x) -- Hebrew: סוֹדִיִּים
+  "Ovtovot" (2x) -- Hebrew: וּבְתוֹעֵבוֹת
+  "Oito" (2x) -- Hebrew: וַיַּתְעוּ, וַיֻּתְעוּ
+  "Oitnv" (2x) -- Hebrew: וַיִּתְנַבֵּא
+  "Hmodh" (2x) -- Hebrew: הַמּוּעָדָה
+  "Itno" (2x) -- Hebrew: יַטֵּנוּ, יִתְנוֹעֵעַ
+  "Hokicho" (2x) -- Hebrew: הוֹכִיחוּ
+  "Otodh" (2x) -- Hebrew: וְתוֹדֶה, וְתוֹדָה
+  "Tsizorm" (2x) -- Hebrew: אֶת־סֵיזוֹרָם
+  "Otkh" (2x) -- Hebrew: וְתַכֶּה, וַתֻּכַּה
+  "Lmishor" (2x) -- Hebrew: לְמִישׁוֹר
+  "Hitibo" (2x) -- Hebrew: הֵיטִיבוּ
+  "Oitsilm" (2x) -- Hebrew: וְיַצִּילֵם
+  "Vonotikh" (2x) -- Hebrew: בַּעֲוֺנוֹתֶיךָ
+  "Shi" (2x) -- Hebrew: עֹשֵׂי
+  "Itmno" (2x) -- Hebrew: יִטְמְנוּ
+  "Itmn" (2x) -- Hebrew: יִטְמֹן
+  "Kokb" (2x) -- Hebrew: כּוֹכָב
+  "Iotsr" (2x) -- Hebrew: יוֹצֵר, יוּצַר
+  "Tgl" (2x) -- Hebrew: תִּגְאַל, תִּגֹּל
+  "Ohtsorim" (2x) -- Hebrew: וְהַצּוּרִים
+  "Isrm" (2x) -- Hebrew: יִסְּרָם
+  "Okchi" (2x) -- Hebrew: וְכַחַי
+  "Oirgmo" (2x) -- Hebrew: וַיִּרְגְּמוּ
+  "Vvori" (2x) -- Hebrew: בַּעֲבוּרִי, בַּעֲבוּרִי׃
+  "Kots" (2x) -- Hebrew: קוֹץ
+  "Ipkdo" (2x) -- Hebrew: יִפְקְדוּ
+  "Olilh" (2x) -- Hebrew: וָלָיְלָה׃
+  "Midi" (2x) -- Hebrew: מִידֵי
+  "Rvo" (2x) -- Hebrew: עָרְבוּ
+  "Lmith" (2x) -- Hebrew: לְמִיתָה
+  "Rih" (2x) -- Hebrew: רְאִיָּה
+  "Tmot" (2x) -- Hebrew: טְמֵאוֹת, תָמוּט
+  "Onrfo" (2x) -- Hebrew: וְנִרְפְּאוּ, וְנִרְפָּאוּ
+  "Obmkom" (2x) -- Hebrew: וּבְמָקוֹם
+  "Omkim" (2x) -- Hebrew: וַעֲמָקִים, וּמְקַיֵּם
+  "Ohosho" (2x) -- Hebrew: וְהִוָּשְׁעוּ׃, וְהִוָּשְׁעוּ
+  "Oibt" (2x) -- Hebrew: וְיַבֵּט, וַיַּבֵּט
+  "Oibito" (2x) -- Hebrew: וַיַּבִּיטוּ
+  "Oimsho" (2x) -- Hebrew: וַיָּמֻשּׁוּ
+  "Bonh" (2x) -- Hebrew: בּוֹנֶה
+  "Ptochim" (2x) -- Hebrew: פְּתוּחִים
+  "Nr" (2x) -- Hebrew: נֵר
+  "Gehenna" (2x) -- Hebrew: גֵּיהִנֹּם׃, גֵּיהִנֹּם
+  "Vinkh" (2x) -- Hebrew: בְּעֵינְךָ, בְּעֵינֶךָ׃
+  "Minkh" (2x) -- Hebrew: מֵעֵינֶךָ
+  "Oldopk" (2x) -- Hebrew: וְלַדּוֹפֵק
+  "Tkirom" (2x) -- Hebrew: תַּכִּירוּם, תַּכִּירוּם׃
+  "Oird" (2x) -- Hebrew: וַיֵּרֵד
+  "Vvodti" (2x) -- Hebrew: בַּעֲבוֹדָתִי
+  "Orfm" (2x) -- Hebrew: וְאֶרְפָּאֵם
+  "Oibk" (2x) -- Hebrew: וַיֵּבְךְּ
+  "Zokrim" (2x) -- Hebrew: זוֹכְרִים
+  "Omdmi" (2x) -- Hebrew: וּמִדָּמִי, וּמִדָּמִי׃
+  "Otrf" (2x) -- Hebrew: וְטָרַף
+  "Okchot" (2x) -- Hebrew: וְכֹחוֹת
+  "Izh" (2x) -- Hebrew: יַזֶּה, אֵיזֶה
+  "Oitr" (2x) -- Hebrew: וַיַּתֵּר
+  "Oivio" (2x) -- Hebrew: וַיַּבִּיעוּ, וְיָבִיאוּ
+  "Nzoko" (2x) -- Hebrew: נִזּוֹקוּ׃
+  "Bgopm" (2x) -- Hebrew: בְּגוּפָם
+  "Jashon" (2x) -- Hebrew: יָשׁוֹן
+  "Adam/man" (2x) -- Hebrew: אָדָם
+  "Abarah" (1x) -- Hebrew: עֲבָרָה
+  "Josephites" (1x) -- Hebrew: יוֹסֵפִים
+  "Lemuelites" (1x) -- Hebrew: לְמוּאֵלִים
+  "Mary" (1x) -- Hebrew: מִרְיָם
+  "Osht" (1x) -- Hebrew: וְשֵׁת
+  "Omnigdh" (1x) -- Hebrew: וְעַמְנִיגַדָּה
+  "Ohrtom" (1x) -- Hebrew: וְהֶאַרְתוֹם
+  "Okish" (1x) -- Hebrew: וְקִישׁ
+  "Okorom" (1x) -- Hebrew: וְכּוֹרוֹם
+  "Oloi" (1x) -- Hebrew: וְלֵוִי
+  "Omorinton" (1x) -- Hebrew: וּמוֹרִיַנְטוֹן
+  "Okib" (1x) -- Hebrew: וְקִיב
+  "Vnorihh" (1x) -- Hebrew: בֶן־אוֹרִיהָה
+  "Vnird" (1x) -- Hebrew: בֶן־יָרֶד׃
+  "Ipitsm" (1x) -- Hebrew: יְפִיצֵם
+  "Vll" (1x) -- Hebrew: בָלַל
+  "Iobilno" (1x) -- Hebrew: יוֹבִילֵנוּ
+  "Dgi" (1x) -- Hebrew: דְּגֵי
+  "Dbort" (1x) -- Hebrew: דְּבוֹרַת
+  "Dborim" (1x) -- Hebrew: דְבוֹרִים
+  "Iso" (1x) -- Hebrew: יִסָּעוּ׃
+  "Modrkim" (1x) -- Hebrew: מוּדְרָכִים
+  "Hiorsh" (1x) -- Hebrew: הַיּוֹרֵשׁ
+  "Morinkomr" (1x) -- Hebrew: מוֹרִיאַנְקוּמֶר
+  "Obnh" (1x) -- Hebrew: וּבְנֵה
+  "Oklot" (1x) -- Hebrew: וְקַלּוֹת
+  "Ichziko" (1x) -- Hebrew: יַחְזִיקוּ
+  "Odpnihn" (1x) -- Hebrew: וְדָפְנֵיהֶן
+  "Oktsotihn" (1x) -- Hebrew: וְקְצוֹתֵיהֶן
+  "Horitni" (1x) -- Hebrew: הוֹרֵיתָנִי׃
+  "Btokn" (1x) -- Hebrew: בְּתוֹכָן
+  "Tgoo" (1x) -- Hebrew: תִגְוְעוּ
+  "Nvr" (1x) -- Hebrew: נַעֲבֹר
+  "Obrot" (1x) -- Hebrew: וּבָרוֹת
+  "Hkitno" (1x) -- Hebrew: הִכִּיתָנוּ
+  "Hsor" (1x) -- Hebrew: הַסּוֹעֵר
+  "Ohkinm" (1x) -- Hebrew: וַהֲכִינֵם
+  "Iiro" (1x) -- Hebrew: יָאִירוּ
+  "Oiiro" (1x) -- Hebrew: וְיָאִירוּ
+  "Oiosr" (1x) -- Hebrew: וַיּוּסַר
+  "Nvt" (1x) -- Hebrew: נִבְעַת׃
+  "Hoknti" (1x) -- Hebrew: הוּכַנְתִּי
+  "Okdmot" (1x) -- Hebrew: וְכַדְּמוּת
+  "Igdilo" (1x) -- Hebrew: יַגְדִּילוּ
+  "Mn" (1x) -- Hebrew: מָנַע
+  "Ohmtokch" (1x) -- Hebrew: וְהַמִּתְוַכֵּחַ
+  "Itn" (1x) -- Hebrew: יֻתַּן
+  "Hmoknim" (1x) -- Hebrew: הַמּוּכָנִים
+  "Hiro" (1x) -- Hebrew: הֵאִירוּ
+  "Oipkido" (1x) -- Hebrew: וַיִּפְקִידוּ
+  "Hnif" (1x) -- Hebrew: הֵנִיף
+  "Oizmro" (1x) -- Hebrew: וַיְזַמְּרוּ
+  "Zmr" (1x) -- Hebrew: זִמֵּר
+  "Oihll" (1x) -- Hebrew: וַיְהַלֵּל
+  "Tnin" (1x) -- Hebrew: תַנִּין
+  "Oinhgo" (1x) -- Hebrew: וַיִּנָּהֲגוּ
+  "Omhh" (1x) -- Hebrew: וּמָהָה
+  "Oorihh" (1x) -- Hebrew: וְאוֹרִיהָה׃
+  "Iobil" (1x) -- Hebrew: יוֹבִיל
+  "Fgg" (1x) -- Hebrew: פָּגָג
+  "Ikpho" (1x) -- Hebrew: יִכְפֵּהוּ
+  "Tkiv" (1x) -- Hebrew: אֶת־קִיב
+  "Oishibh" (1x) -- Hebrew: וַיְשִׁיבֶהָ
+  "Lkorihor" (1x) -- Hebrew: לְכוֹרִיהוֹר
+  "Oiolikho" (1x) -- Hebrew: וַיּוֹלִיכֵהוּ
+  "Lmoron" (1x) -- Hebrew: לְמוֹרוֹן׃
+  "Oiotsio" (1x) -- Hebrew: וַיּוֹצִיאוּ
+  "Oioshibho" (1x) -- Hebrew: וַיּוֹשִׁיבֻהוּ
+  "Olkohor" (1x) -- Hebrew: וְלְכוֹהוֹר
+  "Oividho" (1x) -- Hebrew: וַיַּעֲבִידֵהוּ
+  "Okhorintomr" (1x) -- Hebrew: וְכוֹרִיאַנְטוּמְר׃
+  "Oizv" (1x) -- Hebrew: וְיַעֲזֹב
+  "Orkd" (1x) -- Hebrew: וְאֶרְקֹד
+  "Tnh" (1x) -- Hebrew: תְּנָה
+  "Ikrt" (1x) -- Hebrew: יֻכְרַת
+  "Oishvim" (1x) -- Hebrew: וַיַּשְׁבִּיעֵם
+  "Htikim" (1x) -- Hebrew: הָעַתִּיקִים
+  "Tkitso" (1x) -- Hebrew: תָקִיצוּ
+  "Ohmdinot" (1x) -- Hebrew: וְהַמְּדִינוֹת
+  "Omvih" (1x) -- Hebrew: וּמֵבִיאָה
+  "Osklom" (1x) -- Hebrew: וְסָקְלוּם
+  "Oiosho" (1x) -- Hebrew: וְיִוָּשֵׁעוּ׃
+  "Gvt" (1x) -- Hebrew: גִבְעַת
+  "Lkn" (1x) -- Hebrew: לְקַנֵּא
+  "Oisrho" (1x) -- Hebrew: וַיַּאַסְרֵהוּ
+  "Oikhilho" (1x) -- Hebrew: וַיַּאֲכִילֵהוּ
+  "Oprot" (1x) -- Hebrew: וּפָרוֹת
+  "Ochzirim" (1x) -- Hebrew: וַחֲזִירִים
+  "Ochmorim" (1x) -- Hebrew: וַחֲמוֹרִים
+  "Pilim" (1x) -- Hebrew: פִּילִים
+  "Okorlomim" (1x) -- Hebrew: וְקוּרֵלוֹמִים
+  "Okomomim" (1x) -- Hebrew: וְקוּמוֹמִים
+  "Hpilim" (1x) -- Hebrew: הַפִּילִים
+  "Ohkorlomim" (1x) -- Hebrew: וְהַקּוּרֵלוֹמִים
+  "Ohkomomim" (1x) -- Hebrew: וְהַקּוּמוֹמִים׃
+  "Tsirh" (1x) -- Hebrew: צְעִירָה
+  "Lborot" (1x) -- Hebrew: לְבוֹרוֹת
+  "Cht" (1x) -- Hebrew: חֵת׃
+  "Rsiim" (1x) -- Hebrew: אַרְסִיִּים
+  "Igoo" (1x) -- Hebrew: יִגְוָעוּ
+  "Dim" (1x) -- Hebrew: דַיָּם
+  "Obmsim" (1x) -- Hebrew: וּבַמִּסִּים
+  "Msim" (1x) -- Hebrew: מִסִּים
+  "Oividm" (1x) -- Hebrew: וַיַּעֲבִידֵם
+  "Hiph" (1x) -- Hebrew: הַיָּפָה
+  "Hkimo" (1x) -- Hebrew: הֲקִימוֹ
+  "Znotio" (1x) -- Hebrew: זְנוּתָיו
+  "Obgdol" (1x) -- Hebrew: וּבְגִדּוּל
+  "Tloi" (1x) -- Hebrew: אֶת־לֵוִי
+  "Loi" (1x) -- Hebrew: לֵוִי
+  "Korom" (1x) -- Hebrew: כּוֹרוֹם
+  "Roto" (1x) -- Hebrew: רְאוֹתוֹ
+  "Tsid" (1x) -- Hebrew: צַיָּד
+  "Itsodo" (1x) -- Hebrew: יָצוּדוּ
+  "Oimkro" (1x) -- Hebrew: וַיִּמְכְּרוּ
+  "Rmot" (1x) -- Hebrew: עֲרֵמוֹת
+  "Vgd" (1x) -- Hebrew: בֶגֶד
+  "Ldosh" (1x) -- Hebrew: לָדוּשׁ׃
+  "Ntl" (1x) -- Hebrew: נָטַל
+  "Mgid" (1x) -- Hebrew: עַמְגִיד
+  "Hishnot" (1x) -- Hebrew: הַיְשָׁנוֹת
+  "Oishvio" (1x) -- Hebrew: וַיַּשְׁבִּיעוּ
+  "Gvr" (1x) -- Hebrew: גָבַר
+  "Oizvo" (1x) -- Hebrew: וְיַעַזְבוּ
+  "Sht" (1x) -- Hebrew: שֵׁת
+  "Bimio" (1x) -- Hebrew: בְּיָמָיו׃
+  "Mridh" (1x) -- Hebrew: מְרִידָה
+  "Oipl" (1x) -- Hebrew: וַיַּפֵּל
+  "Sodm" (1x) -- Hebrew: סוֹדָם
+  "Okorintomr" (1x) -- Hebrew: וְכוֹרִיַנְטוּמְר
+  "Omotskim" (1x) -- Hebrew: וּמוּצָקִים
+  "Lfr" (1x) -- Hebrew: לְפָאֵר
+  "Nrim" (1x) -- Hebrew: נִרְאִים
+  "Ofr" (1x) -- Hebrew: וּפֵאֵר
+  "Omolk" (1x) -- Hebrew: וַאֲמוּלֶק
+  "Idino" (1x) -- Hebrew: יָדֵינוּ
+  "Zim" (1x) -- Hebrew: עַזִּים
+  "Itvlo" (1x) -- Hebrew: יִתְאַבָּלוּ
+  "Zerin" (1x) -- Hebrew: צֶרִין
+  "Zoz" (1x) -- Hebrew: זוּז
+  "Oizoz" (1x) -- Hebrew: וַיָּזוּז
+  "Zz" (1x) -- Hebrew: זָז
+  "Kiroshlim" (1x) -- Hebrew: כִּירוּשָׁלַיִם
+  "Ibllo" (1x) -- Hebrew: יִבָּלְלוּ
+  "Hishbim" (1x) -- Hebrew: הַיֹּשְׁבִים
+  "Ilkdo" (1x) -- Hebrew: יִלְכְּדוּ
+  "Bito" (1x) -- Hebrew: בֵיתוֹ
+  "Heshlon" (1x) -- Hebrew: חֶשְׁלוֹן׃
+  "Oidichho" (1x) -- Hebrew: וַיַּדִּיחֵהוּ
+  "Oimitho" (1x) -- Hebrew: וַיְמִיתֵהוּ׃
+  "Birko" (1x) -- Hebrew: בִּירֵכוֹ
+  "Vodto" (1x) -- Hebrew: עֲבוֹדָתוֹ
+  "Ishil" (1x) -- Hebrew: יַשְׁאִיל
+  "Tsr" (1x) -- Hebrew: צָר
+  "Gld" (1x) -- Hebrew: גִּלְעָד
+  "Bkomto" (1x) -- Hebrew: בְּקוֹמָתוֹ
+  "Blib" (1x) -- Hebrew: בְּלִיב׃
+  "Oihpk" (1x) -- Hebrew: וַיַּהֲפֹךְ
+  "Mtt" (1x) -- Hebrew: מְטַאטֵא
+  "Notr" (1x) -- Hebrew: נוֹתַר
+  "Ltoli" (1x) -- Hebrew: לְתוֹלְעֵי
+  "Hrich" (1x) -- Hebrew: הָרֵיחַ׃
+  "Mkorintomr" (1x) -- Hebrew: מִכּוֹרִיַנְטוּמְר
+  "Oitro" (1x) -- Hebrew: וַיִּתְעָרוּ
+  "Riflinkom" (1x) -- Hebrew: רִיפְלִיאַנְקוּם
+  "Ogt" (1x) -- Hebrew: אוֹגַת׃
+  "Okhovim" (1x) -- Hebrew: וְכוֹבָעִים
+  "Olboshim" (1x) -- Hebrew: וּלְבוּשִׁים
+  "Oiifo" (1x) -- Hebrew: וַיִּיעָפוּ
+  "Illotihm" (1x) -- Hebrew: יְלָלוֹתֵיהֶם
+  "Oillotihm" (1x) -- Hebrew: וִילָלוֹתֵיהֶם
+  "Oichos" (1x) -- Hebrew: וְיָחוּס
+  "Notro" (1x) -- Hebrew: נוֹתְרוּ
+  "Oiishno" (1x) -- Hebrew: וַיִּישְׁנוּ
+  "Oitlfo" (1x) -- Hebrew: וַיִּתְעַלְּפוּ
+  "Hkoto" (1x) -- Hebrew: הַכּוֹתוֹ
+  "Osh" (1x) -- Hebrew: אִוָּשַׁע
+  "Zenephi" (1x) -- Hebrew: זֶנֶפִי
+  "Ikhnim" (1x) -- Hebrew: יַכְנִיעֵם
+  "Ovklot" (1x) -- Hebrew: וּבְקַלָּעוֹת
+  "Zin" (1x) -- Hebrew: זִיֵּן
+  "Mniho" (1x) -- Hebrew: אַמְנִיהוּ
+  "Ovmk" (1x) -- Hebrew: וּבָעֵמֶק
+  "Omzmotm" (1x) -- Hebrew: וּמְזִמּוֹתָם
+  "Zrm" (1x) -- Hebrew: זֶרַם
+  "Omnor" (1x) -- Hebrew: וְאַמְנוֹר
+  "Omnti" (1x) -- Hebrew: וּמַנְטִי
+  "Minon" (1x) -- Hebrew: מִינוֹן
+  "Chosh" (1x) -- Hebrew: חוּסָה
+  "Ohchih" (1x) -- Hebrew: וְהַחֲיֵה
+  "Bidik" (1x) -- Hebrew: בְּיָדֶיךָ
+  "Ovmlisim" (1x) -- Hebrew: וּבָעַמְלִיסִים
+  "Ispro" (1x) -- Hebrew: יִסָּפְרוּ׃
+  "Hgim" (1x) -- Hebrew: הַגִּיעָם
+  "Dmim" (1x) -- Hebrew: אֲדֻמִּים
+  "Okdoshim" (1x) -- Hebrew: וּקְדוֹשִׁים׃
+  "Ibdl" (1x) -- Hebrew: יִבָּדֵל
+  "Rv" (1x) -- Hebrew: עֵרַב
+  "Ikllo" (1x) -- Hebrew: יְקֻלְּלוּ
+  "Hsr" (1x) -- Hebrew: הַסָּר
+  "Mkimim" (1x) -- Hebrew: מְקִימִים
+  "Moivihm" (1x) -- Hebrew: מֵאוֹיְבֵיהֶם׃
+  "Gmolm" (1x) -- Hebrew: גְּמוּלָם
+  "Noro" (1x) -- Hebrew: נֵעוֹרוּ
+  "Omshim" (1x) -- Hebrew: וּמִשְׁיָם
+  "Obotsm" (1x) -- Hebrew: וּבוּצָם
+  "Knot" (1x) -- Hebrew: קְנָאוֹת
+  "Omtsot" (1x) -- Hebrew: וּמַצּוֹת
+  "Ogoh" (1x) -- Hebrew: וְגַאֲוָה
+  "Plih" (1x) -- Hebrew: פְּלָיָה
+  "Lkinot" (1x) -- Hebrew: לְקִינוֹת
+  "Otomkim" (1x) -- Hebrew: וְתוֹמְכִים
+  "Omkhilim" (1x) -- Hebrew: וּמַאֲכִילִים
+  "Oglto" (1x) -- Hebrew: וּגְאֻלָּתוֹ
+  "Noi" (1x) -- Hebrew: עֲנָוֵי
+  "Olhmidm" (1x) -- Hebrew: וּלְהַעֲמִידָם
+  "Npih" (1x) -- Hebrew: נֶפִיה
+  "Olhpil" (1x) -- Hebrew: וּלְהַפִּיל
+  "Thorh" (1x) -- Hebrew: טְהוֹרָה׃
+  "Ohnvoh" (1x) -- Hebrew: וְהַנְּבוּאָה׃
+  "Onov" (1x) -- Hebrew: וַנּוּבָא
+  "Oph" (1x) -- Hebrew: וּפֹה
+  "Oikitsm" (1x) -- Hebrew: וַיְקִיצֵם
+  "Oiktso" (1x) -- Hebrew: וַיִּקְצוּ
+  "Horo" (1x) -- Hebrew: הוּאֲרוּ
+  "Oshol" (1x) -- Hebrew: וְשׁוֹאֵל
+  "Okbli" (1x) -- Hebrew: וְכַבְלֵי
+  "Oishiro" (1x) -- Hebrew: וַיָּשִׁירוּ
+  "Tmorh" (1x) -- Hebrew: תְמוּרָה
+  "Mritm" (1x) -- Hebrew: מְרִיתֶם
+  "Oidim" (1x) -- Hebrew: וְיָדַיִם
+  "Zkim" (1x) -- Hebrew: זַכִּים
+  "Lkozb" (1x) -- Hebrew: לְכוֹזֵב
+  "Hiitm" (1x) -- Hebrew: הָיִיתֶם
+  "Proshot" (1x) -- Hebrew: פְּרוּשׂוֹת
+  "Tto" (1x) -- Hebrew: תִתְעוּ
+  "Hbinim" (1x) -- Hebrew: הַבֵּינַיִם
+  "Kort" (1x) -- Hebrew: קוֹרֵאת
+  "Monch" (1x) -- Hebrew: מוּנָח
+  "Imcho" (1x) -- Hebrew: יִמָּחוּ
+  "Ishmidho" (1x) -- Hebrew: יַשְׁמִידֵהוּ׃
+  "Torf" (1x) -- Hebrew: טוֹרֵף
+  "Oimso" (1x) -- Hebrew: וַיִּמָּאֲסוּ
+  "Lisd" (1x) -- Hebrew: לְיַסֵּד
+  "Hokh" (1x) -- Hebrew: הוּכָּה
+  "Pi" (1x) -- Hebrew: פִי
+  "Ovtoh" (1x) -- Hebrew: וּבְתַאֲוָה
+  "Ohtkonno" (1x) -- Hebrew: וְהִתְכּוֹנְנוּ
+  "Ochlim" (1x) -- Hebrew: וְחָלְיָם׃
+  "Hkoblim" (1x) -- Hebrew: הַכּוֹבְלִים
+  "Mio" (1x) -- Hebrew: מֵעָיו
+  "Iodt" (1x) -- Hebrew: יוֹדַעַת
+  "Toldo" (1x) -- Hebrew: תִוָּלְדוּ
+  "Hnosh" (1x) -- Hebrew: הַנּוֹשֵׂא
+  "Ohsiro" (1x) -- Hebrew: וְהָסִירוּ
+  "Hkobl" (1x) -- Hebrew: הַכּוֹבֵל
+  "Oshomr" (1x) -- Hebrew: וְשׁוֹמֵר
+  "Tooti" (1x) -- Hebrew: תַאֲווֹתַי׃
+  "Mishrim" (1x) -- Hebrew: מְיַשְּׁרִים
+  "Okhnoim" (1x) -- Hebrew: וּכְנוּעִים
+  "Nochim" (1x) -- Hebrew: נוֹחִים
+  "Mtonim" (1x) -- Hebrew: מְתוּנִים
+  "Shokdim" (1x) -- Hebrew: שׁוֹקְדִים
+  "Modim" (1x) -- Hebrew: מוֹדִים
+  "Tgil" (1x) -- Hebrew: תָגִיל
+  "Inoch" (1x) -- Hebrew: יָנוּחַ
+  "Oshdotikm" (1x) -- Hebrew: וְשָׂדוֹתֵיכֶם
+  "Iktbo" (1x) -- Hebrew: יִכָּתֵבוּ
+  "Oiisd" (1x) -- Hebrew: וַיְיַסֵּד
+  "Okt" (1x) -- Hebrew: וְעָקַת
+  "Chokrim" (1x) -- Hebrew: חוֹקְרִים
+  "Olbiti" (1x) -- Hebrew: וּלְבֵיתִי׃
+  "Gvi" (1x) -- Hebrew: גַּבִּי
+  "Vontihm" (1x) -- Hebrew: בַּעֲוֺנֹתֵיהֶם׃
+  "Omd" (1x) -- Hebrew: וָאַעֲמֹד
+  "Ohnoh" (1x) -- Hebrew: וְהַנַּעֲוֶה
+  "Ovt" (1x) -- Hebrew: וּבְעֵת
+  "Irikho" (1x) -- Hebrew: יַאֲרִיכוּ
+  "Ohotso" (1x) -- Hebrew: וְהוּצְּאוּ
+  "Hzok" (1x) -- Hebrew: הַזּוֹעֵק
+  "Ishlikni" (1x) -- Hebrew: יַשְׁלִיכֻנִי
+  "Omindi" (1x) -- Hebrew: וַעֲמִינָדִי
+  "Hospti" (1x) -- Hebrew: הוֹסַפְתִּי
+  "Otknisho" (1x) -- Hebrew: וְתַכְנִיסֵהוּ
+  "Otkhilho" (1x) -- Hebrew: וְתַאֲכִילֵהוּ
+  "Ildi" (1x) -- Hebrew: יַלְדָי
+  "Hodo" (1x) -- Hebrew: הוּעֲדוּ
+  "Imsrom" (1x) -- Hebrew: יִמְסְרוּם
+  "Ormt" (1x) -- Hebrew: וְעָרְמַת
+  "Oikr" (1x) -- Hebrew: וַיַּכֵּר
+  "Misdim" (1x) -- Hebrew: מְיַסְּדִים
+  "Isodot" (1x) -- Hebrew: יְסוֹדוֹת
+  "Omokshim" (1x) -- Hebrew: וּמוֹקְשִׁים
+  "Bidi" (1x) -- Hebrew: בְּיָדָי׃
+  "Lor" (1x) -- Hebrew: לְעַוֵּר
+  "Dinkm" (1x) -- Hebrew: דִינְכֶם
+  "Mson" (1x) -- Hebrew: מִסְּעוֹן׃
+  "Olh" (1x) -- Hebrew: וְלֵאָה
+  "Ontion" (1x) -- Hebrew: וְאַנְטְיוֹן
+  "Gmolk" (1x) -- Hebrew: גְּמוּלְךָ׃
+  "Shimo" (1x) -- Hebrew: שִׂימוּ
+  "Tirsho" (1x) -- Hebrew: תִירְשׁוּ
+  "Tosho" (1x) -- Hebrew: תִוָּשְׁעוּ
+  "Olmi" (1x) -- Hebrew: עוֹלְמֵי
+  "Htr" (1x) -- Hebrew: הַתֵּר
+  "Itir" (1x) -- Hebrew: יַתִּיר
+  "Ozkron" (1x) -- Hebrew: וְזִכָּרוֹן
+  "Rochotihm" (1x) -- Hebrew: רוּחוֹתֵיהֶם
+  "Iprdo" (1x) -- Hebrew: יִפָּרְדוּ
+  "Rochni" (1x) -- Hebrew: רוּחָנִי
+  "Oitmo" (1x) -- Hebrew: וַיִּתַּמּוּ
+  "Romh" (1x) -- Hebrew: עֲרוּמָה
+  "Olrmot" (1x) -- Hebrew: וּלְרַמּוֹת
+  "Fch" (1x) -- Hebrew: פַח
+  "Isobb" (1x) -- Hebrew: יְסוֹבֵב
+  "Omzmotio" (1x) -- Hebrew: וּמְזִמּוֹתָיו
+  "Ishbo" (1x) -- Hebrew: יִשָּׁבוּ
+  "Nz" (1x) -- Hebrew: נָעֵז
+  "Bhodo" (1x) -- Hebrew: בְּהוֹדוֹ
+  "Ogprit" (1x) -- Hebrew: וְגׇפְרִית
+  "Ntionh" (1x) -- Hebrew: אַנְטְיוֹנָה
+  "Limim" (1x) -- Hebrew: לַיָּמִים
+  "Hodio" (1x) -- Hebrew: הוֹדִיעוֹ
+  "Hlion" (1x) -- Hebrew: הָעֶלְיוֹן׃
+  "Ikhisho" (1x) -- Hebrew: יַכְעִיסֵהוּ
+  "Nvoh" (1x) -- Hebrew: נָבוֹאָה
+  "Hmid" (1x) -- Hebrew: הֶעֱמִיד
+  "Ovshotm" (1x) -- Hebrew: וּבְעֲשׂוֹתָם
+  "Okts" (1x) -- Hebrew: וְקֵץ׃
+  "Oilbno" (1x) -- Hebrew: וַיִּלְבְּנוּ
+  "Vtovh" (1x) -- Hebrew: בְתוֹעֵבָה
+  "Nkochim" (1x) -- Hebrew: נְכוֹחִים
+  "Hgilh" (1x) -- Hebrew: הַגִּילָה
+  "Bimi" (1x) -- Hebrew: בְיָמַי
+  "Ichr" (1x) -- Hebrew: יְאַחֵר
+  "Ikimo" (1x) -- Hebrew: יִקָּיְמוּ
+  "Toblo" (1x) -- Hebrew: תוּבְלוּ
+  "Michlim" (1x) -- Hebrew: מְיַחֲלִים
+  "Oitsoo" (1x) -- Hebrew: וַיְצַוּוּ
+  "Oiolikom" (1x) -- Hebrew: וַיּוֹלִיכוּם
+  "Oikhv" (1x) -- Hebrew: וַיִּכָּאֵב
+  "Tidino" (1x) -- Hebrew: אֶת־יָדֵינוּ
+  "Onoshim" (1x) -- Hebrew: וְנוֹשִׁיעֵם
+  "Gopot" (1x) -- Hebrew: גוּפוֹת
+  "Noho" (1x) -- Hebrew: עָנוּהוּ
+  "Oishlom" (1x) -- Hebrew: וַיִּשְׁאָלוּם
+  "Nom" (1x) -- Hebrew: עָנוּם
+  "Orkkim" (1x) -- Hebrew: וְרֹקְקִים
+  "Lgo" (1x) -- Hebrew: לָעֲגוּ
+  "Oikhlom" (1x) -- Hebrew: וַיִּכְלְאוּם
+  "Ointko" (1x) -- Hebrew: וַיְנַתְּקוּ
+  "Oivko" (1x) -- Hebrew: וַיִּבָּקְעוּ
+  "Kirot" (1x) -- Hebrew: קִירוֹת
+  "Msorihm" (1x) -- Hebrew: מֵאֲסוּרֵיהֶם
+  "Kirotio" (1x) -- Hebrew: קִירוֹתָיו
+  "Okirotio" (1x) -- Hebrew: וְקִירוֹתָיו
+  "Tnos" (1x) -- Hebrew: תָּנוּס
+  "Riot" (1x) -- Hebrew: אֲרָיוֹת
+  "Vono" (1x) -- Hebrew: בַּעֲוֺנוֹ
+  "Vor" (1x) -- Hebrew: בּוֹעֵר׃
+  "Khovt" (1x) -- Hebrew: כּוֹאֶבֶת
+  "Vonotio" (1x) -- Hebrew: בַּעֲוֺנוֹתָיו
+  "Irfoho" (1x) -- Hebrew: יְרַפְּאוּהוּ׃
+  "Orfho" (1x) -- Hebrew: וּרְפָאֵהוּ
+  "Oidlg" (1x) -- Hebrew: וַיְדַלֵּג
+  "Oitblo" (1x) -- Hebrew: וַיִּטָּבֵלוּ׃
+  "Oiichso" (1x) -- Hebrew: וַיְיַחֲסוּ
+  "Oims" (1x) -- Hebrew: וַיִּמָּאֵס
+  "Gopotihm" (1x) -- Hebrew: גוּפוֹתֵיהֶם
+  "Oikso" (1x) -- Hebrew: וַיְכֻסּוּ
+  "Richm" (1x) -- Hebrew: רֵיחָם
+  "Odmotihm" (1x) -- Hebrew: וְאַדְמוֹתֵיהֶם
+  "Isod" (1x) -- Hebrew: יִסּוּד
+  "Oknh" (1x) -- Hebrew: וְקִנְאָה
+  "Ogdopim" (1x) -- Hebrew: וְגִדּוּפִים
+  "Obzh" (1x) -- Hebrew: וּבִזָּה
+  "Onof" (1x) -- Hebrew: וְנִאוּף
+  "Ogilh" (1x) -- Hebrew: וְגִילָה
+  "Tgofto" (1x) -- Hebrew: אֶת־גּוּפָתוֹ
+  "Olshomh" (1x) -- Hebrew: וּלְשׂוּמָהּ
+  "Hoshm" (1x) -- Hebrew: הוּשְׂם
+  "Oimch" (1x) -- Hebrew: וַיִּמַּח
+  "Oidlk" (1x) -- Hebrew: וַיִּדְלַק
+  "Ishn" (1x) -- Hebrew: יָשֵׁן
+  "Mminh" (1x) -- Hebrew: מַאֲמִינָה
+  "Brokh" (1x) -- Hebrew: בְּרוּכָה
+  "Ishh" (1x) -- Hebrew: אִישָׁהּ
+  "Obkomo" (1x) -- Hebrew: וּבְקוּמוֹ
+  "Obrokh" (1x) -- Hebrew: וּבְרוּכָה
+  "Obhodih" (1x) -- Hebrew: וּבְהוֹדָיָה
+  "Vish" (1x) -- Hebrew: אָבִישׁ
+  "Hodih" (1x) -- Hebrew: הוֹדִיעָה
+  "Vroth" (1x) -- Hebrew: בִּרְאוֹתָהּ
+  "Obito" (1x) -- Hebrew: וּבֵיתוֹ
+  "Sbos" (1x) -- Hebrew: סֶבוּס׃
+  "Lhoridh" (1x) -- Hebrew: לְהוֹרִידָהּ
+  "Lnotm" (1x) -- Hebrew: לְעַנּוֹתָם׃
+  "Lisrm" (1x) -- Hebrew: לְיַסְּרָם
+  "Ohtsilh" (1x) -- Hebrew: וְהִצִּילָה
+  "Hmh" (1x) -- Hebrew: הָאָמָה
+  "Kpih" (1x) -- Hebrew: כַּפֶּיהָ
+  "Hobno" (1x) -- Hebrew: הוּבְנוּ
+  "Okkloth" (1x) -- Hebrew: וּכְכַלּוֹתָהּ
+  "Oihio" (1x) -- Hebrew: וַיְהִיוּ
+  "Omh" (1x) -- Hebrew: וְעַמָּה
+  "Ntiomno" (1x) -- Hebrew: אַנְטִיוֹמְנוֹ
+  "Irmono" (1x) -- Hebrew: יְרַמּוּנוּ
+  "Igzlo" (1x) -- Hebrew: יִגְזְלוּ
+  "Tosh" (1x) -- Hebrew: תִוָּשַׁע
+  "Gorlm" (1x) -- Hebrew: גּוֹרָלָם
+  "Oichzikom" (1x) -- Hebrew: וַיַּחֲזִיקוּם
+  "Moldt" (1x) -- Hebrew: מוֹלֶדֶת
+  "Molon" (1x) -- Hebrew: עֲמוּלוֹן
+  "Ovtovotihm" (1x) -- Hebrew: וּבְתוֹעֲבוֹתֵיהֶם׃
+  "Zh" (1x) -- Hebrew: זֶּה
+  "Hdt" (1x) -- Hebrew: הֵעַדְתָּ
+  "Kontno" (1x) -- Hebrew: כַּוָּנָתֵנוּ
+  "Nti" (1x) -- Hebrew: עַנְטִי
+  "Oitokcho" (1x) -- Hebrew: וַיִּתְוַכְּחוּ
+  "Sbibotihm" (1x) -- Hebrew: סְבִיבוֹתֵיהֶם׃
+  "Oikhilom" (1x) -- Hebrew: וַיַּאֲכִילוּם
+  "Oiokichm" (1x) -- Hebrew: וַיּוֹכִיחֵם
+  "Oikshibo" (1x) -- Hebrew: וַיַּקְשִׁיבוּ
+  "Ilkom" (1x) -- Hebrew: יַלְקוּם
+  "Irgmom" (1x) -- Hebrew: יִרְגְּמוּם
+  "Ignbo" (1x) -- Hebrew: יִגְנְבוּ
+  "Info" (1x) -- Hebrew: יִנְאָפוּ
+  "Oikdisho" (1x) -- Hebrew: וַיַּקְדִּישׁוּ
+  "Shimnilom" (1x) -- Hebrew: שִׁמְנִילוֹם׃
+  "Moshbotihm" (1x) -- Hebrew: מוֹשְׁבוֹתֵיהֶם
+  "Nots" (1x) -- Hebrew: נוֹעַץ
+  "Hsitom" (1x) -- Hebrew: הֵסִיתוּם
+  "Olhokichno" (1x) -- Hebrew: וּלְהוֹכִיחֵנוּ
+  "Shino" (1x) -- Hebrew: עָשִׂינוּ׃
+  "Iktmo" (1x) -- Hebrew: יִכָּתְמוּ
+  "Hishoh" (1x) -- Hebrew: הַיְּשׁוּעָה
+  "Oikbrom" (1x) -- Hebrew: וַיִּקְבְּרוּם
+  "Blot" (1x) -- Hebrew: בַּלּוֹת
+  "Oihllo" (1x) -- Hebrew: וַיְהַלְלוּ
+  "Nms" (1x) -- Hebrew: נָמַס
+  "Nkoo" (1x) -- Hebrew: נִכָּווּ
+  "Omolonim" (1x) -- Hebrew: וַעֲמוּלוֹנִים
+  "Hor" (1x) -- Hebrew: הוּאַר
+  "Hrigt" (1x) -- Hebrew: הֲרִיגַת
+  "Kon" (1x) -- Hebrew: כִּוֵּן
+  "Igrmo" (1x) -- Hebrew: יִגְרְמוּ
+  "Omkh" (1x) -- Hebrew: וּמֻכֶּה
+  "Oitsdo" (1x) -- Hebrew: וַיֻּצָּדוּ
+  "Lvito" (1x) -- Hebrew: לְבִיאָתוֹ
+  "Hiklno" (1x) -- Hebrew: הֲיָכֹלְנוּ
+  "Flh" (1x) -- Hebrew: אֲפֵלָה
+  "Mgl" (1x) -- Hebrew: מַגָּל
+  "Bsoph" (1x) -- Hebrew: בַסּוּפָה
+  "Vvo" (1x) -- Hebrew: בְבוֹא
+  "Indpo" (1x) -- Hebrew: יִנָּדְפוּ
+  "Ikimm" (1x) -- Hebrew: יְקִימֵם
+  "Zrim" (1x) -- Hebrew: זָרִים
+  "Oiokichno" (1x) -- Hebrew: וַיּוֹכִיחֵנּוּ
+  "Htir" (1x) -- Hebrew: הִתִּיר
+  "Ohtir" (1x) -- Hebrew: וְהִתִּיר
+  "Viomim" (1x) -- Hebrew: בְּאֵיּוּמִים
+  "Fo" (1x) -- Hebrew: אֵפוֹא
+  "Oidinno" (1x) -- Hebrew: וַיַּדִּינֵנוּ
+  "Liosh" (1x) -- Hebrew: לְיֵאוּשׁ
+  "Hvirno" (1x) -- Hebrew: הֶעֱבִירָנוּ
+  "Omfil" (1x) -- Hebrew: וּמַפְעִיל
+  "Sdot" (1x) -- Hebrew: סֹדוֹת
+  "Oilgo" (1x) -- Hebrew: וַיִּלְעֲגוּ
+  "Fosh" (1x) -- Hebrew: פּוֹשֵׁעַ
+  "Noshi" (1x) -- Hebrew: נוֹשִׁיעַ
+  "Gvotihm" (1x) -- Hebrew: גִּבְעוֹתֵיהֶם
+  "Olgno" (1x) -- Hebrew: וְלֻעַגְנוּ
+  "Ohkino" (1x) -- Hebrew: וְהֻכֵּינוּ
+  "Vvotot" (1x) -- Hebrew: בַּעֲבוֹתוֹת
+  "Hhith" (1x) -- Hebrew: הֲהָיְתָה
+  "Hin" (1x) -- Hebrew: הֲאֵין
+  "Migon" (1x) -- Hebrew: מִיָּגוֹן
+  "Ohoditi" (1x) -- Hebrew: וְהוֹדָיָתִי
+  "Shobno" (1x) -- Hebrew: שׁוּבֵנוּ
+  "Hirtso" (1x) -- Hebrew: הֲיִרְצוּ
+  "Dot" (1x) -- Hebrew: אֲדוֹת
+  "Ngn" (1x) -- Hebrew: נָגֵן
+  "Mhonm" (1x) -- Hebrew: מֵהוֹנָם
+  "Oiodio" (1x) -- Hebrew: וַיּוֹדִיעוּ
+  "Vl" (1x) -- Hebrew: בֻּלַּע
+  "Bokot" (1x) -- Hebrew: בּוֹכוֹת
+  "Tsom" (1x) -- Hebrew: צוֹם
+  "Oiltso" (1x) -- Hebrew: וְיַעַלְצוּ
+  "Hokmo" (1x) -- Hebrew: הוּקְמוּ
+  "Toto" (1x) -- Hebrew: תַאֲוָתוֹ
+  "Ishni" (1x) -- Hebrew: יַעֲשֵׂנִי
+  "Oihlloho" (1x) -- Hebrew: וִיהַלְלוּהוּ
+  "Oichrido" (1x) -- Hebrew: וַיַּחֲרִידוּ
+  "Oilit" (1x) -- Hebrew: אֱוִילִית
+  "Oiliim" (1x) -- Hebrew: אֱוִילִיים
+  "Mbitim" (1x) -- Hebrew: מַבִּיטִים
+  "Molikot" (1x) -- Hebrew: מוֹלִיכוֹת
+  "Kobsh" (1x) -- Hebrew: כּוֹבֵשׁ
+  "Fm" (1x) -- Hebrew: פַעַם
+  "Oivioho" (1x) -- Hebrew: וַיָּבִיאוּהוּ
+  "Okhn" (1x) -- Hebrew: וְכָאן
+  "Mot" (1x) -- Hebrew: מְעַוֵּת
+  "Gdonh" (1x) -- Hebrew: גִּדּוֹנָה
+  "Tikim" (1x) -- Hebrew: עַתִּיקִים
+  "Htikot" (1x) -- Hebrew: הָעַתִּיקוֹת
+  "Horh" (1x) -- Hebrew: הוֹרֶה
+  "Horio" (1x) -- Hebrew: הוֹרָיו׃
+  "Molikim" (1x) -- Hebrew: מוֹלִיכִים
+  "Totikhm" (1x) -- Hebrew: תַאֲוֹתֵיכֶם
+  "Tsomdim" (1x) -- Hebrew: צוֹמְדִים
+  "Ochlomotihm" (1x) -- Hebrew: וַחֲלוֹמוֹתֵיהֶם
+  "Oshgonotihm" (1x) -- Hebrew: וְשִׁגְעוֹנוֹתֵיהֶם
+  "Omrotihm" (1x) -- Hebrew: וּמַרְאוֹתֵיהֶם
+  "Omsroho" (1x) -- Hebrew: וּמְסָרוּהוּ
+  "Goh" (1x) -- Hebrew: גַאֲוָה
+  "Hvodot" (1x) -- Hebrew: הָעֲבוֹדוֹת
+  "Vodti" (1x) -- Hebrew: עֲבוֹדָתִי
+  "Otnoth" (1x) -- Hebrew: וּתְנוּעָתָהּ
+  "Hkokbim" (1x) -- Hebrew: הַכּוֹכָבִים
+  "Pik" (1x) -- Hebrew: פִּיךָ
+  "Tsit" (1x) -- Hebrew: תַסִּיט
+  "Hosrh" (1x) -- Hebrew: הוּסְרָה
+  "Mkorihor" (1x) -- Hebrew: מִקּוֹרִיהוֹר
+  "Nokcho" (1x) -- Hebrew: נוֹכְחוּ
+  "Llilim" (1x) -- Hebrew: לֶאֱלִילִים
+  "Ldv" (1x) -- Hebrew: לִדְאֹב
+  "Himni" (1x) -- Hebrew: הִמְנִי
+  "Kpio" (1x) -- Hebrew: כַּפָּיו
+  "Hordh" (1x) -- Hebrew: הוּרְדָה
+  "Rmomftom" (1x) -- Hebrew: רָמְאוּמְפְּתוֹם
+  "Hodot" (1x) -- Hebrew: הוֹדוֹת
+  "Oksh" (1x) -- Hebrew: וְעִקֵּשׁ
+  "Okotsotihm" (1x) -- Hebrew: וְקַוְּצוֹתֵיהֶם
+  "Itdo" (1x) -- Hebrew: יִתְעַדּוּ
+  "Doi" (1x) -- Hebrew: דַּוָּי
+  "Lmiti" (1x) -- Hebrew: לַעֲמִיתַי
+  "Ozzrom" (1x) -- Hebrew: וְזֶעְזְרוֹם
+  "Dgo" (1x) -- Hebrew: דָאֲגוּ
+  "Oisb" (1x) -- Hebrew: וַיִּסֹּב
+  "Hzt" (1x) -- Hebrew: הֲזֹאת
+  "Choshikm" (1x) -- Hebrew: חוּשֵׁיכֶם
+  "Onso" (1x) -- Hebrew: וְנַסּוּ
+  "Lrv" (1x) -- Hebrew: לֶעֱרַב
+  "Oitsmich" (1x) -- Hebrew: וְיַצְמִיחַ
+  "Nsitm" (1x) -- Hebrew: נִסִּיתֶם
+  "Chm" (1x) -- Hebrew: חֹם
+  "Oibsh" (1x) -- Hebrew: וְיִבַשׁ
+  "Otkroho" (1x) -- Hebrew: וּתְעַקְּרוּהוּ
+  "Gmol" (1x) -- Hebrew: גְּמוּל
+  "Ochritsotkm" (1x) -- Hebrew: וַחֲרִיצוּתְכֶם
+  "Shogim" (1x) -- Hebrew: שׁוֹגִים
+  "Otsb" (1x) -- Hebrew: וַתַּסֵּב
+  "Biti" (1x) -- Hebrew: בֵּיתִי
+  "Otm" (1x) -- Hebrew: וְתָם
+  "Horm" (1x) -- Hebrew: הוּרַם
+  "Oichio" (1x) -- Hebrew: וַיִּחְיוּ׃
+  "Irfo" (1x) -- Hebrew: יֵרָפְאוּ׃
+  "Iklo" (1x) -- Hebrew: יֵקַלּוּ
+  "Oizhirkm" (1x) -- Hebrew: וַיַּזְהִירְכֶם
+  "Hokich" (1x) -- Hebrew: הוֹכִיחַ
+  "Id" (1x) -- Hebrew: אָעִיד
+  "Okots" (1x) -- Hebrew: וְקוֹץ
+  "Morh" (1x) -- Hebrew: מוֹרָה
+  "Omviim" (1x) -- Hebrew: וּמְבִיאִים
+  "Omkipm" (1x) -- Hebrew: וּמַקִּיפָם
+  "Lvl" (1x) -- Hebrew: לְבַעַל
+  "Movt" (1x) -- Hebrew: מוּבֵאת
+  "Ohtmido" (1x) -- Hebrew: וְהַתְמִידוּ
+  "Ovrv" (1x) -- Hebrew: וּבָעֶרֶב׃
+  "Tvoot" (1x) -- Hebrew: תְּבוּאוֹת
+  "Obmkomot" (1x) -- Hebrew: וּבִמְקוֹמוֹת
+  "Sbibotikm" (1x) -- Hebrew: סְבִיבוֹתֵיכֶם׃
+  "Ohritm" (1x) -- Hebrew: וַהֲרֵיתֶם
+  "Hritm" (1x) -- Hebrew: הֲרֵיתֶם
+  "Nitib" (1x) -- Hebrew: נֵיטִיב
+  "Lil" (1x) -- Hebrew: לֵיל
+  "Ilbno" (1x) -- Hebrew: יִלְבְּנוּ
+  "Btodh" (1x) -- Hebrew: בְּתוֹדָה
+  "Obrkotio" (1x) -- Hebrew: וּבִרְכוֹתָיו
+  "Ichn" (1x) -- Hebrew: יָחֹן
+  "Htitso" (1x) -- Hebrew: הִתְיָעֲצוּ
+  "Oiotso" (1x) -- Hebrew: וַיִּוָּעֲצוּ
+  "Htomkim" (1x) -- Hebrew: הַתּוֹמְכִים
+  "Oipch" (1x) -- Hebrew: וַיָּפַח
+  "Ismk" (1x) -- Hebrew: יִסָּמֵךְ
+  "Zkoti" (1x) -- Hebrew: זְכוּתִי׃
+  "Hkiti" (1x) -- Hebrew: הֻכֵּיתִי
+  "Oinoni" (1x) -- Hebrew: וַיְעַנּוּנִי
+  "Niti" (1x) -- Hebrew: עֻנֵּיתִי
+  "Ondh" (1x) -- Hebrew: וְאֶנָּדֶה
+  "Gof" (1x) -- Hebrew: גוּף
+  "Ov" (1x) -- Hebrew: אוּבָא
+  "Vri" (1x) -- Hebrew: אֵבָרַי
+  "Litnm" (1x) -- Hebrew: לְאֵיתָנָם
+  "Ioldo" (1x) -- Hebrew: יִוָּלְדוּ
+  "Itsilni" (1x) -- Hebrew: יַצִּילֵנִי׃
+  "Ikimni" (1x) -- Hebrew: יְקִימֵנִי
+  "Oishk" (1x) -- Hebrew: וַיְשַׁקַּע
+  "Otoldot" (1x) -- Hebrew: וְתוֹלְדוֹת
+  "Opshotim" (1x) -- Hebrew: וּפְשׁוּטִים
+  "Ibish" (1x) -- Hebrew: יָבִישׁ
+  "Hnoim" (1x) -- Hebrew: הַנֶּעֱוִים
+  "Idoh" (1x) -- Hebrew: יְדוּעָה
+  "Ishrot" (1x) -- Hebrew: יְשָׁרוֹת
+  "Omglo" (1x) -- Hebrew: וּמַעְגָּלוֹ
+  "Bm)" (1x) -- Hebrew: בָּם)
+  "Ibtich" (1x) -- Hebrew: יַבְטִיחַ
+  "Ogzlotihm" (1x) -- Hebrew: וּגְזֵלוֹתֵיהֶם
+  "Tir" (1x) -- Hebrew: תָּאִיר
+  "Otsi" (1x) -- Hebrew: אוֹצִיא
+  "Orvotihm" (1x) -- Hebrew: וַעֲרֻבּוֹתֵיהֶם
+  "Vtovot" (1x) -- Hebrew: בְּתוֹעֲבוֹת
+  "Omoptihm" (1x) -- Hebrew: וּמוֹפְתֵיהֶם
+  "Ltv" (1x) -- Hebrew: לְתַעֵב
+  "Iifo" (1x) -- Hebrew: יִיעֲפוּ
+  "Ikono" (1x) -- Hebrew: יְכֻוְּנוּ
+  "Obkomk" (1x) -- Hebrew: וּבְקוּמְךָ
+  "Kdor" (1x) -- Hebrew: כַּדּוּר
+  "Lihonh" (1x) -- Hebrew: לִיאַהוֹנָה
+  "Hkino" (1x) -- Hebrew: הֲכִינוֹ׃
+  "Moptim" (1x) -- Hebrew: מוֹפְתִים
+  "Iorh" (1x) -- Hebrew: יוֹרֶה
+  "Tbit" (1x) -- Hebrew: תַבִּיט
+  "Ochih" (1x) -- Hebrew: וֶחְיֵה
+  "Itsibotk" (1x) -- Hebrew: יַצִּיבוּתְךָ
+  "Koh" (1x) -- Hebrew: אֲקַוֶּה
+  "Brok" (1x) -- Hebrew: בָרוּךְ
+  "Otsrotik" (1x) -- Hebrew: וְצָרוֹתֶיךָ
+  "Hmodi" (1x) -- Hebrew: הַמּוֹדִיעַ
+  "Mits" (1x) -- Hebrew: אַמִּיץ
+  "Tirson" (1x) -- Hebrew: תִרְסֹן
+  "Tootikh" (1x) -- Hebrew: תַּאֲווֹתֶיךָ
+  "Ishmom" (1x) -- Hebrew: יִשְׁמְעוּם
+  "Ihllom" (1x) -- Hebrew: יְהַלְלוּם
+  "Itsibot" (1x) -- Hebrew: יַצִּיבוּת
+  "Tlonti" (1x) -- Hebrew: תְּלוּנָתִי
+  "Zvt" (1x) -- Hebrew: עָזַבְתָּ
+  "Izvl" (1x) -- Hebrew: אִיזָבֶל׃
+  "Otzv" (1x) -- Hebrew: וְתַעֲזֹב
+  "Ogdr" (1x) -- Hebrew: וּגְדֹר
+  "Rik" (1x) -- Hebrew: רִיק
+  "Monotikh" (1x) -- Hebrew: מֵעֲוֹנוֹתֶיךָ׃
+  "Nich" (1x) -- Hebrew: אָנִיחַ
+  "Tod" (1x) -- Hebrew: תִּוָּדַע
+  "Dog" (1x) -- Hebrew: דּוֹאֵג
+  "Kvo" (1x) -- Hebrew: קָבוּעַ
+  "Mmod" (1x) -- Hebrew: מִמּוֹעֵד
+  "Hmodim" (1x) -- Hebrew: הַמּוֹעֲדִים
+  "Ikblo" (1x) -- Hebrew: יְקֻבְּלוּ
+  "Dgh" (1x) -- Hebrew: דְּאָגָה
+  "Oigon" (1x) -- Hebrew: וְיָגוֹן׃
+  "Bitm" (1x) -- Hebrew: בֵּיתָם
+  "Hooim" (1x) -- Hebrew: הוֹוִים
+  "Omsirtn" (1x) -- Hebrew: וּמְסִירָתָן
+  "Ini" (1x) -- Hebrew: אֵינִי
+  "Oloto" (1x) -- Hebrew: וְעׇלוֹתוֹ
+  "Kv" (1x) -- Hebrew: קָבַע
+  "Izhiro" (1x) -- Hebrew: יַזְהִירוּ
+  "Ndg" (1x) -- Hebrew: נִדְאַג
+  "Goith" (1x) -- Hebrew: גְּוִיָּתָהּ
+  "Tkonto" (1x) -- Hebrew: תְּכוּנָתוֹ
+  "Ltob" (1x) -- Hebrew: לַטּוֹב
+  "Igml" (1x) -- Hebrew: יִגָּמֶל
+  "Goli" (1x) -- Hebrew: גְּאוּלֵי
+  "Mlil" (1x) -- Hebrew: מִלֵּיל
+  "Tosf" (1x) -- Hebrew: תּוֹסֵף
+  "Vtv" (1x) -- Hebrew: בַּטֶּבַע
+  "Obmosrot" (1x) -- Hebrew: וּבְמוֹסְרוֹת
+  "Oigml" (1x) -- Hebrew: וְיִגָּמֶל
+  "Onoshb" (1x) -- Hebrew: וְנוֹשָׁב
+  "Imsr" (1x) -- Hebrew: יִמָּסֵר
+  "Lht" (1x) -- Hebrew: לַהַט
+  "Opn" (1x) -- Hebrew: וּפֶן
+  "Olht" (1x) -- Hebrew: וְלַהַט
+  "Ovd" (1x) -- Hebrew: אוֹבֵד
+  "Npol" (1x) -- Hebrew: נָפוּל׃
+  "Igl" (1x) -- Hebrew: יִגָּאֵל
+  "Iglo" (1x) -- Hebrew: יִגָּאֲלוּ
+  "Otoniim" (1x) -- Hebrew: וְתַאֲוָנִיִּים
+  "Oshdiim" (1x) -- Hebrew: וְשֵׁדִיִּים
+  "Olmit" (1x) -- Hebrew: עוֹלָמִית
+  "Hiir" (1x) -- Hebrew: הֲיִירָא
+  "Itv" (1x) -- Hebrew: יִתְבַּע
+  "Mvih" (1x) -- Hebrew: מֵבִיאָה
+  "Moshbim" (1x) -- Hebrew: מוּשָׁבִים
+  "Noshim" (1x) -- Hebrew: נוֹשָׁעִים
+  "Oholmiot" (1x) -- Hebrew: וְהָעוֹלָמִיּוֹת
+  "Oioridk" (1x) -- Hebrew: וְיוֹרִידְךָ
+  "Obishob" (1x) -- Hebrew: וּבְיִשּׁוּב
+  "Hshptimd." (1x) -- Hebrew: הַשֹּׁפְטִים׃ד.
+  "Ivim" (1x) -- Hebrew: יְבִיאֵם
+  "Krtsonmi." (1x) -- Hebrew: כִּרְצוֹנָם׃י.
+  "Ipro" (1x) -- Hebrew: יָפֵרוּ
+  "Dmto." (1x) -- Hebrew: דָּם׃טו.
+  "Hnpiimich." (1x) -- Hebrew: הַנֶּפִיִּים׃יח.
+  "Oklihm" (1x) -- Hebrew: וְקַלְּעֵיהֶם
+  "Tsodim" (1x) -- Hebrew: צוֹעֲדִים
+  "Hlmniml." (1x) -- Hebrew: הַלָּמָנִים׃לא.
+  "Oistirm" (1x) -- Hebrew: וַיַּסְתִּירֵם
+  "Vgi" (1x) -- Hebrew: בְּגֵיא
+  "Nhog" (1x) -- Hebrew: נָהוּג
+  "Lfm" (1x) -- Hebrew: לְפַעַם
+  "Ivri" (1x) -- Hebrew: אֵיבְרֵי
+  "Omgni" (1x) -- Hebrew: וּמָגִנֵּי
+  "Blmnimlt." (1x) -- Hebrew: בַּלָּמָנִים׃לט.
+  "Ivrom." (1x) -- Hebrew: יַעַבְרוּ׃מא.
+  "Olhkotm" (1x) -- Hebrew: וּלְהַכּוֹתָם׃
+  "Omts" (1x) -- Hebrew: וְאֹמֶץ
+  "Oidkro" (1x) -- Hebrew: וַיִּדְקְרוּ
+  "Hzh" (1x) -- Hebrew: הָעַזָּה׃
+  "Morrim" (1x) -- Hebrew: מְעוֹרָרִים
+  "Fno" (1x) -- Hebrew: פָּנוּ
+  "Ovoth" (1x) -- Hebrew: וּבְאוֹתָהּ
+  "Shh" (1x) -- Hebrew: שָׁעָה
+  "Vvorh" (1x) -- Hebrew: בַּעֲבוּרָהּ
+  "Okhosim" (1x) -- Hebrew: וְכוֹעֲסִים
+  "Bkiom" (1x) -- Hebrew: בְּקִיּוּם
+  "Mkot" (1x) -- Hebrew: מַכּוֹת
+  "Oimsr" (1x) -- Hebrew: וַיִּמְסֹר
+  "Nfr" (1x) -- Hebrew: נָפֵר
+  "Otn" (1x) -- Hebrew: וְתֵן
+  "Omgnikm" (1x) -- Hebrew: וּמָגִנֵּיכֶם
+  "Bid" (1x) -- Hebrew: בַּיָּד
+  "Oisog" (1x) -- Hebrew: וַיִּסּוֹג
+  "Oiosht" (1x) -- Hebrew: וַיּוֹשֵׁט
+  "Hrm" (1x) -- Hebrew: הֶעָרֹם
+  "Oitslichk" (1x) -- Hebrew: וְיַצְלִיחֲךָ
+  "Rorh" (1x) -- Hebrew: אֲרוּרָה
+  "Itmo" (1x) -- Hebrew: יִתַּמּוּ
+  "Ohmhomot" (1x) -- Hebrew: וְהַמְּהוּמוֹת
+  "Igd" (1x) -- Hebrew: יֻגַּד
+  "Oiptm" (1x) -- Hebrew: וַיְפַתֵּם
+  "Oikimoho" (1x) -- Hebrew: וִיקִימוּהוּ
+  "Ishimm" (1x) -- Hebrew: יְשִׂימֵם
+  "Obmribh" (1x) -- Hebrew: וּבְמִרְיָבָה
+  "Romot" (1x) -- Hebrew: עֲרוּמוֹת
+  "Odtno" (1x) -- Hebrew: וְדָתֵנוּ
+  "Odrorno" (1x) -- Hebrew: וּדְרוֹרֵנוּ
+  "Hmot" (1x) -- Hebrew: הַמּוֹט׃
+  "Mnif" (1x) -- Hebrew: מֵנִיף
+  "Odtm" (1x) -- Hebrew: וְדָתָם
+  "Ishlikno" (1x) -- Hebrew: יַשְׁלִיכֵנוּ
+  "Nomt" (1x) -- Hebrew: נוּמָת׃
+  "Ohsrim" (1x) -- Hebrew: וְהַסָּרִים
+  "Mlikihim" (1x) -- Hebrew: אַמָלִיקְיָהִים׃
+  "Oikdm" (1x) -- Hebrew: וַיַּקְדֵּם
+  "Oioshbo" (1x) -- Hebrew: וַיּוּשְׁבוּ
+  "Nt" (1x) -- Hebrew: נָטַע
+  "Oish" (1x) -- Hebrew: וַיֵּשׁ
+  "Vtim" (1x) -- Hebrew: בְּעִתִּים
+  "Lonidh" (1x) -- Hebrew: לְאוֹנִידָה
+  "Hz" (1x) -- Hebrew: הֵעֵז
+  "Oikif" (1x) -- Hebrew: וְיַקִּיף
+  "Ikotso" (1x) -- Hebrew: יָקוּצוּ
+  "Ishlim" (1x) -- Hebrew: יַשְׁלִים
+  "Hoshit" (1x) -- Hebrew: הוֹשִׁיט
+  "Oinso" (1x) -- Hebrew: וַיָּנֻסוּ
+  "Iomto" (1x) -- Hebrew: יוּמָתוּ׃
+  "Hromim" (1x) -- Hebrew: הָעֲרוּמִים
+  "Ohsorrim" (1x) -- Hebrew: וְהַסּוֹרְרִים
+  "Mozr" (1x) -- Hebrew: מוּזָר
+  "Oior" (1x) -- Hebrew: וַיַּעֲוֵר
+  "Oikhism" (1x) -- Hebrew: וַיַּכְעִיסֵם
+  "Bhodot" (1x) -- Hebrew: בְּהוֹדוֹת
+  "Oizhirm" (1x) -- Hebrew: וְיַזְהִירֵם
+  "Iodim" (1x) -- Hebrew: יוֹדִיעֵם
+  "Okbni" (1x) -- Hebrew: וּכִבְנֵי
+  "Mmoroni" (1x) -- Hebrew: מִמּוֹרוֹנִי
+  "Hzino" (1x) -- Hebrew: הֶאֱזִינוּ
+  "Sollt" (1x) -- Hebrew: סוֹלְלַת
+  "Lirot" (1x) -- Hebrew: לִירוֹת
+  "Orot" (1x) -- Hebrew: עוֹרוֹת
+  "Obhkinm" (1x) -- Hebrew: וּבַהֲכִינָם
+  "Ktorot" (1x) -- Hebrew: כְּתוֹרוֹת
+  "Oichto" (1x) -- Hebrew: וַיֵּחֲתוּ
+  "Gvh" (1x) -- Hebrew: גֹּבַהּ
+  "Hormh" (1x) -- Hebrew: הוּרְמָה
+  "Ovklihm" (1x) -- Hebrew: וּבְקַלְּעֵיהֶם
+  "Bsollot" (1x) -- Hebrew: בְּסוֹלְלוֹת
+  "Tsollot" (1x) -- Hebrew: אֶת־סוֹלְלוֹת
+  "Oftsoihm" (1x) -- Hebrew: וּפְצוּעֵיהֶם׃
+  "Tkiph" (1x) -- Hebrew: תַּקִּיפָה
+  "Oshrionihm" (1x) -- Hebrew: וְשִׁרְיוֹנֵיהֶם
+  "Ozhirotm" (1x) -- Hebrew: וּזְהִירוּתָם
+  "Tli" (1x) -- Hebrew: תִּלֵּי
+  "Hsollot" (1x) -- Hebrew: הַסּוֹלְלוֹת
+  "Itdot" (1x) -- Hebrew: יְתֵדוֹת
+  "Ogbhim" (1x) -- Hebrew: וּגְבֹהִים׃
+  "Hitdot" (1x) -- Hebrew: הַיְתֵדוֹת
+  "Igno" (1x) -- Hebrew: יָגֵנּוּ
+  "Ovtot" (1x) -- Hebrew: וּבְעִתּוֹת
+  "Obnik" (1x) -- Hebrew: וּבָנֶיךָ
+  "Mribotihm" (1x) -- Hebrew: מְרִיבוֹתֵיהֶם
+  "Omtsotihm" (1x) -- Hebrew: וּמַצּוֹתֵיהֶם
+  "Oznotm" (1x) -- Hebrew: וּזְנוּתָם
+  "Oshtihn" (1x) -- Hebrew: וּשְׁתֵּיהֶן
+  "Tvo" (1x) -- Hebrew: תָּבְעוּ
+  "Oichlito" (1x) -- Hebrew: וַיַּחְלִיטוּ
+  "Oishmidm" (1x) -- Hebrew: וְיַשְׁמִידֵם׃
+  "Bgopi" (1x) -- Hebrew: בְּגוּפֵי
+  "Lkinh" (1x) -- Hebrew: לְקִינָה
+  "Vkr" (1x) -- Hebrew: בָּעִקָּר
+  "Oishm" (1x) -- Hebrew: וַיֻּשַׂם
+  "Dtm" (1x) -- Hebrew: דָתָם
+  "Ohtomkim" (1x) -- Hebrew: וְהַתּוֹמְכִים
+  "Oikn" (1x) -- Hebrew: וַיָּכֵן
+  "Mribotm" (1x) -- Hebrew: מְרִיבוֹתָם
+  "Okbodm" (1x) -- Hebrew: וּכְבוֹדָם
+  "Oishpilo" (1x) -- Hebrew: וַיַּשְׁפִּילוּ
+  "Otsilotm" (1x) -- Hebrew: וְאַצִילוּתָם
+  "Ohshoo" (1x) -- Hebrew: וְהֻשְׁווּ
+  "Rvt" (1x) -- Hebrew: אַרְבַּעַת
+  "Okln" (1x) -- Hebrew: וְכֻלָּן
+  "Lmoz" (1x) -- Hebrew: לְמָעוֹז
+  "Ohkdim" (1x) -- Hebrew: וְהִקְדִּים
+  "Tkoto" (1x) -- Hebrew: תִּקְוָתוֹ
+  "Ochm" (1x) -- Hebrew: וְחֹם
+  "Kidon" (1x) -- Hebrew: כִּידוֹן
+  "Obhkin" (1x) -- Hebrew: וּבְהָכִין
+  "Bido" (1x) -- Hebrew: בְיָדוֹ
+  "Olhsit" (1x) -- Hebrew: וּלְהַסִּיט
+  "Itsro" (1x) -- Hebrew: יָצֵרוּ
+  "Notso" (1x) -- Hebrew: נוֹעֲצוּ
+  "Iptom" (1x) -- Hebrew: יַפְתּוּם
+  "Oilkdo" (1x) -- Hebrew: וְיִלְכְּדוּ
+  "Molik" (1x) -- Hebrew: מוֹלִיךְ
+  "Oiirshoh" (1x) -- Hebrew: וְיִירְשׁוּהָ׃
+  "Idbikm" (1x) -- Hebrew: יַדְבִּיקֵם
+  "Isgiro" (1x) -- Hebrew: יַסְגִּירוּ
+  "Otsgirom" (1x) -- Hebrew: וְתַסְגִּירוּם
+  "Oikcho" (1x) -- Hebrew: וַיֻּקְחוּ
+  "Oikrichom" (1x) -- Hebrew: וַיַּכְרִיחוּם
+  "Oitnh" (1x) -- Hebrew: וַיִּתְּנֶהָ
+  "Gbohh" (1x) -- Hebrew: גְּבוֹהָה
+  "Hsik" (1x) -- Hebrew: הֶעֱסִיק
+  "Ovdim" (1x) -- Hebrew: אוֹבְדִים
+  "Ohtlot" (1x) -- Hebrew: וְהַתְּלָאוֹת
+  "Zv" (1x) -- Hebrew: עֲזֹב
+  "Otsigo" (1x) -- Hebrew: וְתָסִיגוּ
+  "Otsiro" (1x) -- Hebrew: וְתָסִירוּ
+  "Torido" (1x) -- Hebrew: תּוֹרִידוּ
+  "Oildio" (1x) -- Hebrew: וִילָדָיו
+  "Otpi" (1x) -- Hebrew: וְטַפִּי
+  "Ordf" (1x) -- Hebrew: וְאֶרְדֹּף
+  "Iomikhm" (1x) -- Hebrew: אִיּוּמֵיכֶם׃
+  "Miomikhm" (1x) -- Hebrew: מֵאִיּוּמֵיכֶם׃
+  "Idno" (1x) -- Hebrew: יָדֵנוּ
+  "Kmokm" (1x) -- Hebrew: כְּמוֹכֶם׃
+  "Iorido" (1x) -- Hebrew: יוֹרִידוּ׃
+  "Oiotsioho" (1x) -- Hebrew: וַיּוֹצִיאוּהוּ
+  "Mir" (1x) -- Hebrew: אָמִיר
+  "Miink" (1x) -- Hebrew: מִיֵּינְךָ
+  "Tiinno" (1x) -- Hebrew: אֶת־יֵינֵנוּ
+  "Ltotm" (1x) -- Hebrew: לְתַאֲוָתָם
+  "Oirv" (1x) -- Hebrew: וַיֶּעֱרַב
+  "Oshkorim" (1x) -- Hebrew: וּשְׁכוּרִים
+  "Olhkif" (1x) -- Hebrew: וּלְהַקִּיף
+  "Ikitso" (1x) -- Hebrew: יָקִיצוּ
+  "Oshboiihm" (1x) -- Hebrew: וּשְׁבוּיֵיהֶם
+  "Oiviom" (1x) -- Hebrew: וַיְּבִיאוּם
+  "Ohgno" (1x) -- Hebrew: וְהִגֵּנוּ
+  "Ohitron" (1x) -- Hebrew: וְהַיִּתְרוֹן
+  "Vrl" (1x) -- Hebrew: בְּרַעַל
+  "Bmokshihm" (1x) -- Hebrew: בְּמוֹקְשֵׁיהֶם
+  "Iinm" (1x) -- Hebrew: יֵינָם
+  "Irl" (1x) -- Hebrew: יָרְעַל
+  "Sfot" (1x) -- Hebrew: אֲסָפוֹת
+  "Hhov." (1x) -- Hebrew: הַהוּא׃ב.
+  "Hlhh." (1x) -- Hebrew: הָאֵלֶּה׃ה.
+  "Linoch." (1x) -- Hebrew: עָלֵינוּ׃ח.
+  "Nshvot." (1x) -- Hebrew: נִשְׁבָּעוּ׃ט.
+  "Bnim)" (1x) -- Hebrew: בָּנִים)
+  "Zoltm" (1x) -- Hebrew: זוּלָתָם
+  "Oirpo" (1x) -- Hebrew: וַיִּרְפּוּ
+  "Gopm" (1x) -- Hebrew: גוּפָם
+  "Tsooi" (1x) -- Hebrew: צִוּוּי
+  "Onkin" (1x) -- Hebrew: וַנָּכִין
+  "Oiplo" (1x) -- Hebrew: וְיִפֹּלוּ׃
+  "Ohkchl." (1x) -- Hebrew: וְהַכֹּחַ׃ל.
+  "Kmolikim" (1x) -- Hebrew: כְּמוֹלִיכִים
+  "Onlk" (1x) -- Hebrew: וַנֵּלֵךְ
+  "Hogd" (1x) -- Hebrew: הוּגַד
+  "Rodf" (1x) -- Hebrew: רוֹדֵף
+  "Ishirot" (1x) -- Hebrew: יְשִׁירוֹת
+  "Ishigm" (1x) -- Hebrew: יַשִּׂיגֵם
+  "Ikpo" (1x) -- Hebrew: יֻקָּפוּ
+  "Pniti" (1x) -- Hebrew: פָנִיתִי
+  "Imlto" (1x) -- Hebrew: יִמָּלְטוּ
+  "Md)" (1x) -- Hebrew: מְאֹד)
+  "Ispko" (1x) -- Hebrew: יְסַפְּקוּ
+  "Oishno" (1x) -- Hebrew: וַיִּשְׁנוּ
+  "Nbokim" (1x) -- Hebrew: נְבוּכִים
+  "Btoch" (1x) -- Hebrew: בָטוּחַ
+  "Nmir" (1x) -- Hebrew: נָמִיר
+  "Gdodi" (1x) -- Hebrew: גְּדוּדִי
+  "Lfim" (1x) -- Hebrew: אַלְפָּיִם
+  "Onmid" (1x) -- Hebrew: וַנַּעֲמִיד
+  "Lihodh" (1x) -- Hebrew: לִיהוּדָה
+  "Onpkidm" (1x) -- Hebrew: וַנַּפְקִידֵם
+  "Gdod" (1x) -- Hebrew: גְּדוּד
+  "Lfi" (1x) -- Hebrew: אַלְפַּי
+  "Lholik" (1x) -- Hebrew: לְהוֹלִיךְ
+  "Nos" (1x) -- Hebrew: נוּס
+  "Nichs" (1x) -- Hebrew: נְיַחֵס
+  "Ogd" (1x) -- Hebrew: וְגִד
+  "Mrim" (1x) -- Hebrew: מְרִיָם
+  "Tsoino" (1x) -- Hebrew: צִוִּינוּ
+  "Oml" (1x) -- Hebrew: וָאֶמָּלֵא
+  "Lhodio" (1x) -- Hebrew: לְהוֹדִיעוֹ
+  "Omtsodotihm" (1x) -- Hebrew: וּמְצוּדוֹתֵיהֶם׃
+  "Gono" (1x) -- Hebrew: גָּוַעְנוּ
+  "Lishoto" (1x) -- Hebrew: לִישׁוּעָתוֹ׃
+  "Obildino" (1x) -- Hebrew: וּבְיַלְדֵינוּ
+  "Ont" (1x) -- Hebrew: וַנַּט
+  "Olhmitno" (1x) -- Hebrew: וּלְהָמִיתֵנוּ
+  "Lgd" (1x) -- Hebrew: לְגִד
+  "Iishno" (1x) -- Hebrew: יִישְׁנוּ
+  "Ongi" (1x) -- Hebrew: וַנַּגִּיעַ
+  "Orkosh" (1x) -- Hebrew: וּרְכוּשׁ
+  "Notnt" (1x) -- Hebrew: נוֹתֶנֶת
+  "Flg" (1x) -- Hebrew: פֶּלֶג
+  "Iorshim" (1x) -- Hebrew: יוֹרְשִׁים
+  "Omkpidim" (1x) -- Hebrew: וּמַקְפִּידִים
+  "Oichn" (1x) -- Hebrew: וְיָחֹן
+  "Omsbibotih" (1x) -- Hebrew: וּמִסְּבִיבוֹתֶיהָ
+  "Morni" (1x) -- Hebrew: מוֹרֹנִי׃
+  "Rpot" (1x) -- Hebrew: רְפוֹת
+  "Olzinm" (1x) -- Hebrew: וּלְזַיְּנָם
+  "Oigih" (1x) -- Hebrew: וִיגִיעָה
+  "Nlono" (1x) -- Hebrew: נִלּוֹנּוּ
+  "Ntonno" (1x) -- Hebrew: נִתְאוֹנַנּוּ׃
+  "Ozrh" (1x) -- Hebrew: וְעֶזְרָה
+  "Hzivh" (1x) -- Hebrew: הָעֲזִיבָה
+  "Itsilkm" (1x) -- Hebrew: יַצִּילְכֶם
+  "Ozivtm" (1x) -- Hebrew: וַעֲזִיבָתָם
+  "Ribno" (1x) -- Hebrew: רִיבֵנוּ
+  "Hrimm" (1x) -- Hebrew: הֵרִימָם
+  "Oiorshim" (1x) -- Hebrew: וְיוֹרְשִׁים
+  "Shobim" (1x) -- Hebrew: שׁוֹבִים
+  "Bogdim" (1x) -- Hebrew: בּוֹגְדִים
+  "Omognim" (1x) -- Hebrew: וּמוּגָנִים
+  "Shir" (1x) -- Hebrew: אַשְׁאִיר
+  "Oshir" (1x) -- Hebrew: וְאַשְׁאִיר
+  "Nitsots" (1x) -- Hebrew: נִיצוֹץ
+  "Ttorro" (1x) -- Hebrew: תִּתְעוֹרְרוּ
+  "Otpl" (1x) -- Hebrew: וְתִפֹּל
+  "Romsim" (1x) -- Hebrew: רוֹמְסִים
+  "Tkimo" (1x) -- Hebrew: תְקַיְּמוּ
+  "Igrm" (1x) -- Hebrew: יִגְרֹם
+  "Mno" (1x) -- Hebrew: מָנְעוּ
+  "Onos" (1x) -- Hebrew: וָאָנוּס
+  "Nohrim" (1x) -- Hebrew: נוֹהֲרִים
+  "Ishm" (1x) -- Hebrew: יֻשַׂם
+  "Onshim" (1x) -- Hebrew: וְנָשִׂים
+  "Bogd" (1x) -- Hebrew: בּוֹגֵד
+  "Zo" (1x) -- Hebrew: עָזוּ
+  "Oslmot" (1x) -- Hebrew: וְסֻלָּמוֹת
+  "Hmito" (1x) -- Hebrew: הִמְעִיטוּ
+  "Obgbolot" (1x) -- Hebrew: וּבַגְּבוּלוֹת
+  "Omlikih" (1x) -- Hebrew: וַעֲמָלִיקְיָה
+  "Oitl" (1x) -- Hebrew: וַיַּטֵּל
+  "Mrikhot" (1x) -- Hebrew: מֵאֲרִיכוּת
+  "Rikhot" (1x) -- Hebrew: אֲרִיכוּת
+  "Iblh" (1x) -- Hebrew: יְבַלֶּה
+  "Tkonim" (1x) -- Hebrew: תִקּוּנִים
+  "Oshoptihm" (1x) -- Hebrew: וְשׁוֹפְטֵיהֶם
+  "Rmo" (1x) -- Hebrew: רָמוּ
+  "Hgot" (1x) -- Hebrew: הָגוֹת
+  "Oioridh" (1x) -- Hebrew: וַיּוֹרִידָהּ
+  "Oipligo" (1x) -- Hebrew: וַיַּפְלִיגוּ
+  "Oildim" (1x) -- Hebrew: וִילָדִים
+  "Oiorrom" (1x) -- Hebrew: וַיְעוֹרְרוּם
+  "Oishbo" (1x) -- Hebrew: וַיֻּשְׁבוּ
+  "Monihh" (1x) -- Hebrew: עַמּוֹנִיהָה
+  "Tni" (1x) -- Hebrew: תְּנָאֵי
+  "Hitsibh" (1x) -- Hebrew: הַיַּצִּיבָה׃
+  "Oizhirom" (1x) -- Hebrew: וַיַּזְהִירוּם
+  "Olhroich" (1x) -- Hebrew: וּלְהַרְוִיחַ
+  "Ofrot" (1x) -- Hebrew: וְעָפְרוֹת
+  "Mnim" (1x) -- Hebrew: אֻמָּנִים
+  "Frot" (1x) -- Hebrew: עָפְרוֹת
+  "Oizkkom" (1x) -- Hebrew: וַיְזַקְּקוּם
+  "Mriim" (1x) -- Hebrew: מְרִיאִים
+  "Otoo" (1x) -- Hebrew: וְטָווּ
+  "Bd" (1x) -- Hebrew: בַד
+  "Obd" (1x) -- Hebrew: וּבַד
+  "Hosto" (1x) -- Hebrew: הוּסְתוּ
+  "Sodiot" (1x) -- Hebrew: סוֹדִיּוֹת
+  "Iroicho" (1x) -- Hebrew: יַרְוִיחוּ׃
+  "Ohbozzim" (1x) -- Hebrew: וְהַבּוֹזְזִים
+  "Oshodihm" (1x) -- Hebrew: וְשׁוֹדֵיהֶם
+  "Ognbotihm" (1x) -- Hebrew: וּגְנֵבוֹתֵיהֶם׃
+  "Olznot" (1x) -- Hebrew: וְלִזְנוֹת
+  "Fth" (1x) -- Hebrew: פִּתָּה
+  "Zmm" (1x) -- Hebrew: זָמַם
+  "Oizm" (1x) -- Hebrew: וַיָּזֹם
+  "Gboh" (1x) -- Hebrew: גָּבוֹהַּ
+  "Hpits" (1x) -- Hebrew: הֵפִיץ
+  "Olgihnm" (1x) -- Hebrew: וּלְגֵיהִנֹּם
+  "Hotsih" (1x) -- Hebrew: הוֹצִיאָהּ
+  "Omvir" (1x) -- Hebrew: וּמַעֲבִיר
+  "Tfs" (1x) -- Hebrew: תָּפַס
+  "Oirmso" (1x) -- Hebrew: וַיִּרְמְסוּ
+  "Olkint" (1x) -- Hebrew: וּלְקִינַת
+  "Klotm" (1x) -- Hebrew: קַלּוּתָם
+  "Otmko" (1x) -- Hebrew: וְתָמְכוּ
+  "Oltl" (1x) -- Hebrew: וְלִטֹּל
+  "Moldto" (1x) -- Hebrew: מוֹלַדְתּוֹ׃
+  "Ishro" (1x) -- Hebrew: יָשְׁרוּ
+  "Mnichim" (1x) -- Hebrew: מַנִּיחִים
+  "Okinti" (1x) -- Hebrew: וְקִינָתִי
+  "Chizh" (1x) -- Hebrew: אֲחִיזָה
+  "Hroh" (1x) -- Hebrew: הָרוֹעֶה
+  "Vorm" (1x) -- Hebrew: עֲבוּרָם
+  "Otno" (1x) -- Hebrew: וְתַעֲנוּ
+  "Tortm" (1x) -- Hebrew: תּוֹרָתָם
+  "Oivlom" (1x) -- Hebrew: וַיְבַלְּעוּם׃
+  "Iorm" (1x) -- Hebrew: יוּרַם
+  "Mimio" (1x) -- Hebrew: מִיָּמָיו
+  "Oigl" (1x) -- Hebrew: וַיָּגֶל׃
+  "Zis" (1x) -- Hebrew: עֵזִיאָס
+  "Otspo" (1x) -- Hebrew: וְצָפוּ
+  "Omritm" (1x) -- Hebrew: וּמְרִיתֶם
+  "Tsobrim" (1x) -- Hebrew: צוֹבְרִים
+  "Oznotkm" (1x) -- Hebrew: וּזְנוּתְכֶם
+  "Nokich" (1x) -- Hebrew: נוֹכִיחַ
+  "Oiodi" (1x) -- Hebrew: וְיוֹדִיעַ
+  "Oiribo" (1x) -- Hebrew: וַיָּרִיבוּ
+  "Hbishom" (1x) -- Hebrew: הֱבִישׁוּם׃
+  "Ikshiloho" (1x) -- Hebrew: יַכְשִׁילוּהוּ
+  "Rli" (1x) -- Hebrew: עַרְלֵי
+  "Khosim" (1x) -- Hebrew: כּוֹעֲסִים
+  "Seantum" (1x) -- Hebrew: סֵאַנְטוּם
+  "Sizorm" (1x) -- Hebrew: סֵיזוֹרָם
+  "Itshir" (1x) -- Hebrew: יַצְהִיר
+  "Dm" (1x) -- Hebrew: דַם
+  "Ird" (1x) -- Hebrew: יִרְעַד
+  "Oichor" (1x) -- Hebrew: וְיֶחֱוַר
+  "Ohchoron" (1x) -- Hebrew: וְהַחִוָּרוֹן
+  "Homro" (1x) -- Hebrew: הוּמְרוּ
+  "Liditno" (1x) -- Hebrew: לִידִיעָתֵנוּ
+  "Oitbonn" (1x) -- Hebrew: וַיִּתְבּוֹנֵן
+  "Ttir" (1x) -- Hebrew: תַּתִּיר
+  "Otibsh" (1x) -- Hebrew: וַתִּיבַשׁ
+  "Oitno" (1x) -- Hebrew: וַיִּתְעַנּוּ
+  "Oivro" (1x) -- Hebrew: וַיְבַעֲרוּ
+  "Oitmino" (1x) -- Hebrew: וַיַּטְמִינוּ
+  "Ohord" (1x) -- Hebrew: וְהוֹרֵד
+  "Oifro" (1x) -- Hebrew: וַיְפָאֲרוּ
+  "Olprots" (1x) -- Hebrew: וְלִפְרוֹץ
+  "Oiosto" (1x) -- Hebrew: וַיּוּסְתוּ
+  "Oichlo" (1x) -- Hebrew: וַיָּחֵלוּ
+  "Oibzo" (1x) -- Hebrew: וַיָּבֹזּוּ
+  "Isogo" (1x) -- Hebrew: יָסוֹגוּ
+  "Bsorrim" (1x) -- Hebrew: בַּסּוֹרְרִים
+  "Orrh" (1x) -- Hebrew: עוֹרְרָה
+  "Oitslich" (1x) -- Hebrew: וְיַצְלִיחַ
+  "Ikrizo" (1x) -- Hebrew: יַכְרִיזוּ
+  "Iisr" (1x) -- Hebrew: יְיַסֵּר
+  "Izkroho" (1x) -- Hebrew: יִזְכְּרוּהוּ׃
+  "Vlil" (1x) -- Hebrew: בְלִיַּעַל
+  "Olhzin" (1x) -- Hebrew: וּלְהַאֲזִין
+  "Lmorh" (1x) -- Hebrew: לְמוֹרֶה׃
+  "Ohhrim" (1x) -- Hebrew: וְהֶהָרִים׃
+  "Trd" (1x) -- Hebrew: תִּרְעַד
+  "Itroppo" (1x) -- Hebrew: יִתְרוֹפְפוּ
+  "Hmosdot" (1x) -- Hebrew: הַמּוֹסָדוֹת
+  "Zozi" (1x) -- Hebrew: זוּזִי
+  "Onzozh" (1x) -- Hebrew: וְנָזוֹזָה׃
+  "Shobi" (1x) -- Hebrew: שׁוּבִי
+  "Hnh" (1x) -- Hebrew: הַנָּעָה
+  "Htomn" (1x) -- Hebrew: הַטּוֹמֵן
+  "Ishigno" (1x) -- Hebrew: יַשִּׂיגֶנּוּ
+  "Dron" (1x) -- Hebrew: דִּרְאוֹן
+  "Moivikhm" (1x) -- Hebrew: מֵאוֹיְבֵיכֶם
+  "Ohpnim" (1x) -- Hebrew: וְהַפֹּנִים
+  "Noshh" (1x) -- Hebrew: נוֹשָׁעָה
+  "Loli" (1x) -- Hebrew: לוּלֵי
+  "Morid" (1x) -- Hebrew: מוֹרִיד
+  "Tomn" (1x) -- Hebrew: טוֹמֵן
+  "Podh" (1x) -- Hebrew: פּוֹדֶה
+  "Bnosm" (1x) -- Hebrew: בְּנוּסָם
+  "Itmnom" (1x) -- Hebrew: יִטְמְנוּם
+  "Rogmim" (1x) -- Hebrew: רוֹגְמִים
+  "Otlbishoho" (1x) -- Hebrew: וְתַלְבִּישׁוּהוּ
+  "Fgm" (1x) -- Hebrew: פְּגָם׃
+  "Lhobilkm" (1x) -- Hebrew: לְהוֹבִילְכֶם
+  "Rr" (1x) -- Hebrew: אֵרַר
+  "Irr" (1x) -- Hebrew: יְאָרֵר
+  "Otosho" (1x) -- Hebrew: וְתִוָּשֵׁעוּ׃
+  "Ochrihn" (1x) -- Hebrew: וְאַחֲרֵיהֶן
+  "Kiom" (1x) -- Hebrew: כְּיוֹם׃
+  "Holdo" (1x) -- Hebrew: הִוָּלְדוֹ׃
+  "Opno" (1x) -- Hebrew: וּפַנּוּ
+  "Obzhi" (1x) -- Hebrew: וּבָזֶהיְ
+  "Otshibm" (1x) -- Hebrew: וּתְשִׁיבֵם
+  "Otordo" (1x) -- Hebrew: וְתוּרְדוּ
+  "Hirch" (1x) -- Hebrew: הַיָּרֵחַ
+  "Ohkokbim" (1x) -- Hebrew: וְהַכּוֹכָבִים
+  "Itst" (1x) -- Hebrew: יְצֵאת
+  "Otrd" (1x) -- Hebrew: וְתִרְעַד
+  "Ivko" (1x) -- Hebrew: יִבָּקֵעוּ׃
+  "Ovkiim" (1x) -- Hebrew: וּבְקִיעִים
+  "Srot" (1x) -- Hebrew: סְעָרוֹת
+  "Vkot" (1x) -- Hebrew: בְּקָעוֹת
+  "Omslot" (1x) -- Hebrew: וּמְסִלּוֹת
+  "Okbrot" (1x) -- Hebrew: וְקִבְרוֹת
+  "Ishmo" (1x) -- Hebrew: יֶאְשְׁמוּ
+  "Otoshbo" (1x) -- Hebrew: וְתוּשְׁבוּ
+  "Lkonn" (1x) -- Hebrew: לְקוֹנֵן
+  "Hinikn" (1x) -- Hebrew: הֵינִיקָן
+  "Shn" (1x) -- Hebrew: שָׂנֵא
+  "Hrikh" (1x) -- Hebrew: הֶאֱרִיךְ
+  "Nospim" (1x) -- Hebrew: נוֹסָפִים
+  "Ohmoblim" (1x) -- Hebrew: וְהַמּוּבָלִים
+  "Ohshibh" (1x) -- Hebrew: וְהַשִּׁיבָה
+  "Mviot" (1x) -- Hebrew: מְבִיאוֹת
+  "Oitsodo" (1x) -- Hebrew: וְיֵצוֹדוּ
+  "Orom" (1x) -- Hebrew: וְרוֹעָם
+  "Iro" (1x) -- Hebrew: יָרוּ
+  "Hogdo" (1x) -- Hebrew: הוּגְּדוּ
+  "Omtodim" (1x) -- Hebrew: וּמִתְוַדִּים
+  "Olko" (1x) -- Hebrew: וְלֵכוּ
+  "Ohmot" (1x) -- Hebrew: וְהַמִּעוּט
+  "Nd" (1x) -- Hebrew: נֵדָע
+  "Ichzikno" (1x) -- Hebrew: יַחֲזִיקֵנוּ
+  "Ichzikono" (1x) -- Hebrew: יַחֲזִיקוּנוּ
+  "Hsitm" (1x) -- Hebrew: הֵסִיתָם
+  "Mpits" (1x) -- Hebrew: מַפִּיץ
+  "Bkoro" (1x) -- Hebrew: בְּכוֹרוֹ
+  "Itkimo" (1x) -- Hebrew: יִתְקַיְּמוּ
+  "Oikvo" (1x) -- Hebrew: וַיִּקְבְּעוּ
+  "Hodti" (1x) -- Hebrew: הוֹדַעְתִּי
+  "Oitkimo" (1x) -- Hebrew: וַיִּתְקַיְּמוּ
+  "Hoprh" (1x) -- Hebrew: הוּפְרָה
+  "Obmoptim" (1x) -- Hebrew: וּבַמּוֹפְתִים
+  "Hod" (1x) -- Hebrew: הוֹדַע
+  "Msorri" (1x) -- Hebrew: מִסּוֹרְרֵי
+  "Opchot" (1x) -- Hebrew: וּפָחוֹת
+  "Olor" (1x) -- Hebrew: וְלַעֲוֵר
+  "Bodim" (1x) -- Hebrew: בּוֹדִים
+  "Mth" (1x) -- Hebrew: מַתְעֶה
+  "Omvi" (1x) -- Hebrew: וּמַבִיא
+  "Oichribo" (1x) -- Hebrew: וַיַּחֲרִיבוּ
+  "Ozkiot" (1x) -- Hebrew: וּזְכֻיּוֹת
+  "Otosr" (1x) -- Hebrew: וַתּוּסַר
+  "Oplogihm" (1x) -- Hebrew: וּפִלּוּגֵיהֶם
+  "Odrorkm" (1x) -- Hebrew: וּדְרוֹרְכֶם
+  "Tomko" (1x) -- Hebrew: תּוּמְכוּ
+  "Holmit" (1x) -- Hebrew: הָעוֹלָמִית
+  "Gmor" (1x) -- Hebrew: גָּמוּר׃
+  "Ohtodo" (1x) -- Hebrew: וְהִתְוַדְּעוּ
+  "Ichoso" (1x) -- Hebrew: יָחוּסוּ
+  "Omshih" (1x) -- Hebrew: וּמַעֲשֶׂיהָ
+  "Okotb" (1x) -- Hebrew: וְכוֹתֵב
+  "Ishibo" (1x) -- Hebrew: יָשִׁיבוּ
+  "Oltm" (1x) -- Hebrew: עַוְלָתָם
+  "Oishtomm" (1x) -- Hebrew: וַיִּשְׁתּוֹמֵם
+  "Vimo" (1x) -- Hebrew: בְּאַיְּמוֹ
+  "Onkmo" (1x) -- Hebrew: וּנְקֹמוֹ
+  "Tviot" (1x) -- Hebrew: תְּבִיעוֹת
+  "Oiomi" (1x) -- Hebrew: וְאִיּוּמֵי
+  "Onvootio" (1x) -- Hebrew: וּנְבוּאוֹתָיו
+  "Itnno" (1x) -- Hebrew: יִתְּנֵנוּ
+  "Onsf" (1x) -- Hebrew: וְנֶאֱסֹף
+  "Nochil" (1x) -- Hebrew: נוֹחִיל
+  "Sosihm" (1x) -- Hebrew: סוּסֵיהֶם
+  "Obgof" (1x) -- Hebrew: וּבְגוּף
+  "Horto" (1x) -- Hebrew: הוֹרָאָתוֹ׃
+  "Gloih" (1x) -- Hebrew: גְלוּיָה
+  "Koo" (1x) -- Hebrew: קִוּוּ
+  "Krochim" (1x) -- Hebrew: קְרוּחִים
+  "Tbolim" (1x) -- Hebrew: טְבוּלִים
+  "Ichos" (1x) -- Hebrew: יָחוּס
+  "Oshvootio" (1x) -- Hebrew: וּשְׁבוּעוֹתָיו
+  "Ogdinhi" (1x) -- Hebrew: וְגִדְיָנְהִי
+  "Ig" (1x) -- Hebrew: יָגֵעַ
+  "Oiomt" (1x) -- Hebrew: וַיּוּמָת
+  "Ikrito" (1x) -- Hebrew: יַכְרִיתוּ
+  "Oitsoro" (1x) -- Hebrew: וְיָצוּרוּ
+  "Ikrto" (1x) -- Hebrew: יִכְרְתוּ
+  "Oikritom" (1x) -- Hebrew: וַיַּכְרִיתוּם
+  "Oiom" (1x) -- Hebrew: וָיוֹם׃
+  "Oitsb" (1x) -- Hebrew: וַיַּצֵּב
+  "Omnhigm" (1x) -- Hebrew: וּמְנַהִיגָם
+  "Oitlho" (1x) -- Hebrew: וַיִּתְלֻהוּ
+  "Tloho" (1x) -- Hebrew: תְּלָאוּהוּ
+  "Ipilo" (1x) -- Hebrew: יַפִּילוּ
+  "Hopl" (1x) -- Hebrew: הוּפַל
+  "Mpichim" (1x) -- Hebrew: מְפִיחִים
+  "Filo" (1x) -- Hebrew: אֲפִילוּ
+  "Omoshii" (1x) -- Hebrew: וּמוֹשִׁיעִי
+  "Vmodo" (1x) -- Hebrew: בְּמוֹעֲדוֹ
+  "Obkro" (1x) -- Hebrew: וּבְקָרוֹ
+  "Oikonno" (1x) -- Hebrew: וַיְכוֹנְנוּ
+  "Oisllo" (1x) -- Hebrew: וַיִּסָּלְלוּ
+  "Sochrim" (1x) -- Hebrew: סוֹחֲרִים
+  "Orkhi" (1x) -- Hebrew: עוֹרְכֵי
+  "Opkidim" (1x) -- Hebrew: וּפְקִידִים
+  "Vorim" (1x) -- Hebrew: בּוֹעֲרִים
+  "Oitnim" (1x) -- Hebrew: וְאֵיתָנִים
+  "Oshlochim" (1x) -- Hebrew: וּשְׁלוּחִים
+  "Oisorio" (1x) -- Hebrew: וְיִסּוּרָיו׃
+  "Oorkhi" (1x) -- Hebrew: וְעוֹרְכֵי
+  "Ohomto" (1x) -- Hebrew: וְהוּמְתוּ
+  "Idit" (1x) -- Hebrew: יְדִיעַת
+  "Tlonh" (1x) -- Hebrew: תְּלוּנָה
+  "Olshoptim" (1x) -- Hebrew: וְלַשּׁוֹפְטִים
+  "Kpoph" (1x) -- Hebrew: כְפוּפָה
+  "Okrobio" (1x) -- Hebrew: וּקְרוֹבָיו
+  "Din" (1x) -- Hebrew: עֲדַיִן
+  "Osdri" (1x) -- Hebrew: וְסִדְרֵי
+  "Htit" (1x) -- Hebrew: הַטִּיט׃
+  "Krobio" (1x) -- Hebrew: קְרוֹבָיו
+  "Omnhigihm" (1x) -- Hebrew: וּמַנְהִיגֵיהֶם
+  "Nospot" (1x) -- Hebrew: נוֹסָפוֹת
+  "Oitf" (1x) -- Hebrew: וַיַּטֵּף
+  "Mono" (1x) -- Hebrew: מֵעֲוֺנוֹ׃
+  "Th" (1x) -- Hebrew: טָעָה
+  "Hrid" (1x) -- Hebrew: הִרְעִיד
+  "Otts" (1x) -- Hebrew: וַתֵּצֶא
+  "Ohsrot" (1x) -- Hebrew: וְהַסְּעָרוֹת
+  "Hishrot" (1x) -- Hebrew: הַיְשָׁרוֹת
+  "Onodot" (1x) -- Hebrew: וְנוֹדָעוֹת
+  "Bninihn" (1x) -- Hebrew: בִּנְיָנֵיהֶן
+  "Ovvkiim" (1x) -- Hebrew: וּבִבְקִיעִים
+  "Ohsoph" (1x) -- Hebrew: וְהַסּוּפָה
+  "Nrot" (1x) -- Hebrew: נֵרוֹת
+  "Lpidim" (1x) -- Hebrew: לַפִּידִים
+  "Ohibshim" (1x) -- Hebrew: וְהַיְּבֵשִׁים
+  "Irch" (1x) -- Hebrew: יָרֵחַ
+  "Kokbim" (1x) -- Hebrew: כוֹכָבִים
+  "Oillh" (1x) -- Hebrew: וִילָלָה
+  "Obki" (1x) -- Hebrew: וּבְכִי
+  "Omkonnim" (1x) -- Hebrew: וּמְקוֹנְנִים
+  "Obnotino" (1x) -- Hebrew: וּבְנוֹתֵינוּ
+  "Illt" (1x) -- Hebrew: יִלְלַת
+  "Hrogi" (1x) -- Hebrew: הֲרוּגֵי
+  "Obnoti" (1x) -- Hebrew: וּבְנוֹתַי
+  "Ksiti" (1x) -- Hebrew: כִּסִּיתִי
+  "Onihh" (1x) -- Hebrew: אוֹנִיהָה
+  "Mokom" (1x) -- Hebrew: מוֹקוּם
+  "Ohliti" (1x) -- Hebrew: וְהֶעֱלֵיתִי
+  "Gdindi" (1x) -- Hebrew: גַּדְיַנְדִי
+  "Gdiomnh" (1x) -- Hebrew: גַּדְיוֹמְנָה
+  "Ikovogt" (1x) -- Hebrew: יַעֲקוֹבוּגָת
+  "Iosh" (1x) -- Hebrew: יוֹשׁ
+  "Kishkomn" (1x) -- Hebrew: קִישְׁקוּמֵן
+  "Rf" (1x) -- Hebrew: אֶרְפָּא
+  "Hlf" (1x) -- Hebrew: הָאָלֶף
+  "Ohtio" (1x) -- Hebrew: וְהַתָּיו
+  "Otkribo" (1x) -- Hebrew: וְתַקְרִיבוּ
+  "Tvil" (1x) -- Hebrew: אַטְבִּיל
+  "Tmiht" (1x) -- Hebrew: תְּמִיהַת
+  "Omlill" (1x) -- Hebrew: וּמִלְּיַלֵל
+  "Moshbotikm" (1x) -- Hebrew: מוֹשְׁבוֹתֵיכֶם
+  "Olill" (1x) -- Hebrew: וּלְיַלֵל
+  "Mrod" (1x) -- Hebrew: מִרְעוֹד
+  "Hsorim" (1x) -- Hebrew: הַסּוֹעֲרִים
+  "Vro" (1x) -- Hebrew: עָבָרוּ׃
+  "Ohbki" (1x) -- Hebrew: וְהַבְּכִי
+  "Oillt" (1x) -- Hebrew: וִילְלַת
+  "Okintm" (1x) -- Hebrew: וְקִינָתָם
+  "Vd" (1x) -- Hebrew: בַאֵד
+  "Ovsrot" (1x) -- Hebrew: וּבִסְעָרוֹת
+  "Obsopot" (1x) -- Hebrew: וּבְסוּפוֹת
+  "Obrkot" (1x) -- Hebrew: וּבְרָכוֹת
+  "Oisbo" (1x) -- Hebrew: וַיָּסֵבּוּ
+  "Vk" (1x) -- Hebrew: בָּקַע
+  "Rd" (1x) -- Hebrew: רָעָד
+  "Oivr" (1x) -- Hebrew: וַיַּבְעֵר
+  "Oshtiti" (1x) -- Hebrew: וְשָׁתִיתִי
+  "Ofrti" (1x) -- Hebrew: וּפֵאַרְתִּי
+  "Torti" (1x) -- Hebrew: תוֹרָתִי
+  "Idon" (1x) -- Hebrew: יִדּוֹן׃
+  "Ltorti" (1x) -- Hebrew: לְתוֹרָתִי
+  "Ogilo" (1x) -- Hebrew: וְגִילוּ
+  "Ipog" (1x) -- Hebrew: יָפוּג
+  "Hidliko" (1x) -- Hebrew: הֲיַדְלִיקוּ
+  "Oiir" (1x) -- Hebrew: וְיָאִיר
+  "Oikbdo" (1x) -- Hebrew: וִיכַבְּדוּ
+  "Rk" (1x) -- Hebrew: רֵקָא
+  "Nvl" (1x) -- Hebrew: נָבָל
+  "Tt" (1x) -- Hebrew: תֵּת
+  "Kritt" (1x) -- Hebrew: כְּרִיתֻת׃
+  "Znot" (1x) -- Hebrew: זְנוּת
+  "Nft" (1x) -- Hebrew: נֹאֶפֶת
+  "Ohkm" (1x) -- Hebrew: וְהָקֵם
+  "Hitr" (1x) -- Hebrew: הַיֹּתֵר
+  "Himnit" (1x) -- Hebrew: הַיְמָנִית
+  "Mil" (1x) -- Hebrew: מִיל
+  "Lloot" (1x) -- Hebrew: לִלְווֹת
+  "Ohvt" (1x) -- Hebrew: וְאָהַבְתָּ
+  "Irokhm" (1x) -- Hebrew: יִרְאוּכֶם
+  "Obshokim" (1x) -- Hebrew: וּבַשְּׁוָקִים
+  "Ikbdom" (1x) -- Hebrew: יְכַבְּדוּם
+  "Imink" (1x) -- Hebrew: יְמִינֶךָ׃
+  "Osgr" (1x) -- Hebrew: וּסְגֹר
+  "Zfi" (1x) -- Hebrew: זֹעֲפֵי
+  "Sok" (1x) -- Hebrew: סוּךְ
+  "Orkb" (1x) -- Hebrew: וְרָקָב
+  "Oignbo" (1x) -- Hebrew: וְיִגְנֹבוּ׃
+  "Rkv" (1x) -- Hebrew: רָקָב
+  "Tmimh" (1x) -- Hebrew: תְמִימָה
+  "Dnim" (1x) -- Hebrew: אֲדֹנִים
+  "Itoo" (1x) -- Hebrew: יִטְווּ׃
+  "Ilbish" (1x) -- Hebrew: יַלְבִּישׁ
+  "Iospo" (1x) -- Hebrew: יִוָּסְפוּ
+  "Idg" (1x) -- Hebrew: יִדְאַג
+  "Imd" (1x) -- Hebrew: יִמַּד
+  "Osirh" (1x) -- Hebrew: וְאָסִירָה
+  "Hkorh" (1x) -- Hebrew: הַקּוֹרָה
+  "Pninikm" (1x) -- Hebrew: פְּנִינֵיכֶם
+  "Otrpo" (1x) -- Hebrew: וְטָרְפוּ
+  "Dg" (1x) -- Hebrew: דָּג
+  "Zvim" (1x) -- Hebrew: זְאֵבִים
+  "Tnim" (1x) -- Hebrew: תְּאֵנִים׃
+  "Odi" (1x) -- Hebrew: אוֹדִיעַ
+  "Hon" (1x) -- Hebrew: הָאָוֶן׃
+  "Isd" (1x) -- Hebrew: יֻסַּד׃
+  "Idmh" (1x) -- Hebrew: יְדֻמֶּה
+  "Oitflo" (1x) -- Hebrew: וַיִּתְפַּלְּאוּ
+  "Ochiitm" (1x) -- Hebrew: וִחְיִיתֶם
+  "Ovonm" (1x) -- Hebrew: וּבַעֲוֹנָם
+  "Oirmsom" (1x) -- Hebrew: וַיִּרְמְסוּם
+  "Olnotm" (1x) -- Hebrew: וּלְעַנּוֹתָם
+  "Btorti" (1x) -- Hebrew: בְּתוֹרָתִי
+  "Oirom" (1x) -- Hebrew: וְיָרוּם
+  "Sir" (1x) -- Hebrew: אָסִיר
+  "Ti" (1x) -- Hebrew: עִתִּי׃
+  "Ohgo" (1x) -- Hebrew: וְהָגוּ
+  "Ibshim" (1x) -- Hebrew: יְבֵשִׁים
+  "Dih" (1x) -- Hebrew: דַּיָּהּ
+  "Oorihm" (1x) -- Hebrew: וְעִוְרֵיהֶם
+  "Olmihm" (1x) -- Hebrew: וְאִלְּמֵיהֶם
+  "Oinichom" (1x) -- Hebrew: וַיַּנִּיחוּם
+  "Ktok" (1x) -- Hebrew: כְּתוֹךְ
+  "Oiin" (1x) -- Hebrew: וָיָיִן׃
+  "Obiin" (1x) -- Hebrew: וּבַיַּיִן
+  "Oiprs" (1x) -- Hebrew: וַיִּפְרֹס
+  "Miin" (1x) -- Hebrew: מִיֵּין
+  "Oiolikkm" (1x) -- Hebrew: וְיוֹלִיכְכֶם
+  "Trimo" (1x) -- Hebrew: תָּרִימוּ
+  "Odmi" (1x) -- Hebrew: וְדָמִי
+  "Omnoiim" (1x) -- Hebrew: וּמְנוּיִים
+  "Modikhm" (1x) -- Hebrew: מוֹעֲדֵיכֶם
+  "Idinno" (1x) -- Hebrew: יְדִינֶנּוּ
+  "Hribot" (1x) -- Hebrew: הָרִיבוֹת
+  "Ribot" (1x) -- Hebrew: רִיבוֹת
+  "Oiks" (1x) -- Hebrew: וַיְכַס
+  "Timoti" (1x) -- Hebrew: טִימוֹתִי
+  "Mtoni" (1x) -- Hebrew: מַתּוֹנִי
+  "Omtonihh" (1x) -- Hebrew: וּמַתּוֹנִיהָה
+  "Okomn" (1x) -- Hebrew: וְקוּמֵן
+  "Okomnonhi" (1x) -- Hebrew: וְקוּמֵנוֹנְהִי
+  "Oirmih" (1x) -- Hebrew: וְיִרְמְיָה
+  "Oishih" (1x) -- Hebrew: וִישַׁעְיָה
+  "Gdodim" (1x) -- Hebrew: גְּדוּדִים׃
+  "Khisho" (1x) -- Hebrew: כְּיֵשׁוּעַ׃
+  "Oibino" (1x) -- Hebrew: וַיָּבִינוּ
+  "Ohshoth" (1x) -- Hebrew: וְהַשּׁוֹתֶה
+  "Shoth" (1x) -- Hebrew: שׁוֹתֶה
+  "Omdrom" (1x) -- Hebrew: וּמִדָּרוֹם
+  "Glm" (1x) -- Hebrew: גְּאָלָם׃
+  "Okkpir" (1x) -- Hebrew: וְכִכְפִיר
+  "Trom" (1x) -- Hebrew: תָּרוּם
+  "Oprsotik" (1x) -- Hebrew: וּפַרְסוֹתֶיךָ
+  "Ohdkot" (1x) -- Hebrew: וַהֲדִקּוֹתָ
+  "Vmodi" (1x) -- Hebrew: בְּמוֹעֲדִי
+  "Tsopihm" (1x) -- Hebrew: צוֹפֵיהֶם
+  "Mtokh" (1x) -- Hebrew: מִתּוֹכָהּ
+  "Obmnosh" (1x) -- Hebrew: וּבִמְנוּסָה
+  "Irom" (1x) -- Hebrew: יָרוּם
+  "Otro" (1x) -- Hebrew: וְתֹאֲרוֹ
+  "Oiokmo" (1x) -- Hebrew: וְיוּקְמוּ
+  "Vml" (1x) -- Hebrew: בְּמַעַל
+  "Iziko" (1x) -- Hebrew: יַזִּיקוּ
+  "Sosik" (1x) -- Hebrew: סוּסֶיךָ
+  "Midk" (1x) -- Hebrew: מִיָּדֶךָ
+  "Omonnim" (1x) -- Hebrew: וּמְעוֹנְנִים
+  "Psilik" (1x) -- Hebrew: פְסִילֶיךָ
+  "Idik" (1x) -- Hebrew: יָדֶיךָ׃
+  "Shirikh" (1x) -- Hebrew: אֲשֵׁירֶיךָ
+  "Ohknot" (1x) -- Hebrew: וְהַקִּנְאוֹת
+  "Kmoh" (1x) -- Hebrew: כָמוֹהָ׃
+  "Ozro" (1x) -- Hebrew: וְעָזְרוּ
+  "Hvodim" (1x) -- Hebrew: הָאֲבוּדִים
+  "Rni" (1x) -- Hebrew: רָנִּי
+  "Oiriot" (1x) -- Hebrew: וִירִיעוֹת
+  "Mitrik" (1x) -- Hebrew: מֵיתָרַיִךְ
+  "Oitdtik" (1x) -- Hebrew: וִיתֵדֹתַיִךְ
+  "Oshmol" (1x) -- Hebrew: וּשְׂמֹאול
+  "Ioshibo" (1x) -- Hebrew: יוֹשִׁיבוּ׃
+  "Lomikh" (1x) -- Hebrew: עֲלוּמַיִךְ
+  "Norikh" (1x) -- Hebrew: נְעוּרַיִךְ
+  "Shikh" (1x) -- Hebrew: עֹשַׂיִךְ
+  "Otsovt" (1x) -- Hebrew: וַעֲצוּבַת
+  "Norim" (1x) -- Hebrew: נְעוּרִים
+  "Tms" (1x) -- Hebrew: תִמָּאֵס
+  "Rg" (1x) -- Hebrew: רֶגַע
+  "Tmotinh" (1x) -- Hebrew: תְּמוּטֶינָה
+  "Rvits" (1x) -- Hebrew: אַרְבִּיץ
+  "Bpok" (1x) -- Hebrew: בַּפּוּךְ
+  "Oisdtik" (1x) -- Hebrew: וִיסַדְתִּיךְ
+  "Oshrikh" (1x) -- Hebrew: וּשְׁעָרַיִךְ
+  "Lmodi" (1x) -- Hebrew: לִמּוּדֵי
+  "Tkonni" (1x) -- Hebrew: תִּכּוֹנְנִי
+  "Tiri" (1x) -- Hebrew: תִירָאִי
+  "Likh" (1x) -- Hebrew: אֵלָיִךְ׃
+  "Omotsi" (1x) -- Hebrew: וּמוֹצִיא
+  "Oinichm" (1x) -- Hebrew: וַיַּנִּיחֵם
+  "Ifr" (1x) -- Hebrew: יְפָאֵר
+  "Onro" (1x) -- Hebrew: וְנִרְאוּ
+  "Okbrit" (1x) -- Hebrew: וּכְבֹרִית
+  "Trv" (1x) -- Hebrew: תֶּעֱרַב
+  "Kbimi" (1x) -- Hebrew: כִּבִימֵי
+  "Hoshkim" (1x) -- Hebrew: הָעוֹשְׁקִים
+  "Ohmtim" (1x) -- Hebrew: וְהַמַּטִּים
+  "Ironi" (1x) -- Hebrew: יְרֵאוּנִי
+  "Oshovh" (1x) -- Hebrew: וְאָשׁוּבָה
+  "Higzl" (1x) -- Hebrew: הֲיִגְזֹל
+  "Obtromot" (1x) -- Hebrew: וּבַתְּרוּמוֹת׃
+  "Ogrti" (1x) -- Hebrew: וְגָעַרְתִּי
+  "Ivr" (1x) -- Hebrew: יִבְעַר
+  "Izv" (1x) -- Hebrew: יַעֲזֹב
+  "Osotm" (1x) -- Hebrew: וְעַסּוֹתֶם
+  "Fr" (1x) -- Hebrew: אֵפֶר
+  "Ohnor" (1x) -- Hebrew: וְהַנּוֹרָא׃
+  "Ohshib" (1x) -- Hebrew: וְהֵשִׁיב
+  "Oivrm" (1x) -- Hebrew: וַיְבָאֵרָם
+  "Oktnim" (1x) -- Hebrew: וּקְטַנִּים׃
+  "Hisodot" (1x) -- Hebrew: הַיְסוֹדוֹת
+  "Ivro" (1x) -- Hebrew: יַעַבֹּרוּ׃
+  "Oponh" (1x) -- Hebrew: וּפוֹנֶה
+  "Rfo" (1x) -- Hebrew: רַפְּאוֹ
+  "Orihm" (1x) -- Hebrew: עִוְרֵיהֶם
+  "Rfoot" (1x) -- Hebrew: רְפוּאוֹת
+  "Ollim" (1x) -- Hebrew: עוֹלָלִים
+  "Onsro" (1x) -- Hebrew: וְנֶאֶסְרוּ
+  "Mtr" (1x) -- Hebrew: מֻתָּר
+  "Obtsom" (1x) -- Hebrew: וּבְצוֹם׃
+  "Itlonno" (1x) -- Hebrew: יִתְלוֹנְנוּ
+  "Otshobt" (1x) -- Hebrew: וּתְשׁוּבַת
+  "Onmnotm" (1x) -- Hebrew: וְנֶאֱמָנוּתָם
+  "Imkroni" (1x) -- Hebrew: יִמְכְּרוּנִי
+  "Ognbim" (1x) -- Hebrew: וְגַנָּבִים
+  "Chotrim" (1x) -- Hebrew: חוֹתְרִים
+  "Ogonbim" (1x) -- Hebrew: וְגוֹנְבִים
+  "Chiotno" (1x) -- Hebrew: חֲיוֹתֵנוּ
+  "Hiotkm" (1x) -- Hebrew: הֱיוֹתְכֶם
+  "Tvoo" (1x) -- Hebrew: תָּבוֹאוּ
+  "Oitbilom" (1x) -- Hebrew: וַיַּטְבִּילוּם
+  "Borot" (1x) -- Hebrew: בּוֹרוֹת
+  "Ofmim" (1x) -- Hebrew: וּפַעֲמַיִם
+  "Lmont" (1x) -- Hebrew: לִמְעוֹנַת
+  "Hmokich" (1x) -- Hebrew: הַמּוֹכִיחַ
+  "Ikshib" (1x) -- Hebrew: יַקְשִׁיב
+  "Nlv" (1x) -- Hebrew: נֶעֱלָב
+  "Shoh" (1x) -- Hebrew: שָׁוָה
+  "Rikim" (1x) -- Hebrew: רֵיקִים
+  "Hvz" (1x) -- Hebrew: הַבָּז
+  "Olboz" (1x) -- Hebrew: וְלָבוּז
+  "Ollg" (1x) -- Hebrew: וְלִלְעֹג
+  "Otshobo" (1x) -- Hebrew: וּתְשׁוּבוּ
+  "Omrmotikm" (1x) -- Hebrew: וּמִרְמוֹתֵיכֶם
+  "Omznotikm" (1x) -- Hebrew: וּמִזְּנוּתֵיכֶם
+  "Lilikhm" (1x) -- Hebrew: אֱלִילֵיכֶם
+  "Oknotikhm" (1x) -- Hebrew: וְקִנְאוֹתֵיכֶם
+  "Omribotikm" (1x) -- Hebrew: וּמְרִיבוֹתֵיכֶם

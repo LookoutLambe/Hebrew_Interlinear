@@ -1,0 +1,1022 @@
+TOTAL SUSPICIOUS GLOSSES: 838
+  ??? placeholders: 26
+  Capitalized transliterations: 812
+
+BY CHAPTER:
+  Alma 1: 1 suspicious glosses
+  Alma 2: 1 suspicious glosses
+  Alma 3: 9 suspicious glosses
+  Alma 4: 2 suspicious glosses
+  Alma 5: 3 suspicious glosses
+  Alma 7: 1 suspicious glosses
+  Alma 9: 1 suspicious glosses
+  Alma 11: 7 suspicious glosses
+  Alma 12: 1 suspicious glosses
+  Alma 13: 3 suspicious glosses
+  Alma 14: 22 suspicious glosses
+  Alma 15: 10 suspicious glosses
+  Alma 16: 14 suspicious glosses
+  Alma 17: 11 suspicious glosses
+  Alma 18: 11 suspicious glosses
+  Alma 19: 27 suspicious glosses
+  Alma 20: 8 suspicious glosses
+  Alma 21: 14 suspicious glosses
+  Alma 23: 9 suspicious glosses
+  Alma 24: 13 suspicious glosses
+  Alma 25: 8 suspicious glosses
+  Alma 26: 29 suspicious glosses
+  Alma 27: 11 suspicious glosses
+  Alma 28: 4 suspicious glosses
+  Alma 29: 6 suspicious glosses
+  Alma 30: 48 suspicious glosses
+  Alma 31: 17 suspicious glosses
+  Alma 32: 18 suspicious glosses
+  Alma 33: 11 suspicious glosses
+  Alma 34: 33 suspicious glosses
+  Alma 35: 5 suspicious glosses
+  Alma 36: 14 suspicious glosses
+  Alma 37: 35 suspicious glosses
+  Alma 38: 12 suspicious glosses
+  Alma 39: 15 suspicious glosses
+  Alma 40: 18 suspicious glosses
+  Alma 42: 24 suspicious glosses
+  Alma 43: 29 suspicious glosses
+  Alma 44: 18 suspicious glosses
+  Alma 45: 11 suspicious glosses
+  Alma 46: 24 suspicious glosses
+  Alma 47: 21 suspicious glosses
+  Alma 48: 11 suspicious glosses
+  Alma 49: 22 suspicious glosses
+  Alma 50: 24 suspicious glosses
+  Alma 51: 24 suspicious glosses
+  Alma 52: 20 suspicious glosses
+  Alma 53: 12 suspicious glosses
+  Alma 54: 14 suspicious glosses
+  Alma 55: 19 suspicious glosses
+  Alma 56: 22 suspicious glosses
+  Alma 57: 18 suspicious glosses
+  Alma 58: 17 suspicious glosses
+  Alma 59: 3 suspicious glosses
+  Alma 60: 27 suspicious glosses
+  Alma 61: 8 suspicious glosses
+  Alma 62: 12 suspicious glosses
+  Alma 63: 6 suspicious glosses
+
+================================================================================
+FULL LIST:
+================================================================================
+
+
+--- ALMA CHAPTER 1 ---
+Line 36: ["עַל־כָּל־הָעֹבְרִים","upon-all-???"] - Contains ??? placeholder
+
+--- ALMA CHAPTER 2 ---
+Line 57: ["אַמְנִיהוּ","Mniho"] - Untranslated transliteration
+
+--- ALMA CHAPTER 3 ---
+Line 93: ["יִבָּדֵל","Ibdl"] - Untranslated transliteration
+Line 93: ["בְּתוֹרוֹת","Btorot"] - Untranslated transliteration
+Line 94: ["עֵרַב","Rv"] - Untranslated transliteration
+Line 99: ["נִקְיַם","Nkim"] - Untranslated transliteration
+Line 100: ["יְקֻלְּלוּ","Ikllo"] - Untranslated transliteration
+Line 102: ["הַסָּר","Hsr"] - Untranslated transliteration
+Line 103: ["מְקִימִים","Mkimim"] - Untranslated transliteration
+Line 109: ["מֵאוֹיְבֵיהֶם׃","Moivihm"] - Untranslated transliteration
+Line 111: ["גְּמוּלָם","Gmolm"] - Untranslated transliteration
+
+--- ALMA CHAPTER 4 ---
+Line 133: ["אֶת־כָּל־פִּלְיָתָם","[ACC]-all-???"] - Contains ??? placeholder
+Line 135: ["נֶפִיה","Npih"] - Untranslated transliteration
+
+--- ALMA CHAPTER 5 ---
+Line 168: ["כוֹזֵב","Kozb"] - Untranslated transliteration
+Line 182: ["כּוֹזֵב","Kozb"] - Untranslated transliteration
+Line 201: ["יִקּוּם׃","Ikom"] - Untranslated transliteration
+
+--- ALMA CHAPTER 7 ---
+Line 224: ["פִי","Pi"] - Untranslated transliteration
+
+--- ALMA CHAPTER 9 ---
+Line 309: ["עַל־כָּל־הַקֹּרְאִים","upon-all-???"] - Contains ??? placeholder
+
+--- ALMA CHAPTER 11 ---
+Line 371: ["כִּסְנִינֵה","Kisnninah"] - Untranslated transliteration
+Line 374: ["אַמְנוֹר","Mnor"] - Untranslated transliteration
+Line 375: ["כִּסְנִינֵה","Kisnninah"] - Untranslated transliteration
+Line 377: ["מִסְּעוֹן׃","Mson"] - Untranslated transliteration
+Line 379: ["אַמְנוֹר","Mnor"] - Untranslated transliteration
+Line 383: ["מִדַּת","Mdt"] - Untranslated transliteration
+Line 385: ["וְלֵאָה","Olh"] - Untranslated transliteration
+
+--- ALMA CHAPTER 12 ---
+Line 422: ["אֶת־כָּל־מַחְשְׁבוֹתֶיךָ","[ACC]-all-???"] - Contains ??? placeholder
+
+--- ALMA CHAPTER 13 ---
+Line 468: ["אֶת־כׇּל־הַדְּבָרִים׃","[ACC]-all-???"] - Contains ??? placeholder
+Line 484: ["נְכוֹחִים","Nkochim"] - Untranslated transliteration
+Line 484: ["נָבִין","Nbin"] - Untranslated transliteration
+
+--- ALMA CHAPTER 14 ---
+Line 505: ["וַיְצַוּוּ","Oitsoo"] - Untranslated transliteration
+Line 506: ["וַיּוֹלִיכוּם","Oiolikom"] - Untranslated transliteration
+Line 507: ["וַיִּכָּאֵב","Oikhv"] - Untranslated transliteration
+Line 507: ["וְנוֹשִׁיעֵם","Onoshim"] - Untranslated transliteration
+Line 511: ["גוּפוֹת","Gopot"] - Untranslated transliteration
+Line 514: ["עָנוּהוּ","Noho"] - Untranslated transliteration
+Line 515: ["וַיִּשְׁאָלוּם","Oishlom"] - Untranslated transliteration
+Line 515: ["עָנוּם","Nom"] - Untranslated transliteration
+Line 516: ["תַעֲנוּ","Tno"] - Untranslated transliteration
+Line 516: ["עָנוּ","No"] - Untranslated transliteration
+Line 518: ["וְרֹקְקִים","Orkkim"] - Untranslated transliteration
+Line 519: ["לָעֲגוּ","Lgo"] - Untranslated transliteration
+Line 519: ["וַיִּמְנְעוּ","Oimno"] - Untranslated transliteration
+Line 519: ["וַיִּכְלְאוּם","Oikhlom"] - Untranslated transliteration
+Line 523: ["וַיְנַתְּקוּ","Ointko"] - Untranslated transliteration
+Line 524: ["וַיִּבָּקְעוּ","Oivko"] - Untranslated transliteration
+Line 524: ["קִירוֹת","Kirot"] - Untranslated transliteration
+Line 525: ["מֵאֲסוּרֵיהֶם","Msorihm"] - Untranslated transliteration
+Line 525: ["קִירוֹתָיו","Kirotio"] - Untranslated transliteration
+Line 526: ["וְקִירוֹתָיו","Okirotio"] - Untranslated transliteration
+Line 526: ["תָּנוּס","Tnos"] - Untranslated transliteration
+Line 526: ["עֵז","Z"] - Untranslated transliteration
+
+--- ALMA CHAPTER 15 ---
+Line 534: ["בַּעֲוֺנוֹ","Vono"] - Untranslated transliteration
+Line 534: ["בּוֹעֵר׃","Vor"] - Untranslated transliteration
+Line 536: ["כּוֹאֶבֶת","Khovt"] - Untranslated transliteration
+Line 536: ["בַּעֲוֺנוֹתָיו","Vonotio"] - Untranslated transliteration
+Line 536: ["יְרַפְּאוּהוּ׃","Irfoho"] - Untranslated transliteration
+Line 541: ["וּרְפָאֵהוּ","Orfho"] - Untranslated transliteration
+Line 542: ["וַיְדַלֵּג","Oidlg"] - Untranslated transliteration
+Line 545: ["וַיִּטָּבֵלוּ׃","Oitblo"] - Untranslated transliteration
+Line 546: ["וַיְיַחֲסוּ","Oiichso"] - Untranslated transliteration
+Line 547: ["וַיִּמָּאֵס","Oims"] - Untranslated transliteration
+
+--- ALMA CHAPTER 16 ---
+Line 563: ["וַיָּפֻצוּ","Oiptso"] - Untranslated transliteration
+Line 566: ["גוּפוֹתֵיהֶם","Gopotihm"] - Untranslated transliteration
+Line 566: ["וַיְכֻסּוּ","Oikso"] - Untranslated transliteration
+Line 566: ["דַּק","Dk"] - Untranslated transliteration
+Line 566: ["רֵיחָם","Richm"] - Untranslated transliteration
+Line 566: ["נְחוֹרִים","Nahor"] - Untranslated transliteration
+Line 566: ["וְאַדְמוֹתֵיהֶם","Odmotihm"] - Untranslated transliteration
+Line 570: ["יִסּוּד","Isod"] - Untranslated transliteration
+Line 573: ["וְקִנְאָה","Oknh"] - Untranslated transliteration
+Line 573: ["וְגִדּוּפִים","Ogdopim"] - Untranslated transliteration
+Line 573: ["וּבִזָּה","Obzh"] - Untranslated transliteration
+Line 573: ["וְנִאוּף","Onof"] - Untranslated transliteration
+Line 575: ["וְגִילָה","Ogilh"] - Untranslated transliteration
+Line 576: ["שׁוֹפֵךְ","Shopk"] - Untranslated transliteration
+
+--- ALMA CHAPTER 17 ---
+Line 588: ["וַחֲנִיתוֹתֵיהֶם","Ochnitotihm"] - Untranslated transliteration
+Line 588: ["וְקַלָּעוֹתֵיהֶם","Oklotihm"] - Untranslated transliteration
+Line 592: ["וּסְבָלִים","Osblim"] - Untranslated transliteration
+Line 597: ["יְשִׁיבוּם","Ishibom"] - Untranslated transliteration
+Line 610: ["אֶקְנֶה","Knh"] - Untranslated transliteration
+Line 610: ["אוֹבִילֵם","Ovilm"] - Untranslated transliteration
+Line 612: ["וּנְשִׁיבֵם","Onshibm"] - Untranslated transliteration
+Line 612: ["יְמִיתֵנוּ׃","Imitno"] - Untranslated transliteration
+Line 618: ["וַיַּבְרִיחֵם","Oibrichm"] - Untranslated transliteration
+Line 619: ["בַּקֶּלַע","Vkl"] - Untranslated transliteration
+Line 619: ["אֶת־כָּל־הַזְּרוֹעוֹת","[ACC]-all-???"] - Contains ??? placeholder
+
+--- ALMA CHAPTER 18 ---
+Line 632: ["וַחֲנִיתוֹתֵיהֶם","Ochnitotihm"] - Untranslated transliteration
+Line 632: ["וְקַלָּעוֹתֵיהֶם","Oklotihm"] - Untranslated transliteration
+Line 636: ["וּסְבָלִים","Osblim"] - Untranslated transliteration
+Line 641: ["יְשִׁיבוּם","Ishibom"] - Untranslated transliteration
+Line 654: ["אֶקְנֶה","Knh"] - Untranslated transliteration
+Line 654: ["אוֹבִילֵם","Ovilm"] - Untranslated transliteration
+Line 656: ["וּנְשִׁיבֵם","Onshibm"] - Untranslated transliteration
+Line 656: ["יְמִיתֵנוּ׃","Imitno"] - Untranslated transliteration
+Line 662: ["וַיַּבְרִיחֵם","Oibrichm"] - Untranslated transliteration
+Line 663: ["בַּקֶּלַע","Vkl"] - Untranslated transliteration
+Line 663: ["אֶת־כָּל־הַזְּרוֹעוֹת","[ACC]-all-???"] - Contains ??? placeholder
+
+--- ALMA CHAPTER 19 ---
+Line 670: ["אֶת־גּוּפָתוֹ","Tgofto"] - Untranslated transliteration
+Line 670: ["וּלְשׂוּמָהּ","Olshomh"] - Untranslated transliteration
+Line 674: ["הוּשְׂם","Hoshm"] - Untranslated transliteration
+Line 674: ["הִבְאִישׁ","Hvish"] - Untranslated transliteration
+Line 674: ["הִבְאִישׁ׃","Hvish"] - Untranslated transliteration
+Line 675: ["וַיִּמַּח","Oimch"] - Untranslated transliteration
+Line 675: ["וַיִּדְלַק","Oidlk"] - Untranslated transliteration
+Line 677: ["יָשֵׁן","Ishn"] - Untranslated transliteration
+Line 678: ["מַאֲמִינָה","Mminh"] - Untranslated transliteration
+Line 679: ["בְּרוּכָה","Brokh"] - Untranslated transliteration
+Line 681: ["וּבְקוּמוֹ","Obkomo"] - Untranslated transliteration
+Line 681: ["וּבְרוּכָה","Obrokh"] - Untranslated transliteration
+Line 683: ["וּבְהוֹדָיָה","Obhodih"] - Untranslated transliteration
+Line 685: ["אָבִישׁ","Vish"] - Untranslated transliteration
+Line 686: ["הוֹדִיעָה","Hodih"] - Untranslated transliteration
+Line 686: ["בִּרְאוֹתָהּ","Vroth"] - Untranslated transliteration
+Line 688: ["וּבֵיתוֹ","Obito"] - Untranslated transliteration
+Line 691: ["לְהוֹרִידָהּ","Lhoridh"] - Untranslated transliteration
+Line 695: ["לְעַנּוֹתָם׃","Lnotm"] - Untranslated transliteration
+Line 696: ["לְיַסְּרָם","Lisrm"] - Untranslated transliteration
+Line 696: ["וְהִצִּילָה","Ohtsilh"] - Untranslated transliteration
+Line 697: ["הָאָמָה","Hmh"] - Untranslated transliteration
+Line 697: ["דְּמָעוֹת׃","Dmot"] - Untranslated transliteration
+Line 699: ["כַּפֶּיהָ","Kpih"] - Untranslated transliteration
+Line 699: ["הוּבְנוּ","Hobno"] - Untranslated transliteration
+Line 699: ["וּכְכַלּוֹתָהּ","Okkloth"] - Untranslated transliteration
+Line 704: ["וַיְהִיוּ","Oihio"] - Untranslated transliteration
+
+--- ALMA CHAPTER 20 ---
+Line 712: ["וְעַמָּה","Omh"] - Untranslated transliteration
+Line 714: ["אַנְטִיוֹמְנוֹ","Ntiomno"] - Untranslated transliteration
+Line 723: ["יְרַמּוּנוּ","Irmono"] - Untranslated transliteration
+Line 723: ["יִגְזְלוּ","Igzlo"] - Untranslated transliteration
+Line 727: ["תִוָּשַׁע","Tosh"] - Untranslated transliteration
+Line 737: ["אֶתְאַו","To"] - Untranslated transliteration
+Line 740: ["גּוֹרָלָם","Gorlm"] - Untranslated transliteration
+Line 740: ["וַיַּחֲזִיקוּם","Oichzikom"] - Untranslated transliteration
+
+--- ALMA CHAPTER 21 ---
+Line 746: ["מוֹלֶדֶת","Moldt"] - Untranslated transliteration
+Line 747: ["עֲמוּלוֹן","Molon"] - Untranslated transliteration
+Line 748: ["וּבְתוֹעֲבוֹתֵיהֶם׃","Ovtovotihm"] - Untranslated transliteration
+Line 750: ["זֶּה","Zh"] - Untranslated transliteration
+Line 750: ["הֵעַדְתָּ","Hdt"] - Untranslated transliteration
+Line 751: ["כַּוָּנָתֵנוּ","Kontno"] - Untranslated transliteration
+Line 756: ["עַנְטִי","Nti"] - Untranslated transliteration
+Line 756: ["עַמָּה","Mh"] - Untranslated transliteration
+Line 756: ["וַיִּתְוַכְּחוּ","Oitokcho"] - Untranslated transliteration
+Line 758: ["סְבִיבוֹתֵיהֶם׃","Sbibotihm"] - Untranslated transliteration
+Line 759: ["וַיַּאֲכִילוּם","Oikhilom"] - Untranslated transliteration
+Line 759: ["וַיַּלְבִּישׁוּם׃","Oilbishom"] - Untranslated transliteration
+Line 768: ["וַיּוֹכִיחֵם","Oiokichm"] - Untranslated transliteration
+Line 768: ["וַיַּקְשִׁיבוּ","Oikshibo"] - Untranslated transliteration
+
+--- ALMA CHAPTER 23 ---
+Line 815: ["יַלְקוּם","Ilkom"] - Untranslated transliteration
+Line 815: ["יִרְגְּמוּם","Irgmom"] - Untranslated transliteration
+Line 816: ["יִוָּכְחוּ","Iokcho"] - Untranslated transliteration
+Line 816: ["יִוָּכְחוּ","Iokcho"] - Untranslated transliteration
+Line 816: ["יִגְנְבוּ","Ignbo"] - Untranslated transliteration
+Line 816: ["יִנְאָפוּ","Info"] - Untranslated transliteration
+Line 817: ["וַיַּקְדִּישׁוּ","Oikdisho"] - Untranslated transliteration
+Line 827: ["מוֹשְׁבוֹתֵיהֶם","Moshbotihm"] - Untranslated transliteration
+Line 829: ["נוֹעַץ","Nots"] - Untranslated transliteration
+
+--- ALMA CHAPTER 24 ---
+Line 837: ["הֵסִיתוּם","Hsitom"] - Untranslated transliteration
+Line 843: ["וּלְהוֹכִיחֵנוּ","Olhokichno"] - Untranslated transliteration
+Line 849: ["יִכָּתְמוּ","Iktmo"] - Untranslated transliteration
+Line 850: ["הַיְּשׁוּעָה","Hishoh"] - Untranslated transliteration
+Line 852: ["יַשְׁמִידוּנוּ","Ishmidono"] - Untranslated transliteration
+Line 852: ["וְנִוָּשֵׁעַ׃","Onosh"] - Untranslated transliteration
+Line 853: ["וַיִּקְבְּרוּם","Oikbrom"] - Untranslated transliteration
+Line 854: ["בַּלּוֹת","Blot"] - Untranslated transliteration
+Line 859: ["וַיְהַלְלוּ","Oihllo"] - Untranslated transliteration
+Line 860: ["נָמַס","Nms"] - Untranslated transliteration
+Line 861: ["נִכָּווּ","Nkoo"] - Untranslated transliteration
+Line 861: ["זְרוֹעָם","Zrom"] - Untranslated transliteration
+Line 866: ["הוּאַר","Hor"] - Untranslated transliteration
+
+--- ALMA CHAPTER 25 ---
+Line 877: ["בְּתוֹרוֹת","Btorot"] - Untranslated transliteration
+Line 879: ["הֲרִיגַת","Hrigt"] - Untranslated transliteration
+Line 882: ["כִּוֵּן","Kon"] - Untranslated transliteration
+Line 883: ["יִגְרְמוּ","Igrmo"] - Untranslated transliteration
+Line 883: ["וּמֻכֶּה","Omkh"] - Untranslated transliteration
+Line 883: ["וַיֻּצָּדוּ","Oitsdo"] - Untranslated transliteration
+Line 884: ["אַנְטִי־נֶפִי־לֶחִי׃","Anti-Nephi-???"] - Contains ??? placeholder
+Line 886: ["לְבִיאָתוֹ","Lvito"] - Untranslated transliteration
+
+--- ALMA CHAPTER 26 ---
+Line 894: ["הֲיָכֹלְנוּ","Hiklno"] - Untranslated transliteration
+Line 898: ["מַגָּל","Mgl"] - Untranslated transliteration
+Line 899: ["בַסּוּפָה","Bsoph"] - Untranslated transliteration
+Line 899: ["בְבוֹא","Vvo"] - Untranslated transliteration
+Line 899: ["יִנָּדְפוּ","Indpo"] - Untranslated transliteration
+Line 899: ["עַזּוֹת","Zot"] - Untranslated transliteration
+Line 900: ["יְקִימֵם","Ikimm"] - Untranslated transliteration
+Line 902: ["זָרִים","Zrim"] - Untranslated transliteration
+Line 903: ["וַיּוֹכִיחֵנּוּ","Oiokichno"] - Untranslated transliteration
+Line 906: ["הִתִּיר","Htir"] - Untranslated transliteration
+Line 907: ["וְהִתִּיר","Ohtir"] - Untranslated transliteration
+Line 908: ["הֱבִיאָם","Hvim"] - Untranslated transliteration
+Line 911: ["בְּאֵיּוּמִים","Viomim"] - Untranslated transliteration
+Line 912: ["וַיַּדִּינֵנוּ","Oidinno"] - Untranslated transliteration
+Line 912: ["לְיֵאוּשׁ","Liosh"] - Untranslated transliteration
+Line 913: ["הֶעֱבִירָנוּ","Hvirno"] - Untranslated transliteration
+Line 915: ["וּמַפְעִיל","Omfil"] - Untranslated transliteration
+Line 915: ["סֹדוֹת","Sdot"] - Untranslated transliteration
+Line 916: ["וַיִּלְעֲגוּ","Oilgo"] - Untranslated transliteration
+Line 917: ["פּוֹשֵׁעַ","Fosh"] - Untranslated transliteration
+Line 919: ["נוֹשִׁיעַ","Noshi"] - Untranslated transliteration
+Line 922: ["גִּבְעוֹתֵיהֶם","Gvotihm"] - Untranslated transliteration
+Line 922: ["וְלֻעַגְנוּ","Olgno"] - Untranslated transliteration
+Line 922: ["וְהֻכֵּינוּ","Ohkino"] - Untranslated transliteration
+Line 922: ["בַּעֲבוֹתוֹת","Vvotot"] - Untranslated transliteration
+Line 926: ["הֲהָיְתָה","Hhith"] - Untranslated transliteration
+Line 928: ["הֲאֵין","Hin"] - Untranslated transliteration
+Line 929: ["מִיָּגוֹן","Migon"] - Untranslated transliteration
+Line 930: ["וְהוֹדָיָתִי","Ohoditi"] - Untranslated transliteration
+
+--- ALMA CHAPTER 27 ---
+Line 941: ["יַשְׁמִידוּנוּ","Ishmidono"] - Untranslated transliteration
+Line 942: ["רְדוּ","Rdo"] - Untranslated transliteration
+Line 947: ["הוֹצֵא","Hots"] - Untranslated transliteration
+Line 950: ["פֹה","Ph"] - Untranslated transliteration
+Line 950: ["שׁוּבֵנוּ","Shobno"] - Untranslated transliteration
+Line 950: ["הֲיִרְצוּ","Hirtso"] - Untranslated transliteration
+Line 958: ["נָגֵן","Ngn"] - Untranslated transliteration
+Line 959: ["מֵהוֹנָם","Mhonm"] - Untranslated transliteration
+Line 960: ["וַיּוֹדִיעוּ","Oiodio"] - Untranslated transliteration
+Line 963: ["תִקְוָתָם","Tkotm"] - Untranslated transliteration
+Line 963: ["בֻּלַּע","Vl"] - Untranslated transliteration
+
+--- ALMA CHAPTER 28 ---
+Line 975: ["בּוֹכוֹת","Bokot"] - Untranslated transliteration
+Line 976: ["צוֹם","Tsom"] - Untranslated transliteration
+Line 982: ["וְיַעַלְצוּ","Oiltso"] - Untranslated transliteration
+Line 982: ["הוּקְמוּ","Hokmo"] - Untranslated transliteration
+
+--- ALMA CHAPTER 29 ---
+Line 993: ["תַאֲוָתוֹ","Toto"] - Untranslated transliteration
+Line 993: ["יָמוּשׁוּ","Imosho"] - Untranslated transliteration
+Line 995: ["אֶתְאַוֶּה","Toh"] - Untranslated transliteration
+Line 996: ["אֶתְאַוֶּה","Toh"] - Untranslated transliteration
+Line 998: ["יַעֲשֵׂנִי","Ishni"] - Untranslated transliteration
+Line 1006: ["וִיהַלְלוּהוּ","Oihlloho"] - Untranslated transliteration
+
+--- ALMA CHAPTER 30 ---
+Line 1012: ["וַיִּקְבְּרוּ","Oikbro"] - Untranslated transliteration
+Line 1014: ["וַיַּחֲרִידוּ","Oichrido"] - Untranslated transliteration
+Line 1014: ["תְּקֻיַּם׃","Tkim"] - Untranslated transliteration
+Line 1021: ["נָאַף","Nf"] - Untranslated transliteration
+Line 1027: ["מַבִּיטִים","Mbitim"] - Untranslated transliteration
+Line 1027: ["מוֹלִיכוֹת","Molikot"] - Untranslated transliteration
+Line 1028: ["כּוֹבֵשׁ","Kobsh"] - Untranslated transliteration
+Line 1029: ["גּוֹרֵם","Gorm"] - Untranslated transliteration
+Line 1030: ["פַעַם","Fm"] - Untranslated transliteration
+Line 1031: ["וַיָּבִיאוּהוּ","Oivioho"] - Untranslated transliteration
+Line 1032: ["גָרַם","Grm"] - Untranslated transliteration
+Line 1032: ["וְכָאן","Okhn"] - Untranslated transliteration
+Line 1033: ["מְעַוֵּת","Mot"] - Untranslated transliteration
+Line 1034: ["גִּדּוֹנָה","Gdonh"] - Untranslated transliteration
+Line 1034: ["עַתִּיקִים","Tikim"] - Untranslated transliteration
+Line 1035: ["הָעַתִּיקוֹת","Htikot"] - Untranslated transliteration
+Line 1036: ["הוֹרֶה","Horh"] - Untranslated transliteration
+Line 1036: ["הוֹרָיו׃","Horio"] - Untranslated transliteration
+Line 1038: ["מוֹלִיכִים","Molikim"] - Untranslated transliteration
+Line 1038: ["תַאֲוֹתֵיכֶם","Totikhm"] - Untranslated transliteration
+Line 1038: ["בִּיגִיעַ","Vigi"] - Untranslated transliteration
+Line 1039: ["יַכְעִיסוּ","Ikhiso"] - Untranslated transliteration
+Line 1039: ["צוֹמְדִים","Tsomdim"] - Untranslated transliteration
+Line 1039: ["וַחֲלוֹמוֹתֵיהֶם","Ochlomotihm"] - Untranslated transliteration
+Line 1039: ["וְשִׁגְעוֹנוֹתֵיהֶם","Oshgonotihm"] - Untranslated transliteration
+Line 1039: ["וּמַרְאוֹתֵיהֶם","Omrotihm"] - Untranslated transliteration
+Line 1039: ["יַכְעִיסוּ","Ikhiso"] - Untranslated transliteration
+Line 1040: ["וּמְסָרוּהוּ","Omsroho"] - Untranslated transliteration
+Line 1042: ["גַאֲוָה","Goh"] - Untranslated transliteration
+Line 1042: ["בִּיגִיעַ","Vigi"] - Untranslated transliteration
+Line 1044: ["הָעֲבוֹדוֹת","Hvodot"] - Untranslated transliteration
+Line 1044: ["סֶנִין","Snin"] - Untranslated transliteration
+Line 1044: ["עֲבוֹדָתִי","Vodti"] - Untranslated transliteration
+Line 1044: ["עֵתֵנוּ׃","Tno"] - Untranslated transliteration
+Line 1046: ["מַטְעִים","Mtim"] - Untranslated transliteration
+Line 1046: ["הַגּוֹרֵם","Hgorm"] - Untranslated transliteration
+Line 1055: ["וּתְנוּעָתָהּ","Otnoth"] - Untranslated transliteration
+Line 1055: ["הַכּוֹכָבִים","Hkokbim"] - Untranslated transliteration
+Line 1056: ["מַסִּיט","Msit"] - Untranslated transliteration
+Line 1058: ["פִּיךָ","Pik"] - Untranslated transliteration
+Line 1058: ["תַטְעֶה","Tth"] - Untranslated transliteration
+Line 1059: ["תַּרְאוּנִי","Troni"] - Untranslated transliteration
+Line 1066: ["תַסִּיט","Tsit"] - Untranslated transliteration
+Line 1067: ["הוּסְרָה","Hosrh"] - Untranslated transliteration
+Line 1067: ["מִקּוֹרִיהוֹר","Mkorihor"] - Untranslated transliteration
+Line 1068: ["קָּרָה","Krh"] - Untranslated transliteration
+Line 1069: ["נוֹכְחוּ","Nokcho"] - Untranslated transliteration
+Line 1071: ["מְעַוְּתֵי","Moti"] - Untranslated transliteration
+
+--- ALMA CHAPTER 31 ---
+Line 1077: ["לֶאֱלִילִים","Llilim"] - Untranslated transliteration
+Line 1077: ["לִדְאֹב","Ldv"] - Untranslated transliteration
+Line 1082: ["עָמְנֵר","Mnr"] - Untranslated transliteration
+Line 1089: ["יָכִיל","Ikil"] - Untranslated transliteration
+Line 1090: ["כַּפָּיו","Kpio"] - Untranslated transliteration
+Line 1092: ["הוּרְדָה","Hordh"] - Untranslated transliteration
+Line 1097: ["רָמְאוּמְפְּתוֹם","Rmomftom"] - Untranslated transliteration
+Line 1099: ["הוֹדוֹת","Hodot"] - Untranslated transliteration
+Line 1100: ["וְעִקֵּשׁ","Oksh"] - Untranslated transliteration
+Line 1101: ["בְּגַאֲוָתָם׃","Vgotm"] - Untranslated transliteration
+Line 1103: ["בְּגַאֲוָתָם","Vgotm"] - Untranslated transliteration
+Line 1104: ["וְקַוְּצוֹתֵיהֶם","Okotsotihm"] - Untranslated transliteration
+Line 1104: ["יִתְעַדּוּ","Itdo"] - Untranslated transliteration
+Line 1107: ["דַּוָּי","Doi"] - Untranslated transliteration
+Line 1108: ["לַעֲמִיתַי","Lmiti"] - Untranslated transliteration
+Line 1108: ["וְזֶעְזְרוֹם","Ozzrom"] - Untranslated transliteration
+Line 1113: ["דָאֲגוּ","Dgo"] - Untranslated transliteration
+
+--- ALMA CHAPTER 32 ---
+Line 1123: ["אוֹנִידָה","Onidh"] - Untranslated transliteration
+Line 1125: ["וַיִּסֹּב","Oisb"] - Untranslated transliteration
+Line 1137: ["הֲזֹאת","Hzt"] - Untranslated transliteration
+Line 1138: ["יַעֲשֶׂנּוּ","Ishno"] - Untranslated transliteration
+Line 1146: ["חוּשֵׁיכֶם","Choshikm"] - Untranslated transliteration
+Line 1146: ["וְנַסּוּ","Onso"] - Untranslated transliteration
+Line 1147: ["לְהָאִיר","Lhir"] - Untranslated transliteration
+Line 1147: ["לֶעֱרַב","Lrv"] - Untranslated transliteration
+Line 1149: ["וְיַצְמִיחַ","Oitsmich"] - Untranslated transliteration
+Line 1152: ["נִסִּיתֶם","Nsitm"] - Untranslated transliteration
+Line 1155: ["תַּנִּיחוּ","Tnicho"] - Untranslated transliteration
+Line 1157: ["חֹם","Chm"] - Untranslated transliteration
+Line 1157: ["וְיִבַשׁ","Oibsh"] - Untranslated transliteration
+Line 1157: ["וּתְעַקְּרוּהוּ","Otkroho"] - Untranslated transliteration
+Line 1159: ["בְּקַוּוֹתְכֶם","Bkootkm"] - Untranslated transliteration
+Line 1160: ["בְּקַוּוֹתְכֶם","Bkootkm"] - Untranslated transliteration
+Line 1162: ["גְּמוּל","Gmol"] - Untranslated transliteration
+Line 1162: ["וַחֲרִיצוּתְכֶם","Ochritsotkm"] - Untranslated transliteration
+
+--- ALMA CHAPTER 33 ---
+Line 1169: ["שׁוֹגִים","Shogim"] - Untranslated transliteration
+Line 1171: ["וַתַּסֵּב","Otsb"] - Untranslated transliteration
+Line 1173: ["בֵּיתִי","Biti"] - Untranslated transliteration
+Line 1178: ["וְתָם","Otm"] - Untranslated transliteration
+Line 1178: ["הֲסִירוֹתָ","Hsirot"] - Untranslated transliteration
+Line 1180: ["הֲסִירוֹתָ","Hsirot"] - Untranslated transliteration
+Line 1182: ["זֶנוֹק","Znok"] - Untranslated transliteration
+Line 1186: ["הוּרַם","Horm"] - Untranslated transliteration
+Line 1186: ["וַיִּחְיוּ׃","Oichio"] - Untranslated transliteration
+Line 1187: ["יֵרָפְאוּ׃","Irfo"] - Untranslated transliteration
+Line 1190: ["יֵקַלּוּ","Iklo"] - Untranslated transliteration
+
+--- ALMA CHAPTER 34 ---
+Line 1198: ["וַיַּזְהִירְכֶם","Oizhirkm"] - Untranslated transliteration
+Line 1199: ["טוּבוֹ׃","Tobo"] - Untranslated transliteration
+Line 1201: ["הוֹכִיחַ","Hokich"] - Untranslated transliteration
+Line 1202: ["זֶנוֹק","Znok"] - Untranslated transliteration
+Line 1203: ["אָעִיד","Id"] - Untranslated transliteration
+Line 1208: ["יוֹד","Iod"] - Untranslated transliteration
+Line 1208: ["וְקוֹץ","Okots"] - Untranslated transliteration
+Line 1209: ["מוֹרָה","Morh"] - Untranslated transliteration
+Line 1210: ["מֵעַיִם","Mim"] - Untranslated transliteration
+Line 1210: ["וּמְבִיאִים","Omviim"] - Untranslated transliteration
+Line 1211: ["וּמַקִּיפָם","Omkipm"] - Untranslated transliteration
+Line 1211: ["לְבַעַל","Lvl"] - Untranslated transliteration
+Line 1211: ["מוּבֵאת","Movt"] - Untranslated transliteration
+Line 1214: ["וְהַתְמִידוּ","Ohtmido"] - Untranslated transliteration
+Line 1216: ["וּבָעֶרֶב׃","Ovrv"] - Untranslated transliteration
+Line 1219: ["תְּבוּאוֹת","Tvoot"] - Untranslated transliteration
+Line 1219: ["בָהֶן׃","Vhn"] - Untranslated transliteration
+Line 1220: ["יִרְבּוּ׃","Irbo"] - Untranslated transliteration
+Line 1221: ["וּבִמְקוֹמוֹת","Obmkomot"] - Untranslated transliteration
+Line 1222: ["סְבִיבוֹתֵיכֶם׃","Sbibotikm"] - Untranslated transliteration
+Line 1223: ["וַהֲרֵיתֶם","Ohritm"] - Untranslated transliteration
+Line 1223: ["הַכּוֹפְרִים","Hkoprim"] - Untranslated transliteration
+Line 1224: ["הֲרֵיתֶם","Hritm"] - Untranslated transliteration
+Line 1228: ["נֵיטִיב","Nitib"] - Untranslated transliteration
+Line 1228: ["עִתֵּנוּ","Tno"] - Untranslated transliteration
+Line 1228: ["לֵיל","Lil"] - Untranslated transliteration
+Line 1229: ["גּוּפְכֶם","Gopkm"] - Untranslated transliteration
+Line 1229: ["גּוּפְכֶם","Gopkm"] - Untranslated transliteration
+Line 1231: ["יִלְבְּנוּ","Ilbno"] - Untranslated transliteration
+Line 1233: ["תָרִיבוּ","Tribo"] - Untranslated transliteration
+Line 1233: ["בְּתוֹדָה","Btodh"] - Untranslated transliteration
+Line 1233: ["וּבִרְכוֹתָיו","Obrkotio"] - Untranslated transliteration
+Line 1233: ["יָחֹן","Ichn"] - Untranslated transliteration
+
+--- ALMA CHAPTER 35 ---
+Line 1244: ["הִתְיָעֲצוּ","Htitso"] - Untranslated transliteration
+Line 1245: ["וַיִּוָּעֲצוּ","Oiotso"] - Untranslated transliteration
+Line 1247: ["הַתּוֹמְכִים","Htomkim"] - Untranslated transliteration
+Line 1250: ["וַיָּפַח","Oipch"] - Untranslated transliteration
+Line 1250: ["וַיַּלְבִּישׁוּם","Oilbishom"] - Untranslated transliteration
+
+--- ALMA CHAPTER 36 ---
+Line 1263: ["הַטֵּה","Hth"] - Untranslated transliteration
+Line 1265: ["יִסָּמֵךְ","Ismk"] - Untranslated transliteration
+Line 1267: ["זְכוּתִי׃","Zkoti"] - Untranslated transliteration
+Line 1273: ["הֻכֵּיתִי","Hkiti"] - Untranslated transliteration
+Line 1274: ["וַיְעַנּוּנִי","Oinoni"] - Untranslated transliteration
+Line 1275: ["עֻנֵּיתִי","Niti"] - Untranslated transliteration
+Line 1277: ["וְאֶנָּדֶה","Ondh"] - Untranslated transliteration
+Line 1277: ["גוּף","Gof"] - Untranslated transliteration
+Line 1277: ["אוּבָא","Ov"] - Untranslated transliteration
+Line 1285: ["לְאֵיתָנָם","Litnm"] - Untranslated transliteration
+Line 1286: ["יִוָּלְדוּ","Ioldo"] - Untranslated transliteration
+Line 1289: ["יַצִּילֵנִי׃","Itsilni"] - Untranslated transliteration
+Line 1290: ["יְקִימֵנִי","Ikimni"] - Untranslated transliteration
+Line 1290: ["וַיְשַׁקַּע","Oishk"] - Untranslated transliteration
+
+--- ALMA CHAPTER 37 ---
+Line 1300: ["וְתוֹלְדוֹת","Otoldot"] - Untranslated transliteration
+Line 1303: ["וּפְשׁוּטִים","Opshotim"] - Untranslated transliteration
+Line 1304: ["יָבִישׁ","Ibish"] - Untranslated transliteration
+Line 1306: ["הַנֶּעֱוִים","Hnoim"] - Untranslated transliteration
+Line 1306: ["הֱבִיאוּם","Hviom"] - Untranslated transliteration
+Line 1309: ["יְדוּעָה","Idoh"] - Untranslated transliteration
+Line 1309: ["יְשָׁרוֹת","Ishrot"] - Untranslated transliteration
+Line 1309: ["וּמַעְגָּלוֹ","Omglo"] - Untranslated transliteration
+Line 1314: ["יַבְטִיחַ","Ibtich"] - Untranslated transliteration
+Line 1318: ["וּגְזֵלוֹתֵיהֶם","Ogzlotihm"] - Untranslated transliteration
+Line 1320: ["אָכִין","Khin"] - Untranslated transliteration
+Line 1320: ["תָּאִיר","Tir"] - Untranslated transliteration
+Line 1322: ["אוֹצִיא","Otsi"] - Untranslated transliteration
+Line 1324: ["וַעֲרֻבּוֹתֵיהֶם","Orvotihm"] - Untranslated transliteration
+Line 1324: ["בְּתוֹעֲבוֹת","Vtovot"] - Untranslated transliteration
+Line 1324: ["אוֹתוֹתֵיהֶם","Ototihm"] - Untranslated transliteration
+Line 1324: ["וּמוֹפְתֵיהֶם","Omoptihm"] - Untranslated transliteration
+Line 1326: ["תּוֹדִיעַ","Todi"] - Untranslated transliteration
+Line 1326: ["לְתַעֵב","Ltv"] - Untranslated transliteration
+Line 1331: ["יִיעֲפוּ","Iifo"] - Untranslated transliteration
+Line 1333: ["וּבְכׇל","Obkl"] - Untranslated transliteration
+Line 1333: ["יְכֻוְּנוּ","Ikono"] - Untranslated transliteration
+Line 1334: ["הִוָּעֵץ","Hots"] - Untranslated transliteration
+Line 1334: ["וּבְקוּמְךָ","Obkomk"] - Untranslated transliteration
+Line 1335: ["כַּדּוּר","Kdor"] - Untranslated transliteration
+Line 1335: ["לִיאַהוֹנָה","Lihonh"] - Untranslated transliteration
+Line 1335: ["הֲכִינוֹ׃","Hkino"] - Untranslated transliteration
+Line 1337: ["הַמּוֹפֵת","Hmopt"] - Untranslated transliteration
+Line 1337: ["מוֹפְתִים","Moptim"] - Untranslated transliteration
+Line 1340: ["תָבִין","Tbin"] - Untranslated transliteration
+Line 1341: ["יוֹרֶה","Iorh"] - Untranslated transliteration
+Line 1342: ["לְעֵמֶק","Lmk"] - Untranslated transliteration
+Line 1344: ["תַבִּיט","Tbit"] - Untranslated transliteration
+Line 1344: ["וֶחְיֵה","Ochih"] - Untranslated transliteration
+Line 1344: ["וֶהְיֵה","Ohih"] - Untranslated transliteration
+
+--- ALMA CHAPTER 38 ---
+Line 1350: ["הַטֵּה","Hth"] - Untranslated transliteration
+Line 1351: ["יַצִּיבוּתְךָ","Itsibotk"] - Untranslated transliteration
+Line 1351: ["בָרוּךְ","Brok"] - Untranslated transliteration
+Line 1354: ["וְצָרוֹתֶיךָ","Otsrotik"] - Untranslated transliteration
+Line 1355: ["הַמּוֹדִיעַ","Hmodi"] - Untranslated transliteration
+Line 1361: ["אַמִּיץ","Mits"] - Untranslated transliteration
+Line 1361: ["תִרְסֹן","Tirson"] - Untranslated transliteration
+Line 1361: ["תַּאֲווֹתֶיךָ","Tootikh"] - Untranslated transliteration
+Line 1361: ["תִמְנַע","Tmn"] - Untranslated transliteration
+Line 1362: ["יִשְׁמְעוּם","Ishmom"] - Untranslated transliteration
+Line 1362: ["יְהַלְלוּם","Ihllom"] - Untranslated transliteration
+Line 1363: ["הוֹדֵה","Hodh"] - Untranslated transliteration
+
+--- ALMA CHAPTER 39 ---
+Line 1370: ["יַצִּיבוּת","Itsibot"] - Untranslated transliteration
+Line 1371: ["תְּלוּנָתִי","Tlonti"] - Untranslated transliteration
+Line 1372: ["סִירוֹן","Siron"] - Untranslated transliteration
+Line 1375: ["יִקַּל","Ikl"] - Untranslated transliteration
+Line 1375: ["יִקַּל","Ikl"] - Untranslated transliteration
+Line 1378: ["וְתַעֲזֹב","Otzv"] - Untranslated transliteration
+Line 1378: ["וּגְדֹר","Ogdr"] - Untranslated transliteration
+Line 1380: ["רִיק","Rik"] - Untranslated transliteration
+Line 1380: ["הֵבֵאתָ","Hvt"] - Untranslated transliteration
+Line 1381: ["יַתְעוּ","Ito"] - Untranslated transliteration
+Line 1381: ["מֵעֲוֹנוֹתֶיךָ׃","Monotikh"] - Untranslated transliteration
+Line 1382: ["תַתְעֶה","Tth"] - Untranslated transliteration
+Line 1382: ["וְהוֹדֵה","Ohodh"] - Untranslated transliteration
+Line 1386: ["אָנִיחַ","Nich"] - Untranslated transliteration
+Line 1387: ["תִּוָּדַע","Tod"] - Untranslated transliteration
+
+--- ALMA CHAPTER 40 ---
+Line 1394: ["דּוֹאֵג","Dog"] - Untranslated transliteration
+Line 1397: ["קָבוּעַ","Kvo"] - Untranslated transliteration
+Line 1400: ["יִּהְיֶה","Ihih"] - Untranslated transliteration
+Line 1401: ["מִמּוֹעֵד","Mmod"] - Untranslated transliteration
+Line 1402: ["יִּהְיֶה","Ihih"] - Untranslated transliteration
+Line 1403: ["הַמּוֹעֲדִים","Hmodim"] - Untranslated transliteration
+Line 1405: ["יְקֻבְּלוּ","Ikblo"] - Untranslated transliteration
+Line 1405: ["דְּאָגָה","Dgh"] - Untranslated transliteration
+Line 1405: ["וְיָגוֹן׃","Oigon"] - Untranslated transliteration
+Line 1406: ["בֵּיתָם","Bitm"] - Untranslated transliteration
+Line 1409: ["הוֹוִים","Hooim"] - Untranslated transliteration
+Line 1410: ["וּמְסִירָתָן","Omsirtn"] - Untranslated transliteration
+Line 1410: ["כַּוָּנָתָהּ׃","Konth"] - Untranslated transliteration
+Line 1411: ["כַּוָּנָתָהּ","Konth"] - Untranslated transliteration
+Line 1413: ["וְעׇלוֹתוֹ","Oloto"] - Untranslated transliteration
+Line 1414: ["קָבַע","Kv"] - Untranslated transliteration
+Line 1418: ["יַזְהִירוּ","Izhiro"] - Untranslated transliteration
+Line 1419: ["וְיִמָּסְרוּ","Oimsro"] - Untranslated transliteration
+
+--- ALMA CHAPTER 42 ---
+Line 1445: ["יִמָּסֵר","Imsr"] - Untranslated transliteration
+Line 1446: ["לַהַט","Lht"] - Untranslated transliteration
+Line 1447: ["וּפֶן","Opn"] - Untranslated transliteration
+Line 1447: ["וְלַהַט","Olht"] - Untranslated transliteration
+Line 1450: ["אוֹבֵד","Ovd"] - Untranslated transliteration
+Line 1450: ["נָפוּל׃","Npol"] - Untranslated transliteration
+Line 1452: ["יִגָּאֵל","Igl"] - Untranslated transliteration
+Line 1453: ["יִגָּאֲלוּ","Iglo"] - Untranslated transliteration
+Line 1454: ["וְתַאֲוָנִיִּים","Otoniim"] - Untranslated transliteration
+Line 1454: ["וְשֵׁדִיִּים","Oshdiim"] - Untranslated transliteration
+Line 1456: ["מִרְיוֹ׃","Mrio"] - Untranslated transliteration
+Line 1459: ["קַיָּם","Kim"] - Untranslated transliteration
+Line 1460: ["עוֹלָמִית","Olmit"] - Untranslated transliteration
+Line 1463: ["הֲיִירָא","Hiir"] - Untranslated transliteration
+Line 1466: ["יִתְבַּע","Itv"] - Untranslated transliteration
+Line 1466: ["וִיקַיֵּם","Oikim"] - Untranslated transliteration
+Line 1466: ["מֵבִיאָה","Mvih"] - Untranslated transliteration
+Line 1467: ["מוּשָׁבִים","Moshbim"] - Untranslated transliteration
+Line 1468: ["נוֹשָׁעִים","Noshim"] - Untranslated transliteration
+Line 1470: ["וְהָעוֹלָמִיּוֹת","Oholmiot"] - Untranslated transliteration
+Line 1473: ["יַדְאִיגוּ","Idigo"] - Untranslated transliteration
+Line 1473: ["יַדְאִיגוּ","Idigo"] - Untranslated transliteration
+Line 1474: ["וְיוֹרִידְךָ","Oioridk"] - Untranslated transliteration
+Line 1475: ["וּבְיִשּׁוּב","Obishob"] - Untranslated transliteration
+
+--- ALMA CHAPTER 43 ---
+Line 1485: ["מִנָּה","Mnh"] - Untranslated transliteration
+Line 1486: ["יְבִיאֵם","Ivim"] - Untranslated transliteration
+Line 1487: ["יַשִּׂיג","Ishig"] - Untranslated transliteration
+Line 1489: ["יָפֵרוּ","Ipro"] - Untranslated transliteration
+Line 1494: ["אֶת־כָּל־הַפִּקּוּד","[ACC]-all-???"] - Contains ??? placeholder
+Line 1495: ["עָבִים׃","Vim"] - Untranslated transliteration
+Line 1496: ["וְקַלְּעֵיהֶם","Oklihm"] - Untranslated transliteration
+Line 1500: ["צוֹעֲדִים","Tsodim"] - Untranslated transliteration
+Line 1500: ["וַיְמַסְּרוּ","Oimsro"] - Untranslated transliteration
+Line 1505: ["כַּוָּנָתָם","Kontm"] - Untranslated transliteration
+Line 1506: ["וַיַּסְתִּירֵם","Oistirm"] - Untranslated transliteration
+Line 1507: ["בְּגֵיא","Vgi"] - Untranslated transliteration
+Line 1510: ["נָהוּג","Nhog"] - Untranslated transliteration
+Line 1512: ["עֶרְוַת","Rot"] - Untranslated transliteration
+Line 1512: ["לְפַעַם","Lfm"] - Untranslated transliteration
+Line 1512: ["וּמָגִנֵּי","Omgni"] - Untranslated transliteration
+Line 1512: ["זְרוֹעָם","Zrom"] - Untranslated transliteration
+Line 1512: ["וְכוֹבְעֵיהֶם","Okhovihm"] - Untranslated transliteration
+Line 1513: ["וּלְהַכּוֹתָם׃","Olhkotm"] - Untranslated transliteration
+Line 1515: ["וְאֹמֶץ","Omts"] - Untranslated transliteration
+Line 1516: ["בִידֵיהֶם","Bidihm"] - Untranslated transliteration
+Line 1516: ["בָקְעוּ","Vko"] - Untranslated transliteration
+Line 1516: ["וַיִּדְקְרוּ","Oidkro"] - Untranslated transliteration
+Line 1516: ["הָעַזָּה׃","Hzh"] - Untranslated transliteration
+Line 1517: ["מְעוֹרָרִים","Morrim"] - Untranslated transliteration
+Line 1519: ["הָגֵן","Hgn"] - Untranslated transliteration
+Line 1521: ["פָּנוּ","Fno"] - Untranslated transliteration
+Line 1522: ["וּבְאוֹתָהּ","Ovoth"] - Untranslated transliteration
+Line 1522: ["שָׁעָה","Shh"] - Untranslated transliteration
+
+--- ALMA CHAPTER 44 ---
+Line 1533: ["בַּעֲבוּרָהּ","Vvorh"] - Untranslated transliteration
+Line 1533: ["וְכוֹעֲסִים","Okhosim"] - Untranslated transliteration
+Line 1536: ["בְּקִיּוּם","Bkiom"] - Untranslated transliteration
+Line 1536: ["אֶת־כׇּל־אׇשְׁרֵנוּ","[ACC]-all-???"] - Contains ??? placeholder
+Line 1536: ["וּבְכׇל","Obkl"] - Untranslated transliteration
+Line 1538: ["מַכּוֹת","Mkot"] - Untranslated transliteration
+Line 1539: ["וַיִּמְסֹר","Oimsr"] - Untranslated transliteration
+Line 1539: ["נָפֵר","Nfr"] - Untranslated transliteration
+Line 1539: ["וְתֵן","Otn"] - Untranslated transliteration
+Line 1540: ["וּמָגִנֵּיכֶם","Omgnikm"] - Untranslated transliteration
+Line 1543: ["בַּיָּד","Bid"] - Untranslated transliteration
+Line 1543: ["וַיַּסַר","Oisr"] - Untranslated transliteration
+Line 1543: ["וַיִּסּוֹג","Oisog"] - Untranslated transliteration
+Line 1543: ["חַיָּלָיו׃","Chilio"] - Untranslated transliteration
+Line 1544: ["וַיּוֹשֵׁט","Oiosht"] - Untranslated transliteration
+Line 1545: ["וְתֵצְאוּ","Ottso"] - Untranslated transliteration
+Line 1549: ["הֶעָרֹם","Hrm"] - Untranslated transliteration
+Line 1553: ["וַיִּקָּבְרוּ","Oikbro"] - Untranslated transliteration
+
+--- ALMA CHAPTER 45 ---
+Line 1568: ["וְיַצְלִיחֲךָ","Oitslichk"] - Untranslated transliteration
+Line 1569: ["תוֹדִיעַ","Todi"] - Untranslated transliteration
+Line 1571: ["וּמַגֵּפוֹת","Omgpot"] - Untranslated transliteration
+Line 1571: ["רְעָבוֹן","Rvon"] - Untranslated transliteration
+Line 1574: ["יִמָּנֶה","Imnh"] - Untranslated transliteration
+Line 1576: ["יִתַּמּוּ","Itmo"] - Untranslated transliteration
+Line 1578: ["וּקְבוּרָתוֹ","Okborto"] - Untranslated transliteration
+Line 1579: ["וּקְבוּרָתוֹ׃","Okborto"] - Untranslated transliteration
+Line 1581: ["וְהַמְּהוּמוֹת","Ohmhomot"] - Untranslated transliteration
+Line 1581: ["יֻגַּד","Igd"] - Untranslated transliteration
+Line 1582: ["עַל־כָּל־הַקְּהִלּוֹת׃","upon-all-???"] - Contains ??? placeholder
+
+--- ALMA CHAPTER 46 ---
+Line 1594: ["וַיְפַתֵּם","Oiptm"] - Untranslated transliteration
+Line 1594: ["וִיקִימוּהוּ","Oikimoho"] - Untranslated transliteration
+Line 1594: ["יְשִׂימֵם","Ishimm"] - Untranslated transliteration
+Line 1595: ["וַיַּתְעֵם","Oitm"] - Untranslated transliteration
+Line 1596: ["וּבְמִרְיָבָה","Obmribh"] - Untranslated transliteration
+Line 1599: ["עֲרוּמוֹת","Romot"] - Untranslated transliteration
+Line 1601: ["וְדָתֵנוּ","Odtno"] - Untranslated transliteration
+Line 1601: ["וּדְרוֹרֵנוּ","Odrorno"] - Untranslated transliteration
+Line 1601: ["הַמּוֹט׃","Hmot"] - Untranslated transliteration
+Line 1608: ["מֵנִיף","Mnif"] - Untranslated transliteration
+Line 1609: ["וְדָתָם","Odtm"] - Untranslated transliteration
+Line 1610: ["יַעַזְבוּ","Izvo"] - Untranslated transliteration
+Line 1611: ["יַשְׁלִיכֵנוּ","Ishlikno"] - Untranslated transliteration
+Line 1612: ["נוּמָת׃","Nomt"] - Untranslated transliteration
+Line 1617: ["וְהַסָּרִים","Ohsrim"] - Untranslated transliteration
+Line 1617: ["אַמָלִיקְיָהִים׃","Mlikihim"] - Untranslated transliteration
+Line 1618: ["יַצְלִיחַ","Itslich"] - Untranslated transliteration
+Line 1619: ["וִיבִיאֵם","Oivim"] - Untranslated transliteration
+Line 1619: ["יַשִּׂיג","Ishig"] - Untranslated transliteration
+Line 1621: ["וַיַּקְדֵּם","Oikdm"] - Untranslated transliteration
+Line 1622: ["וַיּוּשְׁבוּ","Oioshbo"] - Untranslated transliteration
+Line 1625: ["נָטַע","Nt"] - Untranslated transliteration
+Line 1629: ["וַיֵּשׁ","Oish"] - Untranslated transliteration
+Line 1629: ["בְּעִתִּים","Vtim"] - Untranslated transliteration
+
+--- ALMA CHAPTER 47 ---
+Line 1640: ["אוֹנִידָה","Onidh"] - Untranslated transliteration
+Line 1640: ["לְאוֹנִידָה","Lonidh"] - Untranslated transliteration
+Line 1642: ["אַנְטִיפַּס","Ntifs"] - Untranslated transliteration
+Line 1644: ["אַנְטִיפַּס׃","Ntifs"] - Untranslated transliteration
+Line 1645: ["אַנְטִיפַּס","Ntifs"] - Untranslated transliteration
+Line 1646: ["הֵעֵז","Hz"] - Untranslated transliteration
+Line 1648: ["וְיַקִּיף","Oikif"] - Untranslated transliteration
+Line 1648: ["יִתְּנֵם","Itnm"] - Untranslated transliteration
+Line 1648: ["עַל־כָּל־הַצָּבָא׃","upon-all-???"] - Contains ??? placeholder
+Line 1649: ["יָקוּצוּ","Ikotso"] - Untranslated transliteration
+Line 1650: ["יַנִּיחַ","Inich"] - Untranslated transliteration
+Line 1651: ["יַשְׁלִים","Ishlim"] - Untranslated transliteration
+Line 1658: ["הוֹשִׁיט","Hoshit"] - Untranslated transliteration
+Line 1662: ["שׁוֹכֵב","Shokb"] - Untranslated transliteration
+Line 1662: ["יוּמָתוּ׃","Iomto"] - Untranslated transliteration
+Line 1664: ["רֹדֵף","Rdf"] - Untranslated transliteration
+Line 1665: ["קָנָה","Knh"] - Untranslated transliteration
+Line 1669: ["מְעִידָה","Midh"] - Untranslated transliteration
+Line 1670: ["הָעֲרוּמִים","Hromim"] - Untranslated transliteration
+Line 1671: ["וְהַסּוֹרְרִים","Ohsorrim"] - Untranslated transliteration
+Line 1671: ["מוּזָר","Mozr"] - Untranslated transliteration
+
+--- ALMA CHAPTER 48 ---
+Line 1679: ["וַיַּעֲוֵר","Oior"] - Untranslated transliteration
+Line 1679: ["וַיַּכְעִיסֵם","Oikhism"] - Untranslated transliteration
+Line 1688: ["בְּהוֹדוֹת","Bhodot"] - Untranslated transliteration
+Line 1691: ["יַצְלִיחֵם","Itslichm"] - Untranslated transliteration
+Line 1691: ["יַצְלִיחֵם","Itslichm"] - Untranslated transliteration
+Line 1691: ["וְיַזְהִירֵם","Oizhirm"] - Untranslated transliteration
+Line 1692: ["יוֹדִיעֵם","Iodim"] - Untranslated transliteration
+Line 1694: ["וּכִבְנֵי","Okbni"] - Untranslated transliteration
+Line 1695: ["מִמּוֹרוֹנִי","Mmoroni"] - Untranslated transliteration
+Line 1695: ["הֶאֱזִינוּ","Hzino"] - Untranslated transliteration
+Line 1698: ["בָהֶן","Vhn"] - Untranslated transliteration
+
+--- ALMA CHAPTER 49 ---
+Line 1710: ["סוֹלְלַת","Sollt"] - Untranslated transliteration
+Line 1710: ["לִירוֹת","Lirot"] - Untranslated transliteration
+Line 1712: ["עוֹרוֹת","Orot"] - Untranslated transliteration
+Line 1712: ["עָבִים","Vim"] - Untranslated transliteration
+Line 1713: ["וּבַהֲכִינָם","Obhkinm"] - Untranslated transliteration
+Line 1714: ["כְּתוֹרוֹת","Ktorot"] - Untranslated transliteration
+Line 1716: ["גּוֹרֵם","Gorm"] - Untranslated transliteration
+Line 1719: ["בָנָה","Vnh"] - Untranslated transliteration
+Line 1723: ["וַיֵּחֲתוּ","Oichto"] - Untranslated transliteration
+Line 1724: ["גֹּבַהּ","Gvh"] - Untranslated transliteration
+Line 1724: ["הוּרְמָה","Hormh"] - Untranslated transliteration
+Line 1724: ["וְעֹמֶק","Omk"] - Untranslated transliteration
+Line 1725: ["אֶת־כָּל־הַמְנַסִּים","[ACC]-all-???"] - Contains ??? placeholder
+Line 1726: ["וּבְקַלְּעֵיהֶם","Ovklihm"] - Untranslated transliteration
+Line 1728: ["בְּסוֹלְלוֹת","Bsollot"] - Untranslated transliteration
+Line 1728: ["אֶת־סוֹלְלוֹת","Tsollot"] - Untranslated transliteration
+Line 1728: ["בְּגוּפוֹת","Bgopot"] - Untranslated transliteration
+Line 1728: ["וּפְצוּעֵיהֶם׃","Oftsoihm"] - Untranslated transliteration
+Line 1729: ["תַּקִּיפָה","Tkiph"] - Untranslated transliteration
+Line 1730: ["וְכוֹבְעֵיהֶם","Okhovihm"] - Untranslated transliteration
+Line 1732: ["הֵבִיאָם","Hvim"] - Untranslated transliteration
+Line 1736: ["וּזְהִירוּתָם","Ozhirotm"] - Untranslated transliteration
+
+--- ALMA CHAPTER 50 ---
+Line 1742: ["תִּלֵּי","Tli"] - Untranslated transliteration
+Line 1743: ["הַסּוֹלְלוֹת","Hsollot"] - Untranslated transliteration
+Line 1743: ["בְּנוּיִים","Bnoiim"] - Untranslated transliteration
+Line 1744: ["יְתֵדוֹת","Itdot"] - Untranslated transliteration
+Line 1744: ["וּגְבֹהִים׃","Ogbhim"] - Untranslated transliteration
+Line 1745: ["הַיְתֵדוֹת","Hitdot"] - Untranslated transliteration
+Line 1751: ["יָגֵנּוּ","Igno"] - Untranslated transliteration
+Line 1752: ["אֶת־כָּל־מִבְצְרֵי","[ACC]-all-???"] - Contains ??? placeholder
+Line 1758: ["וּבְעִתּוֹת","Ovtot"] - Untranslated transliteration
+Line 1761: ["וּבָנֶיךָ","Obnik"] - Untranslated transliteration
+Line 1762: ["מְרִיבוֹתֵיהֶם","Mribotihm"] - Untranslated transliteration
+Line 1762: ["וּמַצּוֹתֵיהֶם","Omtsotihm"] - Untranslated transliteration
+Line 1762: ["וּזְנוּתָם","Oznotm"] - Untranslated transliteration
+Line 1766: ["וּשְׁתֵּיהֶן","Oshtihn"] - Untranslated transliteration
+Line 1767: ["תָּבְעוּ","Tvo"] - Untranslated transliteration
+Line 1767: ["וַיַּחְלִיטוּ","Oichlito"] - Untranslated transliteration
+Line 1769: ["וְיַשְׁמִידֵם׃","Oishmidm"] - Untranslated transliteration
+Line 1770: ["בְּגוּפֵי","Bgopi"] - Untranslated transliteration
+Line 1771: ["לְקִינָה","Lkinh"] - Untranslated transliteration
+Line 1771: ["וַיַּכֶּהָ","Oikh"] - Untranslated transliteration
+Line 1772: ["כַּוָּנָתָם","Kontm"] - Untranslated transliteration
+Line 1773: ["בָּעִקָּר","Vkr"] - Untranslated transliteration
+Line 1773: ["יָבִיאוּ","Ivio"] - Untranslated transliteration
+Line 1780: ["וַיֻּשַׂם","Oishm"] - Untranslated transliteration
+
+--- ALMA CHAPTER 51 ---
+Line 1792: ["דָתָם","Dtm"] - Untranslated transliteration
+Line 1794: ["וְהַתּוֹמְכִים","Ohtomkim"] - Untranslated transliteration
+Line 1794: ["וַיִּתְמְכוּ","Oitmko"] - Untranslated transliteration
+Line 1795: ["וַיָּכֵן","Oikn"] - Untranslated transliteration
+Line 1798: ["מְרִיבוֹתָם","Mribotm"] - Untranslated transliteration
+Line 1803: ["וּכְבוֹדָם","Okbodm"] - Untranslated transliteration
+Line 1803: ["וְיִתְמְכוּ","Oitmko"] - Untranslated transliteration
+Line 1804: ["וַיַּשְׁפִּילוּ","Oishpilo"] - Untranslated transliteration
+Line 1804: ["וְאַצִילוּתָם","Otsilotm"] - Untranslated transliteration
+Line 1804: ["וְהֻשְׁווּ","Ohshoo"] - Untranslated transliteration
+Line 1805: ["אַרְבַּעַת","Rvt"] - Untranslated transliteration
+Line 1806: ["הַסּוֹרְרִים","Hsorrim"] - Untranslated transliteration
+Line 1809: ["וְאֶת־כָּל־מִבְצְרֵיהֶם׃","and-[ACC]-all-???"] - Contains ??? placeholder
+Line 1810: ["וְהַנָּסִים","Ohnsim"] - Untranslated transliteration
+Line 1812: ["אָמְנֵר","Mnr"] - Untranslated transliteration
+Line 1813: ["וְכֻלָּן","Okln"] - Untranslated transliteration
+Line 1815: ["וְהִקְדִּים","Ohkdim"] - Untranslated transliteration
+Line 1817: ["תִּקְוָתוֹ","Tkoto"] - Untranslated transliteration
+Line 1819: ["וְחֹם","Ochm"] - Untranslated transliteration
+Line 1820: ["בַּלָּאט","Vlt"] - Untranslated transliteration
+Line 1820: ["כִּידוֹן","Kidon"] - Untranslated transliteration
+Line 1820: ["וַיָּמֶת","Oimt"] - Untranslated transliteration
+Line 1821: ["בַּלָּאט","Vlt"] - Untranslated transliteration
+Line 1823: ["תָּמּוּ","Tmo"] - Untranslated transliteration
+
+--- ALMA CHAPTER 52 ---
+Line 1830: ["וַיִּבָּהֵלוּ","Oibhlo"] - Untranslated transliteration
+Line 1830: ["עִם־כָּל־צְבָאָם","with-all-???"] - Contains ??? placeholder
+Line 1834: ["וּבְהָכִין","Obhkin"] - Untranslated transliteration
+Line 1836: ["בְיָדוֹ","Bido"] - Untranslated transliteration
+Line 1841: ["וּלְהַסִּיט","Olhsit"] - Untranslated transliteration
+Line 1841: ["יָצֵרוּ","Itsro"] - Untranslated transliteration
+Line 1847: ["נוֹעֲצוּ","Notso"] - Untranslated transliteration
+Line 1847: ["יַפְתּוּם","Iptom"] - Untranslated transliteration
+Line 1847: ["וְיִלְכְּדוּ","Oilkdo"] - Untranslated transliteration
+Line 1848: ["בַּמִּישׁוֹר","Bmishor"] - Untranslated transliteration
+Line 1848: ["זוֹרָמִי","Zormi"] - Untranslated transliteration
+Line 1848: ["בַּמִּישׁוֹר׃","Bmishor"] - Untranslated transliteration
+Line 1852: ["מוֹלִיךְ","Molik"] - Untranslated transliteration
+Line 1852: ["וְיִירְשׁוּהָ׃","Oiirshoh"] - Untranslated transliteration
+Line 1856: ["יַדְבִּיקֵם","Idbikm"] - Untranslated transliteration
+Line 1860: ["יַסְגִּירוּ","Isgiro"] - Untranslated transliteration
+Line 1861: ["שָׂרָם","Sherem"] - Untranslated transliteration
+Line 1861: ["זוֹרָמִי","Zormi"] - Untranslated transliteration
+Line 1865: ["וְתַסְגִּירוּם","Otsgirom"] - Untranslated transliteration
+Line 1867: ["וַיֻּקְחוּ","Oikcho"] - Untranslated transliteration
+
+--- ALMA CHAPTER 53 ---
+Line 1874: ["וַיַּכְרִיחוּם","Oikrichom"] - Untranslated transliteration
+Line 1875: ["וַיִּתְּנֶהָ","Oitnh"] - Untranslated transliteration
+Line 1877: ["מַעֲקֶה","Mkh"] - Untranslated transliteration
+Line 1877: ["מַעֲקֵה","Mkh"] - Untranslated transliteration
+Line 1877: ["גְּבוֹהָה","Gbohh"] - Untranslated transliteration
+Line 1878: ["אֶת־כָּל־כּוֹחוֹתָיו","[ACC]-all-???"] - Contains ??? placeholder
+Line 1880: ["הֶעֱסִיק","Hsik"] - Untranslated transliteration
+Line 1884: ["אוֹבְדִים","Ovdim"] - Untranslated transliteration
+Line 1886: ["וְהַתְּלָאוֹת","Ohtlot"] - Untranslated transliteration
+Line 1890: ["עֲזֹב","Zv"] - Untranslated transliteration
+Line 1892: ["לְעֵזֶר","Lzr"] - Untranslated transliteration
+Line 1893: ["וְגִבּוֹרֵי","Ogbori"] - Untranslated transliteration
+
+--- ALMA CHAPTER 54 ---
+Line 1907: ["וְתָסִיגוּ","Otsigo"] - Untranslated transliteration
+Line 1908: ["יָכֹלְתָּ","Iklt"] - Untranslated transliteration
+Line 1908: ["כָּמוֹךָ","Kmok"] - Untranslated transliteration
+Line 1908: ["וְתָסִירוּ","Otsiro"] - Untranslated transliteration
+Line 1910: ["תּוֹרִידוּ","Torido"] - Untranslated transliteration
+Line 1912: ["וִילָדָיו","Oildio"] - Untranslated transliteration
+Line 1913: ["וְטַפִּי","Otpi"] - Untranslated transliteration
+Line 1913: ["וְאֶרְדֹּף","Ordf"] - Untranslated transliteration
+Line 1919: ["יַנִּיחַ","Inich"] - Untranslated transliteration
+Line 1920: ["מֵאִיּוּמֵיכֶם׃","Miomikhm"] - Untranslated transliteration
+Line 1921: ["יָדֵנוּ","Idno"] - Untranslated transliteration
+Line 1922: ["כְּמוֹכֶם׃","Kmokm"] - Untranslated transliteration
+Line 1923: ["יוֹרִידוּ׃","Iorido"] - Untranslated transliteration
+Line 1924: ["וַיּוֹצִיאוּהוּ","Oiotsioho"] - Untranslated transliteration
+
+--- ALMA CHAPTER 55 ---
+Line 1932: ["אָמִיר","Mir"] - Untranslated transliteration
+Line 1939: ["מִיֵּינְךָ","Miink"] - Untranslated transliteration
+Line 1940: ["אֶת־יֵינֵנוּ","Tiinno"] - Untranslated transliteration
+Line 1940: ["לְתַאֲוָתָם","Ltotm"] - Untranslated transliteration
+Line 1943: ["וַיֶּעֱרַב","Oirv"] - Untranslated transliteration
+Line 1946: ["וּשְׁכוּרִים","Oshkorim"] - Untranslated transliteration
+Line 1947: ["אֶת־כָּל־הַשְּׁבוּיִים","[ACC]-all-???"] - Contains ??? placeholder
+Line 1951: ["וּלְהַקִּיף","Olhkif"] - Untranslated transliteration
+Line 1952: ["יָקִיצוּ","Ikitso"] - Untranslated transliteration
+Line 1952: ["וּשְׁבוּיֵיהֶם","Oshboiihm"] - Untranslated transliteration
+Line 1953: ["וַיְּבִיאוּם","Oiviom"] - Untranslated transliteration
+Line 1954: ["אֶת־כָּל־הַשְּׁבוּיִים","[ACC]-all-???"] - Contains ??? placeholder
+Line 1957: ["וְהִגֵּנוּ","Ohgno"] - Untranslated transliteration
+Line 1957: ["עַל־כָּל־הַשְּׁבוּיִים","upon-all-???"] - Contains ??? placeholder
+Line 1957: ["וְהַיִּתְרוֹן","Ohitron"] - Untranslated transliteration
+Line 1961: ["בְּמוֹקְשֵׁיהֶם","Bmokshihm"] - Untranslated transliteration
+Line 1962: ["יֵינָם","Iinm"] - Untranslated transliteration
+Line 1962: ["יָרְעַל","Irl"] - Untranslated transliteration
+Line 1962: ["אֶת־כָּל־מַשְׁקֵיהֶם׃","[ACC]-all-???"] - Contains ??? placeholder
+
+--- ALMA CHAPTER 56 ---
+Line 1975: ["קַיֵּם","Kim"] - Untranslated transliteration
+Line 1978: ["זוּלָתָם","Zoltm"] - Untranslated transliteration
+Line 1982: ["וַיִּרְפּוּ","Oirpo"] - Untranslated transliteration
+Line 1982: ["גוּפָם","Gopm"] - Untranslated transliteration
+Line 1984: ["צִוּוּי","Tsooi"] - Untranslated transliteration
+Line 1986: ["וַנָּכִין","Onkin"] - Untranslated transliteration
+Line 1990: ["עִם־כָּל־צְבָאָם","with-all-???"] - Contains ??? placeholder
+Line 1990: ["וְיִפֹּלוּ׃","Oiplo"] - Untranslated transliteration
+Line 1995: ["כְּמוֹלִיכִים","Kmolikim"] - Untranslated transliteration
+Line 1996: ["וַנֵּלֵךְ","Onlk"] - Untranslated transliteration
+Line 2000: ["הוּגַד","Hogd"] - Untranslated transliteration
+Line 2001: ["הוֹבַלְנוּ","Hoblno"] - Untranslated transliteration
+Line 2002: ["רוֹדֵף","Rodf"] - Untranslated transliteration
+Line 2002: ["יְשִׁירוֹת","Ishirot"] - Untranslated transliteration
+Line 2002: ["יַשִּׂיגֵם","Ishigm"] - Untranslated transliteration
+Line 2002: ["יֻקָּפוּ","Ikpo"] - Untranslated transliteration
+Line 2005: ["פָנִיתִי","Pniti"] - Untranslated transliteration
+Line 2005: ["יִמָּלְטוּ","Imlto"] - Untranslated transliteration
+Line 2012: ["יְסַפְּקוּ","Ispko"] - Untranslated transliteration
+Line 2013: ["וַיִּשְׁנוּ","Oishno"] - Untranslated transliteration
+Line 2016: ["נְבוּכִים","Nbokim"] - Untranslated transliteration
+Line 2022: ["הָעַמּוֹנִים","Hmonim"] - Untranslated transliteration
+
+--- ALMA CHAPTER 57 ---
+Line 2029: ["בָטוּחַ","Btoch"] - Untranslated transliteration
+Line 2029: ["נָמִיר","Nmir"] - Untranslated transliteration
+Line 2030: ["הֲכִינוֹנוּ","Hkinono"] - Untranslated transliteration
+Line 2033: ["הָעַמּוֹנִים","Hmonim"] - Untranslated transliteration
+Line 2033: ["גְּדוּדִי","Gdodi"] - Untranslated transliteration
+Line 2033: ["אַלְפָּיִם","Lfim"] - Untranslated transliteration
+Line 2036: ["יָשַׁנּוּ","Ishno"] - Untranslated transliteration
+Line 2036: ["וַנַּעֲמִיד","Onmid"] - Untranslated transliteration
+Line 2038: ["לִיהוּדָה","Lihodh"] - Untranslated transliteration
+Line 2043: ["וַנַּפְקִידֵם","Onpkidm"] - Untranslated transliteration
+Line 2046: ["גְּדוּד","Gdod"] - Untranslated transliteration
+Line 2046: ["אֶת־כׇּל־הַקָּמִים","[ACC]-all-???"] - Contains ??? placeholder
+Line 2049: ["לְהוֹלִיךְ","Lholik"] - Untranslated transliteration
+Line 2051: ["נוּס","Nos"] - Untranslated transliteration
+Line 2053: ["נְיַחֵס","Nichs"] - Untranslated transliteration
+Line 2060: ["מְרִיָם","Mrim"] - Untranslated transliteration
+Line 2060: ["צִוִּינוּ","Tsoino"] - Untranslated transliteration
+Line 2063: ["וָאֶמָּלֵא","Oml"] - Untranslated transliteration
+
+--- ALMA CHAPTER 58 ---
+Line 2074: ["וּמְצוּדוֹתֵיהֶם׃","Omtsodotihm"] - Untranslated transliteration
+Line 2075: ["גָּוַעְנוּ","Gono"] - Untranslated transliteration
+Line 2078: ["וּבִרְכוּשֵׁנוּ","Obrkoshno"] - Untranslated transliteration
+Line 2079: ["לִישׁוּעָתוֹ׃","Lishoto"] - Untranslated transliteration
+Line 2080: ["וּבִרְכוּשֵׁנוּ","Obrkoshno"] - Untranslated transliteration
+Line 2080: ["וּבְיַלְדֵינוּ","Obildino"] - Untranslated transliteration
+Line 2081: ["וַנַּט","Ont"] - Untranslated transliteration
+Line 2083: ["וּלְהָמִיתֵנוּ","Olhmitno"] - Untranslated transliteration
+Line 2093: ["אֶת־כָּל־צְבָאָם","[ACC]-all-???"] - Contains ??? placeholder
+Line 2094: ["יִישְׁנוּ","Iishno"] - Untranslated transliteration
+Line 2095: ["וַנַּגִּיעַ","Ongi"] - Untranslated transliteration
+Line 2100: ["וּרְכוּשׁ","Orkosh"] - Untranslated transliteration
+Line 2102: ["נוֹתֶנֶת","Notnt"] - Untranslated transliteration
+Line 2104: ["פֶּלֶג","Flg"] - Untranslated transliteration
+Line 2106: ["יוֹרְשִׁים","Iorshim"] - Untranslated transliteration
+Line 2108: ["וּמַקְפִּידִים","Omkpidim"] - Untranslated transliteration
+Line 2109: ["וְיָחֹן","Oichn"] - Untranslated transliteration
+
+--- ALMA CHAPTER 59 ---
+Line 2119: ["מֵכִין","Mkin"] - Untranslated transliteration
+Line 2120: ["וּמִסְּבִיבוֹתֶיהָ","Omsbibotih"] - Untranslated transliteration
+Line 2127: ["רְפוֹת","Rpot"] - Untranslated transliteration
+
+--- ALMA CHAPTER 60 ---
+Line 2134: ["וּלְזַיְּנָם","Olzinm"] - Untranslated transliteration
+Line 2135: ["וִיגִיעָה","Oigih"] - Untranslated transliteration
+Line 2136: ["נִלּוֹנּוּ","Nlono"] - Untranslated transliteration
+Line 2136: ["נִתְאוֹנַנּוּ׃","Ntonno"] - Untranslated transliteration
+Line 2138: ["הָעֲזִיבָה","Hzivh"] - Untranslated transliteration
+Line 2139: ["אוֹיְבֵיכֶם","Oivikhm"] - Untranslated transliteration
+Line 2142: ["אֶת־כׇּל־צַעֲקוֹתֵיהֶם","[ACC]-all-???"] - Contains ??? placeholder
+Line 2143: ["יַצִּילְכֶם","Itsilkm"] - Untranslated transliteration
+Line 2146: ["וַעֲזִיבָתָם","Ozivtm"] - Untranslated transliteration
+Line 2148: ["רִיבֵנוּ","Ribno"] - Untranslated transliteration
+Line 2148: ["דְּרוֹרֵנוּ","Drorno"] - Untranslated transliteration
+Line 2148: ["הֵרִימָם","Hrimm"] - Untranslated transliteration
+Line 2149: ["וְיוֹרְשִׁים","Oiorshim"] - Untranslated transliteration
+Line 2149: ["שׁוֹבִים","Shobim"] - Untranslated transliteration
+Line 2150: ["בּוֹגְדִים","Bogdim"] - Untranslated transliteration
+Line 2151: ["וּמוּגָנִים","Omognim"] - Untranslated transliteration
+Line 2155: ["יְטֹהַר","Ithr"] - Untranslated transliteration
+Line 2155: ["יְטֹהַר","Ithr"] - Untranslated transliteration
+Line 2157: ["תַּעֲנוּ","Tno"] - Untranslated transliteration
+Line 2157: ["וְתֵצְאוּ","Ottso"] - Untranslated transliteration
+Line 2157: ["אַשְׁאִיר","Shir"] - Untranslated transliteration
+Line 2157: ["וְאַשְׁאִיר","Oshir"] - Untranslated transliteration
+Line 2159: ["נִיצוֹץ","Nitsots"] - Untranslated transliteration
+Line 2161: ["תִּתְעוֹרְרוּ","Ttorro"] - Untranslated transliteration
+Line 2161: ["וְתִפֹּל","Otpl"] - Untranslated transliteration
+Line 2165: ["רוֹמְסִים","Romsim"] - Untranslated transliteration
+Line 2167: ["תְקַיְּמוּ","Tkimo"] - Untranslated transliteration
+
+--- ALMA CHAPTER 61 ---
+Line 2177: ["יִגְרֹם","Igrm"] - Untranslated transliteration
+Line 2177: ["מָנְעוּ","Mno"] - Untranslated transliteration
+Line 2178: ["וָאָנוּס","Onos"] - Untranslated transliteration
+Line 2179: ["נוֹהֲרִים","Nohrim"] - Untranslated transliteration
+Line 2181: ["יֻשַׂם","Ishm"] - Untranslated transliteration
+Line 2182: ["עוֹמֶדֶת","Omdt"] - Untranslated transliteration
+Line 2191: ["וְנָשִׂים","Onshim"] - Untranslated transliteration
+Line 2194: ["אֶת־כׇּל־הָעֹמְדִים","[ACC]-all-???"] - Contains ??? placeholder
+
+--- ALMA CHAPTER 62 ---
+Line 2200: ["בּוֹגֵד","Bogd"] - Untranslated transliteration
+Line 2218: ["עָזוּ","Zo"] - Untranslated transliteration
+Line 2220: ["וְסֻלָּמוֹת","Oslmot"] - Untranslated transliteration
+Line 2229: ["הִמְעִיטוּ","Hmito"] - Untranslated transliteration
+Line 2233: ["וּבַגְּבוּלוֹת","Obgbolot"] - Untranslated transliteration
+Line 2234: ["וַעֲמָלִיקְיָה","Omlikih"] - Untranslated transliteration
+Line 2235: ["וַיּוֹרֵד","Oiord"] - Untranslated transliteration
+Line 2235: ["וַיַּטֵּל","Oitl"] - Untranslated transliteration
+Line 2242: ["יְבַלֶּה","Iblh"] - Untranslated transliteration
+Line 2246: ["תִקּוּנִים","Tkonim"] - Untranslated transliteration
+Line 2246: ["וְשׁוֹפְטֵיהֶם","Oshoptihm"] - Untranslated transliteration
+Line 2248: ["רָמוּ","Rmo"] - Untranslated transliteration
+
+--- ALMA CHAPTER 63 ---
+Line 2261: ["הָגוֹת","Hgot"] - Untranslated transliteration
+Line 2261: ["וַיּוֹרִידָהּ","Oioridh"] - Untranslated transliteration
+Line 2262: ["וַיַּפְלִיגוּ","Oipligo"] - Untranslated transliteration
+Line 2262: ["וִילָדִים","Oildim"] - Untranslated transliteration
+Line 2270: ["וַיְעוֹרְרוּם","Oiorrom"] - Untranslated transliteration
+Line 2271: ["וַיֻּשְׁבוּ","Oishbo"] - Untranslated transliteration

@@ -1,0 +1,1 @@
+var fs=require("fs");var f="C:/Users/chris/Desktop/Hebrew BOM/find_translit.js";var c=fs.readFileSync(f,"utf8");console.log("writer loaded, file len:"+c.length);

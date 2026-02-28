@@ -118,7 +118,16 @@
       "Bash(\"C:\\\\Program Files\\\\nodejs\\\\node.exe\" \"C:\\\\Users\\\\chris\\\\Desktop\\\\Hebrew BOM\\\\_build_scripts\\\\debug_missing.js\")",
       "Bash(\"C:\\\\Program Files\\\\nodejs\\\\node.exe\" \"C:\\\\Users\\\\chris\\\\Desktop\\\\Hebrew BOM\\\\_build_scripts\\\\debug_chars.js\")",
       "Bash(xxd)",
-      "Bash(wc -l \"/c/Users/chris/Desktop/Hebrew BOM/_chapter_data/\"*.js)"
+      "Bash(wc -l \"/c/Users/chris/Desktop/Hebrew BOM/_chapter_data/\"*.js)",
+      "Bash(/tmp/remaining_analysis.sh:*)",
+      "Bash(chmod +x /tmp/remaining_analysis.sh)",
+      "Bash(bash /tmp/remaining_analysis.sh)",
+      "Bash(LANG=en_US.UTF-8 grep -Pn 'הא.{0,10}להה' \"/c/Users/chris/Desktop/Hebrew BOM/BOM.html\")",
+      "Bash(LANG=en_US.UTF-8 grep -n 'להה' \"/c/Users/chris/Desktop/Hebrew BOM/BOM.html\")",
+      "Bash(grep -l \"pdf\\\\|pdf-lib\\\\|column\\\\|rtl\\\\|hebrew\" \"C:\\\\Users\\\\chris\\\\Desktop\\\\Hebrew BOM\\\\_build_scripts\"/*.js)",
+      "Bash(grep -l \"pdf\\\\|PDF\" \"/c/Users/chris/Desktop/Hebrew BOM/_build_scripts\"/*.js)",
+      "Bash(set +H)",
+      "Bash(grep -o \"const [a-z0-9]*Verses = \\\\[\" \"C:\\\\Users\\\\chris\\\\Desktop\\\\Hebrew BOM/_chapter_data\"/*.js)"
     ]
   }
 }
