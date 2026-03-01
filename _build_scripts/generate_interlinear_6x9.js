@@ -48,11 +48,11 @@ const PAGE_W    = 6 * 72;        // 432pt
 const PAGE_H    = 9 * 72;        // 648pt
 const GUTTER    = 0.75 * 72;     // 54pt (inside/spine margin)
 const OUTER     = 0.5 * 72;      // 36pt (outside margin)
-const TOP_M     = 0.5 * 72;      // 36pt
-const BOT_M     = 0.25 * 72;     // 18pt
-const COL_GAP   = 0.2 * 72;      // 14.4pt
-const HEADER_H  = 14;
-const HEADER_GAP = 4;
+const TOP_M     = 0.4 * 72;      // 28.8pt
+const BOT_M     = 0.2 * 72;      // 14.4pt
+const COL_GAP   = 0.15 * 72;    // 10.8pt
+const HEADER_H  = 12;
+const HEADER_GAP = 3;
 const PAGE_NUM_H = 10;
 const CONTENT_H = PAGE_H - TOP_M - BOT_M - HEADER_H - HEADER_GAP - PAGE_NUM_H;
 const TEXT_AREA_W = PAGE_W - GUTTER - OUTER;
@@ -66,7 +66,7 @@ async function main() {
   const browser = await puppeteer.launch({
     headless: 'new',
     args: ['--no-sandbox', '--disable-setuid-sandbox', '--font-render-hinting=none'],
-    protocolTimeout: 1800000
+    protocolTimeout: 3600000
   });
 
   // ── Step 1: Extract interlinear data from BOM.html ──
@@ -220,67 +220,67 @@ body {
   color: #1a1a1a;
 }
 .bt {
-  text-align: center; font-size: 16pt; font-weight: 700;
-  padding: 10pt 0 2pt; column-span: all;
+  text-align: center; font-size: 15pt; font-weight: 700;
+  padding: 6pt 0 1pt; column-span: all;
 }
 .bt-eng {
   text-align: center; font-family: 'Crimson Pro', serif;
-  font-size: 9pt; font-weight: 600; color: #555;
-  direction: ltr; margin-bottom: 4pt; column-span: all;
+  font-size: 8pt; font-weight: 600; color: #555;
+  direction: ltr; margin-bottom: 2pt; column-span: all;
 }
 .ch {
-  text-align: center; font-size: 11pt; font-weight: 700;
-  padding: 3pt 0 2pt; border-top: 0.5pt solid #aaa;
-  border-bottom: 0.5pt solid #aaa; margin: 2pt 0;
+  text-align: center; font-size: 10pt; font-weight: 700;
+  padding: 2pt 0 1pt; border-top: 0.5pt solid #aaa;
+  border-bottom: 0.5pt solid #aaa; margin: 1pt 0;
   break-after: avoid;
 }
 .colophon {
   column-span: all;
-  margin-bottom: 4pt; padding: 3pt 6pt;
+  margin-bottom: 2pt; padding: 2pt 4pt;
   border: 0.5pt solid #bbb; border-radius: 2pt;
   background: #fafaf7; direction: rtl;
 }
-.col-v { margin-bottom: 2pt; }
+.col-v { margin-bottom: 1pt; }
 .v {
-  display: block; margin-bottom: 1.5pt;
+  display: block; margin-bottom: 0.5pt;
 }
 .vn {
   display: inline-block;
-  font-size: 7pt; font-weight: 700; color: #666;
-  margin-left: 1.5pt; vertical-align: top;
-  padding-top: 1pt;
+  font-size: 6pt; font-weight: 700; color: #666;
+  margin-left: 1pt; vertical-align: top;
+  padding-top: 0.5pt;
 }
 .wp {
   display: inline-flex; flex-direction: column;
   align-items: center;
-  margin-left: 0.5pt; margin-bottom: 1pt;
+  margin-left: 0.3pt; margin-bottom: 0pt;
   vertical-align: top;
 }
 .wh {
   font-family: 'David Libre', serif;
-  font-size: 14pt; font-weight: 700;
-  line-height: 1.1; color: #1a2744;
+  font-size: 12pt; font-weight: 700;
+  line-height: 1.05; color: #1a2744;
 }
 .we {
   font-family: 'Crimson Pro', serif;
-  font-size: 5.5pt; font-style: italic;
+  font-size: 5pt; font-style: italic;
   color: #555; direction: ltr;
-  line-height: 1.05; white-space: nowrap;
+  line-height: 1.0; white-space: nowrap;
 }
 .arr {
   display: inline-block;
   font-family: 'Crimson Pro', serif;
-  font-size: 5pt; color: #bbb;
+  font-size: 4pt; color: #bbb;
   vertical-align: bottom;
   padding-bottom: 0.5pt;
-  margin: 0 0.25pt;
+  margin: 0 0pt;
   line-height: 1;
 }
 .sof {
   font-family: 'David Libre', serif;
-  font-size: 14pt; font-weight: 700;
-  margin-right: 1pt; vertical-align: top;
-  line-height: 1.1; color: #1a2744;
+  font-size: 12pt; font-weight: 700;
+  margin-right: 0.5pt; vertical-align: top;
+  line-height: 1.05; color: #1a2744;
 }`;
 
   const pagHtml = `<!DOCTYPE html><html lang="he" dir="rtl"><head><meta charset="UTF-8">
@@ -721,31 +721,136 @@ ${pagesHtml}
   fs.writeFileSync(htmlPath, finalHtml, 'utf8');
   console.log(`  Final HTML: ${(finalHtml.length / 1024 / 1024).toFixed(1)} MB`);
 
-  // ── Step 6: Render PDF ──
-  console.log('Step 6: Rendering PDF...');
-  const pdfPage = await browser.newPage();
-  pdfPage.setDefaultTimeout(1800000);
-  console.log('  Loading HTML via setContent...');
-  await pdfPage.setContent(finalHtml, {
-    waitUntil: 'domcontentloaded', timeout: 300000
-  });
-  console.log('  Waiting for fonts + layout...');
-  await pdfPage.evaluate(() => document.fonts.ready);
-  await new Promise(r => setTimeout(r, 15000));
+  // ── Step 6: Render PDF in batches ──
+  console.log('Step 6: Rendering PDF in batches...');
+
+  const cssBlock = `@page { size: 6in 9in; margin: 0; }
+${sharedCSS}
+.page {
+  width: ${PAGE_W}pt; height: ${PAGE_H}pt;
+  padding-top: ${TOP_M}pt; padding-bottom: ${BOT_M}pt;
+  overflow: hidden; page-break-after: always;
+  display: flex; flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+.header {
+  display: flex; justify-content: space-between; flex-shrink: 0;
+  font-size: 7.5pt; color: #555; border-bottom: 0.5pt solid #999;
+  padding-bottom: 2pt; margin-bottom: ${HEADER_GAP}pt;
+  height: ${HEADER_H}pt; direction: rtl;
+}
+.h-book { font-weight: 600; }
+.h-range { font-weight: 400; }
+.content {
+  height: ${CONTENT_H}pt; flex-shrink: 0;
+  column-count: 2; column-gap: ${COL_GAP}pt; column-fill: auto;
+  column-rule: 0.5pt solid #ccc;
+  direction: rtl; overflow: hidden;
+}
+.pn {
+  flex-shrink: 0; font-size: 7.5pt; color: #555;
+  text-align: center; height: ${PAGE_NUM_H}pt;
+  padding-top: 3pt;
+}
+.fm-page {
+  width: ${PAGE_W}pt; height: ${PAGE_H}pt;
+  position: relative; overflow: hidden; page-break-after: always;
+  font-family: 'David Libre', 'David', serif; font-size: 12pt; line-height: 1.6;
+  direction: rtl; text-align: justify;
+}
+.fm-title-page {
+  display: flex; flex-direction: column; justify-content: space-between;
+  height: 100%; text-align: center;
+}
+.fm-title-top { padding-top: 40pt; }
+.fm-title-bottom { padding-bottom: 40pt; }
+.fm-main-title { font-size: 26pt; font-weight: 700; margin-bottom: 14pt; }
+.fm-subtitle { font-size: 14pt; color: #333; }
+.fm-interlinear-label {
+  font-family: 'Crimson Pro', serif; font-size: 11pt;
+  direction: ltr; margin-bottom: 16pt; color: #444;
+}
+.fm-trans-line { font-size: 12pt; margin-bottom: 6pt; }
+.fm-section-title {
+  font-size: 15pt; font-weight: 700; text-align: center;
+  margin-bottom: 10pt;
+}
+.fm-text p { margin-bottom: 6pt; text-indent: 0; }
+.fm-toc { direction: rtl; }
+.fm-toc-line {
+  display: flex; justify-content: space-between;
+  padding: 3pt 0; border-bottom: 0.5pt dotted #999;
+}`;
+
+  const fontsLink = `<link href="https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">`;
+
+  function wrapHtml(bodyContent) {
+    return `<!DOCTYPE html><html lang="he" dir="rtl"><head><meta charset="UTF-8">
+${fontsLink}
+<style>${cssBlock}</style></head><body>
+${bodyContent}
+</body></html>`;
+  }
+
+  async function renderBatchPdf(html, label) {
+    const pg = await browser.newPage();
+    pg.setDefaultTimeout(300000);
+    await pg.setContent(html, { waitUntil: 'domcontentloaded', timeout: 120000 });
+    await new Promise(r => setTimeout(r, 8000)); // let fonts + layout settle
+    const buf = await pg.pdf({
+      width: '6in', height: '9in',
+      printBackground: true, preferCSSPageSize: true,
+      displayHeaderFooter: false, margin: { top: 0, right: 0, bottom: 0, left: 0 }
+    });
+    await pg.close();
+    console.log(`    ${label}: ${buf.length} bytes`);
+    return buf;
+  }
+
+  const pdfBuffers = [];
+
+  // Batch 0: Front matter
+  if (fmHtml.trim()) {
+    console.log('  Rendering front matter...');
+    const fmBuf = await renderBatchPdf(wrapHtml(fmHtml), `Front matter (${fmPageCount} pages)`);
+    pdfBuffers.push(fmBuf);
+  }
+
+  // Body pages in batches of 50
+  const BATCH_SIZE = 50;
+  const totalBatches = Math.ceil(pages.length / BATCH_SIZE);
+  console.log(`  Rendering ${pages.length} body pages in ${totalBatches} batches...`);
+
+  for (let b = 0; b < totalBatches; b++) {
+    const start = b * BATCH_SIZE;
+    const end = Math.min(start + BATCH_SIZE, pages.length);
+    let batchHtml = '';
+    for (let i = start; i < end; i++) batchHtml += renderPageHtml(pages[i], i + 1);
+    const buf = await renderBatchPdf(wrapHtml(batchHtml), `Batch ${b + 1}/${totalBatches} (pages ${start + 1}-${end})`);
+    pdfBuffers.push(buf);
+  }
+
+  // Merge all PDFs with pdf-lib
+  console.log('  Merging PDFs...');
+  const merged = await PDFDocument.create();
+  for (const buf of pdfBuffers) {
+    const src = await PDFDocument.load(buf);
+    const copied = await merged.copyPages(src, src.getPageIndices());
+    for (const pg of copied) merged.addPage(pg);
+  }
 
   const outputPath = path.join(BASE, 'Hebrew_Interlinear_BOM_6x9.pdf');
-  await pdfPage.pdf({
-    path: outputPath, width: '6in', height: '9in',
-    printBackground: true, preferCSSPageSize: true,
-    displayHeaderFooter: false, margin: { top: 0, right: 0, bottom: 0, left: 0 }
-  });
+  const mergedBytes = await merged.save();
+  fs.writeFileSync(outputPath, mergedBytes);
 
   const stats = fs.statSync(outputPath);
+  const totalPages = fmPageCount + pages.length;
   console.log(`\nPDF: ${outputPath}`);
-  console.log(`  Pages: ${fmPageCount + pages.length} (${fmPageCount} front + ${pages.length} body)`);
+  console.log(`  Pages: ${totalPages} (${fmPageCount} front + ${pages.length} body)`);
   console.log(`  Size: ${(stats.size / 1024 / 1024).toFixed(1)} MB`);
-  if (fmPageCount + pages.length > 828) {
-    console.log(`  NOTE: ${fmPageCount + pages.length} pages exceeds KDP 6x9 limit of 828.`);
+  if (totalPages > 828) {
+    console.log(`  NOTE: ${totalPages} pages exceeds KDP 6x9 limit of 828.`);
     console.log('  PDF generated successfully. Manual trimming may be needed for KDP submission.');
   }
 
