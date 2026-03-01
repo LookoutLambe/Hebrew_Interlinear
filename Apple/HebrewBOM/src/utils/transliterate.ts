@@ -1,5 +1,6 @@
 // Comprehensive Hebrew transliteration engine
 // Ported from BOM.html _tlPointed() + transliterate()
+// Uses Pratico & Van Pelt transliteration scheme (3rd Ed.)
 
 interface Token {
   c: string;    // Hebrew consonant character
@@ -16,7 +17,6 @@ interface Segment {
   dag: boolean;
   doubled?: boolean;
   furtive?: boolean;
-  stress?: boolean;
 }
 
 // Known word transliteration dictionary
@@ -55,20 +55,24 @@ const _tlKnown: Record<string, string> = {
 };
 
 // Nikkud-aware transliteration with full Hebrew phonological rules
+// Pratico & Van Pelt transliteration scheme (3rd Ed.)
 function _tlPointed(text: string): string {
-  // Tetragrammaton
+  // Tetragrammaton: always read as Adonai
   const stripped = text.replace(/[\u0591-\u05C7]/g, '');
   if (stripped === '\u05D9\u05D4\u05D5\u05D4') return 'Adonai';
 
+  // Pratico & Van Pelt transliteration scheme (3rd Ed.)
+  // Short vowels: plain. Changeable long: macron. Hatef: breve.
   const vmap: Record<string, string> = {
-    '\u05B0':'e', '\u05B1':'\u0115', '\u05B2':'\u0103', '\u05B3':'\u014F',
-    '\u05B4':'i', '\u05B5':'e', '\u05B6':'e', '\u05B7':'a',
-    '\u05B8':'a', '\u05B9':'o', '\u05BA':'o', '\u05BB':'u',
+    '\u05B0':'\u0115', '\u05B1':'\u0115', '\u05B2':'\u0103', '\u05B3':'\u014F',
+    '\u05B4':'i', '\u05B5':'\u0113', '\u05B6':'e', '\u05B7':'a',
+    '\u05B8':'\u0101', '\u05B9':'\u014D', '\u05BA':'\u014D', '\u05BB':'u',
   };
+  // Consonants: P&VP — א/ע silent, ח=ch, ק=q
   const cmap: Record<string, string> = {
-    'א':'\u02BE','ב':'v','ג':'g','ד':'d','ה':'h','ו':'v','ז':'z','ח':'\u1E25','ט':'t',
+    'א':'','ב':'v','ג':'g','ד':'d','ה':'h','ו':'v','ז':'z','ח':'ch','ט':'t',
     'י':'y','כ':'kh','ך':'kh','ל':'l','מ':'m','ם':'m','נ':'n','ן':'n','ס':'s',
-    'ע':'\u02BF','פ':'f','ף':'f','צ':'ts','ץ':'ts','ק':'k','ר':'r','ש':'sh','ת':'t',
+    'ע':'','פ':'f','ף':'f','צ':'ts','ץ':'ts','ק':'q','ר':'r','ש':'sh','ת':'t',
   };
   const dmap: Record<string, string> = {'ב':'b','כ':'k','ך':'k','פ':'p','ף':'p'};
 
@@ -108,49 +112,63 @@ function _tlPointed(text: string): string {
     else if (tk.dag && dmap[tk.c]) c = dmap[tk.c];
     else c = cmap[tk.c] || '';
 
-    // Shuruk: vav + dagesh + no vowel = 'u'
+    // Shuruk: vav + dagesh + no vowel = û (unchangeable long, circumflex)
     if (tk.c === '\u05D5' && tk.dag && !tk.vowel) {
-      if (segments.length > 0) segments[segments.length - 1].v = 'u';
-      else segments.push({ c: '', v: 'u', ov: '', hc: tk.c, dag: false });
+      if (segments.length > 0) segments[segments.length - 1].v = '\u00FB';
+      else segments.push({ c: '', v: '\u00FB', ov: '', hc: tk.c, dag: false });
       continue;
     }
-    // Cholam male: vav with cholam
+    // Cholam male: vav with cholam = ô (unchangeable long, circumflex)
     if (tk.c === '\u05D5' && tk.vowel === '\u05B9') {
-      if (segments.length > 0) segments[segments.length - 1].v = 'o';
-      else segments.push({ c: '', v: 'o', ov: '', hc: tk.c, dag: false });
+      if (segments.length > 0) segments[segments.length - 1].v = '\u00F4';
+      else segments.push({ c: '', v: '\u00F4', ov: '', hc: tk.c, dag: false });
       continue;
     }
-    // Cholam male variant
+    // Cholam male variant: vav after cholam on prev consonant = silent
     if (tk.c === '\u05D5' && !tk.vowel && !tk.dag && t > 0 && tokens[t - 1].vowel === '\u05B9') continue;
     // Final he without vowel = silent
-    if (tk.c === '\u05D4' && isLast && !tk.vowel && !tk.dag) continue;
-    // Chiriq male
-    if (tk.c === '\u05D9' && !tk.vowel && t > 0 && tokens[t - 1].vowel === '\u05B4') continue;
-    // Tsere-yod
-    if (tk.c === '\u05D9' && !tk.vowel && t > 0 && tokens[t - 1].vowel === '\u05B5') continue;
+    if (tk.c === '\u05D4' && isLast && !tk.vowel) continue;
+    // Chiriq male: yod after chiriq = î (unchangeable long, circumflex)
+    if (tk.c === '\u05D9' && !tk.vowel && t > 0 && tokens[t - 1].vowel === '\u05B4') {
+      if (segments.length > 0) segments[segments.length - 1].v = '\u00EE';
+      continue;
+    }
+    // Tsere-yod: yod after tsere = ê (unchangeable long, circumflex)
+    if (tk.c === '\u05D9' && !tk.vowel && t > 0 && tokens[t - 1].vowel === '\u05B5') {
+      if (segments.length > 0) segments[segments.length - 1].v = '\u00EA';
+      continue;
+    }
+    // Seghol-yod: yod after seghol = ê (unchangeable long, circumflex)
+    if (tk.c === '\u05D9' && !tk.vowel && t > 0 && tokens[t - 1].vowel === '\u05B6') {
+      if (segments.length > 0) segments[segments.length - 1].v = '\u00EA';
+      continue;
+    }
 
     // Vowel
     let v = tk.vowel ? (vmap[tk.vowel] || '') : '';
     const prevVowel = t > 0 ? tokens[t - 1].vowel : '';
     const nextTok = t < len - 1 ? tokens[t + 1] : null;
 
-    // Shva rules
+    // Shva rules: nach (silent) vs na (voiced)
     if (tk.vowel === '\u05B0') {
+      // P&VP: vocal sheva = ĕ (breve), silent sheva = nothing
       if (isLast) v = '';
-      else if (tk.dag && bgdkpt.indexOf(tk.c) < 0) v = 'e';
-      else if (tk.dag && bgdkpt.indexOf(tk.c) >= 0 && t > 0 && prevVowel && prevVowel !== '\u05B0') v = 'e';
+      // Dagesh forte: shva under a doubled consonant is always na (voiced)
+      else if (tk.dag && bgdkpt.indexOf(tk.c) < 0) v = '\u0115';
+      // Dagesh forte in bgdkpt after a vowel (not word-initial) = also na
+      else if (tk.dag && bgdkpt.indexOf(tk.c) >= 0 && t > 0 && prevVowel && prevVowel !== '\u05B0') v = '\u0115';
       else if (prevVowel === '\u05B9') v = '';
       else if (prevVowel === '\u05B4') v = '';
       else if (t > 0 && tokens[t - 1].c === '\u05D5' && tokens[t - 1].dag && !tokens[t - 1].vowel) v = '';
       else if (nextTok && bgdkpt.indexOf(nextTok.c) >= 0 && nextTok.dag) v = '';
       // Sheva before final consonant with no vowel = nach (closes syllable)
-      // Standard for wayyiqtol III-ה verbs (e.g., וַיַּרְא vayyarʾ)
+      // Standard for wayyiqtol III-ה verbs (e.g., וַיַּרְא vayyar)
       else if (nextTok && (t + 1 === len - 1) && !nextTok.vowel) v = '';
-      else if (prevVowel === '\u05B0') v = 'e';
-      else v = 'e';
+      else if (prevVowel === '\u05B0') v = '\u0115';
+      else v = '\u0115';
     }
 
-    // Qamets qatan
+    // Qamets qatan: in closed syllable, qamets = 'o' (not 'ā')
     if (tk.vowel === '\u05B8' && !isLast) {
       const nxt = tokens[t + 1];
       const nxtIsLast = t + 1 === len - 1;
@@ -186,53 +204,20 @@ function _tlPointed(text: string): string {
     segments.push({ c, v, ov: tk.vowel || '', hc: tk.c, dag: !!tk.dag });
   }
 
-  // Patach furtivum
+  // Patach furtivum: final guttural (ח,ע,ה) with patach → vowel BEFORE consonant
   const gutturals = '\u05D7\u05E2\u05D4';
-  let hasFurtive = false;
   if (segments.length >= 2) {
     const last = segments[segments.length - 1];
     if (gutturals.indexOf(last.hc) >= 0 && last.ov === '\u05B7') {
       last.furtive = true;
       last.v = 'a';
-      hasFurtive = true;
     }
   }
 
-  // Determine stressed syllable
-  const syllables: number[] = [];
-  for (let s = 0; s < segments.length; s++) {
-    if (segments[s].v && !segments[s].doubled && !segments[s].furtive) syllables.push(s);
-  }
-  const syllCount = syllables.length;
-  let stressIdx = -1;
-  if (syllCount > 1) {
-    stressIdx = syllables[syllCount - 1];
-    const lastOV = segments[syllables[syllCount - 1]].ov;
-    if (syllCount === 2 && lastOV === '\u05B6') {
-      const lastSeg = segments[syllables[syllCount - 1]];
-      const isDagF = lastSeg.dag && bgdkpt.indexOf(lastSeg.hc) < 0;
-      if (!isDagF) stressIdx = syllables[0];
-    }
-    if (hasFurtive && stressIdx === segments.length - 1) {
-      stressIdx = syllables[syllCount - 1];
-    }
-  }
-
-  // Apply stress marking
-  const macron: Record<string, string> = {
-    'a': '\u0101', 'e': '\u0113', 'i': '\u012B', 'o': '\u014D', 'u': '\u016B',
-  };
-  if (stressIdx >= 0 && syllCount > 1) {
-    const sv = segments[stressIdx].v;
-    if (macron[sv]) segments[stressIdx].v = macron[sv];
-    segments[stressIdx].stress = true;
-  }
-
-  // Build result
+  // Build result (P&VP: no stress ticks; vowel marks indicate length)
   let result = '';
   for (let s = 0; s < segments.length; s++) {
     const seg = segments[s];
-    if (seg.stress && result.length > 0) result += '\u02B9';
     if (seg.furtive) {
       result += seg.v + seg.c;
     } else {
@@ -256,6 +241,7 @@ export function transliterate(heb: string): string {
   const clean = heb.replace(/[\u0591-\u05C7]/g, '');
   if (_tlKnown[clean]) return _tlKnown[clean];
 
+  // Unpointed fallback: consonants with 'a' insertion
   const cmap: Record<string, string> = {
     'א':'','ב':'v','ג':'g','ד':'d','ה':'h','ו':'v','ז':'z','ח':'ch','ט':'t',
     'י':'y','כ':'kh','ך':'kh','ל':'l','מ':'m','ם':'m','נ':'n','ן':'n',
