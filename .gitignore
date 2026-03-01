@@ -2,13 +2,8 @@ node_modules/
 nul
 .claude/
 
-# Generated PDFs and output files
-*.pdf
-*.xlsx
-_all_data.json
-_sample_data.json
-_sample_1nephi1.html
-BOM_backup_*.html
+# Generated/local output files
+_local_output/
 __pycache__/
 Scribus/
 _build_scripts/_fetch_heb_log.txt
