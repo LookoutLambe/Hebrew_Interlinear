@@ -437,6 +437,7 @@ body.hide-gloss.hide-translit .arr { display: none; }
   gap: 12px;
   flex-shrink: 1;
   overflow: hidden;
+  direction: ltr;
 }
 @media (max-width: 600px) {
   .controls-top { gap: 4px; padding: 4px 6px; font-size: 0.85em; }
@@ -1011,30 +1012,22 @@ body.dual-mode .heading-flow .word-unit { padding-bottom: 0; }
 /* Floating selection toolbar */
 /* ===== Selection Toolbar — Desktop: vertical left-side strip ===== */
 #sel-toolbar {
-  display: none;
-  position: fixed;
-  z-index: 300;
-  pointer-events: auto;
-  direction: ltr;
-}
-#sel-toolbar.visible { display: flex; flex-direction: row; align-items: flex-start; gap: 0; }
-.sel-vstrip {
-  display: flex; flex-direction: column; gap: 2px;
-  background: #1e2233; border: 1px solid var(--accent); border-radius: 10px;
+  display: none; position: fixed; z-index: 1300;
+  background: #1e2233; border: 1px solid #3a3f55; border-radius: 8px;
   padding: 6px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  flex-direction: column; gap: 4px; align-items: center;
+  pointer-events: auto; direction: ltr;
 }
-.sel-icon-btn {
-  width: 34px; height: 34px; border: none; border-radius: 6px;
-  background: transparent; color: #9a9ab0; cursor: pointer;
-  display: flex; align-items: center; justify-content: center;
-  transition: background 0.15s, color 0.15s; padding: 0;
+#sel-toolbar.visible { display: flex; }
+#sel-toolbar button {
+  background: transparent; border: none; color: #c8a84e; cursor: pointer;
+  font-size: 1.1em; padding: 6px 8px; border-radius: 4px; transition: background 0.15s;
+  width: 36px; height: 36px; display: flex; align-items: center; justify-content: center;
 }
-.sel-icon-btn:hover { background: #2a2f44; color: #c8a84e; }
-.sel-icon-btn.active { background: rgba(200,168,78,0.15); color: #c8a84e; }
+#sel-toolbar button:hover { background: #2a2f44; }
+#sel-toolbar button.active { background: #c8a84e; color: #1e2233; }
 .sel-subpanel {
-  background: #1e2233; border: 1px solid var(--accent); border-radius: 10px;
-  padding: 8px 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-  margin-left: 6px; min-width: 200px;
+  display: none; padding: 6px; border-top: 1px solid #3a3f55;
 }
 .sel-row { display: flex; align-items: center; gap: 6px; }
 .sel-label { font-size: 0.7em; color: #9a9ab0; min-width: 18px; font-family: 'Crimson Pro',serif; }
@@ -1065,13 +1058,8 @@ body.dual-mode .heading-flow .word-unit { padding-bottom: 0; }
 .sel-note-save:hover { opacity: 0.85; }
 /* Mobile: vertical two-column grid */
 @media (max-width: 600px) {
-  #sel-toolbar.visible { flex-direction: column; }
-  .sel-vstrip {
-    display: grid; grid-template-columns: 1fr 1fr;
-    border-radius: 10px; padding: 6px; gap: 4px;
-  }
-  .sel-icon-btn { width: 40px; height: 40px; }
-  .sel-subpanel { margin-left: 0; margin-top: 6px; border-radius: 8px; min-width: auto; }
+  #sel-toolbar { flex-direction: row; flex-wrap: wrap; max-width: 200px; }
+  #sel-toolbar button { width: 32px; height: 32px; font-size: 1em; }
 }
 /* Suppress iOS native selection callout */
 .word-unit { -webkit-touch-callout: none; }
@@ -1826,36 +1814,16 @@ body.dark-mode #nav-hint { background: rgba(200,200,220,0.88); color: #111; }
 
 <!-- Selection toolbar (vertical icon strip on desktop, horizontal on mobile) -->
 <div id="sel-toolbar">
-  <div class="sel-vstrip">
-    <button class="sel-icon-btn" id="sel-btn-close" onclick="_hideSelToolbar()" title="Close">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="3" x2="13" y2="13"/><line x1="13" y1="3" x2="3" y2="13"/></svg>
-    </button>
-    <button class="sel-icon-btn" id="sel-btn-highlight" onclick="selToolbarToggleColors()" title="Highlight">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M11.5 1.5l3 3-8.5 8.5H3v-3L11.5 1.5zM2 14h12v1.5H2z"/></svg>
-    </button>
-    <button class="sel-icon-btn" id="sel-btn-note" onclick="selToolbarOpenNote()" title="Note">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="1" width="12" height="14" rx="1"/><line x1="5" y1="5" x2="11" y2="5"/><line x1="5" y1="8" x2="11" y2="8"/><line x1="5" y1="11" x2="9" y2="11"/></svg>
-    </button>
-    <button class="sel-icon-btn" id="sel-btn-copy" onclick="selToolbarCopy()" title="Copy">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="5" y="5" width="9" height="9" rx="1"/><path d="M2 11V2h9"/></svg>
-    </button>
-    <button class="sel-icon-btn" id="sel-btn-share" onclick="selToolbarShare()" title="Share">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v9M4 6l4-4 4 4M2 11v3h12v-3"/></svg>
-    </button>
-    <button class="sel-icon-btn" id="sel-btn-delete" onclick="selToolbarClearAll()" title="Remove markup">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 4h10M5 4V3h6v1M6 7v5M10 7v5M4 4l1 10h6l1-10"/></svg>
-    </button>
-    <button class="sel-icon-btn" id="sel-btn-xref" onclick="selToolbarXref()" title="Cross-References">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4l8 8M12 4l-8 8"/><circle cx="4" cy="4" r="2"/><circle cx="12" cy="4" r="2"/><circle cx="4" cy="12" r="2"/><circle cx="12" cy="12" r="2"/></svg>
-    </button>
-    <button class="sel-icon-btn" id="sel-btn-glossary" onclick="_hideSelToolbar();openGlossary()" title="Root Glossary">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 2h10a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2z"/><line x1="5" y1="2" x2="5" y2="14"/></svg>
-    </button>
-    <button class="sel-icon-btn" id="sel-btn-annotations" onclick="_hideSelToolbar();openAnnotationsPanel()" title="Annotations">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 1h10v14l-5-3-5 3z"/></svg>
-    </button>
-  </div>
-  <div class="sel-subpanel" id="sel-subpanel" style="display:none">
+  <button id="sel-btn-close" onclick="_hideSelToolbar()" title="Close">✕</button>
+  <button id="sel-btn-highlight" onclick="selToolbarToggleColors()" title="Highlight">🖍</button>
+  <button id="sel-btn-note" onclick="selToolbarOpenNote()" title="Note">✎</button>
+  <button id="sel-btn-copy" onclick="selToolbarCopy()" title="Copy">📋</button>
+  <button id="sel-btn-share" onclick="selToolbarShare()" title="Share">↗</button>
+  <button id="sel-btn-delete" onclick="selToolbarClearAll()" title="Clear">🗑</button>
+  <button id="sel-btn-xref" onclick="selToolbarXref()" title="Cross-References">🔗</button>
+  <button id="sel-btn-glossary" onclick="_hideSelToolbar();openGlossary()" title="Glossary">📖</button>
+  <button id="sel-btn-annotations" onclick="_hideSelToolbar();openAnnotationsPanel()" title="Annotations">📝</button>
+  <div id="sel-subpanel" style="display:none">
     <div class="sel-row">
       <span class="sel-label">HL</span>
       <span class="sel-color" data-ann="highlight" data-color="#fff9c4" style="background:#fff9c4" onclick="selToolbarApply(this)"></span>
@@ -4131,7 +4099,7 @@ body.dark-mode #nav-hint { background: rgba(200,200,220,0.88); color: #111; }
 
 <div class="controls-top">
   <div class="nav-row">
-    <button class="nav-prev" id="nav-prev" onclick="goPrev()" disabled aria-label="Previous chapter">←</button>
+    <button class="nav-prev" id="nav-prev" onclick="goPrev()" disabled aria-label="Previous chapter">⬅️</button>
     <span class="nav-label-wrap">
       <span id="nav-label" onclick="toggleNavDropdown()">Book of Mormon ▾</span>
       <div id="nav-dropdown">
@@ -4176,16 +4144,16 @@ body.dark-mode #nav-hint { background: rgba(200,200,220,0.88); color: #111; }
         <div class="dd-chapters" id="dd-moroni"></div>
       </div>
     </span>
-    <button class="nav-next" id="nav-next" onclick="goNext()" disabled aria-label="Next chapter">→</button>
+    <button class="nav-next" id="nav-next" onclick="goNext()" disabled aria-label="Next chapter">➡️</button>
   </div>
   <div class="tools-group">
     <label><span class="label-text">Size </span><input type="range" id="sizeSlider" min="70" max="150" value="100" oninput="setSize(this.value)" aria-label="Font size"></label>
     <span style="color:#3a3f55">│</span>
-    <button id="dark-mode-toggle" onclick="toggleDarkMode()" title="Toggle dark mode" aria-label="Toggle dark mode">☽</button>
-    <button id="search-toggle" style="background:transparent;border:1px solid #3a3f55;color:#c8a84e;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:0.9em;" onclick="openSearch()" title="Search" aria-label="Search">⌕</button>
-    <button id="annotations-toggle" style="background:transparent;border:1px solid #3a3f55;color:#c8a84e;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:0.9em;" onclick="openAnnotationsPanel()" title="Annotations" aria-label="Annotations">✎</button>
-    <button id="glossary-toggle" style="background:transparent;border:1px solid #3a3f55;color:#c8a84e;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:0.9em;font-family:'David Libre',serif;" onclick="openGlossary()" title="Root Glossary" aria-label="Root glossary">שׁ</button>
-    <button id="share-toggle" style="background:transparent;border:1px solid #3a3f55;color:#c8a84e;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:0.9em;" onclick="openSharePopup()" title="Share" aria-label="Share">⤴</button>
+    <button id="dark-mode-toggle" onclick="toggleDarkMode()" title="Toggle dark mode" aria-label="Toggle dark mode">🌙</button>
+    <button id="search-toggle" style="background:transparent;border:1px solid #3a3f55;color:#c8a84e;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:0.9em;" onclick="openSearch()" title="Search" aria-label="Search">🔍</button>
+    <button id="annotations-toggle" style="background:transparent;border:1px solid #3a3f55;color:#c8a84e;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:0.9em;" onclick="openAnnotationsPanel()" title="Annotations" aria-label="Annotations">📝</button>
+    <button id="glossary-toggle" style="background:transparent;border:1px solid #3a3f55;color:#c8a84e;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:0.9em;" onclick="openGlossary()" title="Root Glossary" aria-label="Root glossary">📖</button>
+    <button id="share-toggle" style="background:transparent;border:1px solid #3a3f55;color:#c8a84e;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:0.9em;" onclick="openSharePopup()" title="Share" aria-label="Share">📤</button>
   </div>
 </div>
 
@@ -7259,7 +7227,7 @@ function toggleDarkMode() {
   document.body.classList.toggle('dark-mode');
   var isDark = document.body.classList.contains('dark-mode');
   var btn = document.getElementById('dark-mode-toggle');
-  btn.textContent = isDark ? '☀' : '☽';
+  btn.textContent = isDark ? '☀️' : '🌙';
   try { localStorage.setItem('bom-dark-mode', isDark ? '1' : '0'); } catch(e) {}
 }
 (function() {
@@ -7267,7 +7235,7 @@ function toggleDarkMode() {
   if (saved === '1') {
     document.body.classList.add('dark-mode');
     var btn = document.getElementById('dark-mode-toggle');
-    if (btn) btn.textContent = '☀';
+    if (btn) btn.textContent = '☀️';
   }
 })();
 
