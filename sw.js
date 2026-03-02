@@ -1,4 +1,4 @@
-var CACHE_NAME = 'hebrew-bom-v18';
+var CACHE_NAME = 'hebrew-bom-v19';
 
 // Use relative paths resolved from service worker scope
 var BASE = self.registration.scope;
@@ -9,7 +9,25 @@ var PRECACHE_FILES = [
   'crossrefs.js',
   'roots_glossary.js',
   'chapter_headings.js',
+  'chapter_headings_heb.js',
   'scripture_verses.js',
+  'topical_guide.js',
+  'verses/frontmatter.js',
+  'verses/1nephi.js',
+  'verses/2nephi.js',
+  'verses/jacob.js',
+  'verses/enos.js',
+  'verses/jarom.js',
+  'verses/omni.js',
+  'verses/words_of_mormon.js',
+  'verses/mosiah.js',
+  'verses/alma.js',
+  'verses/helaman.js',
+  'verses/3nephi.js',
+  'verses/4nephi.js',
+  'verses/mormon.js',
+  'verses/ether.js',
+  'verses/moroni.js',
   'icons/icon-192.png',
   'icons/icon-512.png'
 ];
