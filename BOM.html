@@ -855,58 +855,78 @@ body.dual-mode .heading-flow .word-unit { padding-bottom: 0; }
   display: none;
   position: fixed;
   z-index: 200;
-  background: #1e2233;
-  color: #e8e0d0;
-  border: 1px solid var(--accent);
+  background: #fff;
+  color: var(--ink);
+  border: 2px solid #c8a84e;
   border-radius: 8px;
-  padding: 12px 16px;
+  padding: 14px 18px;
   font-family: 'Crimson Pro', serif;
   font-size: 0.95em;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-  max-width: 340px;
-  direction: ltr;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  min-width: 180px;
+  max-width: 320px;
+  direction: rtl;
   pointer-events: auto;
 }
 #word-popup .popup-hebrew {
   font-family: 'David Libre', serif;
-  font-size: 1.8em;
-  color: var(--accent);
+  font-size: 2em;
+  font-weight: 700;
+  color: var(--ink);
   text-align: center;
   direction: rtl;
-  margin-bottom: 2px;
+  margin-bottom: 4px;
 }
 #word-popup .popup-translit {
   font-family: 'Crimson Pro', serif;
   font-style: italic;
   font-size: 1.0em;
-  color: #b0a890;
+  color: var(--ink-light);
   text-align: center;
   margin-bottom: 4px;
+  direction: ltr;
 }
 #word-popup .popup-gloss {
+  font-family: 'Crimson Pro', serif;
   font-size: 1.1em;
-  color: #fff;
+  color: var(--accent);
   text-align: center;
   margin-bottom: 8px;
   font-weight: 600;
+  direction: ltr;
 }
 #word-popup .popup-detail {
-  font-size: 0.85em;
-  color: #9a9ab0;
-  line-height: 1.4;
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.8em;
+  color: var(--ink-light);
+  line-height: 1.5;
+  direction: ltr;
 }
-#word-popup .popup-detail span { color: #c8a84e; }
+#word-popup .popup-detail span { font-weight: 600; }
+#word-popup .popup-strong { font-family: 'Crimson Pro', serif; font-size: 0.85em; color: var(--ink-light); text-align: center; margin-bottom: 4px; direction: ltr; }
+#word-popup .popup-strong a { color: var(--accent); text-decoration: none; }
+#word-popup .popup-strong a:hover { text-decoration: underline; }
 #word-popup .popup-close {
   position: absolute;
   top: 4px;
   right: 8px;
   cursor: pointer;
-  color: #666;
-  font-size: 1.2em;
+  color: #888;
+  font-size: 14px;
   padding: 8px;
 }
 .word-unit { cursor: pointer; }
 .word-unit:hover { background: rgba(200,168,78,0.06); border-radius: 4px; }
+
+/* === MOBILE POPUP ENLARGEMENT === */
+@media (max-width: 600px) {
+  #word-popup { max-width: 90vw; padding: 16px 20px; }
+  #word-popup .popup-hebrew { font-size: 2.4em !important; }
+  #word-popup .popup-translit { font-size: 1.2em !important; }
+  #word-popup .popup-gloss { font-size: 1.3em !important; }
+  #word-popup .popup-detail { font-size: 1.0em !important; }
+  #word-popup .popup-strong { font-size: 1.0em !important; }
+}
 
 /* === ANNOTATIONS (Highlight / Underline / Notes) === */
 #annotations-panel {
@@ -1800,6 +1820,7 @@ body.dark-mode #nav-hint { background: rgba(200,200,220,0.88); color: #111; }
   <div class="popup-hebrew" id="popup-hw"></div>
   <div class="popup-translit" id="popup-translit"></div>
   <div class="popup-gloss" id="popup-gl"></div>
+  <div class="popup-strong" id="popup-strong"></div>
   <div class="popup-detail" id="popup-detail"></div>
 </div>
 
@@ -4196,6 +4217,7 @@ body.dark-mode #nav-hint { background: rgba(200,200,220,0.88); color: #111; }
 <script src="chapter_headings_heb.js?v=3"></script>
 <script src="scripture_verses.js"></script>
 <script src="topical_guide.js"></script>
+<script src="../Standard Works Project/strongs_lookup.js"></script>
 <script>
 
 // CHAPTER 1 VERSES
@@ -7077,6 +7099,20 @@ document.addEventListener('keydown', function(e) {
     popupHw.textContent = hText;
     document.getElementById('popup-translit').textContent = transliterate(hText);
     popupGl.textContent = gText;
+
+    // Strong's H-number lookup
+    var popupStrong = document.getElementById('popup-strong');
+    var strongsNum = '';
+    if (window._strongsLookup) {
+      var _stripped = stripPrefixes(hText);
+      strongsNum = _strongsLookup[hText] || _strongsLookup[_stripped] || _strongsLookup[_stripNikkud(hText)] || _strongsLookup[_stripNikkud(_stripped)] || '';
+    }
+    if (strongsNum) {
+      popupStrong.innerHTML = "Strong\u2019s: <a href='https://www.blueletterbible.org/lexicon/" + strongsNum.toLowerCase() + "/wlc/0/1/' target='_blank' rel='noopener'>" + strongsNum + "</a>";
+      popupStrong.style.display = '';
+    } else {
+      popupStrong.style.display = 'none';
+    }
 
     // Show frequency: root-based total + surface form count
     var root = wordToRoot[hText] || getRoot(hText);
